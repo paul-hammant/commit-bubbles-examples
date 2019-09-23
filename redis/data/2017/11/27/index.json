@@ -1,0 +1,33 @@
+{
+  "commits": [
+    {
+      "all": 81, 
+      "who": "dvirsky@gmail.com", 
+      "when": "2017-11-27T23:18:45+02:00", 
+      "pct": 0.0, 
+      "test": 0, 
+      "testable": 68, 
+      "id": "5b7b12e38fccb92d2778eed51962be0edf8c5ec6"
+    }, 
+    {
+      "all": 444, 
+      "who": "dvirsky@gmail.com", 
+      "when": "2017-11-27T16:29:55+02:00", 
+      "pct": 27.0, 
+      "test": 118, 
+      "testable": 431, 
+      "id": "2136035e47c5c50aec07270e0c87a9e5cd5e243d"
+    }, 
+    {
+      "all": 202, 
+      "who": "itamar@redislabs.com", 
+      "when": "2017-11-27T17:57:44+02:00", 
+      "pct": 0.0, 
+      "test": 0, 
+      "testable": 202, 
+      "id": "59d52f7fabb48c3a6ebaac869ce3d6e5f3dc704f"
+    }
+  ], 
+  "description": "Redis (unstable branch)", 
+  "baseURL": "https://github.com/antirez/redis/commit/"
+}

@@ -1,0 +1,8 @@
+description: Redis (unstable branch)
+base-diff-url: https://github.com/antirez/redis/commit/
+write-json-diffs: false
+testable-file-suffixes: 
+- .c
+- .tcl
+- .h
+- .sh
