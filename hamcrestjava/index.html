@@ -129,8 +129,8 @@
                     <text x="320" y="380">ID: {{selected.commit.id}} <a target="_blank" :href="baseURL + selected.commit.id">🔗</a></text>
                     <text x="320" y="430">Author: {{selected.commit.who}}</text>
                     <text x="320" y="480">Date/Time: {{selected.commit.when | date2}}</text>
-                    <text x="320" y="530">Change size: {{selected.commit.testable}} (testable), {{selected.commit.all}} (all)</text>
-                    <text x="320" y="580">Test Percentage: {{selected.commit.pct}}%</text>
+                    <text x="320" y="530">Lines of code: {{selected.commit.test}} test, {{selected.commit.testable}} testable, {{selected.commit.all}} all</text>
+                    <text x="320" y="580">Test Percentage: {{selected.commit.pct}}% (test/testable)</text>
                 </g>
             </template>
         </svg>
