@@ -1,15 +1,51 @@
 {
   "commits": [
     {
-      "all": 474, 
-      "who": "antirez@gmail.com", 
-      "when": "2013-01-24T16:20:53+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 474, 
-      "id": "da04e6ed44bf80c5e2fe282522f924e8f55921cb"
+      "id": "da04e6ed44bf80c5e2fe282522f924e8f55921cb",
+      "who": "antirez@gmail.com",
+      "when": "2013-01-24T16:20:53+01:00",
+      "all": 620,
+      "test": 0,
+      "testable": 620,
+      "pct": 0.0
+    },
+    {
+      "id": "8766e81079dd4e26b0f5e1b04b8fc319b8d13eb7",
+      "who": "antirez@gmail.com",
+      "when": "2013-01-24T11:27:10+01:00",
+      "all": 79,
+      "test": 0,
+      "testable": 79,
+      "pct": 0.0
+    },
+    {
+      "id": "2d20e68fe492b65fcf36af070b9701a9009e57f0",
+      "who": "antirez@gmail.com",
+      "when": "2013-01-24T11:24:40+01:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "1154283577e94eb487df725196e17847ae684497",
+      "who": "bugs@bergstroem.nu",
+      "when": "2013-01-24T09:37:18+11:00",
+      "all": 38,
+      "test": 38,
+      "testable": 38,
+      "pct": 100.0
+    },
+    {
+      "id": "acb046773d5fe08f4c457c25e8a3eb71bb398d08",
+      "who": "bugs@bergstroem.nu",
+      "when": "2013-01-24T09:36:59+11:00",
+      "all": 10,
+      "test": 10,
+      "testable": 10,
+      "pct": 100.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

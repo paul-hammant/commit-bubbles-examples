@@ -1,60 +1,78 @@
 {
   "commits": [
     {
-      "all": 74, 
-      "who": "artix2@gmail.com", 
-      "when": "2018-01-31T19:25:02+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 74, 
-      "id": "b3e0ca3412edbed27f07e2cd5f62b1506c013029"
-    }, 
+      "id": "b3e0ca3412edbed27f07e2cd5f62b1506c013029",
+      "who": "artix2@gmail.com",
+      "when": "2018-01-31T19:25:02+01:00",
+      "all": 112,
+      "test": 0,
+      "testable": 112,
+      "pct": 0.0
+    },
     {
-      "all": 179, 
-      "who": "artix2@gmail.com", 
-      "when": "2018-01-31T17:57:16+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 179, 
-      "id": "8c7ad80f9f9c916620873bf8e52f18b51ce9208c"
-    }, 
+      "id": "8c7ad80f9f9c916620873bf8e52f18b51ce9208c",
+      "who": "artix2@gmail.com",
+      "when": "2018-01-31T17:57:16+01:00",
+      "all": 248,
+      "test": 0,
+      "testable": 248,
+      "pct": 0.0
+    },
     {
-      "all": 1365, 
-      "who": "artix2@gmail.com", 
-      "when": "2018-01-31T16:26:21+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 1357, 
-      "id": "486c7af7b8c75d76df4cf9ea2571d4e5a6e000c3"
-    }, 
+      "id": "486c7af7b8c75d76df4cf9ea2571d4e5a6e000c3",
+      "who": "artix2@gmail.com",
+      "when": "2018-01-31T16:26:21+01:00",
+      "all": 1415,
+      "test": 0,
+      "testable": 1405,
+      "pct": 0.0
+    },
     {
-      "all": 74, 
-      "who": "artix2@gmail.com", 
-      "when": "2018-01-31T19:25:02+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 74, 
-      "id": "d38045805d45a1b990f38d7c2c2edabb9912f711"
-    }, 
+      "id": "db7a5f23b4674224c26628d419e8ca0919a692d9",
+      "who": "antirez@gmail.com",
+      "when": "2018-01-31T17:06:32+01:00",
+      "all": 64,
+      "test": 0,
+      "testable": 64,
+      "pct": 0.0
+    },
     {
-      "all": 179, 
-      "who": "artix2@gmail.com", 
-      "when": "2018-01-31T17:57:16+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 179, 
-      "id": "74dcd14d1333bc312703de5ba143f41d6973815d"
-    }, 
+      "id": "8fb6048ed02881df0960c36b28a8c1634ade448e",
+      "who": "antirez@gmail.com",
+      "when": "2018-01-31T12:05:04+01:00",
+      "all": 89,
+      "test": 0,
+      "testable": 89,
+      "pct": 0.0
+    },
     {
-      "all": 1365, 
-      "who": "artix2@gmail.com", 
-      "when": "2018-01-31T16:26:21+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 1357, 
-      "id": "bafdc1a56cbb8c56b28d144789e986c3598ee5c7"
+      "id": "d38045805d45a1b990f38d7c2c2edabb9912f711",
+      "who": "artix2@gmail.com",
+      "when": "2018-01-31T19:25:02+01:00",
+      "all": 112,
+      "test": 0,
+      "testable": 112,
+      "pct": 0.0
+    },
+    {
+      "id": "74dcd14d1333bc312703de5ba143f41d6973815d",
+      "who": "artix2@gmail.com",
+      "when": "2018-01-31T17:57:16+01:00",
+      "all": 248,
+      "test": 0,
+      "testable": 248,
+      "pct": 0.0
+    },
+    {
+      "id": "bafdc1a56cbb8c56b28d144789e986c3598ee5c7",
+      "who": "artix2@gmail.com",
+      "when": "2018-01-31T16:26:21+01:00",
+      "all": 1415,
+      "test": 0,
+      "testable": 1405,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

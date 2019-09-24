@@ -1,15 +1,15 @@
 {
   "commits": [
     {
-      "all": 0, 
-      "who": "krzysztof.filipek@intel.com", 
-      "when": "2018-05-06T20:18:48+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "fd9177dd33de2bc8fddf1d304b7b5810d98c2a1d"
+      "id": "fd9177dd33de2bc8fddf1d304b7b5810d98c2a1d",
+      "who": "krzysztof.filipek@intel.com",
+      "when": "2018-05-06T20:18:48+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

@@ -1,13 +1,22 @@
 {
   "commits": [
     {
-      "all": 219, 
+      "all": 291, 
       "who": "joe.walnes", 
       "when": "2007-05-23T22:00:08+00:00", 
-      "pct": 36.0, 
-      "test": 75, 
-      "testable": 204, 
+      "pct": 47.0, 
+      "test": 130, 
+      "testable": 272, 
       "id": "03e35716065045b802ca056baf97819c969e2b5c"
+    }, 
+    {
+      "all": 38, 
+      "who": "joe.walnes", 
+      "when": "2007-05-23T13:13:03+00:00", 
+      "pct": 0.0, 
+      "test": 0, 
+      "testable": 38, 
+      "id": "860181ffe43b01c6512de71a0b1b608e623db302"
     }
   ], 
   "description": "Hamcrest Java (master branch)", 

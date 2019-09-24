@@ -1,24 +1,24 @@
 {
   "commits": [
     {
-      "all": 1194, 
-      "who": "joe@truemesh.com", 
-      "when": "2004-08-14T15:22:43+00:00", 
-      "pct": 17.0, 
-      "test": 202, 
-      "testable": 1176, 
-      "id": "305724a38ddb9837e597420da77bb3384092fb59"
-    }, 
+      "id": "305724a38ddb9837e597420da77bb3384092fb59",
+      "who": "joe@truemesh.com",
+      "when": "2004-08-14T15:22:43+00:00",
+      "all": 1214,
+      "test": 204,
+      "testable": 1182,
+      "pct": 17.3
+    },
     {
-      "all": 484, 
-      "who": "joe@truemesh.com", 
-      "when": "2004-08-14T07:23:39+00:00", 
-      "pct": 37.0, 
-      "test": 179, 
-      "testable": 480, 
-      "id": "82c41f877e6da4ff28e12c40efd2f101ba44c424"
+      "id": "82c41f877e6da4ff28e12c40efd2f101ba44c424",
+      "who": "joe@truemesh.com",
+      "when": "2004-08-14T07:23:39+00:00",
+      "all": 527,
+      "test": 195,
+      "testable": 521,
+      "pct": 37.4
     }
-  ], 
-  "description": "XStream (master branch)", 
+  ],
+  "description": "XStream (master branch)",
   "baseURL": "https://github.com/x-stream/xstream/commit/"
 }

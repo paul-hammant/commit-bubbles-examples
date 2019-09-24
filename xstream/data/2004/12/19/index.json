@@ -1,15 +1,42 @@
 {
   "commits": [
     {
-      "all": 154, 
-      "who": "mauro.talevi@aquilonia.org", 
-      "when": "2004-12-19T18:31:20+00:00", 
-      "pct": 3.0, 
-      "test": 6, 
-      "testable": 154, 
-      "id": "572c4be384d0385d08dbe43a9752c4ac653deac2"
+      "id": "572c4be384d0385d08dbe43a9752c4ac653deac2",
+      "who": "mauro.talevi@aquilonia.org",
+      "when": "2004-12-19T18:31:20+00:00",
+      "all": 218,
+      "test": 60,
+      "testable": 218,
+      "pct": 27.5
+    },
+    {
+      "id": "3d1132755e6ecb5e97b00a76f25af840b2882d39",
+      "who": "mauro.talevi@aquilonia.org",
+      "when": "2004-12-19T16:42:23+00:00",
+      "all": 45,
+      "test": 45,
+      "testable": 45,
+      "pct": 100.0
+    },
+    {
+      "id": "517fa2bb61e9dc3aedbc7280ea63c9533b7ccb36",
+      "who": "mauro.talevi@aquilonia.org",
+      "when": "2004-12-19T14:55:43+00:00",
+      "all": 10,
+      "test": 10,
+      "testable": 10,
+      "pct": 100.0
+    },
+    {
+      "id": "6d4632e9273fd04216166f2c64d81ba7cb5b3e22",
+      "who": "mauro.talevi@aquilonia.org",
+      "when": "2004-12-19T14:54:12+00:00",
+      "all": 31,
+      "test": 0,
+      "testable": 31,
+      "pct": 0.0
     }
-  ], 
-  "description": "XStream (master branch)", 
+  ],
+  "description": "XStream (master branch)",
   "baseURL": "https://github.com/x-stream/xstream/commit/"
 }

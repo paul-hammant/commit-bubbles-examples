@@ -1,24 +1,60 @@
 {
   "commits": [
     {
-      "all": 154, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2006-02-15T23:34:41+00:00", 
-      "pct": 57.0, 
-      "test": 89, 
-      "testable": 154, 
-      "id": "0ec2dc07b097f54146d2c716ff10e9213f7bdfec"
-    }, 
+      "id": "0ec2dc07b097f54146d2c716ff10e9213f7bdfec",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-02-15T23:34:41+00:00",
+      "all": 232,
+      "test": 159,
+      "testable": 232,
+      "pct": 68.5
+    },
     {
-      "all": 656, 
-      "who": "mauro.talevi@aquilonia.org", 
-      "when": "2006-02-15T09:42:19+00:00", 
-      "pct": 4.0, 
-      "test": 28, 
-      "testable": 656, 
-      "id": "65dee4538b7330ae15fc1972c34a0844199559f8"
+      "id": "639d4f03a13cbbe169cd3238054661eb5eddc50e",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-02-15T21:42:01+00:00",
+      "all": 27,
+      "test": 27,
+      "testable": 27,
+      "pct": 100.0
+    },
+    {
+      "id": "613940cd24596b63f7b97df4c96edc75177f4dd8",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-02-15T21:39:36+00:00",
+      "all": 29,
+      "test": 0,
+      "testable": 29,
+      "pct": 0.0
+    },
+    {
+      "id": "ec270a55afe0cb5582f4a761ad453d183fdfb29a",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-02-15T21:31:57+00:00",
+      "all": 68,
+      "test": 43,
+      "testable": 68,
+      "pct": 63.2
+    },
+    {
+      "id": "5d27e1b8bda79796cc5905f998eb7d80bd204306",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-02-15T18:42:46+00:00",
+      "all": 39,
+      "test": 30,
+      "testable": 39,
+      "pct": 76.9
+    },
+    {
+      "id": "65dee4538b7330ae15fc1972c34a0844199559f8",
+      "who": "mauro.talevi@aquilonia.org",
+      "when": "2006-02-15T09:42:19+00:00",
+      "all": 734,
+      "test": 47,
+      "testable": 734,
+      "pct": 6.4
     }
-  ], 
-  "description": "XStream (master branch)", 
+  ],
+  "description": "XStream (master branch)",
   "baseURL": "https://github.com/x-stream/xstream/commit/"
 }

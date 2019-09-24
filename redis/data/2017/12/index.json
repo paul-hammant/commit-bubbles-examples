@@ -1,69 +1,474 @@
 {
   "commits": [
     {
-      "all": 196, 
-      "who": "dvirsky@gmail.com", 
-      "when": "2017-12-07T17:19:04+02:00", 
-      "pct": 100.0, 
-      "test": 196, 
-      "testable": 196, 
-      "id": "613831f82023601df874b9cfa9a1935ff942ceb6"
-    }, 
+      "id": "613831f82023601df874b9cfa9a1935ff942ceb6",
+      "who": "dvirsky@gmail.com",
+      "when": "2017-12-07T17:19:04+02:00",
+      "all": 260,
+      "test": 260,
+      "testable": 260,
+      "pct": 100.0
+    },
     {
-      "all": 51, 
-      "who": "oran@redislabs.com", 
-      "when": "2017-12-29T12:43:48+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 51, 
-      "id": "b509a14c3e8a76aadd6bd48296cafb4616be25e2"
-    }, 
+      "id": "f27a64232e59e5bc5f8ee648b3610d19128ab149",
+      "who": "dvirsky@gmail.com",
+      "when": "2017-12-07T17:15:16+02:00",
+      "all": 55,
+      "test": 0,
+      "testable": 55,
+      "pct": 0.0
+    },
     {
-      "all": 145, 
-      "who": "oran@redislabs.com", 
-      "when": "2017-12-21T11:10:48+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 145, 
-      "id": "60a4f12f8b998c44dfff0e88202b01598287390d"
-    }, 
+      "id": "3aab12414f27685bf8e9dc9fd4693c8c9ecf9ccb",
+      "who": "dvirsky@gmail.com",
+      "when": "2017-12-07T16:55:46+02:00",
+      "all": 50,
+      "test": 0,
+      "testable": 50,
+      "pct": 0.0
+    },
     {
-      "all": 68, 
-      "who": "antirez@gmail.com", 
-      "when": "2017-12-22T10:45:31+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 68, 
-      "id": "cbe9d725a727d438983c88f67b32bb98115e38dc"
-    }, 
+      "id": "1b8eec3e53b1bf0648084747df87bcd73f26029c",
+      "who": "zhaozhao.zz@alibaba-inc.com",
+      "when": "2017-12-21T14:55:27+08:00",
+      "all": 25,
+      "test": 0,
+      "testable": 25,
+      "pct": 0.0
+    },
     {
-      "all": 302, 
-      "who": "antirez@gmail.com", 
-      "when": "2017-12-06T12:05:11+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 302, 
-      "id": "522760fac79536eb68dc5fc70e9166f689eb76dc"
-    }, 
+      "id": "b509a14c3e8a76aadd6bd48296cafb4616be25e2",
+      "who": "oran@redislabs.com",
+      "when": "2017-12-29T12:43:48+02:00",
+      "all": 77,
+      "test": 0,
+      "testable": 77,
+      "pct": 0.0
+    },
     {
-      "all": 4618, 
-      "who": "itamar@redislabs.com", 
-      "when": "2017-12-05T18:14:59+02:00", 
-      "pct": 7.0, 
-      "test": 350, 
-      "testable": 4563, 
-      "id": "8b51121998bd5b0f3f4992548ad5f4a929c2a9d7"
-    }, 
+      "id": "60a4f12f8b998c44dfff0e88202b01598287390d",
+      "who": "oran@redislabs.com",
+      "when": "2017-12-21T11:10:48+02:00",
+      "all": 258,
+      "test": 0,
+      "testable": 258,
+      "pct": 0.0
+    },
     {
-      "all": 152, 
-      "who": "antirez@gmail.com", 
-      "when": "2017-12-04T11:25:20+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 152, 
-      "id": "60d26acfc8bd4a4367d60b3a8b74af4031171fd6"
+      "id": "0b561883b48db76a78497b1bebfd9367c80e2d96",
+      "who": "antirez@gmail.com",
+      "when": "2017-12-22T11:26:31+01:00",
+      "all": 19,
+      "test": 0,
+      "testable": 19,
+      "pct": 0.0
+    },
+    {
+      "id": "27b81f3fbca03c1d61e6b183317d90bc3dec119b",
+      "who": "antirez@gmail.com",
+      "when": "2017-12-22T11:01:19+01:00",
+      "all": 45,
+      "test": 0,
+      "testable": 45,
+      "pct": 0.0
+    },
+    {
+      "id": "cbe9d725a727d438983c88f67b32bb98115e38dc",
+      "who": "antirez@gmail.com",
+      "when": "2017-12-22T10:45:31+01:00",
+      "all": 123,
+      "test": 0,
+      "testable": 123,
+      "pct": 0.0
+    },
+    {
+      "id": "365e6c45ea0d5d9d72ac18b1df729f536c1fa0a1",
+      "who": "hqin6@163.com",
+      "when": "2017-12-18T17:59:03+08:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "d49bfc40808652389e3e3c3a0db3667153c3c14f",
+      "who": "itamar@redislabs.com",
+      "when": "2017-12-15T21:21:12+02:00",
+      "all": 16,
+      "test": 0,
+      "testable": 16,
+      "pct": 0.0
+    },
+    {
+      "id": "7820377d0084ac400345047ab67c0752e98897d8",
+      "who": "itamar@redislabs.com",
+      "when": "2017-12-15T21:19:41+02:00",
+      "all": 18,
+      "test": 0,
+      "testable": 18,
+      "pct": 0.0
+    },
+    {
+      "id": "238c9bd0863e713f018587e79f452ade845bee91",
+      "who": "antirez@gmail.com",
+      "when": "2017-12-15T12:41:02+01:00",
+      "all": 32,
+      "test": 0,
+      "testable": 32,
+      "pct": 0.0
+    },
+    {
+      "id": "ee724cac491c6e6f4ee3c9b91be482f163e6d12c",
+      "who": "hqin6@163.com",
+      "when": "2017-12-15T11:06:58+08:00",
+      "all": 32,
+      "test": 0,
+      "testable": 32,
+      "pct": 0.0
+    },
+    {
+      "id": "d745e8dfb3c8448a7a8dd1bbe1bc739a1b04bdcd",
+      "who": "antirez@gmail.com",
+      "when": "2017-12-14T22:14:45+01:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "398b2084af067ae4d669e0ce5a63d3bc89c639d3",
+      "who": "antirez@gmail.com",
+      "when": "2017-12-14T12:21:32+01:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "12e65a424c209bd922dc742f396f1b76bc6350d9",
+      "who": "antirez@gmail.com",
+      "when": "2017-12-14T12:19:30+01:00",
+      "all": 26,
+      "test": 0,
+      "testable": 26,
+      "pct": 0.0
+    },
+    {
+      "id": "5182dcd6452ba3f03196124bcccfa8f80dd61fd1",
+      "who": "antirez@gmail.com",
+      "when": "2017-12-14T12:15:46+01:00",
+      "all": 46,
+      "test": 0,
+      "testable": 46,
+      "pct": 0.0
+    },
+    {
+      "id": "77653ebe8a7dc2a673364711f31ff8736f80832c",
+      "who": "tomasz@poradowski.net",
+      "when": "2017-12-13T23:49:41+01:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "de276b6a439179b3cd0c94df82729cae8ab1cb9a",
+      "who": "antirez@gmail.com",
+      "when": "2017-12-13T13:35:59+01:00",
+      "all": 11,
+      "test": 0,
+      "testable": 11,
+      "pct": 0.0
+    },
+    {
+      "id": "f43eb5adcfa3be6368f116656348a29f22f580eb",
+      "who": "thomas@chauchefoin.fr",
+      "when": "2017-12-12T01:25:03+01:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "4317e2131f4355046fd44141c8b6515b81dc79c0",
+      "who": "itamar@redislabs.com",
+      "when": "2017-12-10T17:54:56+02:00",
+      "all": 42,
+      "test": 0,
+      "testable": 42,
+      "pct": 0.0
+    },
+    {
+      "id": "109ee497be24906e7931d33b71e3a6e78c5de77b",
+      "who": "zhaozhao.zz@alibaba-inc.com",
+      "when": "2017-12-08T16:09:27+08:00",
+      "all": 18,
+      "test": 0,
+      "testable": 18,
+      "pct": 0.0
+    },
+    {
+      "id": "e8901b2fe489013b17e943d2721f961a50bda07c",
+      "who": "zhaozhao.zz@alibaba-inc.com",
+      "when": "2017-12-08T15:37:08+08:00",
+      "all": 82,
+      "test": 0,
+      "testable": 82,
+      "pct": 0.0
+    },
+    {
+      "id": "522760fac79536eb68dc5fc70e9166f689eb76dc",
+      "who": "antirez@gmail.com",
+      "when": "2017-12-06T12:05:11+01:00",
+      "all": 366,
+      "test": 0,
+      "testable": 366,
+      "pct": 0.0
+    },
+    {
+      "id": "482d678e95c4d7e5754691799b04a2ae433a9479",
+      "who": "itamar@redislabs.com",
+      "when": "2017-12-05T19:09:19+02:00",
+      "all": 14,
+      "test": 0,
+      "testable": 14,
+      "pct": 0.0
+    },
+    {
+      "id": "b23c8babedfc61dc75032596c1e3d425cb9276ad",
+      "who": "itamar@redislabs.com",
+      "when": "2017-12-05T18:17:14+02:00",
+      "all": 23,
+      "test": 0,
+      "testable": 23,
+      "pct": 0.0
+    },
+    {
+      "id": "8b51121998bd5b0f3f4992548ad5f4a929c2a9d7",
+      "who": "itamar@redislabs.com",
+      "when": "2017-12-05T18:14:59+02:00",
+      "all": 4840,
+      "test": 394,
+      "testable": 4775,
+      "pct": 8.3
+    },
+    {
+      "id": "62a4b817c6e83eedf96a451f45dd943099258fd0",
+      "who": "antirez@gmail.com",
+      "when": "2017-12-05T15:59:56+01:00",
+      "all": 55,
+      "test": 0,
+      "testable": 55,
+      "pct": 0.0
+    },
+    {
+      "id": "03cfc8bf3ad3a172bd5c7f5a02ad7757c0c3f96d",
+      "who": "antirez@gmail.com",
+      "when": "2017-12-05T15:51:15+01:00",
+      "all": 47,
+      "test": 0,
+      "testable": 47,
+      "pct": 0.0
+    },
+    {
+      "id": "c56fbb246c720eec8a7c6434e51b681a3e11a1c8",
+      "who": "antirez@gmail.com",
+      "when": "2017-12-05T15:47:05+01:00",
+      "all": 24,
+      "test": 0,
+      "testable": 13,
+      "pct": 0.0
+    },
+    {
+      "id": "479ea57797d0ca71ae6b1fc606ec267c635df62b",
+      "who": "antirez@gmail.com",
+      "when": "2017-12-05T15:38:21+01:00",
+      "all": 23,
+      "test": 0,
+      "testable": 23,
+      "pct": 0.0
+    },
+    {
+      "id": "6830fa25e3c037eda30f8a32c295b76a8c669006",
+      "who": "antirez@gmail.com",
+      "when": "2017-12-05T15:29:42+01:00",
+      "all": 23,
+      "test": 0,
+      "testable": 23,
+      "pct": 0.0
+    },
+    {
+      "id": "e4903ce586c191fe4699913a5e360e12812024a3",
+      "who": "antirez@gmail.com",
+      "when": "2017-12-05T15:28:08+01:00",
+      "all": 43,
+      "test": 0,
+      "testable": 43,
+      "pct": 0.0
+    },
+    {
+      "id": "42387d6c1a3bf14baa70f811a79f20b439b58c12",
+      "who": "zhaozhao.zz@alibaba-inc.com",
+      "when": "2017-12-05T17:42:19+08:00",
+      "all": 25,
+      "test": 0,
+      "testable": 25,
+      "pct": 0.0
+    },
+    {
+      "id": "de809666f81675bb21ca09049ea67cf1d32ff9b7",
+      "who": "zhaozhao.zz@alibaba-inc.com",
+      "when": "2017-12-05T17:19:19+08:00",
+      "all": 19,
+      "test": 0,
+      "testable": 19,
+      "pct": 0.0
+    },
+    {
+      "id": "3f232ebfb8712707f1a02dcc1eb532d05d0b8b71",
+      "who": "xzsyeb@126.com",
+      "when": "2017-12-05T14:41:16+08:00",
+      "all": 24,
+      "test": 0,
+      "testable": 13,
+      "pct": 0.0
+    },
+    {
+      "id": "e6c3bcf9e072c8c40814577f2421b5d5184b2243",
+      "who": "antirez@gmail.com",
+      "when": "2017-12-04T17:25:34+01:00",
+      "all": 54,
+      "test": 0,
+      "testable": 54,
+      "pct": 0.0
+    },
+    {
+      "id": "b9491b65d991498bf62f2b5533405e161aee650a",
+      "who": "zhaozhao.zz@alibaba-inc.com",
+      "when": "2017-12-03T11:51:35+08:00",
+      "all": 36,
+      "test": 0,
+      "testable": 36,
+      "pct": 0.0
+    },
+    {
+      "id": "2869284e44ca64d633a75752981333d5c0520056",
+      "who": "antirez@gmail.com",
+      "when": "2017-12-04T11:59:15+01:00",
+      "all": 22,
+      "test": 0,
+      "testable": 22,
+      "pct": 0.0
+    },
+    {
+      "id": "60d26acfc8bd4a4367d60b3a8b74af4031171fd6",
+      "who": "antirez@gmail.com",
+      "when": "2017-12-04T11:25:20+01:00",
+      "all": 164,
+      "test": 0,
+      "testable": 164,
+      "pct": 0.0
+    },
+    {
+      "id": "c6eca690ee0df88361dd878563fcbc6b1ce214a2",
+      "who": "antirez@gmail.com",
+      "when": "2017-12-04T10:55:46+01:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "68681f2bcf8d17e573c27ff3fc676ddde381204c",
+      "who": "antirez@gmail.com",
+      "when": "2017-12-04T10:33:04+01:00",
+      "all": 28,
+      "test": 0,
+      "testable": 28,
+      "pct": 0.0
+    },
+    {
+      "id": "6f0b19bc5b0f89d7d9d89e84de1f4c9a859df59c",
+      "who": "antirez@gmail.com",
+      "when": "2017-12-04T10:26:02+01:00",
+      "all": 37,
+      "test": 37,
+      "testable": 37,
+      "pct": 100.0
+    },
+    {
+      "id": "6a1bf07a46ce7d8cb3d9443abedd05dfa2f8096a",
+      "who": "antirez@gmail.com",
+      "when": "2017-12-04T10:24:52+01:00",
+      "all": 22,
+      "test": 0,
+      "testable": 22,
+      "pct": 0.0
+    },
+    {
+      "id": "51eb6cb39513188001bd24e693868451ae267340",
+      "who": "itamar@redislabs.com",
+      "when": "2017-12-03T19:34:31+02:00",
+      "all": 50,
+      "test": 0,
+      "testable": 50,
+      "pct": 0.0
+    },
+    {
+      "id": "bd5af03dbd11ae4865d95c7643803ce804faf2d7",
+      "who": "itamar@redislabs.com",
+      "when": "2017-12-03T19:05:10+02:00",
+      "all": 56,
+      "test": 0,
+      "testable": 56,
+      "pct": 0.0
+    },
+    {
+      "id": "ee3884e63c601fa559cd376a869af9f6c9276f2b",
+      "who": "itamar@redislabs.com",
+      "when": "2017-12-03T17:39:52+02:00",
+      "all": 11,
+      "test": 0,
+      "testable": 11,
+      "pct": 0.0
+    },
+    {
+      "id": "d884ba4bc93849428c3ab0667bc0255368732ab4",
+      "who": "itamar@redislabs.com",
+      "when": "2017-12-03T16:49:29+02:00",
+      "all": 37,
+      "test": 0,
+      "testable": 37,
+      "pct": 0.0
+    },
+    {
+      "id": "65a9740fa880a8e5b4640037a3670f8a2f33080b",
+      "who": "antirez@gmail.com",
+      "when": "2017-12-01T16:01:10+01:00",
+      "all": 67,
+      "test": 0,
+      "testable": 67,
+      "pct": 0.0
+    },
+    {
+      "id": "8ac76be5f2d44341a1c7f67645c753aafbde7804",
+      "who": "antirez@gmail.com",
+      "when": "2017-12-01T15:04:05+01:00",
+      "all": 29,
+      "test": 0,
+      "testable": 29,
+      "pct": 0.0
+    },
+    {
+      "id": "f42df6f43a59fa92a82e651d1c5858bc5e72c3ef",
+      "who": "antirez@gmail.com",
+      "when": "2017-12-01T12:50:18+01:00",
+      "all": 51,
+      "test": 0,
+      "testable": 51,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

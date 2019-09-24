@@ -1,69 +1,528 @@
 {
   "commits": [
     {
-      "all": 134, 
-      "who": "antirez@gmail.com", 
-      "when": "2013-05-29T11:36:44+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 120, 
-      "id": "ed599d3aca723d46984871131610f623f09cf0cd"
-    }, 
+      "id": "b34a8c3b754c97083e93f225e4dc6b262ff0a0de",
+      "who": "charsyam@gmail.com",
+      "when": "2013-05-09T14:30:20+00:00",
+      "all": 57,
+      "test": 0,
+      "testable": 57,
+      "pct": 0.0
+    },
     {
-      "all": 1039, 
-      "who": "antirez@gmail.com", 
-      "when": "2013-05-15T11:58:21+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 1027, 
-      "id": "92f18d04a04918651825e34caa7372c6790aff7e"
-    }, 
+      "id": "3426866e0a62926e62143b9ede8880e48e51a038",
+      "who": "charsyam@gmail.com",
+      "when": "2013-05-15T00:15:25+09:00",
+      "all": 22,
+      "test": 0,
+      "testable": 22,
+      "pct": 0.0
+    },
     {
-      "all": 276, 
-      "who": "antirez@gmail.com", 
-      "when": "2013-05-15T10:12:29+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 264, 
-      "id": "310dbba01cf694a13d077a5156be756bba5eac8b"
-    }, 
+      "id": "354119e4c50fbb3074f2d085300a1b399d4d89af",
+      "who": "charsyam@gmail.com",
+      "when": "2013-05-25T19:22:24+09:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
     {
-      "all": 76, 
-      "who": "antirez@gmail.com", 
-      "when": "2013-05-14T11:17:18+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 76, 
-      "id": "78f94d90eb5b750c3aa38a17ee390bfa4238e91c"
-    }, 
+      "id": "b6a2878aa536c476264bf8903a6ac9daef9cfd1a",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-31T19:31:36+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
     {
-      "all": 88, 
-      "who": "antirez@gmail.com", 
-      "when": "2013-05-13T18:34:18+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 88, 
-      "id": "c184f36d21cae47a4b9b4484b657d2e58fdc4f58"
-    }, 
+      "id": "ca35de1d1f876c167af311e5d275f287c2c5b45e",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-31T11:43:23+02:00",
+      "all": 12,
+      "test": 12,
+      "testable": 12,
+      "pct": 100.0
+    },
     {
-      "all": 464, 
-      "who": "antirez@gmail.com", 
-      "when": "2013-05-10T00:15:18+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 464, 
-      "id": "7e049fafd38a602b9689f4311183c3968a3fa182"
-    }, 
+      "id": "434a86dbd879e7feeea6c939899565717bf9d913",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-30T18:54:28+02:00",
+      "all": 59,
+      "test": 59,
+      "testable": 59,
+      "pct": 100.0
+    },
     {
-      "all": 96, 
-      "who": "antirez@gmail.com", 
-      "when": "2013-05-09T16:57:59+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 96, 
-      "id": "5947f170f91f1985eb316a9fd59c9ca8f2ea73f9"
+      "id": "915c06a96ca7d96818321da5e0a8201c11bbac22",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-30T12:23:28+02:00",
+      "all": 14,
+      "test": 0,
+      "testable": 14,
+      "pct": 0.0
+    },
+    {
+      "id": "88441bf18f554b965eaf83cfce5eeaeff35c3ed4",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-30T12:18:31+02:00",
+      "all": 22,
+      "test": 0,
+      "testable": 22,
+      "pct": 0.0
+    },
+    {
+      "id": "1a54d5963e8c50ed90dbcc72b55e01d91589ea2f",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-30T12:13:25+02:00",
+      "all": 17,
+      "test": 0,
+      "testable": 17,
+      "pct": 0.0
+    },
+    {
+      "id": "d64d2e21c93df54a7b39bcb7a46e34824edff75d",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-30T11:43:43+02:00",
+      "all": 10,
+      "test": 10,
+      "testable": 10,
+      "pct": 100.0
+    },
+    {
+      "id": "2ec7875cbf649a52c2e82e10810fac3fe1ba7fb2",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-29T11:45:40+02:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "ed599d3aca723d46984871131610f623f09cf0cd",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-29T11:36:44+02:00",
+      "all": 186,
+      "test": 0,
+      "testable": 171,
+      "pct": 0.0
+    },
+    {
+      "id": "888400ebd57c85682edc147bb0f666af29c76d5b",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-29T19:56:33+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "37c29e037b08159e901227f0184973442bb86c2d",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-29T19:52:54+02:00",
+      "all": 26,
+      "test": 0,
+      "testable": 26,
+      "pct": 0.0
+    },
+    {
+      "id": "091ed386f7557cd8feeead6cfa8ac851dba1306b",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-28T15:23:42+02:00",
+      "all": 22,
+      "test": 0,
+      "testable": 22,
+      "pct": 0.0
+    },
+    {
+      "id": "a864cae2a55e708e094a879c604841a9d396a07c",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-27T19:33:03+02:00",
+      "all": 18,
+      "test": 0,
+      "testable": 18,
+      "pct": 0.0
+    },
+    {
+      "id": "1909b8753d246e55aee7c76dd974d2c49321998e",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-27T11:44:04+02:00",
+      "all": 4,
+      "test": 0,
+      "testable": 4,
+      "pct": 0.0
+    },
+    {
+      "id": "3c82c85fcfb7e80b6177a080f5d4be64c1506245",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-27T11:17:17+02:00",
+      "all": 49,
+      "test": 0,
+      "testable": 49,
+      "pct": 0.0
+    },
+    {
+      "id": "e06a560466e53b3a8a8e2b2fa232635ef962b1db",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-27T10:45:37+02:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "efd87031d06aadada48a6f04fbb031d2155bb2c4",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-27T10:41:53+02:00",
+      "all": 49,
+      "test": 0,
+      "testable": 49,
+      "pct": 0.0
+    },
+    {
+      "id": "dd0adbb777f37b38bc647c15837ba53ed9edc9d4",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-25T01:22:27+02:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "0292c5f7aeae7f43e1116a8e668bd00f3357c53b",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-25T00:54:00+02:00",
+      "all": 49,
+      "test": 0,
+      "testable": 49,
+      "pct": 0.0
+    },
+    {
+      "id": "6b4635f4f5fe296f07325a2b61a0706b8fc91f8c",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-25T00:37:56+02:00",
+      "all": 41,
+      "test": 0,
+      "testable": 41,
+      "pct": 0.0
+    },
+    {
+      "id": "a950f48906a7699314d2f1c3e2dee522a29e97fb",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-25T01:00:07+02:00",
+      "all": 11,
+      "test": 0,
+      "testable": 11,
+      "pct": 0.0
+    },
+    {
+      "id": "dd937030f02f4c3100b05fa0a9d40257b52f1eb0",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-24T18:58:57+02:00",
+      "all": 51,
+      "test": 0,
+      "testable": 51,
+      "pct": 0.0
+    },
+    {
+      "id": "c853239a5e803f413163ee4080a6a7667c0eb446",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-24T18:41:43+02:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "c3229c33b1cd6cf21180c9a44ddd67a5ecd39503",
+      "who": "ioddly@ioddly.com",
+      "when": "2013-05-22T18:17:58-05:00",
+      "all": 35,
+      "test": 0,
+      "testable": 35,
+      "pct": 0.0
+    },
+    {
+      "id": "5d0f408d429d4ef0eedcff66bba1464ff0e5a01a",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-18T16:21:52+02:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "92f18d04a04918651825e34caa7372c6790aff7e",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-15T11:58:21+02:00",
+      "all": 1092,
+      "test": 0,
+      "testable": 1068,
+      "pct": 0.0
+    },
+    {
+      "id": "78167807beab6f34967a7310a93211a1efbbcff9",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-15T11:55:14+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "25f2be6267f0a0a91154f44099653a2d561d8df7",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-15T11:39:29+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "cd48e4fc4022b8110111e621654781fee08b88c3",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-15T11:38:43+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "8a44e6c4905b4cf59ffca92d80ff4b9560850e49",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-15T11:33:02+02:00",
+      "all": 59,
+      "test": 0,
+      "testable": 59,
+      "pct": 0.0
+    },
+    {
+      "id": "c590e18d15bed4dc576c86bc4b10eed2b0997e15",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-15T11:15:18+02:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "328843849f070c5cbdf154b7a96da6dcd317bdd6",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-15T11:09:19+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "402a0f1ca0c317cf1ba374c633984c7fefb07be1",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-15T11:06:56+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "72e980231c9595bde6b14a810b2380fdba805681",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-15T11:04:53+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "310dbba01cf694a13d077a5156be756bba5eac8b",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-15T10:12:29+02:00",
+      "all": 296,
+      "test": 0,
+      "testable": 282,
+      "pct": 0.0
+    },
+    {
+      "id": "9e74d216e1385dd7d45880b14c12100599e38cfb",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-14T12:45:04+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "e252045454bfa90cd5c9d937e249821969c7425f",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-14T12:32:25+02:00",
+      "all": 100,
+      "test": 0,
+      "testable": 100,
+      "pct": 0.0
+    },
+    {
+      "id": "25e049cc6859d154ece478246f7e6703b4e57cdb",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-14T11:22:50+02:00",
+      "all": 52,
+      "test": 0,
+      "testable": 52,
+      "pct": 0.0
+    },
+    {
+      "id": "78f94d90eb5b750c3aa38a17ee390bfa4238e91c",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-14T11:17:18+02:00",
+      "all": 149,
+      "test": 0,
+      "testable": 149,
+      "pct": 0.0
+    },
+    {
+      "id": "ee721f1e5c703dd5a674239e17384be66a9fd544",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-14T10:22:55+02:00",
+      "all": 23,
+      "test": 0,
+      "testable": 23,
+      "pct": 0.0
+    },
+    {
+      "id": "c184f36d21cae47a4b9b4484b657d2e58fdc4f58",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-13T18:34:18+02:00",
+      "all": 114,
+      "test": 0,
+      "testable": 114,
+      "pct": 0.0
+    },
+    {
+      "id": "d95592b11689130382d7bf71aedf8963cc7f7431",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-13T11:26:43+02:00",
+      "all": 23,
+      "test": 0,
+      "testable": 23,
+      "pct": 0.0
+    },
+    {
+      "id": "2bc31e55eedf24b7ecac0172c47006e79231dcde",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-13T11:11:35+02:00",
+      "all": 80,
+      "test": 0,
+      "testable": 80,
+      "pct": 0.0
+    },
+    {
+      "id": "7e049fafd38a602b9689f4311183c3968a3fa182",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-10T00:15:18+02:00",
+      "all": 491,
+      "test": 0,
+      "testable": 491,
+      "pct": 0.0
+    },
+    {
+      "id": "5947f170f91f1985eb316a9fd59c9ca8f2ea73f9",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-09T16:57:59+02:00",
+      "all": 105,
+      "test": 0,
+      "testable": 105,
+      "pct": 0.0
+    },
+    {
+      "id": "e938575220c1b925dcdc608f46dc24e42aa6b2ed",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-09T12:52:04+02:00",
+      "all": 85,
+      "test": 85,
+      "testable": 85,
+      "pct": 100.0
+    },
+    {
+      "id": "a7486a659291d946de652d22c8730d8046198ebe",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-08T15:24:40+02:00",
+      "all": 4,
+      "test": 0,
+      "testable": 4,
+      "pct": 0.0
+    },
+    {
+      "id": "16f2c3ea144384e7713e9e10b48da129f9b67d1e",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-08T13:01:42+02:00",
+      "all": 90,
+      "test": 90,
+      "testable": 90,
+      "pct": 100.0
+    },
+    {
+      "id": "c87dd0fe494fc258f941c43c6843c4ed11b95c00",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-08T11:58:26+02:00",
+      "all": 39,
+      "test": 39,
+      "testable": 39,
+      "pct": 100.0
+    },
+    {
+      "id": "0ae1b5b0a197154167a895f1188f1822a78732e4",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-08T09:59:51+02:00",
+      "all": 22,
+      "test": 0,
+      "testable": 22,
+      "pct": 0.0
+    },
+    {
+      "id": "c1ae7d2377d716bec7d064fff71ea37a66293f48",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-08T00:49:33-07:00",
+      "all": 22,
+      "test": 0,
+      "testable": 22,
+      "pct": 0.0
+    },
+    {
+      "id": "2c75f2cf1aa0d9cc8256517bd6f3d8a82088ee1a",
+      "who": "july2993@gmail.com",
+      "when": "2013-05-07T23:37:22+08:00",
+      "all": 22,
+      "test": 0,
+      "testable": 22,
+      "pct": 0.0
+    },
+    {
+      "id": "e3ed78d43ba1329b9f736d3141b1e90ef071d5fa",
+      "who": "july2993@gmail.com",
+      "when": "2013-05-07T19:55:57+08:00",
+      "all": 22,
+      "test": 0,
+      "testable": 22,
+      "pct": 0.0
+    },
+    {
+      "id": "5c9f6d4f55c321aa22a4a51f9046f762fbb1655d",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-03T12:37:45+02:00",
+      "all": 42,
+      "test": 0,
+      "testable": 42,
+      "pct": 0.0
+    },
+    {
+      "id": "0d9c1f536bd26244f94add211138568135ed623a",
+      "who": "antirez@gmail.com",
+      "when": "2013-05-02T17:20:49+02:00",
+      "all": 14,
+      "test": 0,
+      "testable": 14,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

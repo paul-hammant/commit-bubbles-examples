@@ -1,51 +1,42 @@
 {
   "commits": [
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2015-05-04T13:00:02+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "8af99d0c09324598faf9f8e5b9aa300fc913ff3c"
-    }, 
+      "id": "8af99d0c09324598faf9f8e5b9aa300fc913ff3c",
+      "who": "antirez@gmail.com",
+      "when": "2015-05-04T13:00:02+02:00",
+      "all": 36,
+      "test": 0,
+      "testable": 36,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2015-05-04T12:56:02+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "5a23ef88bfada3c1998c51dcb4aba9fdf8ad32b0"
-    }, 
+      "id": "99c93f34a76fd7b64847bdbb5b8828f3bb5ea09e",
+      "who": "antirez@gmail.com",
+      "when": "2015-05-04T12:50:44+02:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2015-05-04T12:50:44+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "99c93f34a76fd7b64847bdbb5b8828f3bb5ea09e"
-    }, 
+      "id": "22d00d80cee85219a2c6e489592b4d8b86c16bd4",
+      "who": "antirez@gmail.com",
+      "when": "2015-05-04T12:19:44+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2015-05-04T12:19:44+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "22d00d80cee85219a2c6e489592b4d8b86c16bd4"
-    }, 
-    {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2015-05-04T12:17:41+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "827d07f005c8fcdfa839d9541e7f2c2a9d4aa0fd"
+      "id": "827d07f005c8fcdfa839d9541e7f2c2a9d4aa0fd",
+      "who": "antirez@gmail.com",
+      "when": "2015-05-04T12:17:41+02:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

@@ -1,78 +1,141 @@
 {
   "commits": [
     {
-      "all": 70, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2017-08-14T20:28:06+02:00", 
-      "pct": 100.0, 
-      "test": 29, 
-      "testable": 29, 
-      "id": "439d5507411c2248503431cd18515b4ddbbcb93e"
-    }, 
+      "id": "439d5507411c2248503431cd18515b4ddbbcb93e",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2017-08-14T20:28:06+02:00",
+      "all": 124,
+      "test": 76,
+      "testable": 76,
+      "pct": 100.0
+    },
     {
-      "all": 1147, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2017-08-14T01:05:24+02:00", 
-      "pct": 92.0, 
-      "test": 1057, 
-      "testable": 1147, 
-      "id": "7002a20f94a62b3cc184f381498824ecca1bd63a"
-    }, 
+      "id": "7002a20f94a62b3cc184f381498824ecca1bd63a",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2017-08-14T01:05:24+02:00",
+      "all": 1334,
+      "test": 1237,
+      "testable": 1334,
+      "pct": 92.7
+    },
     {
-      "all": 165, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2017-08-13T01:06:17+02:00", 
-      "pct": 94.0, 
-      "test": 150, 
-      "testable": 158, 
-      "id": "b8577fe18294570463b3445f7034a4da9ed254b9"
-    }, 
+      "id": "94dd4c5312010d9bf9c9a639e0a1c746a1d5f9f6",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2017-08-13T17:27:21+02:00",
+      "all": 34,
+      "test": 0,
+      "testable": 34,
+      "pct": 0.0
+    },
     {
-      "all": 67, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2017-08-13T00:36:17+02:00", 
-      "pct": 41.0, 
-      "test": 22, 
-      "testable": 53, 
-      "id": "c0f7b1c5d493d31d828d7e6f59896f8881b4ae95"
-    }, 
+      "id": "018520a09a8aee04be79545777c9a55423a2c19e",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2017-08-13T11:43:28+02:00",
+      "all": 45,
+      "test": 0,
+      "testable": 45,
+      "pct": 0.0
+    },
     {
-      "all": 77, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2017-08-12T20:25:24+02:00", 
-      "pct": 31.0, 
-      "test": 24, 
-      "testable": 77, 
-      "id": "ca4e65834220f6847aa07a92f0e0eb48ed9eb54e"
-    }, 
+      "id": "4ae61a68fd02ec23d567c7c63ad2ad4491a55276",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2017-08-13T01:19:32+02:00",
+      "all": 10,
+      "test": 10,
+      "testable": 10,
+      "pct": 100.0
+    },
     {
-      "all": 148, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2017-08-12T19:04:33+02:00", 
-      "pct": 94.0, 
-      "test": 140, 
-      "testable": 148, 
-      "id": "919e1fc2a55539f08b8444990fd377998562b9eb"
-    }, 
+      "id": "b8577fe18294570463b3445f7034a4da9ed254b9",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2017-08-13T01:06:17+02:00",
+      "all": 263,
+      "test": 244,
+      "testable": 254,
+      "pct": 96.1
+    },
     {
-      "all": 645, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2017-08-12T01:55:28+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 618, 
-      "id": "a44d61336b1ff88b41453d846747f7a7cf857b64"
-    }, 
+      "id": "c0f7b1c5d493d31d828d7e6f59896f8881b4ae95",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2017-08-13T00:36:17+02:00",
+      "all": 103,
+      "test": 53,
+      "testable": 87,
+      "pct": 60.9
+    },
     {
-      "all": 353, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2017-08-05T13:32:35+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 277, 
-      "id": "f03fdc6926e188bf973afc21388cc10d959105ec"
+      "id": "162907b1a02e48a2fc01ba8d440554b877f6008d",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2017-08-12T23:55:30+02:00",
+      "all": 28,
+      "test": 0,
+      "testable": 28,
+      "pct": 0.0
+    },
+    {
+      "id": "ca4e65834220f6847aa07a92f0e0eb48ed9eb54e",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2017-08-12T20:25:24+02:00",
+      "all": 93,
+      "test": 36,
+      "testable": 93,
+      "pct": 38.7
+    },
+    {
+      "id": "393e40a83ce8e8a5e6d72de0eda878a4fdc274b1",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2017-08-12T19:11:00+02:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "919e1fc2a55539f08b8444990fd377998562b9eb",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2017-08-12T19:04:33+02:00",
+      "all": 173,
+      "test": 163,
+      "testable": 173,
+      "pct": 94.2
+    },
+    {
+      "id": "7ffbb9f48e8e7e472936ca98039b579223aeb0ec",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2017-08-12T19:01:19+02:00",
+      "all": 43,
+      "test": 33,
+      "testable": 43,
+      "pct": 76.7
+    },
+    {
+      "id": "a44d61336b1ff88b41453d846747f7a7cf857b64",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2017-08-12T01:55:28+02:00",
+      "all": 802,
+      "test": 0,
+      "testable": 771,
+      "pct": 0.0
+    },
+    {
+      "id": "0de039b61262b4459c85d40b7dd02cb127ebd70f",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2017-08-12T00:37:46+02:00",
+      "all": 28,
+      "test": 0,
+      "testable": 28,
+      "pct": 0.0
+    },
+    {
+      "id": "f03fdc6926e188bf973afc21388cc10d959105ec",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2017-08-05T13:32:35+02:00",
+      "all": 384,
+      "test": 0,
+      "testable": 279,
+      "pct": 0.0
     }
-  ], 
-  "description": "XStream (master branch)", 
+  ],
+  "description": "XStream (master branch)",
   "baseURL": "https://github.com/x-stream/xstream/commit/"
 }

@@ -1,33 +1,15 @@
 {
   "commits": [
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2011-09-28T19:08:35+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "d3f7fbfc092d9c681bd4fd74e38418f692d5eb38"
-    }, 
-    {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2011-09-28T18:28:36+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "1ef8b0a96d9b1a9f3a69914ece8e20b3c3d4c64c"
-    }, 
-    {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2011-09-28T15:55:52+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "07c152a7bd83ebee8c0f34ae9b2e457ea500d662"
+      "id": "1ef8b0a96d9b1a9f3a69914ece8e20b3c3d4c64c",
+      "who": "antirez@gmail.com",
+      "when": "2011-09-28T18:28:36+02:00",
+      "all": 11,
+      "test": 0,
+      "testable": 11,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

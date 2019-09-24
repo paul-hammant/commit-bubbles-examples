@@ -1,33 +1,51 @@
 {
   "commits": [
     {
-      "all": 1894, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2016-02-24T22:51:15+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 1887, 
-      "id": "31c4e97e679d849d1c89715e078304822c6e16e3"
-    }, 
+      "id": "31c4e97e679d849d1c89715e078304822c6e16e3",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2016-02-24T22:51:15+01:00",
+      "all": 2130,
+      "test": 24,
+      "testable": 2121,
+      "pct": 1.1
+    },
     {
-      "all": 362, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2016-02-24T00:56:46+01:00", 
-      "pct": 17.0, 
-      "test": 61, 
-      "testable": 354, 
-      "id": "b33d9f621c25d0b83f31a95bb74485e91feb1966"
-    }, 
+      "id": "0271262a6344860afc8b90e55208cf36167290c3",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2016-02-24T20:43:41+01:00",
+      "all": 39,
+      "test": 0,
+      "testable": 39,
+      "pct": 0.0
+    },
     {
-      "all": 158, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2016-02-24T00:31:39+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 158, 
-      "id": "4fde2d61e2c5b08bff9558cbeb98df1560db85a8"
+      "id": "7098701a3d49a9872e1ca736e747820f41458668",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2016-02-24T01:12:52+01:00",
+      "all": 21,
+      "test": 0,
+      "testable": 21,
+      "pct": 0.0
+    },
+    {
+      "id": "b33d9f621c25d0b83f31a95bb74485e91feb1966",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2016-02-24T00:56:46+01:00",
+      "all": 390,
+      "test": 80,
+      "testable": 380,
+      "pct": 21.1
+    },
+    {
+      "id": "4fde2d61e2c5b08bff9558cbeb98df1560db85a8",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2016-02-24T00:31:39+01:00",
+      "all": 232,
+      "test": 28,
+      "testable": 232,
+      "pct": 12.1
     }
-  ], 
-  "description": "XStream (master branch)", 
+  ],
+  "description": "XStream (master branch)",
   "baseURL": "https://github.com/x-stream/xstream/commit/"
 }

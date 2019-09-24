@@ -1,24 +1,42 @@
 {
   "commits": [
     {
-      "all": 77, 
-      "who": "mauro.talevi@aquilonia.org", 
-      "when": "2006-04-18T09:20:00+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 77, 
-      "id": "d54582da62240672c5112321529d6945d94c07a4"
-    }, 
+      "id": "bd5afe2a9edf61beb460321d93fc4d5cdd6ae65f",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-04-18T18:47:35+00:00",
+      "all": 52,
+      "test": 39,
+      "testable": 52,
+      "pct": 75.0
+    },
     {
-      "all": 294, 
-      "who": "mauro.talevi@aquilonia.org", 
-      "when": "2006-04-18T08:47:42+00:00", 
-      "pct": 52.0, 
-      "test": 153, 
-      "testable": 294, 
-      "id": "fe1e58eeb78bffdeed33d5a353450317f39a7601"
+      "id": "6d7105039e4568a8c3cec7210ef02a023db775c7",
+      "who": "mauro.talevi@aquilonia.org",
+      "when": "2006-04-18T09:23:55+00:00",
+      "all": 21,
+      "test": 0,
+      "testable": 21,
+      "pct": 0.0
+    },
+    {
+      "id": "d54582da62240672c5112321529d6945d94c07a4",
+      "who": "mauro.talevi@aquilonia.org",
+      "when": "2006-04-18T09:20:00+00:00",
+      "all": 131,
+      "test": 24,
+      "testable": 131,
+      "pct": 18.3
+    },
+    {
+      "id": "fe1e58eeb78bffdeed33d5a353450317f39a7601",
+      "who": "mauro.talevi@aquilonia.org",
+      "when": "2006-04-18T08:47:42+00:00",
+      "all": 329,
+      "test": 181,
+      "testable": 329,
+      "pct": 55.0
     }
-  ], 
-  "description": "XStream (master branch)", 
+  ],
+  "description": "XStream (master branch)",
   "baseURL": "https://github.com/x-stream/xstream/commit/"
 }

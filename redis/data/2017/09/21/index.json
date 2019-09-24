@@ -1,33 +1,33 @@
 {
   "commits": [
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2017-09-21T12:35:04+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "474adba9fa7a173d866300b1abd7cddd34cbac40"
-    }, 
+      "id": "474adba9fa7a173d866300b1abd7cddd34cbac40",
+      "who": "antirez@gmail.com",
+      "when": "2017-09-21T12:35:04+02:00",
+      "all": 16,
+      "test": 0,
+      "testable": 16,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2017-09-21T12:32:02+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "fa2c0582cfa614cd854b4a64ddce1493da9317bb"
-    }, 
+      "id": "fa2c0582cfa614cd854b4a64ddce1493da9317bb",
+      "who": "antirez@gmail.com",
+      "when": "2017-09-21T12:32:02+02:00",
+      "all": 16,
+      "test": 0,
+      "testable": 16,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "zhaozhao.zz@alibaba-inc.com", 
-      "when": "2017-09-21T14:19:21+08:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "269760edbbf6cdebe1c00040234b1fa6ba8851ce"
+      "id": "269760edbbf6cdebe1c00040234b1fa6ba8851ce",
+      "who": "zhaozhao.zz@alibaba-inc.com",
+      "when": "2017-09-21T14:19:21+08:00",
+      "all": 16,
+      "test": 0,
+      "testable": 16,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

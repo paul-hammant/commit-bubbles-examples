@@ -1,33 +1,33 @@
 {
   "commits": [
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2019-03-10T09:48:06+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "8a46d32be2eaf07b6b2e8c3757e4d9f59cd1ab64"
-    }, 
+      "id": "8a46d32be2eaf07b6b2e8c3757e4d9f59cd1ab64",
+      "who": "antirez@gmail.com",
+      "when": "2019-03-10T09:48:06+01:00",
+      "all": 11,
+      "test": 0,
+      "testable": 11,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2019-03-10T09:45:55+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "55acac04b439b758bfcc0bdc3d956df288044e29"
-    }, 
+      "id": "55acac04b439b758bfcc0bdc3d956df288044e29",
+      "who": "antirez@gmail.com",
+      "when": "2019-03-10T09:45:55+01:00",
+      "all": 15,
+      "test": 0,
+      "testable": 15,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "se.wu.rongxin@gmail.com", 
-      "when": "2019-03-10T15:30:32+08:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "0298d3ad1833c0085ebc26baeda58dc3a511de25"
+      "id": "0298d3ad1833c0085ebc26baeda58dc3a511de25",
+      "who": "se.wu.rongxin@gmail.com",
+      "when": "2019-03-10T15:30:32+08:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

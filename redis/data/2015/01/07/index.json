@@ -1,51 +1,51 @@
 {
   "commits": [
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2015-01-07T15:25:58+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "1a30e7ded14f4cb2ea39e05d1b1e1fd0b4d20ad6"
-    }, 
+      "id": "1a30e7ded14f4cb2ea39e05d1b1e1fd0b4d20ad6",
+      "who": "antirez@gmail.com",
+      "when": "2015-01-07T15:25:58+01:00",
+      "all": 66,
+      "test": 0,
+      "testable": 66,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2015-01-07T11:08:41+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "e8614a1a77d2989f7be3cb7b24cd88b01f14f17e"
-    }, 
+      "id": "e8614a1a77d2989f7be3cb7b24cd88b01f14f17e",
+      "who": "antirez@gmail.com",
+      "when": "2015-01-07T11:08:41+01:00",
+      "all": 57,
+      "test": 0,
+      "testable": 57,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2015-01-07T10:25:31+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "32b10004e28ff6def8c310bbb264b70958460159"
-    }, 
+      "id": "32b10004e28ff6def8c310bbb264b70958460159",
+      "who": "antirez@gmail.com",
+      "when": "2015-01-07T10:25:31+01:00",
+      "all": 28,
+      "test": 0,
+      "testable": 28,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2015-01-07T10:20:55+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "f699b5e8019e264898048bac64282f57c5b7583e"
-    }, 
+      "id": "f699b5e8019e264898048bac64282f57c5b7583e",
+      "who": "antirez@gmail.com",
+      "when": "2015-01-07T10:20:55+01:00",
+      "all": 29,
+      "test": 0,
+      "testable": 29,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "janerik@fnordig.de", 
-      "when": "2015-01-07T22:31:45+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "04607b53500f71498a502ffcfc41a82792013e2b"
+      "id": "04607b53500f71498a502ffcfc41a82792013e2b",
+      "who": "janerik@fnordig.de",
+      "when": "2015-01-07T22:31:45+01:00",
+      "all": 14,
+      "test": 0,
+      "testable": 14,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

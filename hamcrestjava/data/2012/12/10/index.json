@@ -1,13 +1,22 @@
 {
   "commits": [
     {
-      "all": 123, 
+      "all": 206, 
       "who": "gaul@maginatics.com", 
       "when": "2012-12-10T20:04:42-08:00", 
-      "pct": 39.0, 
-      "test": 49, 
-      "testable": 123, 
+      "pct": 55.0, 
+      "test": 115, 
+      "testable": 206, 
       "id": "30ca25bd83b91bac13c4c10a0513ef297eddd8f0"
+    }, 
+    {
+      "all": 10, 
+      "who": "gaul@maginatics.com", 
+      "when": "2012-12-10T18:17:06-08:00", 
+      "pct": 0.0, 
+      "test": 0, 
+      "testable": 10, 
+      "id": "b365159414c95a7821edd528c21f6c2d7ccc5298"
     }
   ], 
   "description": "Hamcrest Java (master branch)", 

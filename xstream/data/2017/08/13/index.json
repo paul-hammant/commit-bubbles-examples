@@ -1,24 +1,51 @@
 {
   "commits": [
     {
-      "all": 165, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2017-08-13T01:06:17+02:00", 
-      "pct": 94.0, 
-      "test": 150, 
-      "testable": 158, 
-      "id": "b8577fe18294570463b3445f7034a4da9ed254b9"
-    }, 
+      "id": "94dd4c5312010d9bf9c9a639e0a1c746a1d5f9f6",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2017-08-13T17:27:21+02:00",
+      "all": 34,
+      "test": 0,
+      "testable": 34,
+      "pct": 0.0
+    },
     {
-      "all": 67, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2017-08-13T00:36:17+02:00", 
-      "pct": 41.0, 
-      "test": 22, 
-      "testable": 53, 
-      "id": "c0f7b1c5d493d31d828d7e6f59896f8881b4ae95"
+      "id": "018520a09a8aee04be79545777c9a55423a2c19e",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2017-08-13T11:43:28+02:00",
+      "all": 45,
+      "test": 0,
+      "testable": 45,
+      "pct": 0.0
+    },
+    {
+      "id": "4ae61a68fd02ec23d567c7c63ad2ad4491a55276",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2017-08-13T01:19:32+02:00",
+      "all": 10,
+      "test": 10,
+      "testable": 10,
+      "pct": 100.0
+    },
+    {
+      "id": "b8577fe18294570463b3445f7034a4da9ed254b9",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2017-08-13T01:06:17+02:00",
+      "all": 263,
+      "test": 244,
+      "testable": 254,
+      "pct": 96.1
+    },
+    {
+      "id": "c0f7b1c5d493d31d828d7e6f59896f8881b4ae95",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2017-08-13T00:36:17+02:00",
+      "all": 103,
+      "test": 53,
+      "testable": 87,
+      "pct": 60.9
     }
-  ], 
-  "description": "XStream (master branch)", 
+  ],
+  "description": "XStream (master branch)",
   "baseURL": "https://github.com/x-stream/xstream/commit/"
 }

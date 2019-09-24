@@ -1,51 +1,51 @@
 {
   "commits": [
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2019-09-17T19:26:46+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "8ea4bdd91d600aa1e9e1ebf7dace19172a7ce23a"
-    }, 
+      "id": "8ea4bdd91d600aa1e9e1ebf7dace19172a7ce23a",
+      "who": "antirez@gmail.com",
+      "when": "2019-09-17T19:26:46+02:00",
+      "all": 19,
+      "test": 0,
+      "testable": 19,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2019-09-17T19:20:30+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "89f929b12a3ff27593d25ec039dc0e9d6a049084"
-    }, 
+      "id": "89f929b12a3ff27593d25ec039dc0e9d6a049084",
+      "who": "antirez@gmail.com",
+      "when": "2019-09-17T19:20:30+02:00",
+      "all": 45,
+      "test": 0,
+      "testable": 45,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2019-09-17T19:08:33+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "19aba4ac7828584be3e0621a8db116646f6ece07"
-    }, 
+      "id": "19aba4ac7828584be3e0621a8db116646f6ece07",
+      "who": "antirez@gmail.com",
+      "when": "2019-09-17T19:08:33+02:00",
+      "all": 31,
+      "test": 0,
+      "testable": 31,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2019-09-17T18:57:24+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "e8e30bc40289e43cbd07f532d4ca4c16e03f239c"
-    }, 
+      "id": "e8e30bc40289e43cbd07f532d4ca4c16e03f239c",
+      "who": "antirez@gmail.com",
+      "when": "2019-09-17T18:57:24+02:00",
+      "all": 41,
+      "test": 0,
+      "testable": 41,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "ocadaruma@gmail.com", 
-      "when": "2019-09-17T06:18:01+09:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "c1cc5ca7671a5d2b35e1d7e1b7c0e67ab8c0bc91"
+      "id": "c1cc5ca7671a5d2b35e1d7e1b7c0e67ab8c0bc91",
+      "who": "ocadaruma@gmail.com",
+      "when": "2019-09-17T06:18:01+09:00",
+      "all": 19,
+      "test": 0,
+      "testable": 19,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

@@ -1,120 +1,219 @@
 {
   "commits": [
     {
-      "all": 150, 
+      "all": 177, 
       "who": "krichter@posteo.de", 
       "when": "2018-08-08T17:50:25+02:00", 
       "pct": 84.0, 
-      "test": 89, 
-      "testable": 105, 
+      "test": 107, 
+      "testable": 127, 
       "id": "c5e9c506cfcc12e6a075dc38ba1f4e376c56ed45"
     }, 
     {
-      "all": 85, 
+      "all": 56, 
+      "who": "joe@exubero.com", 
+      "when": "2018-12-10T22:28:43+00:00", 
+      "pct": 0.0, 
+      "test": 0, 
+      "testable": 56, 
+      "id": "b76e174c6dce53d814f91946163434a3384bf9fb"
+    }, 
+    {
+      "all": 105, 
       "who": "joe@exubero.com", 
       "when": "2018-12-10T22:08:49+00:00", 
       "pct": 100.0, 
-      "test": 85, 
-      "testable": 85, 
+      "test": 105, 
+      "testable": 105, 
       "id": "bf8b3e23477953e79b3af1cecafcb37276b41fa5"
     }, 
     {
-      "all": 327, 
+      "all": 25, 
+      "who": "joe@exubero.com", 
+      "when": "2018-12-10T22:06:50+00:00", 
+      "pct": 100.0, 
+      "test": 25, 
+      "testable": 25, 
+      "id": "faac95ae402b1819ce6bca5c9c0b8afd78d65f4f"
+    }, 
+    {
+      "all": 396, 
       "who": "joe@exubero.com", 
       "when": "2018-12-10T17:52:26+00:00", 
-      "pct": 36.0, 
-      "test": 120, 
-      "testable": 327, 
+      "pct": 46.0, 
+      "test": 185, 
+      "testable": 396, 
       "id": "59d34c8b26560275d830a987008e03f9e451725a"
     }, 
     {
-      "all": 83, 
+      "all": 102, 
       "who": "joe@exubero.com", 
       "when": "2018-12-04T08:04:02+00:00", 
       "pct": 0.0, 
       "test": 0, 
-      "testable": 83, 
+      "testable": 102, 
       "id": "fafb992780ff9ede51814067236bd41523eca65b"
     }, 
     {
-      "all": 196, 
+      "all": 230, 
       "who": "joe@exubero.com", 
       "when": "2018-11-29T18:22:12+00:00", 
       "pct": 0.0, 
       "test": 0, 
-      "testable": 30, 
+      "testable": 38, 
       "id": "0da90880b3aa7364afba05b7f1a853a25c190a44"
     }, 
     {
-      "all": 271, 
+      "all": 372, 
       "who": "joe@exubero.com", 
       "when": "2018-11-19T23:06:24+00:00", 
       "pct": 0.0, 
       "test": 0, 
-      "testable": 123, 
+      "testable": 142, 
       "id": "f18c06a9e30515a7d981f37276a9d941590bdac0"
     }, 
     {
-      "all": 94, 
+      "all": 220, 
       "who": "github@m3p.co.uk", 
       "when": "2018-09-23T11:50:34+01:00", 
-      "pct": 25.0, 
-      "test": 24, 
-      "testable": 94, 
+      "pct": 30.0, 
+      "test": 66, 
+      "testable": 220, 
       "id": "31c07d9f0e5102926772b66658a3fd06943e7f3b"
     }, 
     {
-      "all": 76, 
+      "all": 158, 
       "who": "github@m3p.co.uk", 
       "when": "2018-09-23T11:22:40+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 68, 
+      "pct": 17.0, 
+      "test": 26, 
+      "testable": 148, 
       "id": "ff55bff1f07c8e9c9ead5fcef42835f419e8415d"
     }, 
     {
-      "all": 127, 
+      "all": 28, 
+      "who": "github@m3p.co.uk", 
+      "when": "2018-09-23T11:21:54+01:00", 
+      "pct": 0.0, 
+      "test": 0, 
+      "testable": 28, 
+      "id": "0a4c2c6983e87257f0be37ba5eb85e5489dfe524"
+    }, 
+    {
+      "all": 99, 
+      "who": "sf105@users.noreply.github.com", 
+      "when": "2018-09-23T11:19:44+01:00", 
+      "pct": 26.0, 
+      "test": 26, 
+      "testable": 99, 
+      "id": "22123ecbc8a0293b96fb196b251261b6bbf1877a"
+    }, 
+    {
+      "all": 49, 
+      "who": "t.denley@cantab.net", 
+      "when": "2018-09-07T13:10:51+01:00", 
+      "pct": 0.0, 
+      "test": 0, 
+      "testable": 49, 
+      "id": "ff37322bdffa94c5c891d40ed9a3d41dfb23509b"
+    }, 
+    {
+      "all": 49, 
+      "who": "michal.fotyga@gmail.com", 
+      "when": "2018-09-05T21:57:42+01:00", 
+      "pct": 0.0, 
+      "test": 0, 
+      "testable": 49, 
+      "id": "a91a8e53cd7a71f3c89a5b2a54f617292eae4f85"
+    }, 
+    {
+      "all": 185, 
       "who": "github@m3p.co.uk", 
       "when": "2018-08-05T19:38:57+02:00", 
-      "pct": 3.0, 
-      "test": 5, 
-      "testable": 127, 
+      "pct": 28.0, 
+      "test": 53, 
+      "testable": 185, 
       "id": "eba1cc049609e687112e849b283a14bb364ff087"
     }, 
     {
-      "all": 145, 
+      "all": 159, 
       "who": "github@m3p.co.uk", 
       "when": "2018-08-05T19:17:52+02:00", 
-      "pct": 40.0, 
-      "test": 58, 
-      "testable": 145, 
+      "pct": 41.0, 
+      "test": 66, 
+      "testable": 159, 
       "id": "d2eb80d4560a15b8cc6e396f68125c1ce915f809"
     }, 
     {
-      "all": 67, 
+      "all": 38, 
+      "who": "github@m3p.co.uk", 
+      "when": "2018-08-03T18:25:26+02:00", 
+      "pct": 100.0, 
+      "test": 38, 
+      "testable": 38, 
+      "id": "1750bd67000d2cf17b380c431412eea0f76201e9"
+    }, 
+    {
+      "all": 25, 
+      "who": "github@m3p.co.uk", 
+      "when": "2018-08-03T18:22:13+02:00", 
+      "pct": 100.0, 
+      "test": 25, 
+      "testable": 25, 
+      "id": "a502178692c3ce6fb293c0d1268ce8c0e6377b6b"
+    }, 
+    {
+      "all": 38, 
+      "who": "github@m3p.co.uk", 
+      "when": "2018-08-03T18:17:17+02:00", 
+      "pct": 100.0, 
+      "test": 38, 
+      "testable": 38, 
+      "id": "87869905d595933786f1c7f6789f417a1a41549d"
+    }, 
+    {
+      "all": 74, 
+      "who": "github@m3p.co.uk", 
+      "when": "2018-08-03T16:44:29+01:00", 
+      "pct": 100.0, 
+      "test": 74, 
+      "testable": 74, 
+      "id": "be556a5912a63a8ebf87a4170edd7e38dd50b32a"
+    }, 
+    {
+      "all": 90, 
       "who": "sf105@users.noreply.github.com", 
       "when": "2018-08-03T16:26:30+01:00", 
       "pct": 100.0, 
-      "test": 67, 
-      "testable": 67, 
+      "test": 90, 
+      "testable": 90, 
       "id": "e475a3a1b7ad02428d8c1a2fe1a5eabb34cf622e"
     }, 
     {
-      "all": 66, 
+      "all": 90, 
       "who": "krichter722@aol.de", 
       "when": "2018-07-28T13:39:40+02:00", 
       "pct": 100.0, 
-      "test": 66, 
-      "testable": 66, 
+      "test": 90, 
+      "testable": 90, 
       "id": "94b9b470ec991e3f9f1d5388762e1958365599a2"
     }, 
     {
-      "all": 139, 
+      "all": 9, 
+      "who": "github@m3p.co.uk", 
+      "when": "2018-02-18T22:15:20+00:00", 
+      "pct": 0.0, 
+      "test": 0, 
+      "testable": 9, 
+      "id": "4938a8bee1d27e516580a9d3d48ede8418108210"
+    }, 
+    {
+      "all": 180, 
       "who": "github@m3p.co.uk", 
       "when": "2018-02-18T22:12:19+00:00", 
-      "pct": 54.0, 
-      "test": 76, 
-      "testable": 139, 
+      "pct": 62.0, 
+      "test": 112, 
+      "testable": 180, 
       "id": "7395458e3b34654d3a98a549def79e7a8c8cc3e2"
     }
   ], 

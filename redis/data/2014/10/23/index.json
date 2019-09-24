@@ -1,24 +1,51 @@
 {
   "commits": [
     {
-      "all": 69, 
-      "who": "matt@genges.com", 
-      "when": "2014-10-23T13:09:58-04:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 69, 
-      "id": "491881e13b73ab1686328efdceb4cdf8bde64046"
-    }, 
+      "id": "491881e13b73ab1686328efdceb4cdf8bde64046",
+      "who": "matt@genges.com",
+      "when": "2014-10-23T13:09:58-04:00",
+      "all": 114,
+      "test": 0,
+      "testable": 114,
+      "pct": 0.0
+    },
     {
-      "all": 67, 
-      "who": "antirez@gmail.com", 
-      "when": "2014-10-23T23:10:33+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 67, 
-      "id": "ebb3bd53c2944e987228bcf2f841f7412865bdab"
+      "id": "2d90619f88b81d1a094a875d73f8afd244480730",
+      "who": "matt@genges.com",
+      "when": "2014-10-23T12:40:02-04:00",
+      "all": 72,
+      "test": 0,
+      "testable": 72,
+      "pct": 0.0
+    },
+    {
+      "id": "daca1edb6ec8d8b467d2e94a39431c47dff7052b",
+      "who": "matt@genges.com",
+      "when": "2014-10-23T13:45:16-04:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "6c0abc4a0ee1450a7fc13076f5d04a6549286cf3",
+      "who": "matt@genges.com",
+      "when": "2014-10-23T11:52:35-04:00",
+      "all": 50,
+      "test": 26,
+      "testable": 50,
+      "pct": 52.0
+    },
+    {
+      "id": "ebb3bd53c2944e987228bcf2f841f7412865bdab",
+      "who": "antirez@gmail.com",
+      "when": "2014-10-23T23:10:33+02:00",
+      "all": 100,
+      "test": 0,
+      "testable": 100,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

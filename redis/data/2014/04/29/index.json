@@ -1,87 +1,78 @@
 {
   "commits": [
     {
-      "all": 0, 
-      "who": "badboy@archlinux.us", 
-      "when": "2014-04-29T12:58:17+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "aa628446f211d1abcdfaab4fcefe8f1572e0335e"
-    }, 
+      "id": "11d9ecb71d44987d2cb365e90b00fe15434426d7",
+      "who": "antirez@gmail.com",
+      "when": "2014-04-29T19:15:16+02:00",
+      "all": 46,
+      "test": 0,
+      "testable": 46,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2014-04-29T19:15:16+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "11d9ecb71d44987d2cb365e90b00fe15434426d7"
-    }, 
+      "id": "7b5ce1ffb1d730774f1d8e990fea38e9ab54a148",
+      "who": "antirez@gmail.com",
+      "when": "2014-04-29T18:40:43+02:00",
+      "all": 42,
+      "test": 42,
+      "testable": 42,
+      "pct": 100.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2014-04-29T18:40:43+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "7b5ce1ffb1d730774f1d8e990fea38e9ab54a148"
-    }, 
+      "id": "4a3db2550441423f84c964a0d519426cf44020dc",
+      "who": "antirez@gmail.com",
+      "when": "2014-04-29T16:20:02+02:00",
+      "all": 10,
+      "test": 10,
+      "testable": 10,
+      "pct": 100.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2014-04-29T16:20:02+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "4a3db2550441423f84c964a0d519426cf44020dc"
-    }, 
+      "id": "e8631a69917f1c0581a28edac8dcdf98cca82e18",
+      "who": "antirez@gmail.com",
+      "when": "2014-04-29T16:17:15+02:00",
+      "all": 29,
+      "test": 29,
+      "testable": 29,
+      "pct": 100.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2014-04-29T16:17:15+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "e8631a69917f1c0581a28edac8dcdf98cca82e18"
-    }, 
+      "id": "9e422f74a6ef110eacb29c975c25a3403eba1aec",
+      "who": "antirez@gmail.com",
+      "when": "2014-04-29T15:39:54+02:00",
+      "all": 29,
+      "test": 29,
+      "testable": 29,
+      "pct": 100.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2014-04-29T15:39:54+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "9e422f74a6ef110eacb29c975c25a3403eba1aec"
-    }, 
+      "id": "2c556223330e656404bbce82db61daec604e7015",
+      "who": "antirez@gmail.com",
+      "when": "2014-04-29T15:00:11+02:00",
+      "all": 27,
+      "test": 27,
+      "testable": 27,
+      "pct": 100.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2014-04-29T15:00:11+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "2c556223330e656404bbce82db61daec604e7015"
-    }, 
+      "id": "2555b2f4bd0499fe16f50d004d3596132e8a33ba",
+      "who": "antirez@gmail.com",
+      "when": "2014-04-29T10:42:32+02:00",
+      "all": 26,
+      "test": 26,
+      "testable": 26,
+      "pct": 100.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2014-04-29T10:42:32+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "2555b2f4bd0499fe16f50d004d3596132e8a33ba"
-    }, 
-    {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2014-04-29T10:42:17+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "e1b129811af5010730108537fede2421dbc841fa"
+      "id": "e1b129811af5010730108537fede2421dbc841fa",
+      "who": "antirez@gmail.com",
+      "when": "2014-04-29T10:42:17+02:00",
+      "all": 42,
+      "test": 42,
+      "testable": 42,
+      "pct": 100.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

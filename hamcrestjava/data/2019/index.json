@@ -1,13 +1,58 @@
 {
   "commits": [
     {
-      "all": 33, 
+      "all": 48, 
+      "who": "albert.devs@gmail.com", 
+      "when": "2019-07-24T19:33:24+02:00", 
+      "pct": 68.0, 
+      "test": 33, 
+      "testable": 48, 
+      "id": "2951069fbd7afcb65457db30dde9dc0fd8ce5f80"
+    }, 
+    {
+      "all": 50, 
       "who": "joe@exubero.com", 
       "when": "2019-08-24T02:44:08+10:00", 
       "pct": 0.0, 
       "test": 0, 
-      "testable": 17, 
+      "testable": 32, 
       "id": "c1ea49a115a381c92b27513d59eeea38ba5ae1c0"
+    }, 
+    {
+      "all": 30, 
+      "who": "joe@exubero.com", 
+      "when": "2019-05-27T19:52:04+10:00", 
+      "pct": 0.0, 
+      "test": 0, 
+      "testable": 30, 
+      "id": "311839bee2b86b305c999d538dde3b75c3b80914"
+    }, 
+    {
+      "all": 26, 
+      "who": "james.mudd@gmail.com", 
+      "when": "2019-04-17T22:04:22+01:00", 
+      "pct": 53.0, 
+      "test": 14, 
+      "testable": 26, 
+      "id": "67bcac86e421eb07fff89a340ccd552052645d66"
+    }, 
+    {
+      "all": 45, 
+      "who": "phoenix384@gmx.de", 
+      "when": "2019-04-24T20:39:35+02:00", 
+      "pct": 0.0, 
+      "test": 0, 
+      "testable": 45, 
+      "id": "5f54700d857619358c6467dc0e41e8d96ab4c235"
+    }, 
+    {
+      "all": 69, 
+      "who": "yurii.dubinka@gmail.com", 
+      "when": "2019-01-10T22:28:21+05:30", 
+      "pct": 62.0, 
+      "test": 43, 
+      "testable": 69, 
+      "id": "ef2c6f5e1c30e4ac64d34f5e5027dcb29e1b4b59"
     }
   ], 
   "description": "Hamcrest Java (master branch)", 

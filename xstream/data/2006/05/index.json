@@ -1,51 +1,78 @@
 {
   "commits": [
     {
-      "all": 187, 
-      "who": "mauro.talevi@aquilonia.org", 
-      "when": "2006-05-29T09:08:26+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 187, 
-      "id": "3641326daefbbb4e3517ce4e7b956693b6129f10"
-    }, 
+      "id": "3641326daefbbb4e3517ce4e7b956693b6129f10",
+      "who": "mauro.talevi@aquilonia.org",
+      "when": "2006-05-29T09:08:26+00:00",
+      "all": 215,
+      "test": 0,
+      "testable": 215,
+      "pct": 0.0
+    },
     {
-      "all": 722, 
-      "who": "mauro.talevi@aquilonia.org", 
-      "when": "2006-05-28T15:38:11+00:00", 
-      "pct": 9.0, 
-      "test": 69, 
-      "testable": 722, 
-      "id": "83a308af0682d2e095ce5864eb8d3daadd0e2294"
-    }, 
+      "id": "83a308af0682d2e095ce5864eb8d3daadd0e2294",
+      "who": "mauro.talevi@aquilonia.org",
+      "when": "2006-05-28T15:38:11+00:00",
+      "all": 779,
+      "test": 78,
+      "testable": 779,
+      "pct": 10.0
+    },
     {
-      "all": 674, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2006-05-24T16:23:23+00:00", 
-      "pct": 100.0, 
-      "test": 260, 
-      "testable": 260, 
-      "id": "40260d8022171b45c602c5e712b226922b30b6bf"
-    }, 
+      "id": "40260d8022171b45c602c5e712b226922b30b6bf",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-05-24T16:23:23+00:00",
+      "all": 702,
+      "test": 284,
+      "testable": 284,
+      "pct": 100.0
+    },
     {
-      "all": 128, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2006-05-24T16:18:18+00:00", 
-      "pct": 38.0, 
-      "test": 49, 
-      "testable": 128, 
-      "id": "92ad667928f23d80dc7251dd95eb6e6fcc33f798"
-    }, 
+      "id": "92ad667928f23d80dc7251dd95eb6e6fcc33f798",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-05-24T16:18:18+00:00",
+      "all": 169,
+      "test": 84,
+      "testable": 169,
+      "pct": 49.7
+    },
     {
-      "all": 631, 
-      "who": "mauro.talevi@aquilonia.org", 
-      "when": "2006-05-03T13:14:56+00:00", 
-      "pct": 53.0, 
-      "test": 340, 
-      "testable": 631, 
-      "id": "32342bebdbd9ae8c2e539fbabffe531349a4081b"
+      "id": "1a6e72e12471983307c1a1817ca596fb0465584e",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-05-24T16:13:34+00:00",
+      "all": 80,
+      "test": 0,
+      "testable": 80,
+      "pct": 0.0
+    },
+    {
+      "id": "2c9aafcde1b4870a809a6b8903a9bdf41ebf320b",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-05-24T16:08:00+00:00",
+      "all": 84,
+      "test": 0,
+      "testable": 84,
+      "pct": 0.0
+    },
+    {
+      "id": "32342bebdbd9ae8c2e539fbabffe531349a4081b",
+      "who": "mauro.talevi@aquilonia.org",
+      "when": "2006-05-03T13:14:56+00:00",
+      "all": 711,
+      "test": 403,
+      "testable": 711,
+      "pct": 56.7
+    },
+    {
+      "id": "0011b6ef3ed8210271f424a1028b9c44d156856d",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-05-02T19:16:04+00:00",
+      "all": 19,
+      "test": 0,
+      "testable": 19,
+      "pct": 0.0
     }
-  ], 
-  "description": "XStream (master branch)", 
+  ],
+  "description": "XStream (master branch)",
   "baseURL": "https://github.com/x-stream/xstream/commit/"
 }

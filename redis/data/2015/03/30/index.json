@@ -1,42 +1,42 @@
 {
   "commits": [
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2015-03-30T14:29:01+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "65090401b713a074b5261342e3079754377b6bbf"
-    }, 
+      "id": "65090401b713a074b5261342e3079754377b6bbf",
+      "who": "antirez@gmail.com",
+      "when": "2015-03-30T14:29:01+02:00",
+      "all": 61,
+      "test": 61,
+      "testable": 61,
+      "pct": 100.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2015-03-30T12:24:57+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "7f330b16f93d9feed0113e928a1b96f182b73e45"
-    }, 
+      "id": "7f330b16f93d9feed0113e928a1b96f182b73e45",
+      "who": "antirez@gmail.com",
+      "when": "2015-03-30T12:24:57+02:00",
+      "all": 26,
+      "test": 0,
+      "testable": 26,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2015-03-30T12:17:46+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "34460dd6ee0c9ae6561de54f1005f493bfcc543c"
-    }, 
+      "id": "34460dd6ee0c9ae6561de54f1005f493bfcc543c",
+      "who": "antirez@gmail.com",
+      "when": "2015-03-30T12:17:46+02:00",
+      "all": 15,
+      "test": 0,
+      "testable": 15,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2015-03-30T11:54:49+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "221d2932b51dc605130130369301c92f34336987"
+      "id": "221d2932b51dc605130130369301c92f34336987",
+      "who": "antirez@gmail.com",
+      "when": "2015-03-30T11:54:49+02:00",
+      "all": 14,
+      "test": 0,
+      "testable": 14,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

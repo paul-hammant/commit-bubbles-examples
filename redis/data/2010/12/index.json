@@ -1,411 +1,987 @@
 {
   "commits": [
     {
-      "all": 194, 
-      "who": "pcnoordhuis@gmail.com", 
-      "when": "2010-12-07T23:21:05+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 194, 
-      "id": "22b9bf15949933b351525ae658dc32e40e5784ab"
-    }, 
+      "id": "22b9bf15949933b351525ae658dc32e40e5784ab",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-07T23:21:05+01:00",
+      "all": 245,
+      "test": 24,
+      "testable": 245,
+      "pct": 9.8
+    },
     {
-      "all": 170, 
-      "who": "antirez@gmail.com", 
-      "when": "2010-12-31T17:32:59+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 170, 
-      "id": "d934e1e85b1ec1c6d2cd07292cced53770f4a626"
-    }, 
+      "id": "a30047736806e54af0459a2c41767bf0ebc6a572",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-09T10:37:35+01:00",
+      "all": 41,
+      "test": 0,
+      "testable": 41,
+      "pct": 0.0
+    },
     {
-      "all": 82, 
-      "who": "antirez@gmail.com", 
-      "when": "2010-12-30T18:17:01+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 82, 
-      "id": "98a9abb66d2471e9ea4e657566fbd61a7f28b02b"
-    }, 
+      "id": "aa81e4d5f4b4d942b9340fd2d401e7795fa9fd1e",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-31T18:23:31+01:00",
+      "all": 123,
+      "test": 0,
+      "testable": 20,
+      "pct": 0.0
+    },
     {
-      "all": 105, 
-      "who": "antirez@gmail.com", 
-      "when": "2010-12-30T17:07:06+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 105, 
-      "id": "1fce3201145f256401bef7fde96a8c1509bcb4a7"
-    }, 
+      "id": "d934e1e85b1ec1c6d2cd07292cced53770f4a626",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-31T17:32:59+01:00",
+      "all": 234,
+      "test": 0,
+      "testable": 234,
+      "pct": 0.0
+    },
     {
-      "all": 196, 
-      "who": "antirez@gmail.com", 
-      "when": "2010-12-30T16:41:36+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 196, 
-      "id": "4ab988238f7418d018bf4412c6c956845ffbeab9"
-    }, 
+      "id": "c4b64a13954124742575d04251da8766fbd121d4",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-31T16:10:09+01:00",
+      "all": 44,
+      "test": 0,
+      "testable": 44,
+      "pct": 0.0
+    },
     {
-      "all": 93, 
-      "who": "antirez@gmail.com", 
-      "when": "2010-12-29T22:18:20+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 93, 
-      "id": "f63f0928c3e08f60f6b8557dc7c5d635834f990b"
-    }, 
+      "id": "a440ecf0d36d22305f994a4482e60099720c47f3",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-31T14:30:24+01:00",
+      "all": 69,
+      "test": 0,
+      "testable": 69,
+      "pct": 0.0
+    },
     {
-      "all": 467, 
-      "who": "antirez@gmail.com", 
-      "when": "2010-12-29T19:39:42+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 467, 
-      "id": "cea8c5cd75b88cd5a13d9b253d792cc045d28b62"
-    }, 
+      "id": "8e6bb67108f1d21ea418b6167d094752296800a7",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-31T02:39:00+01:00",
+      "all": 38,
+      "test": 0,
+      "testable": 38,
+      "pct": 0.0
+    },
     {
-      "all": 188, 
-      "who": "antirez@gmail.com", 
-      "when": "2010-12-29T16:58:57+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 188, 
-      "id": "5ef640986bc507079506bf77fd22ab31ea3f4fc4"
-    }, 
+      "id": "ad01a25553ed32b33efe036bb10450852f91478f",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-31T00:18:17+01:00",
+      "all": 50,
+      "test": 0,
+      "testable": 50,
+      "pct": 0.0
+    },
     {
-      "all": 92, 
-      "who": "antirez@gmail.com", 
-      "when": "2010-12-29T03:57:35+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 92, 
-      "id": "f34a6cd85e3327bf4fbe94ba46d6e7fefd7d61c7"
-    }, 
+      "id": "4e941ecacb976ec88c04561e2251f01db87146b3",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-30T19:20:23+01:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
     {
-      "all": 302, 
-      "who": "antirez@gmail.com", 
-      "when": "2010-12-28T20:03:21+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 302, 
-      "id": "f2da3a620ce7d9462613a93c07022bb805eb5c90"
-    }, 
+      "id": "31222292284aa518f1a1961b3b7df8e47134bac9",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-30T19:16:59+01:00",
+      "all": 91,
+      "test": 0,
+      "testable": 91,
+      "pct": 0.0
+    },
     {
-      "all": 305, 
-      "who": "antirez@gmail.com", 
-      "when": "2010-12-28T18:46:34+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 305, 
-      "id": "f081eaf1c094535458d93473aabed005f99317ce"
-    }, 
+      "id": "8d51fb6a80fb40abd0bb487d71435d3a30c2942e",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-30T18:37:46+01:00",
+      "all": 60,
+      "test": 0,
+      "testable": 60,
+      "pct": 0.0
+    },
     {
-      "all": 316, 
-      "who": "antirez@gmail.com", 
-      "when": "2010-12-28T18:06:40+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 316, 
-      "id": "16d778780eb865deefb2bfa024aef50926917eac"
-    }, 
+      "id": "98a9abb66d2471e9ea4e657566fbd61a7f28b02b",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-30T18:17:01+01:00",
+      "all": 109,
+      "test": 0,
+      "testable": 109,
+      "pct": 0.0
+    },
     {
-      "all": 162, 
-      "who": "antirez@gmail.com", 
-      "when": "2010-12-28T15:20:20+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 162, 
-      "id": "697af434fbeb2e3ba2ba9687cd283ed1a2734fa5"
-    }, 
+      "id": "82ef6ebf73cfa2470f61ce14f02eee945873828d",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-30T17:53:28+01:00",
+      "all": 21,
+      "test": 0,
+      "testable": 21,
+      "pct": 0.0
+    },
     {
-      "all": 136, 
-      "who": "antirez@gmail.com", 
-      "when": "2010-12-28T14:42:09+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 71, 
-      "id": "33388d43042273bcf96b3e364fb1432f50c2db08"
-    }, 
+      "id": "eea15afe5f38fee227bb6500f51c6208f6c8c70d",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-30T17:21:54+01:00",
+      "all": 32,
+      "test": 0,
+      "testable": 32,
+      "pct": 0.0
+    },
     {
-      "all": 79, 
-      "who": "antirez@gmail.com", 
-      "when": "2010-12-26T18:46:25+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 79, 
-      "id": "52970711cf974e7905a7fe1252be3bcffcd28d62"
-    }, 
+      "id": "1fce3201145f256401bef7fde96a8c1509bcb4a7",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-30T17:07:06+01:00",
+      "all": 156,
+      "test": 0,
+      "testable": 156,
+      "pct": 0.0
+    },
     {
-      "all": 342, 
-      "who": "antirez@gmail.com", 
-      "when": "2010-12-23T13:18:07+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 342, 
-      "id": "04a2ade90dd15db2a1e685e2e045b8c0181b9eea"
-    }, 
+      "id": "4ab988238f7418d018bf4412c6c956845ffbeab9",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-30T16:41:36+01:00",
+      "all": 221,
+      "test": 0,
+      "testable": 221,
+      "pct": 0.0
+    },
     {
-      "all": 1474, 
-      "who": "pcnoordhuis@gmail.com", 
-      "when": "2010-12-16T23:32:02+01:00", 
-      "pct": 9.0, 
-      "test": 120, 
-      "testable": 1284, 
-      "id": "a1e97d692e3b9ed3cd6c8751a70665d832199fff"
-    }, 
+      "id": "1609a1c42d8f49bada5375a8756a2ca56609ece8",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-30T15:55:24+01:00",
+      "all": 66,
+      "test": 0,
+      "testable": 66,
+      "pct": 0.0
+    },
     {
-      "all": 102, 
-      "who": "pcnoordhuis@gmail.com", 
-      "when": "2010-12-23T11:04:44+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 102, 
-      "id": "3c49070b35e0bfaa69359c73b4a7942bc0e3214d"
-    }, 
+      "id": "67b0b41c879d01a35b1fcdab88b7e70f95a3232c",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-29T23:08:18+01:00",
+      "all": 47,
+      "test": 0,
+      "testable": 41,
+      "pct": 0.0
+    },
     {
-      "all": 227, 
-      "who": "pcnoordhuis@gmail.com", 
-      "when": "2010-12-22T18:31:33+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 227, 
-      "id": "f2f2424e006856aacef00e8ce8dd7be76e038dce"
-    }, 
+      "id": "ddbc81af33d6b3cda29cedf39e5587edf33b7ec1",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-29T23:00:00+01:00",
+      "all": 80,
+      "test": 0,
+      "testable": 80,
+      "pct": 0.0
+    },
     {
-      "all": 88, 
-      "who": "antirez@gmail.com", 
-      "when": "2010-12-20T13:14:12+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 88, 
-      "id": "d841dedb5fc4b33eff47ee05f517bca9cabd7533"
-    }, 
+      "id": "f63f0928c3e08f60f6b8557dc7c5d635834f990b",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-29T22:18:20+01:00",
+      "all": 108,
+      "test": 0,
+      "testable": 108,
+      "pct": 0.0
+    },
     {
-      "all": 125, 
-      "who": "antirez@gmail.com", 
-      "when": "2010-12-15T17:39:40+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 125, 
-      "id": "180596766bb48698fda28069ae5028554caac74c"
-    }, 
+      "id": "cea8c5cd75b88cd5a13d9b253d792cc045d28b62",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-29T19:39:42+01:00",
+      "all": 583,
+      "test": 0,
+      "testable": 583,
+      "pct": 0.0
+    },
     {
-      "all": 220, 
-      "who": "pcnoordhuis@gmail.com", 
-      "when": "2010-12-17T00:19:32+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 220, 
-      "id": "1cd3c1e08c96dfe4bddd4ef73229dc7b89c4ce2a"
-    }, 
+      "id": "d021221086c9a6c5af404f3017791605b70c592d",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-29T17:02:43+01:00",
+      "all": 14,
+      "test": 0,
+      "testable": 14,
+      "pct": 0.0
+    },
     {
-      "all": 1474, 
-      "who": "pcnoordhuis@gmail.com", 
-      "when": "2010-12-16T23:32:02+01:00", 
-      "pct": 9.0, 
-      "test": 120, 
-      "testable": 1284, 
-      "id": "021321e0efc0fcc54645ee9016a229257e1d4ba7"
-    }, 
+      "id": "5ef640986bc507079506bf77fd22ab31ea3f4fc4",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-29T16:58:57+01:00",
+      "all": 280,
+      "test": 0,
+      "testable": 280,
+      "pct": 0.0
+    },
     {
-      "all": 125, 
-      "who": "antirez@gmail.com", 
-      "when": "2010-12-15T17:39:40+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 125, 
-      "id": "6418b4c790adc1373cea9e4e3342982e9a209505"
-    }, 
+      "id": "5f6e1183e7b309b3fd51698523ae424d36fe29d5",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-29T15:57:27+01:00",
+      "all": 83,
+      "test": 0,
+      "testable": 83,
+      "pct": 0.0
+    },
     {
-      "all": 219, 
-      "who": "antirez@gmail.com", 
-      "when": "2010-12-15T16:03:43+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 219, 
-      "id": "beb1aab3fddc2bd2ed241d13e8597562b2cddea9"
-    }, 
+      "id": "f34a6cd85e3327bf4fbe94ba46d6e7fefd7d61c7",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-29T03:57:35+01:00",
+      "all": 140,
+      "test": 0,
+      "testable": 140,
+      "pct": 0.0
+    },
     {
-      "all": 106, 
-      "who": "pcnoordhuis@gmail.com", 
-      "when": "2010-12-15T15:59:04+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 106, 
-      "id": "65add0a31189e6257c521df3889f6d9a6d1183f2"
-    }, 
+      "id": "f2da3a620ce7d9462613a93c07022bb805eb5c90",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-28T20:03:21+01:00",
+      "all": 314,
+      "test": 0,
+      "testable": 314,
+      "pct": 0.0
+    },
     {
-      "all": 343, 
-      "who": "antirez@gmail.com", 
-      "when": "2010-12-15T11:52:55+01:00", 
-      "pct": 42.0, 
-      "test": 145, 
-      "testable": 343, 
-      "id": "53f0efe28c4fe2f8d15286c02ccd2d83a5195fc9"
-    }, 
+      "id": "f081eaf1c094535458d93473aabed005f99317ce",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-28T18:46:34+01:00",
+      "all": 344,
+      "test": 0,
+      "testable": 344,
+      "pct": 0.0
+    },
     {
-      "all": 111, 
-      "who": "pcnoordhuis@gmail.com", 
-      "when": "2010-12-15T00:42:32+01:00", 
-      "pct": 27.0, 
-      "test": 31, 
-      "testable": 111, 
-      "id": "30407e1f4fc290468f3d8ec31cb933402767568d"
-    }, 
+      "id": "16d778780eb865deefb2bfa024aef50926917eac",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-28T18:06:40+01:00",
+      "all": 436,
+      "test": 0,
+      "testable": 436,
+      "pct": 0.0
+    },
     {
-      "all": 92, 
-      "who": "antirez@gmail.com", 
-      "when": "2010-12-14T17:53:28+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 76, 
-      "id": "cc7c4158bc9c584b91560e9bf3dff51a9316c9b3"
-    }, 
+      "id": "697af434fbeb2e3ba2ba9687cd283ed1a2734fa5",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-28T15:20:20+01:00",
+      "all": 250,
+      "test": 0,
+      "testable": 250,
+      "pct": 0.0
+    },
     {
-      "all": 500, 
-      "who": "antirez@gmail.com", 
-      "when": "2010-12-14T17:42:46+01:00", 
-      "pct": 4.0, 
-      "test": 23, 
-      "testable": 500, 
-      "id": "603e616bf4e09cdbbfeaf77a5e2a02876c229c35"
-    }, 
+      "id": "33388d43042273bcf96b3e364fb1432f50c2db08",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-28T14:42:09+01:00",
+      "all": 165,
+      "test": 0,
+      "testable": 92,
+      "pct": 0.0
+    },
     {
-      "all": 599, 
-      "who": "antirez@gmail.com", 
-      "when": "2010-12-14T17:42:01+01:00", 
-      "pct": 33.0, 
-      "test": 200, 
-      "testable": 599, 
-      "id": "57997664eaba82ad263c61b9cdbe7dd26ec8d08d"
-    }, 
+      "id": "52970711cf974e7905a7fe1252be3bcffcd28d62",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-26T18:46:25+01:00",
+      "all": 112,
+      "test": 0,
+      "testable": 112,
+      "pct": 0.0
+    },
     {
-      "all": 508, 
-      "who": "antirez@gmail.com", 
-      "when": "2010-12-14T16:26:37+01:00", 
-      "pct": 10.0, 
-      "test": 51, 
-      "testable": 508, 
-      "id": "f858c11d7d9ca79010dd46a9c8c625e63a9a3ec0"
-    }, 
+      "id": "04a2ade90dd15db2a1e685e2e045b8c0181b9eea",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-23T13:18:07+01:00",
+      "all": 379,
+      "test": 0,
+      "testable": 379,
+      "pct": 0.0
+    },
     {
-      "all": 95, 
-      "who": "pcnoordhuis@gmail.com", 
-      "when": "2010-12-14T15:10:58+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 95, 
-      "id": "ef11bccccac22a001e2d0a6f440dddf69c401954"
-    }, 
+      "id": "8ce39260a4acfedea5ee8f9143d2d2a9ce82b498",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-23T11:25:56+00:00",
+      "all": 66,
+      "test": 0,
+      "testable": 66,
+      "pct": 0.0
+    },
     {
-      "all": 95, 
-      "who": "pcnoordhuis@gmail.com", 
-      "when": "2010-12-14T14:20:51+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 95, 
-      "id": "9f9e1ceaa0d4451a21aa56739e63cca012399317"
-    }, 
+      "id": "89191613f118bcb286d4d7309564f542e957769d",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-23T11:14:05+00:00",
+      "all": 6,
+      "test": 0,
+      "testable": 6,
+      "pct": 0.0
+    },
     {
-      "all": 84, 
-      "who": "antirez@gmail.com", 
-      "when": "2010-12-14T12:10:51+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 84, 
-      "id": "8c304be359f15151ed8fe3e5ff61b0238881358d"
-    }, 
+      "id": "65b472acceaf1c359ae22a410fc608c5fb311ffa",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-23T11:09:07+00:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
     {
-      "all": 336, 
-      "who": "antirez@gmail.com", 
-      "when": "2010-12-10T17:24:03+01:00", 
-      "pct": 100.0, 
-      "test": 336, 
-      "testable": 336, 
-      "id": "d6107fd6f194f568bd0fec3230cae83973de929d"
-    }, 
+      "id": "a1e97d692e3b9ed3cd6c8751a70665d832199fff",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-16T23:32:02+01:00",
+      "all": 1651,
+      "test": 204,
+      "testable": 1450,
+      "pct": 14.1
+    },
     {
-      "all": 337, 
-      "who": "pcnoordhuis@gmail.com", 
-      "when": "2010-12-10T16:13:21+01:00", 
-      "pct": 100.0, 
-      "test": 337, 
-      "testable": 337, 
-      "id": "6f8a32d5c71350afa1b64f2b77667e94b8e9773a"
-    }, 
+      "id": "2380388974bd0256e1b123d608940355144e9fd4",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-23T11:22:40+01:00",
+      "all": 80,
+      "test": 0,
+      "testable": 80,
+      "pct": 0.0
+    },
     {
-      "all": 88, 
-      "who": "antirez@gmail.com", 
-      "when": "2010-12-10T15:17:55+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 88, 
-      "id": "3d24304ff930fd3392a63b79ed6037ebab94b742"
-    }, 
+      "id": "3c49070b35e0bfaa69359c73b4a7942bc0e3214d",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-23T11:04:44+01:00",
+      "all": 112,
+      "test": 0,
+      "testable": 112,
+      "pct": 0.0
+    },
     {
-      "all": 104, 
-      "who": "pcnoordhuis@gmail.com", 
-      "when": "2010-12-10T11:58:14+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 104, 
-      "id": "eae33c1c813953e27dc37dfe7c3dcc246fda294f"
-    }, 
+      "id": "d69a483556e7bcd8642723482bd1de1cc5a10ff4",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-22T18:39:52+01:00",
+      "all": 18,
+      "test": 0,
+      "testable": 18,
+      "pct": 0.0
+    },
     {
-      "all": 177, 
-      "who": "antirez@gmail.com", 
-      "when": "2010-12-09T21:11:56+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 177, 
-      "id": "1b508da7ca7cb8e999a557bd0bf18875e0a40972"
-    }, 
+      "id": "f2f2424e006856aacef00e8ce8dd7be76e038dce",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-22T18:31:33+01:00",
+      "all": 245,
+      "test": 0,
+      "testable": 245,
+      "pct": 0.0
+    },
     {
-      "all": 91, 
-      "who": "jonah.harris@gmail.com", 
-      "when": "2010-12-09T11:10:21-05:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 75, 
-      "id": "e1a586ee69a15dd15afbba8e25f8eb62bbb22da9"
-    }, 
+      "id": "d3e5e28804bd3cfd038d95a1ffd85a92941bc788",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-20T15:47:33+01:00",
+      "all": 25,
+      "test": 0,
+      "testable": 16,
+      "pct": 0.0
+    },
     {
-      "all": 232, 
-      "who": "pcnoordhuis@gmail.com", 
-      "when": "2010-12-09T16:39:33+01:00", 
-      "pct": 37.0, 
-      "test": 86, 
-      "testable": 232, 
-      "id": "3c1bf4957e4c8aacd962a859e16cbcf2596f4edb"
-    }, 
+      "id": "d841dedb5fc4b33eff47ee05f517bca9cabd7533",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-20T13:14:12+01:00",
+      "all": 102,
+      "test": 0,
+      "testable": 102,
+      "pct": 0.0
+    },
     {
-      "all": 74, 
-      "who": "antirez@gmail.com", 
-      "when": "2010-12-09T10:21:02+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 74, 
-      "id": "a5be65f71c927601260f4518236cbc7bc3d87965"
-    }, 
+      "id": "180596766bb48698fda28069ae5028554caac74c",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-15T17:39:40+01:00",
+      "all": 166,
+      "test": 0,
+      "testable": 157,
+      "pct": 0.0
+    },
     {
-      "all": 94, 
-      "who": "antirez@gmail.com", 
-      "when": "2010-12-07T16:33:13+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 94, 
-      "id": "d51ebef5090624a3ba0824fa697410deaff1d1fa"
-    }, 
+      "id": "f21779ff36947fe22e6fc3f00d4bd73185557190",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-19T15:15:08+01:00",
+      "all": 80,
+      "test": 0,
+      "testable": 80,
+      "pct": 0.0
+    },
     {
-      "all": 1039, 
-      "who": "pcnoordhuis@gmail.com", 
-      "when": "2010-12-06T12:31:56+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 1032, 
-      "id": "bc8ffafeb9bb5b272e118400df55157db41ad897"
+      "id": "9d7165e885b3de44577dea2917bb4f3afa2ed335",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-19T12:22:12+01:00",
+      "all": 22,
+      "test": 0,
+      "testable": 22,
+      "pct": 0.0
+    },
+    {
+      "id": "f474a5bd4e80157235dac13326edaa99181fb120",
+      "who": "didier.06@gmail.com",
+      "when": "2010-12-18T10:58:50+01:00",
+      "all": 24,
+      "test": 0,
+      "testable": 24,
+      "pct": 0.0
+    },
+    {
+      "id": "1cd3c1e08c96dfe4bddd4ef73229dc7b89c4ce2a",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-17T00:19:32+01:00",
+      "all": 234,
+      "test": 0,
+      "testable": 234,
+      "pct": 0.0
+    },
+    {
+      "id": "174df6fe497898a9645fdafdf56807f6438b9978",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-16T23:41:58+01:00",
+      "all": 55,
+      "test": 0,
+      "testable": 55,
+      "pct": 0.0
+    },
+    {
+      "id": "53f1d81712ff66d0343647af2f15308ea7e89d30",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-16T23:35:02+01:00",
+      "all": 24,
+      "test": 0,
+      "testable": 24,
+      "pct": 0.0
+    },
+    {
+      "id": "021321e0efc0fcc54645ee9016a229257e1d4ba7",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-16T23:32:02+01:00",
+      "all": 1651,
+      "test": 204,
+      "testable": 1450,
+      "pct": 14.1
+    },
+    {
+      "id": "6418b4c790adc1373cea9e4e3342982e9a209505",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-15T17:39:40+01:00",
+      "all": 166,
+      "test": 0,
+      "testable": 157,
+      "pct": 0.0
+    },
+    {
+      "id": "401c3e213c89d98bbeda399b4e17fbd636b80ac0",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-15T16:07:49+01:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "beb1aab3fddc2bd2ed241d13e8597562b2cddea9",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-15T16:03:43+01:00",
+      "all": 303,
+      "test": 0,
+      "testable": 303,
+      "pct": 0.0
+    },
+    {
+      "id": "28c07c7bf80709e7e0be5cac1bbb280cea439272",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-15T16:02:07+01:00",
+      "all": 20,
+      "test": 0,
+      "testable": 20,
+      "pct": 0.0
+    },
+    {
+      "id": "65add0a31189e6257c521df3889f6d9a6d1183f2",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-15T15:59:04+01:00",
+      "all": 197,
+      "test": 0,
+      "testable": 197,
+      "pct": 0.0
+    },
+    {
+      "id": "2136a880a7edb1cc5b7d9b1a6e0f665f1ba5fed8",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-15T15:22:04+01:00",
+      "all": 4,
+      "test": 0,
+      "testable": 4,
+      "pct": 0.0
+    },
+    {
+      "id": "f18e059e8270a3b1889aa621fa6565dcf6be5f1c",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-15T14:58:18+01:00",
+      "all": 71,
+      "test": 0,
+      "testable": 71,
+      "pct": 0.0
+    },
+    {
+      "id": "c392edf5315b9828414c96f14255c38c52252a4a",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-15T14:34:01+01:00",
+      "all": 48,
+      "test": 0,
+      "testable": 48,
+      "pct": 0.0
+    },
+    {
+      "id": "53f0efe28c4fe2f8d15286c02ccd2d83a5195fc9",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-15T11:52:55+01:00",
+      "all": 360,
+      "test": 154,
+      "testable": 360,
+      "pct": 42.8
+    },
+    {
+      "id": "7d5f5712d948b19d0778e4ef53a27d213aff7bdc",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-15T11:49:39+01:00",
+      "all": 28,
+      "test": 28,
+      "testable": 28,
+      "pct": 100.0
+    },
+    {
+      "id": "ad1b4f4f59e653ac310ee0afb847daeb4f19fbfd",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-15T11:49:04+01:00",
+      "all": 44,
+      "test": 0,
+      "testable": 44,
+      "pct": 0.0
+    },
+    {
+      "id": "1333f98dd2ff2aae4e4c2a9a43d7b83a0b1af8aa",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-15T11:40:36+01:00",
+      "all": 49,
+      "test": 0,
+      "testable": 49,
+      "pct": 0.0
+    },
+    {
+      "id": "8f8eeffec1fe1c0d40b6d078121661d7cfb02c08",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-15T11:30:50+01:00",
+      "all": 97,
+      "test": 63,
+      "testable": 97,
+      "pct": 64.9
+    },
+    {
+      "id": "e983cf34be97ac01448f331b9c106f8b9ce55889",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-15T11:20:54+01:00",
+      "all": 26,
+      "test": 26,
+      "testable": 26,
+      "pct": 100.0
+    },
+    {
+      "id": "180e07b8c0fb63b437d5c5af72843e34f1cd5e4c",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-15T11:04:04+01:00",
+      "all": 10,
+      "test": 10,
+      "testable": 10,
+      "pct": 100.0
+    },
+    {
+      "id": "7982173fef8bd6de9805e782edb9aa827184b010",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-15T10:44:36+01:00",
+      "all": 33,
+      "test": 33,
+      "testable": 33,
+      "pct": 100.0
+    },
+    {
+      "id": "eae9cce166dbb896eabda3c7bd37bd0bca0b2311",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-15T10:14:34+01:00",
+      "all": 75,
+      "test": 75,
+      "testable": 75,
+      "pct": 100.0
+    },
+    {
+      "id": "30407e1f4fc290468f3d8ec31cb933402767568d",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-15T00:42:32+01:00",
+      "all": 127,
+      "test": 43,
+      "testable": 127,
+      "pct": 33.9
+    },
+    {
+      "id": "6a246b1e7e9df7d7c104545d6d99819c6842511a",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-14T18:23:52+01:00",
+      "all": 35,
+      "test": 0,
+      "testable": 14,
+      "pct": 0.0
+    },
+    {
+      "id": "cc7c4158bc9c584b91560e9bf3dff51a9316c9b3",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-14T17:53:28+01:00",
+      "all": 151,
+      "test": 0,
+      "testable": 133,
+      "pct": 0.0
+    },
+    {
+      "id": "8e33831b2b93d6d0a324ca01c6934197887276d8",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-14T17:48:52+01:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "648e9654604e1d2c6191e3aceb938da4e1c031b2",
+      "who": "antirez@metal.(none)",
+      "when": "2010-12-14T17:46:20+01:00",
+      "all": 14,
+      "test": 0,
+      "testable": 14,
+      "pct": 0.0
+    },
+    {
+      "id": "603e616bf4e09cdbbfeaf77a5e2a02876c229c35",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-14T17:42:46+01:00",
+      "all": 651,
+      "test": 143,
+      "testable": 651,
+      "pct": 22.0
+    },
+    {
+      "id": "57997664eaba82ad263c61b9cdbe7dd26ec8d08d",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-14T17:42:01+01:00",
+      "all": 688,
+      "test": 274,
+      "testable": 688,
+      "pct": 39.8
+    },
+    {
+      "id": "2b2eca1f5643260ae7ca6bec70c263ff0db5a8e3",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-14T17:39:34+01:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "96b5d05fdea63040036c6ed0ae9b9b1cb94e2fc0",
+      "who": "antirez@metal.(none)",
+      "when": "2010-12-14T16:39:33+01:00",
+      "all": 23,
+      "test": 0,
+      "testable": 23,
+      "pct": 0.0
+    },
+    {
+      "id": "f858c11d7d9ca79010dd46a9c8c625e63a9a3ec0",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-14T16:26:37+01:00",
+      "all": 628,
+      "test": 143,
+      "testable": 628,
+      "pct": 22.8
+    },
+    {
+      "id": "d8f160a848b2d10615918668eddbbb1fe415bd85",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-14T15:35:35+01:00",
+      "all": 70,
+      "test": 70,
+      "testable": 70,
+      "pct": 100.0
+    },
+    {
+      "id": "ef11bccccac22a001e2d0a6f440dddf69c401954",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-14T15:10:58+01:00",
+      "all": 208,
+      "test": 86,
+      "testable": 208,
+      "pct": 41.3
+    },
+    {
+      "id": "9f9e1ceaa0d4451a21aa56739e63cca012399317",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-14T14:20:51+01:00",
+      "all": 227,
+      "test": 110,
+      "testable": 227,
+      "pct": 48.5
+    },
+    {
+      "id": "8c304be359f15151ed8fe3e5ff61b0238881358d",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-14T12:10:51+01:00",
+      "all": 130,
+      "test": 0,
+      "testable": 130,
+      "pct": 0.0
+    },
+    {
+      "id": "7ecd4644e7fe48309d4b8445ec62c7fe8c0443ff",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-14T10:31:11+01:00",
+      "all": 19,
+      "test": 0,
+      "testable": 19,
+      "pct": 0.0
+    },
+    {
+      "id": "5ce3a24dbaec87d3fc38c52cb2bcd631dff1a968",
+      "who": "antirez@metal.(none)",
+      "when": "2010-12-10T19:22:13+01:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "afd438dfff7112bec97b62640b6a2c4ec73fcf4e",
+      "who": "antirez@metal.(none)",
+      "when": "2010-12-10T19:15:00+01:00",
+      "all": 27,
+      "test": 0,
+      "testable": 27,
+      "pct": 0.0
+    },
+    {
+      "id": "d6107fd6f194f568bd0fec3230cae83973de929d",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-10T17:24:03+01:00",
+      "all": 383,
+      "test": 383,
+      "testable": 383,
+      "pct": 100.0
+    },
+    {
+      "id": "a15742a41b30b742d58f4ed260a4a36f02bdd9ac",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-10T17:23:38+01:00",
+      "all": 11,
+      "test": 0,
+      "testable": 11,
+      "pct": 0.0
+    },
+    {
+      "id": "b215a496a4fcab6b198ce4344b4c1b94c5b1eb12",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-10T17:03:38+01:00",
+      "all": 26,
+      "test": 0,
+      "testable": 26,
+      "pct": 0.0
+    },
+    {
+      "id": "6f8a32d5c71350afa1b64f2b77667e94b8e9773a",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-10T16:13:21+01:00",
+      "all": 383,
+      "test": 383,
+      "testable": 383,
+      "pct": 100.0
+    },
+    {
+      "id": "dd48de748ce6f86727f509096c76e51faadd2019",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-10T15:47:01+01:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "4b918769a1d89e08c88d570913a5911f7d891efe",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-10T15:40:48+01:00",
+      "all": 20,
+      "test": 20,
+      "testable": 20,
+      "pct": 100.0
+    },
+    {
+      "id": "3d24304ff930fd3392a63b79ed6037ebab94b742",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-10T15:17:55+01:00",
+      "all": 152,
+      "test": 0,
+      "testable": 152,
+      "pct": 0.0
+    },
+    {
+      "id": "cc209063904ed5d86a34b2297ceac00854ff6c01",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-10T12:16:16+01:00",
+      "all": 40,
+      "test": 0,
+      "testable": 40,
+      "pct": 0.0
+    },
+    {
+      "id": "586500c0ef32f480dba9bc10aedb3f72bd525118",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-10T12:06:24+01:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "eae33c1c813953e27dc37dfe7c3dcc246fda294f",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-10T11:58:14+01:00",
+      "all": 142,
+      "test": 16,
+      "testable": 142,
+      "pct": 11.3
+    },
+    {
+      "id": "1b508da7ca7cb8e999a557bd0bf18875e0a40972",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-09T21:11:56+01:00",
+      "all": 274,
+      "test": 0,
+      "testable": 274,
+      "pct": 0.0
+    },
+    {
+      "id": "8b5db0a8dcf24f8693a99b795c1968338f41be8a",
+      "who": "jonah.harris@gmail.com",
+      "when": "2010-12-09T11:26:33-05:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "076f88d65769788113c8d4db582a7b3ec8d0fefa",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-09T17:16:10+01:00",
+      "all": 67,
+      "test": 9,
+      "testable": 67,
+      "pct": 13.4
+    },
+    {
+      "id": "e1a586ee69a15dd15afbba8e25f8eb62bbb22da9",
+      "who": "jonah.harris@gmail.com",
+      "when": "2010-12-09T11:10:21-05:00",
+      "all": 155,
+      "test": 0,
+      "testable": 137,
+      "pct": 0.0
+    },
+    {
+      "id": "3c1bf4957e4c8aacd962a859e16cbcf2596f4edb",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-09T16:39:33+01:00",
+      "all": 246,
+      "test": 90,
+      "testable": 246,
+      "pct": 36.6
+    },
+    {
+      "id": "a5be65f71c927601260f4518236cbc7bc3d87965",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-09T10:21:02+01:00",
+      "all": 147,
+      "test": 0,
+      "testable": 147,
+      "pct": 0.0
+    },
+    {
+      "id": "d51ebef5090624a3ba0824fa697410deaff1d1fa",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-07T16:33:13+01:00",
+      "all": 158,
+      "test": 0,
+      "testable": 158,
+      "pct": 0.0
+    },
+    {
+      "id": "a4ce7581553b1f4e29a7ed2141add788e56142c5",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-06T16:39:39+01:00",
+      "all": 72,
+      "test": 0,
+      "testable": 72,
+      "pct": 0.0
+    },
+    {
+      "id": "ecf940141501e47dcc8dfecbc84a4e3f6ee7b0d3",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-06T16:04:42+01:00",
+      "all": 38,
+      "test": 28,
+      "testable": 38,
+      "pct": 73.7
+    },
+    {
+      "id": "8a88c368edbc12540eee3d129b8a017bd6a84cac",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-06T16:04:10+01:00",
+      "all": 100,
+      "test": 22,
+      "testable": 100,
+      "pct": 22.0
+    },
+    {
+      "id": "ac06fc011df598372232a5dc1805683004240c0d",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-06T14:48:58+01:00",
+      "all": 87,
+      "test": 0,
+      "testable": 87,
+      "pct": 0.0
+    },
+    {
+      "id": "5fa95ad7639ae3f43e175d95a7d6384e4723b80e",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-06T14:05:01+01:00",
+      "all": 57,
+      "test": 0,
+      "testable": 57,
+      "pct": 0.0
+    },
+    {
+      "id": "c8a0070a611011c706e67da52a7f17ebfc0c0c1a",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-06T13:45:48+01:00",
+      "all": 69,
+      "test": 0,
+      "testable": 69,
+      "pct": 0.0
+    },
+    {
+      "id": "bc8ffafeb9bb5b272e118400df55157db41ad897",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2010-12-06T12:31:56+01:00",
+      "all": 1177,
+      "test": 0,
+      "testable": 1055,
+      "pct": 0.0
+    },
+    {
+      "id": "bbac56c2f823a6ab2170e1b00b93a620188b76da",
+      "who": "antirez@gmail.com",
+      "when": "2010-12-01T11:18:59+01:00",
+      "all": 75,
+      "test": 0,
+      "testable": 75,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

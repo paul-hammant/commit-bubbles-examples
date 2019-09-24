@@ -1,24 +1,24 @@
 {
   "commits": [
     {
-      "all": 129, 
-      "who": "guilherme.silveira@caelum.com.br", 
-      "when": "2006-06-28T16:02:44+00:00", 
-      "pct": 59.0, 
-      "test": 77, 
-      "testable": 129, 
-      "id": "24ae7676cac603887a75d412418c8726fabe4ff3"
-    }, 
+      "id": "24ae7676cac603887a75d412418c8726fabe4ff3",
+      "who": "guilherme.silveira@caelum.com.br",
+      "when": "2006-06-28T16:02:44+00:00",
+      "all": 251,
+      "test": 197,
+      "testable": 251,
+      "pct": 78.5
+    },
     {
-      "all": 1047, 
-      "who": "guilherme.silveira@caelum.com.br", 
-      "when": "2006-06-28T15:40:12+00:00", 
-      "pct": 44.0, 
-      "test": 467, 
-      "testable": 1047, 
-      "id": "8d76c4d8e2771cba96f7529ffed281d364e41311"
+      "id": "8d76c4d8e2771cba96f7529ffed281d364e41311",
+      "who": "guilherme.silveira@caelum.com.br",
+      "when": "2006-06-28T15:40:12+00:00",
+      "all": 1180,
+      "test": 588,
+      "testable": 1180,
+      "pct": 49.8
     }
-  ], 
-  "description": "XStream (master branch)", 
+  ],
+  "description": "XStream (master branch)",
   "baseURL": "https://github.com/x-stream/xstream/commit/"
 }

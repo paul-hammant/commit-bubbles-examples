@@ -1,24 +1,33 @@
 {
   "commits": [
     {
-      "all": 49, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2016-03-06T00:36:28+01:00", 
-      "pct": 12.0, 
-      "test": 4, 
-      "testable": 33, 
-      "id": "ad6331817a3c05064b1b70a97039b02cc76a6a3f"
-    }, 
+      "id": "3ef6f4ab2d7cc01b366ddc5547555a1757ebd3fb",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2016-03-09T23:45:45+01:00",
+      "all": 20,
+      "test": 0,
+      "testable": 20,
+      "pct": 0.0
+    },
     {
-      "all": 46, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2016-03-07T00:27:44+01:00", 
-      "pct": 10.0, 
-      "test": 4, 
-      "testable": 39, 
-      "id": "b0a2ea38633f6c136f726628641b779ba70484f9"
+      "id": "ad6331817a3c05064b1b70a97039b02cc76a6a3f",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2016-03-06T00:36:28+01:00",
+      "all": 86,
+      "test": 35,
+      "testable": 67,
+      "pct": 52.2
+    },
+    {
+      "id": "b0a2ea38633f6c136f726628641b779ba70484f9",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2016-03-07T00:27:44+01:00",
+      "all": 79,
+      "test": 30,
+      "testable": 70,
+      "pct": 42.9
     }
-  ], 
-  "description": "XStream (master branch)", 
+  ],
+  "description": "XStream (master branch)",
   "baseURL": "https://github.com/x-stream/xstream/commit/"
 }

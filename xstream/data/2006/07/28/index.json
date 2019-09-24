@@ -1,24 +1,42 @@
 {
   "commits": [
     {
-      "all": 236, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2006-07-28T21:12:31+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 236, 
-      "id": "92bd19ce1d46342cd8d87bf1663db7dd2719f1d4"
-    }, 
+      "id": "92bd19ce1d46342cd8d87bf1663db7dd2719f1d4",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-07-28T21:12:31+00:00",
+      "all": 331,
+      "test": 0,
+      "testable": 331,
+      "pct": 0.0
+    },
     {
-      "all": 382, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2006-07-28T20:36:05+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 382, 
-      "id": "deec01beaa1bd878f7acda9f035a39238a217ae9"
+      "id": "deec01beaa1bd878f7acda9f035a39238a217ae9",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-07-28T20:36:05+00:00",
+      "all": 471,
+      "test": 11,
+      "testable": 471,
+      "pct": 2.3
+    },
+    {
+      "id": "d71951ccb0c05152bf2a74d81ff8e68ccba87ef3",
+      "who": "guilherme.silveira@caelum.com.br",
+      "when": "2006-07-28T16:50:27+00:00",
+      "all": 54,
+      "test": 0,
+      "testable": 54,
+      "pct": 0.0
+    },
+    {
+      "id": "d925ce0630d205659c74171b2c6d55809ee297ca",
+      "who": "guilherme.silveira@caelum.com.br",
+      "when": "2006-07-28T15:34:13+00:00",
+      "all": 34,
+      "test": 34,
+      "testable": 34,
+      "pct": 100.0
     }
-  ], 
-  "description": "XStream (master branch)", 
+  ],
+  "description": "XStream (master branch)",
   "baseURL": "https://github.com/x-stream/xstream/commit/"
 }

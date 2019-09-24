@@ -1,24 +1,33 @@
 {
   "commits": [
     {
-      "all": 125, 
-      "who": "antirez@gmail.com", 
-      "when": "2014-04-22T16:14:38+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 125, 
-      "id": "20c040d364e2af83a55e70af01663f46f22e1c28"
-    }, 
+      "id": "a69178fdd2df5a0045a49f89ac24e4f91c2a89cf",
+      "who": "kingsumos@gmail.com",
+      "when": "2014-04-22T11:44:53-04:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
     {
-      "all": 2564, 
-      "who": "yoav@monfort.co.il", 
-      "when": "2014-04-22T10:01:21+03:00", 
-      "pct": 9.0, 
-      "test": 241, 
-      "testable": 2544, 
-      "id": "fdaab0234787d1bb835680825ea919d7cba3723e"
+      "id": "20c040d364e2af83a55e70af01663f46f22e1c28",
+      "who": "antirez@gmail.com",
+      "when": "2014-04-22T16:14:38+02:00",
+      "all": 172,
+      "test": 0,
+      "testable": 172,
+      "pct": 0.0
+    },
+    {
+      "id": "fdaab0234787d1bb835680825ea919d7cba3723e",
+      "who": "yoav@monfort.co.il",
+      "when": "2014-04-22T10:01:21+03:00",
+      "all": 2680,
+      "test": 287,
+      "testable": 2658,
+      "pct": 10.8
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

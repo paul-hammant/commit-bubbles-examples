@@ -1,42 +1,33 @@
 {
   "commits": [
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2019-05-07T10:25:13+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "f674e83215af5f15096bf53a27de6c4ccf21faae"
-    }, 
+      "id": "f674e83215af5f15096bf53a27de6c4ccf21faae",
+      "who": "antirez@gmail.com",
+      "when": "2019-05-07T10:25:13+02:00",
+      "all": 17,
+      "test": 0,
+      "testable": 17,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "zhaozhao.zz@alibaba-inc.com", 
-      "when": "2019-05-07T15:59:16+08:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "48d591a010bbe4cf0c09a4d84a55ee3f31e5664f"
-    }, 
+      "id": "48d591a010bbe4cf0c09a4d84a55ee3f31e5664f",
+      "who": "zhaozhao.zz@alibaba-inc.com",
+      "when": "2019-05-07T15:59:16+08:00",
+      "all": 17,
+      "test": 0,
+      "testable": 17,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "qiaochenzhi@gmail.com", 
-      "when": "2019-05-07T14:22:40+08:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "d9d3d3065ba3f6fc941fc6886da8392193d0cb41"
-    }, 
-    {
-      "all": 0, 
-      "who": "zhaozhao.zz@alibaba-inc.com", 
-      "when": "2019-05-07T13:35:27+08:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "340a723b87eff9df140bfb1de239ea65e318fee1"
+      "id": "d9d3d3065ba3f6fc941fc6886da8392193d0cb41",
+      "who": "qiaochenzhi@gmail.com",
+      "when": "2019-05-07T14:22:40+08:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

@@ -1,15 +1,42 @@
 {
   "commits": [
     {
-      "all": 96, 
-      "who": "antirez@gmail.com", 
-      "when": "2014-12-12T22:56:33+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 96, 
-      "id": "66e2bdf21021a787e959c943ba453e56f9787093"
+      "id": "f2858dc8dc87499d64f71cadf681d3a8dda777f8",
+      "who": "antirez@gmail.com",
+      "when": "2014-12-12T22:57:29+01:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "66e2bdf21021a787e959c943ba453e56f9787093",
+      "who": "antirez@gmail.com",
+      "when": "2014-12-12T22:56:33+01:00",
+      "all": 122,
+      "test": 0,
+      "testable": 122,
+      "pct": 0.0
+    },
+    {
+      "id": "67e8061b17b6bdff9bd44a0a62df6c1dd748e4d1",
+      "who": "antirez@gmail.com",
+      "when": "2014-12-12T18:42:44+01:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "7ef1239bd1793da9fec1f9e572a3dc522f2aee9f",
+      "who": "clark.kang@kakao.com",
+      "when": "2014-12-12T12:02:39+09:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

@@ -1,132 +1,987 @@
 {
   "commits": [
     {
-      "all": 173, 
-      "who": "artix2@gmail.com", 
-      "when": "2018-10-25T17:38:17+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 173, 
-      "id": "5fd5799cf91fb8612d03a4d4292f25cfc73e1f84"
-    }, 
+      "id": "5fd5799cf91fb8612d03a4d4292f25cfc73e1f84",
+      "who": "artix2@gmail.com",
+      "when": "2018-10-25T17:38:17+02:00",
+      "all": 191,
+      "test": 0,
+      "testable": 191,
+      "pct": 0.0
+    },
     {
-      "all": 138, 
-      "who": "artix2@gmail.com", 
-      "when": "2018-10-23T16:14:45+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 138, 
-      "id": "2e9859cbfc204b8a76275e0dcc0ff87c10db2792"
-    }, 
+      "id": "2e9859cbfc204b8a76275e0dcc0ff87c10db2792",
+      "who": "artix2@gmail.com",
+      "when": "2018-10-23T16:14:45+02:00",
+      "all": 191,
+      "test": 0,
+      "testable": 191,
+      "pct": 0.0
+    },
     {
-      "all": 60, 
-      "who": "antirez@gmail.com", 
-      "when": "2018-10-31T16:36:12+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 60, 
-      "id": "edce5150bf56df76fd7ca41c595a63a145550ed8"
-    }, 
+      "id": "be3a9dbb6fede6ab6b9bd6b1d2efae07543df1e8",
+      "who": "artix2@gmail.com",
+      "when": "2018-10-08T16:55:56+02:00",
+      "all": 21,
+      "test": 0,
+      "testable": 21,
+      "pct": 0.0
+    },
     {
-      "all": 62, 
-      "who": "gkorland@gmail.com", 
-      "when": "2018-10-31T17:33:53+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 62, 
-      "id": "48d8b3d8ac8de4db033d8836986065b8a41e01dc"
-    }, 
+      "id": "ab270a977785df58461efb4a58f127193e387b13",
+      "who": "artix2@gmail.com",
+      "when": "2018-10-08T16:21:41+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
     {
-      "all": 80, 
-      "who": "antirez@gmail.com", 
-      "when": "2018-10-24T12:23:59+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 80, 
-      "id": "3c89fb5ffd59c701071952fd89e58fefd0a84920"
-    }, 
+      "id": "edce5150bf56df76fd7ca41c595a63a145550ed8",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-31T16:36:12+01:00",
+      "all": 90,
+      "test": 0,
+      "testable": 90,
+      "pct": 0.0
+    },
     {
-      "all": 70, 
-      "who": "antirez@gmail.com", 
-      "when": "2018-10-22T17:41:43+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 70, 
-      "id": "0f18d8e0ed529bbb4699c8b2072656019a0dd726"
-    }, 
+      "id": "48d8b3d8ac8de4db033d8836986065b8a41e01dc",
+      "who": "gkorland@gmail.com",
+      "when": "2018-10-31T17:33:53+02:00",
+      "all": 90,
+      "test": 0,
+      "testable": 90,
+      "pct": 0.0
+    },
     {
-      "all": 85, 
-      "who": "zhaozhao.zz@alibaba-inc.com", 
-      "when": "2018-10-19T18:00:57+08:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 85, 
-      "id": "7ab9cba59bb8999d80d90571632fc37bac67c165"
-    }, 
+      "id": "fa675256c127963c74ea68f8bab22ef105bada02",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-31T12:56:47+01:00",
+      "all": 39,
+      "test": 0,
+      "testable": 39,
+      "pct": 0.0
+    },
     {
-      "all": 105, 
-      "who": "antirez@gmail.com", 
-      "when": "2018-10-17T12:57:15+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 105, 
-      "id": "ad78b50f62c88b6396c5ee86cda89fc2313f77af"
-    }, 
+      "id": "666b3437e684ae4ebe382006031d920c70c11275",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-31T12:37:48+01:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
     {
-      "all": 92, 
-      "who": "antirez@gmail.com", 
-      "when": "2018-10-16T13:17:14+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 92, 
-      "id": "e3446fea9eab842415ca3a3bffee0ba2745c78e5"
-    }, 
+      "id": "06a4acb7d36a51206507b88984678d91b5db2645",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-31T11:46:28+01:00",
+      "all": 14,
+      "test": 0,
+      "testable": 14,
+      "pct": 0.0
+    },
     {
-      "all": 174, 
-      "who": "antirez@gmail.com", 
-      "when": "2018-10-16T13:10:36+02:00", 
-      "pct": 17.0, 
-      "test": 30, 
-      "testable": 174, 
-      "id": "af09df08d79b45302bd2d5de5d7086b18778eb44"
-    }, 
+      "id": "6204d8c1395939c449dcc4a81466e77cfd8974d7",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-31T11:42:04+01:00",
+      "all": 14,
+      "test": 0,
+      "testable": 14,
+      "pct": 0.0
+    },
     {
-      "all": 429, 
-      "who": "antirez@gmail.com", 
-      "when": "2018-10-13T14:17:32+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 429, 
-      "id": "f54cde3a15f3ad0850215c22f3f7b628bf1f817c"
-    }, 
+      "id": "0c875c7751e3672f20225ab3b20fdb0322a8e4ad",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-30T13:38:41+01:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
     {
-      "all": 65, 
-      "who": "antirez@gmail.com", 
-      "when": "2018-10-10T12:51:02+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 65, 
-      "id": "c9d9ae7baaf717607db3d4ad81597dc99d0c002c"
-    }, 
+      "id": "f1408b1729c06332b2737dd874eb2132ef010db4",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-29T18:25:14+01:00",
+      "all": 53,
+      "test": 0,
+      "testable": 53,
+      "pct": 0.0
+    },
     {
-      "all": 73, 
-      "who": "antirez@gmail.com", 
-      "when": "2018-10-09T13:15:41+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 73, 
-      "id": "69c30965eb15ed86acadd8e9db79feb7b7633497"
-    }, 
+      "id": "ae3bfe583e2f6c0c0cab02cd6fbbcaee86a3ba5b",
+      "who": "devnexen@gmail.com",
+      "when": "2018-10-26T14:12:47+00:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
     {
-      "all": 75, 
-      "who": "antirez@gmail.com", 
-      "when": "2018-10-08T12:00:00+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 75, 
-      "id": "e5f1de144807373b2f42f82bb44829a8a4cc85cd"
+      "id": "0b73d0a8d2b3cb36127ffa33ec2d37f403de6944",
+      "who": "devnexen@gmail.com",
+      "when": "2018-10-26T14:02:09+00:00",
+      "all": 45,
+      "test": 0,
+      "testable": 45,
+      "pct": 0.0
+    },
+    {
+      "id": "b8febe60b44e0ddfd5e22a7c6a4c4b33e49a2a83",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-25T13:08:58+02:00",
+      "all": 15,
+      "test": 0,
+      "testable": 15,
+      "pct": 0.0
+    },
+    {
+      "id": "f5494b186260edd794679be8e2173e5cc7cd6977",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-25T13:08:48+02:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "6dde56bf93a95e2a71a5a1247487ac45568a3e97",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-25T13:00:19+02:00",
+      "all": 15,
+      "test": 0,
+      "testable": 15,
+      "pct": 0.0
+    },
+    {
+      "id": "998001fbf2aeb58286c440cd55804bf43f87b30e",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-25T11:50:15+02:00",
+      "all": 39,
+      "test": 0,
+      "testable": 39,
+      "pct": 0.0
+    },
+    {
+      "id": "12d5be1bf2474b0da9c5deb8d835daba0624ad07",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-25T11:50:04+02:00",
+      "all": 18,
+      "test": 0,
+      "testable": 18,
+      "pct": 0.0
+    },
+    {
+      "id": "6e11ef30e02932917ba53c72cf66681f42ea487d",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-25T11:36:24+02:00",
+      "all": 25,
+      "test": 0,
+      "testable": 25,
+      "pct": 0.0
+    },
+    {
+      "id": "f06e8c331c98e8b307af94a36cd45948a963956b",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-24T16:28:44+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "e8c108e938463de04bf3b7a3cd3f1dd78cfa6aaa",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-24T12:31:28+02:00",
+      "all": 21,
+      "test": 0,
+      "testable": 21,
+      "pct": 0.0
+    },
+    {
+      "id": "a2131f907a752e62c78ea6bb719daf9fe2f91402",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-24T12:28:28+02:00",
+      "all": 20,
+      "test": 0,
+      "testable": 20,
+      "pct": 0.0
+    },
+    {
+      "id": "8749fc3f6721b70c4b64e94c96577d25424b25fc",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-24T12:26:27+02:00",
+      "all": 31,
+      "test": 0,
+      "testable": 31,
+      "pct": 0.0
+    },
+    {
+      "id": "3c89fb5ffd59c701071952fd89e58fefd0a84920",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-24T12:23:59+02:00",
+      "all": 90,
+      "test": 0,
+      "testable": 90,
+      "pct": 0.0
+    },
+    {
+      "id": "54e8dd11ff4296b6633775c29e62222ed0244960",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-22T17:43:48+02:00",
+      "all": 21,
+      "test": 0,
+      "testable": 21,
+      "pct": 0.0
+    },
+    {
+      "id": "0f18d8e0ed529bbb4699c8b2072656019a0dd726",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-22T17:41:43+02:00",
+      "all": 107,
+      "test": 0,
+      "testable": 107,
+      "pct": 0.0
+    },
+    {
+      "id": "3f6893a4e294e90c2cd333c31b822dc131b0ee41",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-22T17:40:37+02:00",
+      "all": 47,
+      "test": 0,
+      "testable": 47,
+      "pct": 0.0
+    },
+    {
+      "id": "c33ef454f09b4e6eefcad77b773d112223837c36",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-22T12:24:02+02:00",
+      "all": 31,
+      "test": 0,
+      "testable": 31,
+      "pct": 0.0
+    },
+    {
+      "id": "2f8912c36ccf5226f7777b132d66cb3f1c4f551b",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-22T12:17:08+02:00",
+      "all": 69,
+      "test": 0,
+      "testable": 69,
+      "pct": 0.0
+    },
+    {
+      "id": "e610dbce14af98cbac60ee53248788e80f1ec6a0",
+      "who": "2844633656@qq.com",
+      "when": "2018-10-21T10:37:36+08:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "63e41ee19236d88799935e38e517b2a918cacbb3",
+      "who": "2844633656@qq.com",
+      "when": "2018-10-20T12:18:56+08:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "f24ad5d83140eee04bd1cda8ee19bced0de26c11",
+      "who": "thomas@orozco.fr",
+      "when": "2018-10-17T21:04:35+02:00",
+      "all": 43,
+      "test": 0,
+      "testable": 43,
+      "pct": 0.0
+    },
+    {
+      "id": "5ddd507624aad7d07558e684a962b7505214ae74",
+      "who": "zhaozhao.zz@alibaba-inc.com",
+      "when": "2018-10-19T18:16:29+08:00",
+      "all": 21,
+      "test": 0,
+      "testable": 21,
+      "pct": 0.0
+    },
+    {
+      "id": "7ab9cba59bb8999d80d90571632fc37bac67c165",
+      "who": "zhaozhao.zz@alibaba-inc.com",
+      "when": "2018-10-19T18:00:57+08:00",
+      "all": 90,
+      "test": 0,
+      "testable": 90,
+      "pct": 0.0
+    },
+    {
+      "id": "a6499ecac21e685c9d95dc749cd928412d4f689b",
+      "who": "zlwgx1023@gmail.com",
+      "when": "2018-10-18T18:57:51+08:00",
+      "all": 47,
+      "test": 0,
+      "testable": 47,
+      "pct": 0.0
+    },
+    {
+      "id": "edeaf85cab10b2d9bc151363779f70822d679472",
+      "who": "itamar@redislabs.com",
+      "when": "2018-10-17T19:33:11+03:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "144832ee67c058dfec9910e8953588d23ae3224c",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-17T17:20:05+02:00",
+      "all": 79,
+      "test": 0,
+      "testable": 79,
+      "pct": 0.0
+    },
+    {
+      "id": "acb3b552800c6ee95a36d49b24332b7a6dd93f59",
+      "who": "itamar@redislabs.com",
+      "when": "2018-10-17T16:13:55+03:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "fdb575993f947425920aadc5a321daf22f0198c3",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-17T13:00:35+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "ad78b50f62c88b6396c5ee86cda89fc2313f77af",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-17T12:57:15+02:00",
+      "all": 153,
+      "test": 0,
+      "testable": 153,
+      "pct": 0.0
+    },
+    {
+      "id": "56871aeb600c19a0ec4d06a60cfc19a9fdf7b1e1",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-17T12:11:06+02:00",
+      "all": 19,
+      "test": 19,
+      "testable": 19,
+      "pct": 100.0
+    },
+    {
+      "id": "492fd5c01105ee5dc1aa73a0f19a7201e86b9815",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-17T12:10:52+02:00",
+      "all": 23,
+      "test": 0,
+      "testable": 23,
+      "pct": 0.0
+    },
+    {
+      "id": "2e3d403349af7e23a263632cd876479241d5d72e",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-17T12:04:03+02:00",
+      "all": 70,
+      "test": 0,
+      "testable": 70,
+      "pct": 0.0
+    },
+    {
+      "id": "ab11c5ebd1adc9c6b794f275b74d5ad697c65ffe",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-17T11:36:03+02:00",
+      "all": 26,
+      "test": 0,
+      "testable": 26,
+      "pct": 0.0
+    },
+    {
+      "id": "cb27dd1a6802000eb896e0a0b5c8d50ea994655a",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-17T11:27:09+02:00",
+      "all": 61,
+      "test": 0,
+      "testable": 61,
+      "pct": 0.0
+    },
+    {
+      "id": "e2de7e75248a928280d6c739e9020d8c8adc1c0f",
+      "who": "zhaozhao.zz@alibaba-inc.com",
+      "when": "2018-10-17T16:40:45+08:00",
+      "all": 15,
+      "test": 0,
+      "testable": 15,
+      "pct": 0.0
+    },
+    {
+      "id": "3f7bc5a5d2c41b8d6be4c462a2a3b24c55ccc431",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-17T07:50:32+02:00",
+      "all": 26,
+      "test": 0,
+      "testable": 26,
+      "pct": 0.0
+    },
+    {
+      "id": "29e488cbb083f857cad7de68931082195a43c738",
+      "who": "damien@platform.sh",
+      "when": "2018-10-16T11:47:42-07:00",
+      "all": 20,
+      "test": 0,
+      "testable": 20,
+      "pct": 0.0
+    },
+    {
+      "id": "2f8f29aa0e63a198aa628296ce617214b3ae1575",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-16T18:56:55+02:00",
+      "all": 28,
+      "test": 18,
+      "testable": 28,
+      "pct": 64.3
+    },
+    {
+      "id": "c2e4c64db46460a1ceeb24b0887976a766acb8e7",
+      "who": "zhaozhao.zz@alibaba-inc.com",
+      "when": "2018-10-16T23:56:26+08:00",
+      "all": 18,
+      "test": 18,
+      "testable": 18,
+      "pct": 100.0
+    },
+    {
+      "id": "a273ce9578c4fd6e7a04b2f597785d603fefa1fa",
+      "who": "zhaozhao.zz@alibaba-inc.com",
+      "when": "2018-10-16T23:47:27+08:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "b4f8268371c941b3e1a28bfcb41c55923899afbc",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-16T17:28:56+02:00",
+      "all": 69,
+      "test": 69,
+      "testable": 69,
+      "pct": 100.0
+    },
+    {
+      "id": "c1689166b71f298aec40db877e125c76c178b0ba",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-16T16:48:31+02:00",
+      "all": 42,
+      "test": 0,
+      "testable": 42,
+      "pct": 0.0
+    },
+    {
+      "id": "ea78a1db329961d53ec420ac01ddb7cde42795ba",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-16T16:46:13+02:00",
+      "all": 31,
+      "test": 0,
+      "testable": 31,
+      "pct": 0.0
+    },
+    {
+      "id": "e3446fea9eab842415ca3a3bffee0ba2745c78e5",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-16T13:17:14+02:00",
+      "all": 110,
+      "test": 0,
+      "testable": 110,
+      "pct": 0.0
+    },
+    {
+      "id": "af09df08d79b45302bd2d5de5d7086b18778eb44",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-16T13:10:36+02:00",
+      "all": 219,
+      "test": 67,
+      "testable": 219,
+      "pct": 30.6
+    },
+    {
+      "id": "297950e8b817dbf3f2dbbbff497fdf3a047cc8f2",
+      "who": "2844633656@qq.com",
+      "when": "2018-10-16T15:48:03+08:00",
+      "all": 49,
+      "test": 0,
+      "testable": 49,
+      "pct": 0.0
+    },
+    {
+      "id": "1caabd59b2f746f7c35900486c072e35898cb232",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-15T13:01:58+02:00",
+      "all": 25,
+      "test": 0,
+      "testable": 25,
+      "pct": 0.0
+    },
+    {
+      "id": "3640e029d657e59f2d2c6483f0a2e5256f97afef",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-15T12:01:17+02:00",
+      "all": 14,
+      "test": 0,
+      "testable": 14,
+      "pct": 0.0
+    },
+    {
+      "id": "0b1784b1884ff04848b0532cc384fd2811f6eee4",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-15T11:52:24+02:00",
+      "all": 22,
+      "test": 0,
+      "testable": 22,
+      "pct": 0.0
+    },
+    {
+      "id": "820b1e6e7d561fd3aa1ee3527977b44fc8ddca49",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-15T11:50:13+02:00",
+      "all": 55,
+      "test": 0,
+      "testable": 55,
+      "pct": 0.0
+    },
+    {
+      "id": "440574d62413a636da7deba81d26a50eca087650",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-15T11:47:21+02:00",
+      "all": 78,
+      "test": 0,
+      "testable": 78,
+      "pct": 0.0
+    },
+    {
+      "id": "f54cde3a15f3ad0850215c22f3f7b628bf1f817c",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-13T14:17:32+02:00",
+      "all": 485,
+      "test": 0,
+      "testable": 485,
+      "pct": 0.0
+    },
+    {
+      "id": "3c140e7bcd9856c4a2faf3154fcf8f390645c8f3",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-13T14:17:11+02:00",
+      "all": 9,
+      "test": 9,
+      "testable": 9,
+      "pct": 100.0
+    },
+    {
+      "id": "5cc052230355b61442fa911b5fc4150ea098b4de",
+      "who": "zhaozhao.zz@alibaba-inc.com",
+      "when": "2018-10-11T21:46:47+08:00",
+      "all": 11,
+      "test": 0,
+      "testable": 11,
+      "pct": 0.0
+    },
+    {
+      "id": "08ae522ff942cd9ff5386a73ead6b27846766a8f",
+      "who": "zhaozhao.zz@alibaba-inc.com",
+      "when": "2018-10-11T21:44:20+08:00",
+      "all": 54,
+      "test": 0,
+      "testable": 54,
+      "pct": 0.0
+    },
+    {
+      "id": "183ef7ae9bbc91d3bba0735df1669e95dc53a24e",
+      "who": "zhaozhao.zz@alibaba-inc.com",
+      "when": "2018-10-11T21:20:46+08:00",
+      "all": 14,
+      "test": 0,
+      "testable": 14,
+      "pct": 0.0
+    },
+    {
+      "id": "4dc48a0d11fb7765a1a9b7a5908d9c9e64c10b8e",
+      "who": "zhaozhao.zz@alibaba-inc.com",
+      "when": "2018-10-11T21:12:09+08:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "91685eeeb1462edfc12da2e079e76bdbeec0eddb",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-11T13:00:55+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "fbfd61b4714d3f0fabc6cb842b29e13262d5ab30",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-10T17:37:37+02:00",
+      "all": 77,
+      "test": 77,
+      "testable": 77,
+      "pct": 100.0
+    },
+    {
+      "id": "cfad5e45872a826fd751074ef564923cd7dfa25d",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-10T17:32:17+02:00",
+      "all": 45,
+      "test": 45,
+      "testable": 45,
+      "pct": 100.0
+    },
+    {
+      "id": "1048b5d13a44a0d56535ab68f883a3a0dd0bb9d5",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-10T12:51:39+02:00",
+      "all": 11,
+      "test": 0,
+      "testable": 11,
+      "pct": 0.0
+    },
+    {
+      "id": "c9d9ae7baaf717607db3d4ad81597dc99d0c002c",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-10T12:51:02+02:00",
+      "all": 156,
+      "test": 0,
+      "testable": 156,
+      "pct": 0.0
+    },
+    {
+      "id": "4eedb0bf94026002d3c5627405d59270d71f7cc1",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-10T11:03:25+02:00",
+      "all": 30,
+      "test": 0,
+      "testable": 30,
+      "pct": 0.0
+    },
+    {
+      "id": "29bfe4655c111e8a1b00431696fff724dca904f6",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-09T18:02:56+02:00",
+      "all": 11,
+      "test": 0,
+      "testable": 11,
+      "pct": 0.0
+    },
+    {
+      "id": "35b7296ff4ec8170a8a076bbf0f462c178b3df5f",
+      "who": "zhaozhao.zz@alibaba-inc.com",
+      "when": "2018-10-09T20:34:11+08:00",
+      "all": 11,
+      "test": 0,
+      "testable": 11,
+      "pct": 0.0
+    },
+    {
+      "id": "8e2bbe91050342b1d87a44b2bb3bf557047efe59",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-09T13:25:53+02:00",
+      "all": 15,
+      "test": 0,
+      "testable": 15,
+      "pct": 0.0
+    },
+    {
+      "id": "929c686ccee0aacc567a9892931ae46c82a2e8cd",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-09T13:18:25+02:00",
+      "all": 49,
+      "test": 0,
+      "testable": 49,
+      "pct": 0.0
+    },
+    {
+      "id": "69c30965eb15ed86acadd8e9db79feb7b7633497",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-09T13:15:41+02:00",
+      "all": 115,
+      "test": 0,
+      "testable": 115,
+      "pct": 0.0
+    },
+    {
+      "id": "6660458a4c349bcca7a733003b47a7230553c58e",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-09T12:56:08+02:00",
+      "all": 25,
+      "test": 0,
+      "testable": 25,
+      "pct": 0.0
+    },
+    {
+      "id": "db86dfb9856f0c507b286e2107b92cc04d6affa0",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-09T11:51:04+02:00",
+      "all": 43,
+      "test": 0,
+      "testable": 43,
+      "pct": 0.0
+    },
+    {
+      "id": "1a476b69adbcac12a8348375d941f965ff7977a9",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-09T11:47:04+02:00",
+      "all": 49,
+      "test": 0,
+      "testable": 49,
+      "pct": 0.0
+    },
+    {
+      "id": "480e2994369de43e3b13019ee9995906d68dd14e",
+      "who": "zhaozhao.zz@alibaba-inc.com",
+      "when": "2018-10-09T16:22:30+08:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "3094eb36263e602731840ededd301ff21e7981d4",
+      "who": "zhaozhao.zz@alibaba-inc.com",
+      "when": "2018-10-09T15:45:58+08:00",
+      "all": 28,
+      "test": 28,
+      "testable": 28,
+      "pct": 100.0
+    },
+    {
+      "id": "b3e80d2f654a66358c53addffd34945363cce2bb",
+      "who": "zhaozhao.zz@alibaba-inc.com",
+      "when": "2018-10-08T21:23:38+08:00",
+      "all": 57,
+      "test": 0,
+      "testable": 57,
+      "pct": 0.0
+    },
+    {
+      "id": "5f3adbee33d555d436b03d19f32ce903da36252b",
+      "who": "zhaozhao.zz@alibaba-inc.com",
+      "when": "2018-10-09T15:21:08+08:00",
+      "all": 44,
+      "test": 44,
+      "testable": 44,
+      "pct": 100.0
+    },
+    {
+      "id": "ec511fa709f3c8fc74d26ca52114dcb9add754cc",
+      "who": "zhaozhao.zz@alibaba-inc.com",
+      "when": "2018-10-09T13:11:02+08:00",
+      "all": 91,
+      "test": 0,
+      "testable": 91,
+      "pct": 0.0
+    },
+    {
+      "id": "3e78344d878fbbd6fdc566c210f5d834f7ac147e",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-08T12:05:20+02:00",
+      "all": 59,
+      "test": 0,
+      "testable": 59,
+      "pct": 0.0
+    },
+    {
+      "id": "e5f1de144807373b2f42f82bb44829a8a4cc85cd",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-08T12:00:00+02:00",
+      "all": 174,
+      "test": 51,
+      "testable": 174,
+      "pct": 29.3
+    },
+    {
+      "id": "8507c3f26e3435de0d44122d9be206fd1b8265dc",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-08T11:34:42+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "534c3bc21a256e113265ff1af6724af5ac4c9f9c",
+      "who": "sarikayaziya@gmail.com",
+      "when": "2018-10-07T13:37:58+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "3d07ed983e8bc55e7d066558de0244bc77dbeba3",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-05T18:30:45+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "ce8b6ede3477b63023dc458ac43bb798536d460e",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-05T18:29:23+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "68c0e6e3313a5d76a6f352f8e9cd0376d9d52737",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-04T17:34:06+02:00",
+      "all": 13,
+      "test": 0,
+      "testable": 13,
+      "pct": 0.0
+    },
+    {
+      "id": "87264235cc59f9ad2b478e2d4d7c3104cceb9fdc",
+      "who": "hamid.a85@gmail.com",
+      "when": "2018-10-04T17:02:10+03:30",
+      "all": 25,
+      "test": 0,
+      "testable": 25,
+      "pct": 0.0
+    },
+    {
+      "id": "32e0d2376fe91e76be04bb62825af5d95737b13e",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-02T19:44:54+02:00",
+      "all": 11,
+      "test": 0,
+      "testable": 11,
+      "pct": 0.0
+    },
+    {
+      "id": "9d4f51e1ff84af82157a3f2b07741ef1cb0a813e",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-02T19:36:33+02:00",
+      "all": 27,
+      "test": 0,
+      "testable": 27,
+      "pct": 0.0
+    },
+    {
+      "id": "73a78adf13ca37ba101a66a4f3d13e2a129f636c",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-02T16:26:30+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "c7c3b23787cb403bb17051fe6f805725f3bd1ae4",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-02T16:20:40+02:00",
+      "all": 11,
+      "test": 0,
+      "testable": 11,
+      "pct": 0.0
+    },
+    {
+      "id": "9fe7cd8f14592b7293bd9dcef88f8c230277948f",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-02T16:18:55+02:00",
+      "all": 11,
+      "test": 0,
+      "testable": 11,
+      "pct": 0.0
+    },
+    {
+      "id": "2b09884faf85d3fbd58a85ad1902e090099101f1",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-02T16:09:22+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "e19a06d2dd43473d87e002f59e9469b3548a10dd",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-02T16:03:05+02:00",
+      "all": 29,
+      "test": 0,
+      "testable": 29,
+      "pct": 0.0
+    },
+    {
+      "id": "fe43406929dbf6e6316f53f891370850cd8e1c3f",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-01T13:30:42+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "9ce638695cebc0e88f6cad213ecec480c75eee26",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-01T13:28:53+02:00",
+      "all": 52,
+      "test": 0,
+      "testable": 52,
+      "pct": 0.0
+    },
+    {
+      "id": "cd2ee8b1139873121cee10916678ed12a4d6b60e",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-01T13:24:49+02:00",
+      "all": 90,
+      "test": 67,
+      "testable": 90,
+      "pct": 74.4
+    },
+    {
+      "id": "1da93f85cc553ae5cc80488b5d9aed1d3499b647",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-01T13:22:33+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "86fb7b20bfb4bb29a73b48a483d487749bd41de4",
+      "who": "hamid.a85@gmail.com",
+      "when": "2018-10-01T13:57:25+03:30",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "9e0e5ccbf4600bde74309bd6de3e6a722357498e",
+      "who": "antirez@gmail.com",
+      "when": "2018-10-01T11:38:58+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

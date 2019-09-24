@@ -1,33 +1,33 @@
 {
   "commits": [
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2017-07-20T15:17:35+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "a3778f3b0f0aacbb34ecc77541615a9eda251443"
-    }, 
+      "id": "a3778f3b0f0aacbb34ecc77541615a9eda251443",
+      "who": "antirez@gmail.com",
+      "when": "2017-07-20T15:17:35+02:00",
+      "all": 50,
+      "test": 0,
+      "testable": 50,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2017-07-20T14:59:42+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "b1c2e1a19c549a49cc124571849976e7ab91d4d1"
-    }, 
+      "id": "b1c2e1a19c549a49cc124571849976e7ab91d4d1",
+      "who": "antirez@gmail.com",
+      "when": "2017-07-20T14:59:42+02:00",
+      "all": 34,
+      "test": 0,
+      "testable": 34,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "chen.bao.yi@qq.com", 
-      "when": "2017-07-20T17:24:38+08:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "9e7a8c0207bab8045dc2938a21657d711a9c4953"
+      "id": "9e7a8c0207bab8045dc2938a21657d711a9c4953",
+      "who": "chen.bao.yi@qq.com",
+      "when": "2017-07-20T17:24:38+08:00",
+      "all": 14,
+      "test": 0,
+      "testable": 14,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

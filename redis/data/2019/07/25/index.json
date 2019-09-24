@@ -1,33 +1,24 @@
 {
   "commits": [
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2019-07-25T19:18:26+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "505a855000ef8f1fbea9cb41841fa8708175bba4"
-    }, 
+      "id": "505a855000ef8f1fbea9cb41841fa8708175bba4",
+      "who": "antirez@gmail.com",
+      "when": "2019-07-25T19:18:26+02:00",
+      "all": 28,
+      "test": 0,
+      "testable": 28,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2019-07-25T19:17:58+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "0714581e0cca93c0034d6ad1c1d72847c1e57ffe"
-    }, 
-    {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2019-07-25T18:48:46+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "5591a14c0a1099ac62a4e0f17335bf9a817c5413"
+      "id": "5591a14c0a1099ac62a4e0f17335bf9a817c5413",
+      "who": "antirez@gmail.com",
+      "when": "2019-07-25T18:48:46+02:00",
+      "all": 28,
+      "test": 0,
+      "testable": 28,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

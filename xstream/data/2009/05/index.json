@@ -1,51 +1,78 @@
 {
   "commits": [
     {
-      "all": 49, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2009-05-07T20:59:34+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 30, 
-      "id": "f7d1ec0595009d6eb07ba0041cc9c4d7916c9c91"
-    }, 
+      "id": "f7d1ec0595009d6eb07ba0041cc9c4d7916c9c91",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2009-05-07T20:59:34+00:00",
+      "all": 83,
+      "test": 28,
+      "testable": 62,
+      "pct": 45.2
+    },
     {
-      "all": 139, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2009-05-05T22:33:04+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 125, 
-      "id": "0beec1f632c02b31e249bab0ce74de3bc309ad3f"
-    }, 
+      "id": "68075e577db192f8cad94d962417dfdc21f9246c",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2009-05-07T20:34:50+00:00",
+      "all": 51,
+      "test": 51,
+      "testable": 51,
+      "pct": 100.0
+    },
     {
-      "all": 506, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2009-05-04T21:54:42+00:00", 
-      "pct": 9.0, 
-      "test": 35, 
-      "testable": 384, 
-      "id": "ffb41e46947730049920229e9e0701ed14d5aba8"
-    }, 
+      "id": "ee7b485922ce53522a325f9be46a13fdad4fd8e5",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2009-05-06T20:20:14+00:00",
+      "all": 17,
+      "test": 17,
+      "testable": 17,
+      "pct": 100.0
+    },
     {
-      "all": 479, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2009-05-03T21:05:26+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 479, 
-      "id": "c19a2fd189452c8af4c374ad4ba80d040a3c26dd"
-    }, 
+      "id": "0beec1f632c02b31e249bab0ce74de3bc309ad3f",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2009-05-05T22:33:04+00:00",
+      "all": 208,
+      "test": 47,
+      "testable": 191,
+      "pct": 24.6
+    },
     {
-      "all": 1172, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2009-05-03T20:33:15+00:00", 
-      "pct": 10.0, 
-      "test": 119, 
-      "testable": 1104, 
-      "id": "a09478bb2dfc3dce2fd41ea8f8c6af4961229de4"
+      "id": "ffb41e46947730049920229e9e0701ed14d5aba8",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2009-05-04T21:54:42+00:00",
+      "all": 582,
+      "test": 39,
+      "testable": 411,
+      "pct": 9.5
+    },
+    {
+      "id": "21a3df73f5fbee157c1242940072bd8acf519412",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2009-05-03T21:14:07+00:00",
+      "all": 52,
+      "test": 0,
+      "testable": 38,
+      "pct": 0.0
+    },
+    {
+      "id": "c19a2fd189452c8af4c374ad4ba80d040a3c26dd",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2009-05-03T21:05:26+00:00",
+      "all": 616,
+      "test": 0,
+      "testable": 616,
+      "pct": 0.0
+    },
+    {
+      "id": "a09478bb2dfc3dce2fd41ea8f8c6af4961229de4",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2009-05-03T20:33:15+00:00",
+      "all": 1323,
+      "test": 220,
+      "testable": 1246,
+      "pct": 17.7
     }
-  ], 
-  "description": "XStream (master branch)", 
+  ],
+  "description": "XStream (master branch)",
   "baseURL": "https://github.com/x-stream/xstream/commit/"
 }

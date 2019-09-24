@@ -1,33 +1,33 @@
 {
   "commits": [
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2011-12-31T16:09:46+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "11e0c4c55b8edd8d2226ba2e5fde989778695195"
-    }, 
+      "id": "11e0c4c55b8edd8d2226ba2e5fde989778695195",
+      "who": "antirez@gmail.com",
+      "when": "2011-12-31T16:09:46+01:00",
+      "all": 76,
+      "test": 0,
+      "testable": 76,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2011-12-31T15:37:33+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "f42e2f1bd791e4b3fdfa75c620dc9386b7cfea1e"
-    }, 
+      "id": "f42e2f1bd791e4b3fdfa75c620dc9386b7cfea1e",
+      "who": "antirez@gmail.com",
+      "when": "2011-12-31T15:37:33+01:00",
+      "all": 30,
+      "test": 0,
+      "testable": 30,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2011-12-31T15:34:02+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "35c6032cfab5b6e551672c5f0350d020b78aa70e"
+      "id": "35c6032cfab5b6e551672c5f0350d020b78aa70e",
+      "who": "antirez@gmail.com",
+      "when": "2011-12-31T15:34:02+01:00",
+      "all": 17,
+      "test": 0,
+      "testable": 17,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

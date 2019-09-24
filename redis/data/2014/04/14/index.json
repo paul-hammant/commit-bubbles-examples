@@ -1,15 +1,177 @@
 {
   "commits": [
     {
-      "all": 89, 
-      "who": "antirez@gmail.com", 
-      "when": "2014-04-14T16:09:32+02:00", 
-      "pct": 2.0, 
-      "test": 2, 
-      "testable": 89, 
-      "id": "81ceef7d22bcc1a30bce029ffae1a53f4752b7ed"
+      "id": "dde8dff73fd814910b317df2beb84b88d5659d37",
+      "who": "antirez@gmail.com",
+      "when": "2014-04-14T19:35:00+02:00",
+      "all": 15,
+      "test": 0,
+      "testable": 15,
+      "pct": 0.0
+    },
+    {
+      "id": "54f0156e8cbf1a58243d3a2b35f61311e1a034a4",
+      "who": "antirez@gmail.com",
+      "when": "2014-04-14T16:15:55+02:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "848d0461f9025fad994efec2e685c4c68fe625fe",
+      "who": "antirez@gmail.com",
+      "when": "2014-04-14T16:11:54+02:00",
+      "all": 55,
+      "test": 0,
+      "testable": 55,
+      "pct": 0.0
+    },
+    {
+      "id": "81ceef7d22bcc1a30bce029ffae1a53f4752b7ed",
+      "who": "antirez@gmail.com",
+      "when": "2014-04-14T16:09:32+02:00",
+      "all": 106,
+      "test": 13,
+      "testable": 106,
+      "pct": 12.3
+    },
+    {
+      "id": "9df77fc0c4586a7b49605a85a6e68fd1a5273a20",
+      "who": "antirez@gmail.com",
+      "when": "2014-04-14T15:57:50+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "3bc35f9ce917c630c401b2ed0d56b3a51658a5e2",
+      "who": "antirez@gmail.com",
+      "when": "2014-04-14T15:56:30+02:00",
+      "all": 17,
+      "test": 0,
+      "testable": 17,
+      "pct": 0.0
+    },
+    {
+      "id": "ba0afb45661d1ab4d607782cd8afee0dfa3eb893",
+      "who": "antirez@gmail.com",
+      "when": "2014-04-14T15:55:21+02:00",
+      "all": 20,
+      "test": 0,
+      "testable": 20,
+      "pct": 0.0
+    },
+    {
+      "id": "e9cd51c7ebbe998a79b52b28fde0b31970dcb7a0",
+      "who": "antirez@gmail.com",
+      "when": "2014-04-14T15:42:05+02:00",
+      "all": 60,
+      "test": 0,
+      "testable": 60,
+      "pct": 0.0
+    },
+    {
+      "id": "681bf7468bd55d524ee71cbb7aa43526dad07d5c",
+      "who": "antirez@gmail.com",
+      "when": "2014-04-14T15:20:26+02:00",
+      "all": 74,
+      "test": 0,
+      "testable": 74,
+      "pct": 0.0
+    },
+    {
+      "id": "db40da0a47ef924ea26ceb9bb73ffa121c20031c",
+      "who": "antirez@gmail.com",
+      "when": "2014-04-14T12:58:46+02:00",
+      "all": 38,
+      "test": 0,
+      "testable": 38,
+      "pct": 0.0
+    },
+    {
+      "id": "4e0a99ba51cf22ae695187e9215796f1c645a253",
+      "who": "antirez@gmail.com",
+      "when": "2014-04-14T12:12:53+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "5532b5308a65f627a5d9a17e4ae6da77fd95b8c2",
+      "who": "antirez@gmail.com",
+      "when": "2014-04-14T12:09:37+02:00",
+      "all": 54,
+      "test": 0,
+      "testable": 54,
+      "pct": 0.0
+    },
+    {
+      "id": "837ca39081855bb1ea00e63f6cee642bffb35e71",
+      "who": "antirez@gmail.com",
+      "when": "2014-04-14T11:49:53+02:00",
+      "all": 31,
+      "test": 0,
+      "testable": 31,
+      "pct": 0.0
+    },
+    {
+      "id": "142d133c8a9d83540b4543796ec108d913024304",
+      "who": "antirez@gmail.com",
+      "when": "2014-04-14T11:04:11+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "1ee18db922aaf03cc1e0f04a5b0d9764f9d0ceb5",
+      "who": "antirez@gmail.com",
+      "when": "2014-04-14T10:25:19+02:00",
+      "all": 15,
+      "test": 0,
+      "testable": 15,
+      "pct": 0.0
+    },
+    {
+      "id": "82c31f750d71686f0412085ff35f67b37b407cc6",
+      "who": "antirez@gmail.com",
+      "when": "2014-04-14T09:40:07+02:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "3b200035037652e439ed22e884c2f8c10b097a52",
+      "who": "antirez@gmail.com",
+      "when": "2014-04-14T09:36:27+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "b7571b7453e1597ef7ed5041a06a3fd97c99c0d0",
+      "who": "antirez@gmail.com",
+      "when": "2014-04-14T09:27:01+02:00",
+      "all": 63,
+      "test": 0,
+      "testable": 63,
+      "pct": 0.0
+    },
+    {
+      "id": "f9dc3cb04d5fdca59bc2d92fe1bae586eb4a9a5b",
+      "who": "antirez@gmail.com",
+      "when": "2014-04-14T08:59:13+02:00",
+      "all": 43,
+      "test": 0,
+      "testable": 43,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

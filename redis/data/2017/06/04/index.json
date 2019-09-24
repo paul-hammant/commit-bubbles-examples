@@ -1,24 +1,24 @@
 {
   "commits": [
     {
-      "all": 0, 
-      "who": "me@antoniomallia.it", 
-      "when": "2017-06-04T15:26:53+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "2d1d57eb4702cb2253655e0bd159e021843cfe7e"
-    }, 
+      "id": "2d1d57eb4702cb2253655e0bd159e021843cfe7e",
+      "who": "me@antoniomallia.it",
+      "when": "2017-06-04T15:26:53+01:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "me@antoniomallia.it", 
-      "when": "2017-06-04T15:09:05+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "591dba80553ef5f629bde45df6375dc80bf1c77c"
+      "id": "591dba80553ef5f629bde45df6375dc80bf1c77c",
+      "who": "me@antoniomallia.it",
+      "when": "2017-06-04T15:09:05+01:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

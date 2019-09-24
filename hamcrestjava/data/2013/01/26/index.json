@@ -1,13 +1,40 @@
 {
   "commits": [
     {
-      "all": 85, 
+      "all": 72, 
+      "who": "t.denley@cantab.net", 
+      "when": "2013-01-26T21:30:33+00:00", 
+      "pct": 100.0, 
+      "test": 72, 
+      "testable": 72, 
+      "id": "60d350a9c01a3a6a784b85582e26be778ec7a950"
+    }, 
+    {
+      "all": 10, 
+      "who": "t.denley@cantab.net", 
+      "when": "2013-01-26T21:29:56+00:00", 
+      "pct": 100.0, 
+      "test": 10, 
+      "testable": 10, 
+      "id": "a7c416755dcb72638ace989ef0838ee3453ba9f8"
+    }, 
+    {
+      "all": 147, 
       "who": "t.denley@cantab.net", 
       "when": "2013-01-26T21:08:19+00:00", 
-      "pct": 2.0, 
-      "test": 2, 
-      "testable": 85, 
+      "pct": 40.0, 
+      "test": 59, 
+      "testable": 147, 
       "id": "bc7f1f9f05d48841994780fed5b51b6d08f217f2"
+    }, 
+    {
+      "all": 89, 
+      "who": "t.denley@cantab.net", 
+      "when": "2013-01-26T19:00:28+00:00", 
+      "pct": 100.0, 
+      "test": 89, 
+      "testable": 89, 
+      "id": "a385b9317207f47be934e01fbeee4b88df3e7160"
     }
   ], 
   "description": "Hamcrest Java (master branch)", 

@@ -1,24 +1,33 @@
 {
   "commits": [
     {
-      "all": 66, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2006-07-07T21:58:32+00:00", 
-      "pct": 36.0, 
-      "test": 24, 
-      "testable": 66, 
-      "id": "72e430584add8aaf22c391baa843d88671c43a80"
-    }, 
+      "id": "72e430584add8aaf22c391baa843d88671c43a80",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-07-07T21:58:32+00:00",
+      "all": 92,
+      "test": 44,
+      "testable": 92,
+      "pct": 47.8
+    },
     {
-      "all": 84, 
-      "who": "mauro.talevi@aquilonia.org", 
-      "when": "2006-07-07T09:24:53+00:00", 
-      "pct": 50.0, 
-      "test": 42, 
-      "testable": 84, 
-      "id": "69a48c22173821e86501f8b29db8ce5a480769f9"
+      "id": "cc18de9a168d6d29ce777c07528ddfd6c4343b93",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-07-07T21:35:01+00:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "69a48c22173821e86501f8b29db8ce5a480769f9",
+      "who": "mauro.talevi@aquilonia.org",
+      "when": "2006-07-07T09:24:53+00:00",
+      "all": 123,
+      "test": 79,
+      "testable": 123,
+      "pct": 64.2
     }
-  ], 
-  "description": "XStream (master branch)", 
+  ],
+  "description": "XStream (master branch)",
   "baseURL": "https://github.com/x-stream/xstream/commit/"
 }

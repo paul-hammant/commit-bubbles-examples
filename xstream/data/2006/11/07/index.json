@@ -1,15 +1,24 @@
 {
   "commits": [
     {
-      "all": 57, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2006-11-07T02:01:29+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 57, 
-      "id": "c525eca86987a34d6aee6faec809ad6ed5b681ce"
+      "id": "a448a05c471f62d540aa07d5b8b6e0ca5fe45451",
+      "who": "guilherme.silveira@caelum.com.br",
+      "when": "2006-11-07T10:52:19+00:00",
+      "all": 61,
+      "test": 0,
+      "testable": 61,
+      "pct": 0.0
+    },
+    {
+      "id": "c525eca86987a34d6aee6faec809ad6ed5b681ce",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-11-07T02:01:29+00:00",
+      "all": 136,
+      "test": 42,
+      "testable": 136,
+      "pct": 30.9
     }
-  ], 
-  "description": "XStream (master branch)", 
+  ],
+  "description": "XStream (master branch)",
   "baseURL": "https://github.com/x-stream/xstream/commit/"
 }

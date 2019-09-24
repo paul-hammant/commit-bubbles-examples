@@ -1,15 +1,24 @@
 {
   "commits": [
     {
-      "all": 223, 
-      "who": "tadams@thoughtworks.com", 
-      "when": "2015-06-17T22:22:38-05:00", 
-      "pct": 35.0, 
-      "test": 80, 
-      "testable": 223, 
-      "id": "2a6f1b4c03786ada1cd1d79eb411727291fefd28"
+      "id": "46105174423cfca6148bcc6e14dc5d88e9f5b909",
+      "who": "tadams@thoughtworks.com",
+      "when": "2015-06-17T22:28:36-05:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "2a6f1b4c03786ada1cd1d79eb411727291fefd28",
+      "who": "tadams@thoughtworks.com",
+      "when": "2015-06-17T22:22:38-05:00",
+      "all": 247,
+      "test": 99,
+      "testable": 247,
+      "pct": 40.1
     }
-  ], 
-  "description": "XStream (master branch)", 
+  ],
+  "description": "XStream (master branch)",
   "baseURL": "https://github.com/x-stream/xstream/commit/"
 }

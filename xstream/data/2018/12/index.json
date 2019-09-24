@@ -1,33 +1,60 @@
 {
   "commits": [
     {
-      "all": 151, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2018-12-27T22:34:42+01:00", 
-      "pct": 15.0, 
-      "test": 24, 
-      "testable": 151, 
-      "id": "a925ad0642f7bd6e188e27d61c6e7123dff119ad"
-    }, 
+      "id": "a925ad0642f7bd6e188e27d61c6e7123dff119ad",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2018-12-27T22:34:42+01:00",
+      "all": 179,
+      "test": 42,
+      "testable": 179,
+      "pct": 23.5
+    },
     {
-      "all": 50, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2018-12-12T21:47:05+01:00", 
-      "pct": 100.0, 
-      "test": 50, 
-      "testable": 50, 
-      "id": "bae87149a9c7fa33e31a6ee6061df9b35df045c1"
-    }, 
+      "id": "487c146f507c6441e3b93b8d9c2583552698630f",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2018-12-13T01:01:46+01:00",
+      "all": 35,
+      "test": 15,
+      "testable": 15,
+      "pct": 100.0
+    },
     {
-      "all": 65, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2018-12-12T21:39:58+01:00", 
-      "pct": 100.0, 
-      "test": 34, 
-      "testable": 34, 
-      "id": "e8baf999db0bf898b58eea84d8a085432482f1ea"
+      "id": "bae87149a9c7fa33e31a6ee6061df9b35df045c1",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2018-12-12T21:47:05+01:00",
+      "all": 76,
+      "test": 76,
+      "testable": 76,
+      "pct": 100.0
+    },
+    {
+      "id": "e8baf999db0bf898b58eea84d8a085432482f1ea",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2018-12-12T21:39:58+01:00",
+      "all": 99,
+      "test": 63,
+      "testable": 63,
+      "pct": 100.0
+    },
+    {
+      "id": "88ecb0f30a285b00f6a66565d29fed395e9326a5",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2018-12-11T23:49:25+01:00",
+      "all": 77,
+      "test": 12,
+      "testable": 12,
+      "pct": 100.0
+    },
+    {
+      "id": "604cf70e3c72b16f4e597256e7810a16557161a6",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2018-12-11T23:29:51+01:00",
+      "all": 38,
+      "test": 0,
+      "testable": 17,
+      "pct": 0.0
     }
-  ], 
-  "description": "XStream (master branch)", 
+  ],
+  "description": "XStream (master branch)",
   "baseURL": "https://github.com/x-stream/xstream/commit/"
 }

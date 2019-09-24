@@ -1,15 +1,60 @@
 {
   "commits": [
     {
-      "all": 52, 
-      "who": "antirez@gmail.com", 
-      "when": "2015-06-24T10:42:16+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 52, 
-      "id": "55c4a365d74c5218a9303e31f1f7b67c424c9c2c"
+      "id": "03ce18962848fdd1b7a8427a7365096a0c7b3d4f",
+      "who": "antirez@gmail.com",
+      "when": "2015-06-24T17:37:20+02:00",
+      "all": 28,
+      "test": 0,
+      "testable": 28,
+      "pct": 0.0
+    },
+    {
+      "id": "5fd756bf13e05429318ceafddb89b5f8039ff7b9",
+      "who": "antirez@gmail.com",
+      "when": "2015-06-24T16:34:17+02:00",
+      "all": 15,
+      "test": 15,
+      "testable": 15,
+      "pct": 100.0
+    },
+    {
+      "id": "87521f44550a4a7825af5decb8add0eab3ff8812",
+      "who": "antirez@gmail.com",
+      "when": "2015-06-24T16:31:14+02:00",
+      "all": 78,
+      "test": 0,
+      "testable": 78,
+      "pct": 0.0
+    },
+    {
+      "id": "c7462ca9ffd8ccafee2605bd5c69e6a5bc5b240a",
+      "who": "janerik@fnordig.de",
+      "when": "2015-06-24T14:48:48+02:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "d28c51d166f554633da2fd44a26ecec2be420ee7",
+      "who": "janerik@fnordig.de",
+      "when": "2015-06-24T12:55:00+02:00",
+      "all": 21,
+      "test": 0,
+      "testable": 21,
+      "pct": 0.0
+    },
+    {
+      "id": "55c4a365d74c5218a9303e31f1f7b67c424c9c2c",
+      "who": "antirez@gmail.com",
+      "when": "2015-06-24T10:42:16+02:00",
+      "all": 76,
+      "test": 0,
+      "testable": 76,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

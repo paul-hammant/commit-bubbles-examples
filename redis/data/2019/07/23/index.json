@@ -1,51 +1,51 @@
 {
   "commits": [
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2019-07-23T17:05:10+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "dbee7ca007f72810b8655267340ce2dc790306bc"
-    }, 
+      "id": "dbee7ca007f72810b8655267340ce2dc790306bc",
+      "who": "antirez@gmail.com",
+      "when": "2019-07-23T17:05:10+02:00",
+      "all": 50,
+      "test": 0,
+      "testable": 50,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2019-07-23T11:02:14+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "c98e7717bb741016b87a69901327e1fafac17425"
-    }, 
+      "id": "c98e7717bb741016b87a69901327e1fafac17425",
+      "who": "antirez@gmail.com",
+      "when": "2019-07-23T11:02:14+02:00",
+      "all": 41,
+      "test": 0,
+      "testable": 41,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2019-07-23T10:57:22+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "9268493e8d9a67bddff9b27f0f7b3f2cd020a227"
-    }, 
+      "id": "9268493e8d9a67bddff9b27f0f7b3f2cd020a227",
+      "who": "antirez@gmail.com",
+      "when": "2019-07-23T10:57:22+02:00",
+      "all": 70,
+      "test": 0,
+      "testable": 70,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2019-07-23T09:43:41+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "47ce1cebeb080d908537a7c24a56b8fbfe0e6451"
-    }, 
+      "id": "47ce1cebeb080d908537a7c24a56b8fbfe0e6451",
+      "who": "antirez@gmail.com",
+      "when": "2019-07-23T09:43:41+02:00",
+      "all": 23,
+      "test": 0,
+      "testable": 23,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "zhaozhao.zz@alibaba-inc.com", 
-      "when": "2019-07-23T15:25:00+08:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "9012e587ca6f7c7ef54e86a782910625fe3dc3e9"
+      "id": "9012e587ca6f7c7ef54e86a782910625fe3dc3e9",
+      "who": "zhaozhao.zz@alibaba-inc.com",
+      "when": "2019-07-23T15:25:00+08:00",
+      "all": 23,
+      "test": 0,
+      "testable": 23,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

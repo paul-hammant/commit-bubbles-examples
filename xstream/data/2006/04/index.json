@@ -1,222 +1,465 @@
 {
   "commits": [
     {
-      "all": 102, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2006-04-28T07:15:56+00:00", 
-      "pct": 100.0, 
-      "test": 102, 
-      "testable": 102, 
-      "id": "4f8d746d7756db65d602785a39c4475d8262d1ad"
-    }, 
+      "id": "4f8d746d7756db65d602785a39c4475d8262d1ad",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-04-28T07:15:56+00:00",
+      "all": 116,
+      "test": 116,
+      "testable": 116,
+      "pct": 100.0
+    },
     {
-      "all": 140, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2006-04-28T06:44:19+00:00", 
-      "pct": 100.0, 
-      "test": 140, 
-      "testable": 140, 
-      "id": "94d47c2ede22f59518bc18f00b973a99a25f5e4b"
-    }, 
+      "id": "94d47c2ede22f59518bc18f00b973a99a25f5e4b",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-04-28T06:44:19+00:00",
+      "all": 157,
+      "test": 157,
+      "testable": 157,
+      "pct": 100.0
+    },
     {
-      "all": 115, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2006-04-28T06:41:49+00:00", 
-      "pct": 100.0, 
-      "test": 115, 
-      "testable": 115, 
-      "id": "51a5b561ad541594b3e456a03eb7aa9aaccaa2e6"
-    }, 
+      "id": "51a5b561ad541594b3e456a03eb7aa9aaccaa2e6",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-04-28T06:41:49+00:00",
+      "all": 199,
+      "test": 199,
+      "testable": 199,
+      "pct": 100.0
+    },
     {
-      "all": 173, 
-      "who": "mauro.talevi@aquilonia.org", 
-      "when": "2006-04-23T11:07:52+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 173, 
-      "id": "baef46cbf61db8b9cae29ce46c40669727b4857c"
-    }, 
+      "id": "45714b0aa9830a88e59bd218652262a2e39590f1",
+      "who": "mauro.talevi@aquilonia.org",
+      "when": "2006-04-23T16:23:53+00:00",
+      "all": 20,
+      "test": 20,
+      "testable": 20,
+      "pct": 100.0
+    },
     {
-      "all": 180, 
-      "who": "mauro.talevi@aquilonia.org", 
-      "when": "2006-04-22T12:20:17+00:00", 
-      "pct": 46.0, 
-      "test": 84, 
-      "testable": 180, 
-      "id": "8d6fd990c6e489f2ac6aa088eb30ff601b7a0d28"
-    }, 
+      "id": "52d533f9bd81cef56a6f6b007314ea2ebd590eab",
+      "who": "mauro.talevi@aquilonia.org",
+      "when": "2006-04-23T11:15:48+00:00",
+      "all": 10,
+      "test": 10,
+      "testable": 10,
+      "pct": 100.0
+    },
     {
-      "all": 55, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2006-04-20T21:49:54+00:00", 
-      "pct": 85.0, 
-      "test": 47, 
-      "testable": 55, 
-      "id": "fa2360ea27865a9ea480a22a371708f6cb2db651"
-    }, 
+      "id": "baef46cbf61db8b9cae29ce46c40669727b4857c",
+      "who": "mauro.talevi@aquilonia.org",
+      "when": "2006-04-23T11:07:52+00:00",
+      "all": 231,
+      "test": 0,
+      "testable": 231,
+      "pct": 0.0
+    },
     {
-      "all": 77, 
-      "who": "mauro.talevi@aquilonia.org", 
-      "when": "2006-04-18T09:20:00+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 77, 
-      "id": "d54582da62240672c5112321529d6945d94c07a4"
-    }, 
+      "id": "817620208b112d6fe023ac92a39e0731c002d24c",
+      "who": "mauro.talevi@aquilonia.org",
+      "when": "2006-04-22T12:34:25+00:00",
+      "all": 27,
+      "test": 27,
+      "testable": 27,
+      "pct": 100.0
+    },
     {
-      "all": 294, 
-      "who": "mauro.talevi@aquilonia.org", 
-      "when": "2006-04-18T08:47:42+00:00", 
-      "pct": 52.0, 
-      "test": 153, 
-      "testable": 294, 
-      "id": "fe1e58eeb78bffdeed33d5a353450317f39a7601"
-    }, 
+      "id": "8d6fd990c6e489f2ac6aa088eb30ff601b7a0d28",
+      "who": "mauro.talevi@aquilonia.org",
+      "when": "2006-04-22T12:20:17+00:00",
+      "all": 205,
+      "test": 107,
+      "testable": 205,
+      "pct": 52.2
+    },
     {
-      "all": 95, 
-      "who": "mauro.talevi@aquilonia.org", 
-      "when": "2006-04-17T12:32:06+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 95, 
-      "id": "d4a33f25c8e9571195b341ac82cddd5f3b906229"
-    }, 
+      "id": "c67580a8f6913d8e778da0ae490c563d593d207f",
+      "who": "joe@truemesh.com",
+      "when": "2006-04-21T09:45:10+00:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
     {
-      "all": 60, 
-      "who": "guilherme.silveira@caelum.com.br", 
-      "when": "2006-04-14T21:14:55+00:00", 
-      "pct": 40.0, 
-      "test": 24, 
-      "testable": 60, 
-      "id": "93295c0bca5eb33d2d6619036a1dc083958f1c75"
-    }, 
+      "id": "fa2360ea27865a9ea480a22a371708f6cb2db651",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-04-20T21:49:54+00:00",
+      "all": 79,
+      "test": 69,
+      "testable": 79,
+      "pct": 87.3
+    },
     {
-      "all": 205, 
-      "who": "joe@truemesh.com", 
-      "when": "2006-04-14T17:38:11+00:00", 
-      "pct": 46.0, 
-      "test": 95, 
-      "testable": 205, 
-      "id": "2c4f20c343676303accbf1555c730f41bf729e00"
-    }, 
+      "id": "bd5afe2a9edf61beb460321d93fc4d5cdd6ae65f",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-04-18T18:47:35+00:00",
+      "all": 52,
+      "test": 39,
+      "testable": 52,
+      "pct": 75.0
+    },
     {
-      "all": 62, 
-      "who": "joe@truemesh.com", 
-      "when": "2006-04-14T17:11:11+00:00", 
-      "pct": 22.0, 
-      "test": 14, 
-      "testable": 62, 
-      "id": "2d7251584c24fa328ef581cb2539d98eaff419f4"
-    }, 
+      "id": "6d7105039e4568a8c3cec7210ef02a023db775c7",
+      "who": "mauro.talevi@aquilonia.org",
+      "when": "2006-04-18T09:23:55+00:00",
+      "all": 21,
+      "test": 0,
+      "testable": 21,
+      "pct": 0.0
+    },
     {
-      "all": 273, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2006-04-13T21:08:19+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 265, 
-      "id": "1aab1eb596a956128639d15ffe93d95d7436dfed"
-    }, 
+      "id": "d54582da62240672c5112321529d6945d94c07a4",
+      "who": "mauro.talevi@aquilonia.org",
+      "when": "2006-04-18T09:20:00+00:00",
+      "all": 131,
+      "test": 24,
+      "testable": 131,
+      "pct": 18.3
+    },
     {
-      "all": 320, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2006-04-13T20:24:53+00:00", 
-      "pct": 12.0, 
-      "test": 40, 
-      "testable": 320, 
-      "id": "f090bdec082120b9a425fb0b9a96ffd3c8225365"
-    }, 
+      "id": "fe1e58eeb78bffdeed33d5a353450317f39a7601",
+      "who": "mauro.talevi@aquilonia.org",
+      "when": "2006-04-18T08:47:42+00:00",
+      "all": 329,
+      "test": 181,
+      "testable": 329,
+      "pct": 55.0
+    },
     {
-      "all": 77, 
-      "who": "mauro.talevi@aquilonia.org", 
-      "when": "2006-04-12T14:33:49+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 77, 
-      "id": "9a2194f5506e8458a0d85c922c4366b217a8e329"
-    }, 
+      "id": "67ec10cc802154d6ea34a3e6dbe17a86a8ce77b0",
+      "who": "mauro.talevi@aquilonia.org",
+      "when": "2006-04-17T19:32:26+00:00",
+      "all": 70,
+      "test": 70,
+      "testable": 70,
+      "pct": 100.0
+    },
     {
-      "all": 213, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2006-04-11T23:52:18+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 213, 
-      "id": "4e25a17001e7a1fb4e6f3f589084584448b040aa"
-    }, 
+      "id": "0bedf2d59aee6009d0b5e4447e81036bda59a6e4",
+      "who": "mauro.talevi@aquilonia.org",
+      "when": "2006-04-17T16:58:02+00:00",
+      "all": 59,
+      "test": 0,
+      "testable": 59,
+      "pct": 0.0
+    },
     {
-      "all": 327, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2006-04-10T01:27:33+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 327, 
-      "id": "335d12b90c412f7d4079baaf835ef46f398ad831"
-    }, 
+      "id": "d4a33f25c8e9571195b341ac82cddd5f3b906229",
+      "who": "mauro.talevi@aquilonia.org",
+      "when": "2006-04-17T12:32:06+00:00",
+      "all": 154,
+      "test": 0,
+      "testable": 154,
+      "pct": 0.0
+    },
     {
-      "all": 640, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2006-04-08T19:38:06+00:00", 
-      "pct": 30.0, 
-      "test": 134, 
-      "testable": 439, 
-      "id": "8fe36d53aa780d72d39deb70e57f9dc16c99c384"
-    }, 
+      "id": "9d0a86de5c2dbbeb6b063af4f79ee8406e887b4f",
+      "who": "guilherme.silveira@caelum.com.br",
+      "when": "2006-04-14T21:25:47+00:00",
+      "all": 43,
+      "test": 29,
+      "testable": 43,
+      "pct": 67.4
+    },
     {
-      "all": 152, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2006-04-06T21:24:16+00:00", 
-      "pct": 13.0, 
-      "test": 19, 
-      "testable": 146, 
-      "id": "30fa30d65083b081e6890e5b2b8ef786f2e7877c"
-    }, 
+      "id": "93295c0bca5eb33d2d6619036a1dc083958f1c75",
+      "who": "guilherme.silveira@caelum.com.br",
+      "when": "2006-04-14T21:14:55+00:00",
+      "all": 109,
+      "test": 70,
+      "testable": 109,
+      "pct": 64.2
+    },
     {
-      "all": 46, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2006-04-05T22:05:15+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 46, 
-      "id": "2319dddb1f1110ee45b9f6d28f2be5cecb957ba8"
-    }, 
+      "id": "dd75ad3101898a3320070c2b751bed3158591a17",
+      "who": "guilherme.silveira@caelum.com.br",
+      "when": "2006-04-14T20:46:18+00:00",
+      "all": 37,
+      "test": 0,
+      "testable": 37,
+      "pct": 0.0
+    },
     {
-      "all": 55, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2006-04-05T19:05:28+00:00", 
-      "pct": 29.0, 
-      "test": 16, 
-      "testable": 55, 
-      "id": "1431239e1f7f46db492e483edff7ea818908bf24"
-    }, 
+      "id": "78f1638c521792947f822b66be612f5838886cd3",
+      "who": "joe@truemesh.com",
+      "when": "2006-04-14T18:39:03+00:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
     {
-      "all": 68, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2006-04-03T19:54:09+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 68, 
-      "id": "1ea6a409e529e6a50fbb61302245d56cc61011aa"
-    }, 
+      "id": "11e65310ac323835d40827c743042411e47cd021",
+      "who": "joe@truemesh.com",
+      "when": "2006-04-14T18:19:14+00:00",
+      "all": 19,
+      "test": 0,
+      "testable": 19,
+      "pct": 0.0
+    },
     {
-      "all": 62, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2006-04-03T19:29:51+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 62, 
-      "id": "5909e16ba5a7b2de944752c75dc72532a176b2d5"
-    }, 
+      "id": "2c4f20c343676303accbf1555c730f41bf729e00",
+      "who": "joe@truemesh.com",
+      "when": "2006-04-14T17:38:11+00:00",
+      "all": 234,
+      "test": 113,
+      "testable": 234,
+      "pct": 48.3
+    },
     {
-      "all": 1465, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2006-04-01T17:00:53+00:00", 
-      "pct": 2.0, 
-      "test": 30, 
-      "testable": 1457, 
-      "id": "c7449c468cc1d8039490ac895c5e9387bccac4fb"
+      "id": "2d7251584c24fa328ef581cb2539d98eaff419f4",
+      "who": "joe@truemesh.com",
+      "when": "2006-04-14T17:11:11+00:00",
+      "all": 76,
+      "test": 21,
+      "testable": 76,
+      "pct": 27.6
+    },
+    {
+      "id": "c5136b28398bb09e2a6c591ae0aea0112b9a7f9f",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-04-13T21:55:22+00:00",
+      "all": 30,
+      "test": 30,
+      "testable": 30,
+      "pct": 100.0
+    },
+    {
+      "id": "c495040811c603d9f5d3e4c3233897f17885a90d",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-04-13T21:10:12+00:00",
+      "all": 13,
+      "test": 13,
+      "testable": 13,
+      "pct": 100.0
+    },
+    {
+      "id": "1aab1eb596a956128639d15ffe93d95d7436dfed",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-04-13T21:08:19+00:00",
+      "all": 354,
+      "test": 38,
+      "testable": 344,
+      "pct": 11.0
+    },
+    {
+      "id": "75212348ae490b9cb55f6ba97829e9219f464b89",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-04-13T20:55:57+00:00",
+      "all": 66,
+      "test": 66,
+      "testable": 66,
+      "pct": 100.0
+    },
+    {
+      "id": "9096d90da75393dcbdecf4060aaf214e1274308b",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-04-13T20:29:55+00:00",
+      "all": 25,
+      "test": 0,
+      "testable": 25,
+      "pct": 0.0
+    },
+    {
+      "id": "f090bdec082120b9a425fb0b9a96ffd3c8225365",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-04-13T20:24:53+00:00",
+      "all": 388,
+      "test": 91,
+      "testable": 388,
+      "pct": 23.5
+    },
+    {
+      "id": "a6ac9265776d78cd7842e47035dcfbdc840eb747",
+      "who": "guilherme.silveira@caelum.com.br",
+      "when": "2006-04-13T19:49:41+00:00",
+      "all": 33,
+      "test": 33,
+      "testable": 33,
+      "pct": 100.0
+    },
+    {
+      "id": "bdc4004813fd437dda977a443e2d2fc465b4d1ab",
+      "who": "guilherme.silveira@caelum.com.br",
+      "when": "2006-04-13T19:13:16+00:00",
+      "all": 13,
+      "test": 0,
+      "testable": 13,
+      "pct": 0.0
+    },
+    {
+      "id": "9a2194f5506e8458a0d85c922c4366b217a8e329",
+      "who": "mauro.talevi@aquilonia.org",
+      "when": "2006-04-12T14:33:49+00:00",
+      "all": 176,
+      "test": 0,
+      "testable": 176,
+      "pct": 0.0
+    },
+    {
+      "id": "4e25a17001e7a1fb4e6f3f589084584448b040aa",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-04-11T23:52:18+00:00",
+      "all": 289,
+      "test": 37,
+      "testable": 289,
+      "pct": 12.8
+    },
+    {
+      "id": "335d12b90c412f7d4079baaf835ef46f398ad831",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-04-10T01:27:33+00:00",
+      "all": 384,
+      "test": 0,
+      "testable": 384,
+      "pct": 0.0
+    },
+    {
+      "id": "931eff116272268a5591726167c8a36f07fd559f",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-04-09T23:34:09+00:00",
+      "all": 10,
+      "test": 10,
+      "testable": 10,
+      "pct": 100.0
+    },
+    {
+      "id": "ebb7b8625c338745e2ceded0c5b5343a25a6a499",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-04-09T22:22:36+00:00",
+      "all": 10,
+      "test": 10,
+      "testable": 10,
+      "pct": 100.0
+    },
+    {
+      "id": "9529b68faf0a13dc11f74e6d4d3883338cb1e6c6",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-04-09T22:12:06+00:00",
+      "all": 10,
+      "test": 10,
+      "testable": 10,
+      "pct": 100.0
+    },
+    {
+      "id": "189132007a1a4eef1d7fc1135da3dbbc45248356",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-04-08T19:49:36+00:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "2af6c0d5d936019f62a623dc8f15be737b9335a1",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-04-08T19:47:47+00:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "8fe36d53aa780d72d39deb70e57f9dc16c99c384",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-04-08T19:38:06+00:00",
+      "all": 708,
+      "test": 184,
+      "testable": 505,
+      "pct": 36.4
+    },
+    {
+      "id": "9c3f2d1d6ada537196e5d7f2c0c39d682317f0d9",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-04-06T23:02:47+00:00",
+      "all": 30,
+      "test": 0,
+      "testable": 30,
+      "pct": 0.0
+    },
+    {
+      "id": "30fa30d65083b081e6890e5b2b8ef786f2e7877c",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-04-06T21:24:16+00:00",
+      "all": 178,
+      "test": 21,
+      "testable": 160,
+      "pct": 13.1
+    },
+    {
+      "id": "2319dddb1f1110ee45b9f6d28f2be5cecb957ba8",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-04-05T22:05:15+00:00",
+      "all": 59,
+      "test": 0,
+      "testable": 59,
+      "pct": 0.0
+    },
+    {
+      "id": "1431239e1f7f46db492e483edff7ea818908bf24",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-04-05T19:05:28+00:00",
+      "all": 89,
+      "test": 47,
+      "testable": 89,
+      "pct": 52.8
+    },
+    {
+      "id": "4532cb502de2c83f207dcee5686d7f504327634d",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-04-05T17:41:45+00:00",
+      "all": 34,
+      "test": 34,
+      "testable": 34,
+      "pct": 100.0
+    },
+    {
+      "id": "78837ae2d60baae94a065d0507aa7feed7b2c5a5",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-04-04T21:09:55+00:00",
+      "all": 51,
+      "test": 24,
+      "testable": 51,
+      "pct": 47.1
+    },
+    {
+      "id": "1ea6a409e529e6a50fbb61302245d56cc61011aa",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-04-03T19:54:09+00:00",
+      "all": 92,
+      "test": 18,
+      "testable": 92,
+      "pct": 19.6
+    },
+    {
+      "id": "5909e16ba5a7b2de944752c75dc72532a176b2d5",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-04-03T19:29:51+00:00",
+      "all": 112,
+      "test": 0,
+      "testable": 112,
+      "pct": 0.0
+    },
+    {
+      "id": "99099052ab466f707c3475ff68ebaf9558efefb0",
+      "who": "guilherme.silveira@caelum.com.br",
+      "when": "2006-04-03T02:17:34+00:00",
+      "all": 26,
+      "test": 0,
+      "testable": 26,
+      "pct": 0.0
+    },
+    {
+      "id": "c7449c468cc1d8039490ac895c5e9387bccac4fb",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2006-04-01T17:00:53+00:00",
+      "all": 1570,
+      "test": 71,
+      "testable": 1560,
+      "pct": 4.6
     }
-  ], 
-  "description": "XStream (master branch)", 
+  ],
+  "description": "XStream (master branch)",
   "baseURL": "https://github.com/x-stream/xstream/commit/"
 }

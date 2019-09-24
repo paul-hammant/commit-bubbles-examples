@@ -1,24 +1,24 @@
 {
   "commits": [
     {
-      "all": 197, 
-      "who": "dap@joyent.com", 
-      "when": "2012-03-26T20:41:58-07:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 197, 
-      "id": "6d3127704854ca9985a576ddd107b3f3c72448a2"
-    }, 
+      "id": "6d3127704854ca9985a576ddd107b3f3c72448a2",
+      "who": "dap@joyent.com",
+      "when": "2012-03-26T20:41:58-07:00",
+      "all": 264,
+      "test": 0,
+      "testable": 264,
+      "pct": 0.0
+    },
     {
-      "all": 225, 
-      "who": "dap@joyent.com", 
-      "when": "2012-03-26T17:58:19-07:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 225, 
-      "id": "05da63da0c391d4cca46cd32dbff7bc8a5266cb7"
+      "id": "05da63da0c391d4cca46cd32dbff7bc8a5266cb7",
+      "who": "dap@joyent.com",
+      "when": "2012-03-26T17:58:19-07:00",
+      "all": 294,
+      "test": 0,
+      "testable": 294,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

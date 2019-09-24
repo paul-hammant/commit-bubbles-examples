@@ -1,15 +1,159 @@
 {
   "commits": [
     {
-      "all": 61, 
-      "who": "antirez@gmail.com", 
-      "when": "2018-06-12T14:12:53+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 61, 
-      "id": "4774d6169108e96a246d062772022b68601a37e5"
+      "id": "032ea657d7ca1923ebebda5f2cfeaa69bfbfb4f5",
+      "who": "antirez@gmail.com",
+      "when": "2018-06-12T18:21:39+02:00",
+      "all": 53,
+      "test": 0,
+      "testable": 53,
+      "pct": 0.0
+    },
+    {
+      "id": "6b8a24a665d0f9bb7cb55cca9ef9e413bdf94e41",
+      "who": "antirez@gmail.com",
+      "when": "2018-06-12T18:10:41+02:00",
+      "all": 44,
+      "test": 0,
+      "testable": 44,
+      "pct": 0.0
+    },
+    {
+      "id": "b38682199b09bb77e11d9a3d4130fd8ebf8df7df",
+      "who": "antirez@gmail.com",
+      "when": "2018-06-12T17:31:04+02:00",
+      "all": 20,
+      "test": 0,
+      "testable": 20,
+      "pct": 0.0
+    },
+    {
+      "id": "e534e9aa8368dc2578384f33a874730a5ac83da9",
+      "who": "antirez@gmail.com",
+      "when": "2018-06-12T17:28:40+02:00",
+      "all": 24,
+      "test": 0,
+      "testable": 24,
+      "pct": 0.0
+    },
+    {
+      "id": "f70e88c1f6e2c7db676ea39dfa323d7c613df787",
+      "who": "antirez@gmail.com",
+      "when": "2018-06-12T17:21:57+02:00",
+      "all": 25,
+      "test": 0,
+      "testable": 25,
+      "pct": 0.0
+    },
+    {
+      "id": "4774d6169108e96a246d062772022b68601a37e5",
+      "who": "antirez@gmail.com",
+      "when": "2018-06-12T14:12:53+02:00",
+      "all": 78,
+      "test": 0,
+      "testable": 78,
+      "pct": 0.0
+    },
+    {
+      "id": "6b675b95252e7d7bbd3bc78d23e4a244a0310b4c",
+      "who": "itamar@redislabs.com",
+      "when": "2018-06-12T14:52:50+03:00",
+      "all": 18,
+      "test": 0,
+      "testable": 18,
+      "pct": 0.0
+    },
+    {
+      "id": "bcc42028c1aa2d6427f14184088895112a6bd23a",
+      "who": "antirez@gmail.com",
+      "when": "2018-06-12T13:20:46+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "e916f4519c3e3b815b594b55c156fb7e1b983377",
+      "who": "antirez@gmail.com",
+      "when": "2018-06-12T13:14:01+02:00",
+      "all": 22,
+      "test": 0,
+      "testable": 22,
+      "pct": 0.0
+    },
+    {
+      "id": "6bf65138de07d934b6ab5c9708918b37e841dabf",
+      "who": "antirez@gmail.com",
+      "when": "2018-06-12T13:13:35+02:00",
+      "all": 22,
+      "test": 22,
+      "testable": 22,
+      "pct": 100.0
+    },
+    {
+      "id": "bcecbebb746ca077d7c23c1cd561da75c875c0b8",
+      "who": "antirez@gmail.com",
+      "when": "2018-06-12T13:05:19+02:00",
+      "all": 22,
+      "test": 0,
+      "testable": 22,
+      "pct": 0.0
+    },
+    {
+      "id": "13957c9d072b86bf8a084380591fcdc219aae108",
+      "who": "shenlongxing2012@gmail.com",
+      "when": "2018-06-12T17:59:32+08:00",
+      "all": 22,
+      "test": 0,
+      "testable": 22,
+      "pct": 0.0
+    },
+    {
+      "id": "7cc1312789aca0bd25bf21f27801430245a17c5a",
+      "who": "antirez@gmail.com",
+      "when": "2018-06-12T10:22:03+02:00",
+      "all": 15,
+      "test": 0,
+      "testable": 15,
+      "pct": 0.0
+    },
+    {
+      "id": "7659619824755b929251faff457d3873b9742f2b",
+      "who": "zwkno1@gmail.com",
+      "when": "2018-06-12T15:28:28+08:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "82661ba329413e899695d2792732ca2f43a1fcc1",
+      "who": "antirez@gmail.com",
+      "when": "2018-06-12T09:28:26+02:00",
+      "all": 17,
+      "test": 0,
+      "testable": 17,
+      "pct": 0.0
+    },
+    {
+      "id": "923e63e5ecfcfbbc849e61c61069665aabbb6b0a",
+      "who": "antirez@gmail.com",
+      "when": "2018-06-12T09:27:32+02:00",
+      "all": 15,
+      "test": 0,
+      "testable": 15,
+      "pct": 0.0
+    },
+    {
+      "id": "fac3e8aab55671bc8842214e7384f4174deb6578",
+      "who": "chen.bao.yi@qq.com",
+      "when": "2018-06-12T08:52:18+08:00",
+      "all": 17,
+      "test": 0,
+      "testable": 17,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

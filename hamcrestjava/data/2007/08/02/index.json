@@ -1,13 +1,22 @@
 {
   "commits": [
     {
-      "all": 99, 
+      "all": 199, 
       "who": "neildunn", 
       "when": "2007-08-02T15:38:16+00:00", 
+      "pct": 48.0, 
+      "test": 84, 
+      "testable": 175, 
+      "id": "378a9d58256889cf9333a6910ff089cebe31cde1"
+    }, 
+    {
+      "all": 72, 
+      "who": "neildunn", 
+      "when": "2007-08-02T14:44:38+00:00", 
       "pct": 0.0, 
       "test": 0, 
-      "testable": 87, 
-      "id": "378a9d58256889cf9333a6910ff089cebe31cde1"
+      "testable": 60, 
+      "id": "07fda5d07f69e4697c70c0e9ee98fcc2aa104ea5"
     }
   ], 
   "description": "Hamcrest Java (master branch)", 

@@ -1,42 +1,24 @@
 {
   "commits": [
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2015-04-29T10:34:08+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "7af420e78dea827fdc37d51da47b2b3b7e4bc63e"
-    }, 
+      "id": "9e7f39d29dbd382212478f1c425ca4dcba89228b",
+      "who": "antirez@gmail.com",
+      "when": "2015-04-29T10:33:21+02:00",
+      "all": 17,
+      "test": 0,
+      "testable": 17,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2015-04-29T10:33:21+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "9e7f39d29dbd382212478f1c425ca4dcba89228b"
-    }, 
-    {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2015-04-29T10:06:46+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "fe0d71d52f53ec8675e8bbcfe4efc4e6f45771c0"
-    }, 
-    {
-      "all": 0, 
-      "who": "clark.kang@kakao.com", 
-      "when": "2015-04-29T00:05:26+09:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "eff212ea959e27058df2d459f8acbe690376b888"
+      "id": "eff212ea959e27058df2d459f8acbe690376b888",
+      "who": "clark.kang@kakao.com",
+      "when": "2015-04-29T00:05:26+09:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

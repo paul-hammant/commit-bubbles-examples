@@ -1,15 +1,15 @@
 {
   "commits": [
     {
-      "all": 0, 
-      "who": "Marc-Antoine@Perennou.com", 
-      "when": "2012-12-10T18:21:10+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "edd7eb9b7d4d8c8a7dbdf7b847c3e0025796e2d7"
+      "id": "edd7eb9b7d4d8c8a7dbdf7b847c3e0025796e2d7",
+      "who": "Marc-Antoine@Perennou.com",
+      "when": "2012-12-10T18:21:10+01:00",
+      "all": 19,
+      "test": 10,
+      "testable": 10,
+      "pct": 100.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

@@ -1,24 +1,60 @@
 {
   "commits": [
     {
-      "all": 53, 
-      "who": "carsten.hammer@t-online.de", 
-      "when": "2019-04-27T17:27:19+02:00", 
-      "pct": 69.0, 
-      "test": 37, 
-      "testable": 53, 
-      "id": "5427e6e319afeccb40321ceb86ba91c9e8ab1465"
-    }, 
+      "id": "47277a9a5fc25cc09371c812f4aa5e7c8a3e3709",
+      "who": "carsten.hammer@t-online.de",
+      "when": "2019-04-27T17:39:24+02:00",
+      "all": 51,
+      "test": 51,
+      "testable": 51,
+      "pct": 100.0
+    },
     {
-      "all": 119, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2019-04-30T02:50:40+02:00", 
-      "pct": 49.0, 
-      "test": 54, 
-      "testable": 110, 
-      "id": "89ab8ac540088cc3d65637b89e654214264ff3b9"
+      "id": "5427e6e319afeccb40321ceb86ba91c9e8ab1465",
+      "who": "carsten.hammer@t-online.de",
+      "when": "2019-04-27T17:27:19+02:00",
+      "all": 106,
+      "test": 88,
+      "testable": 106,
+      "pct": 83.0
+    },
+    {
+      "id": "3c8cc0b12caa8d0604a8ea905f5d7c78e2c617e2",
+      "who": "carsten.hammer@t-online.de",
+      "when": "2019-04-27T17:50:33+02:00",
+      "all": 52,
+      "test": 17,
+      "testable": 52,
+      "pct": 32.7
+    },
+    {
+      "id": "59a7ab237dda536cda33030e15dd1c6661dddeda",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2019-04-30T02:54:41+02:00",
+      "all": 10,
+      "test": 10,
+      "testable": 10,
+      "pct": 100.0
+    },
+    {
+      "id": "89ab8ac540088cc3d65637b89e654214264ff3b9",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2019-04-30T02:50:40+02:00",
+      "all": 139,
+      "test": 67,
+      "testable": 128,
+      "pct": 52.3
+    },
+    {
+      "id": "8af2641b770cda4a56a14fa138aac037e86267b4",
+      "who": "jglick@cloudbees.com",
+      "when": "2019-04-24T16:29:24-04:00",
+      "all": 34,
+      "test": 14,
+      "testable": 24,
+      "pct": 58.3
     }
-  ], 
-  "description": "XStream (master branch)", 
+  ],
+  "description": "XStream (master branch)",
   "baseURL": "https://github.com/x-stream/xstream/commit/"
 }

@@ -1,87 +1,150 @@
 {
   "commits": [
     {
-      "all": 72, 
-      "who": "joe@truemesh.com", 
-      "when": "2004-03-06T20:06:55+00:00", 
-      "pct": 2.0, 
-      "test": 2, 
-      "testable": 72, 
-      "id": "0a22b0ea4862e250d0a8413e760931cef684b2b7"
-    }, 
+      "id": "0c430ea7dc8b4e47fc6ee34ba5e4ae4e66c2da90",
+      "who": "joe@truemesh.com",
+      "when": "2004-03-06T20:20:00+00:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
     {
-      "all": 321, 
-      "who": "joe@truemesh.com", 
-      "when": "2004-03-06T18:17:59+00:00", 
-      "pct": 40.0, 
-      "test": 130, 
-      "testable": 321, 
-      "id": "39967e526ff881bc4e7390cebc730e2027c3b226"
-    }, 
+      "id": "5f519aa4989eabd07c104694ae0773f8aff3ea84",
+      "who": "joe@truemesh.com",
+      "when": "2004-03-06T20:18:58+00:00",
+      "all": 29,
+      "test": 0,
+      "testable": 29,
+      "pct": 0.0
+    },
     {
-      "all": 849, 
-      "who": "joe@truemesh.com", 
-      "when": "2004-03-06T18:14:19+00:00", 
-      "pct": 7.0, 
-      "test": 63, 
-      "testable": 849, 
-      "id": "2bc38742fe8d9370a712deb2cf78af81e2f3297c"
-    }, 
+      "id": "0a22b0ea4862e250d0a8413e760931cef684b2b7",
+      "who": "joe@truemesh.com",
+      "when": "2004-03-06T20:06:55+00:00",
+      "all": 110,
+      "test": 36,
+      "testable": 110,
+      "pct": 32.7
+    },
     {
-      "all": 204, 
-      "who": "joe@truemesh.com", 
-      "when": "2004-03-06T14:51:48+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 204, 
-      "id": "1a4caa4c42eb6d4d31ac32cbf4aed039b802172a"
-    }, 
+      "id": "84ba3c9d2654523018e96842d8c389db74931fd7",
+      "who": "joe@truemesh.com",
+      "when": "2004-03-06T19:29:43+00:00",
+      "all": 61,
+      "test": 15,
+      "testable": 61,
+      "pct": 24.6
+    },
     {
-      "all": 333, 
-      "who": "joe@truemesh.com", 
-      "when": "2004-03-06T14:23:33+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 333, 
-      "id": "70e06aad5f65446cdfb7d90fc8985acb69046723"
-    }, 
+      "id": "7ebf94f8a6b54529e8701b3a39afa070bd87394e",
+      "who": "joe@truemesh.com",
+      "when": "2004-03-06T18:27:59+00:00",
+      "all": 21,
+      "test": 21,
+      "testable": 21,
+      "pct": 100.0
+    },
     {
-      "all": 233, 
-      "who": "joe@truemesh.com", 
-      "when": "2004-03-06T13:54:51+00:00", 
-      "pct": 51.0, 
-      "test": 119, 
-      "testable": 233, 
-      "id": "daa921116d1a1ac60b54dd8c4f10b3c486bb322c"
-    }, 
+      "id": "ba3612e45560c1748e319f167004be9f9c3fcb7e",
+      "who": "joe@truemesh.com",
+      "when": "2004-03-06T18:19:14+00:00",
+      "all": 72,
+      "test": 35,
+      "testable": 72,
+      "pct": 48.6
+    },
     {
-      "all": 90, 
-      "who": "joe@truemesh.com", 
-      "when": "2004-03-06T11:35:50+00:00", 
-      "pct": 68.0, 
-      "test": 62, 
-      "testable": 90, 
-      "id": "1e7979def2c38387b90149c5a9838d7eedfc1bb4"
-    }, 
+      "id": "39967e526ff881bc4e7390cebc730e2027c3b226",
+      "who": "joe@truemesh.com",
+      "when": "2004-03-06T18:17:59+00:00",
+      "all": 421,
+      "test": 223,
+      "testable": 421,
+      "pct": 53.0
+    },
     {
-      "all": 83, 
-      "who": "joe@truemesh.com", 
-      "when": "2004-03-06T11:05:36+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 83, 
-      "id": "f8fa11b8069bdedfe3bcf982f3b6a3de6ac5bbc5"
-    }, 
+      "id": "2bc38742fe8d9370a712deb2cf78af81e2f3297c",
+      "who": "joe@truemesh.com",
+      "when": "2004-03-06T18:14:19+00:00",
+      "all": 946,
+      "test": 123,
+      "testable": 946,
+      "pct": 13.0
+    },
     {
-      "all": 120, 
-      "who": "jvanzyl@apache.org", 
-      "when": "2004-03-06T00:23:47+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 120, 
-      "id": "1ce87bac84a4383e83f251f12a1f3404af9c15d2"
+      "id": "1a4caa4c42eb6d4d31ac32cbf4aed039b802172a",
+      "who": "joe@truemesh.com",
+      "when": "2004-03-06T14:51:48+00:00",
+      "all": 286,
+      "test": 0,
+      "testable": 286,
+      "pct": 0.0
+    },
+    {
+      "id": "70e06aad5f65446cdfb7d90fc8985acb69046723",
+      "who": "joe@truemesh.com",
+      "when": "2004-03-06T14:23:33+00:00",
+      "all": 453,
+      "test": 57,
+      "testable": 453,
+      "pct": 12.6
+    },
+    {
+      "id": "daa921116d1a1ac60b54dd8c4f10b3c486bb322c",
+      "who": "joe@truemesh.com",
+      "when": "2004-03-06T13:54:51+00:00",
+      "all": 295,
+      "test": 177,
+      "testable": 295,
+      "pct": 60.0
+    },
+    {
+      "id": "1e7979def2c38387b90149c5a9838d7eedfc1bb4",
+      "who": "joe@truemesh.com",
+      "when": "2004-03-06T11:35:50+00:00",
+      "all": 124,
+      "test": 94,
+      "testable": 124,
+      "pct": 75.8
+    },
+    {
+      "id": "f8fa11b8069bdedfe3bcf982f3b6a3de6ac5bbc5",
+      "who": "joe@truemesh.com",
+      "when": "2004-03-06T11:05:36+00:00",
+      "all": 131,
+      "test": 9,
+      "testable": 131,
+      "pct": 6.9
+    },
+    {
+      "id": "a8d75ab8e19db1d22775530561e42a2f509ff97f",
+      "who": "joe@truemesh.com",
+      "when": "2004-03-06T10:57:14+00:00",
+      "all": 32,
+      "test": 32,
+      "testable": 32,
+      "pct": 100.0
+    },
+    {
+      "id": "1ce87bac84a4383e83f251f12a1f3404af9c15d2",
+      "who": "jvanzyl@apache.org",
+      "when": "2004-03-06T00:23:47+00:00",
+      "all": 229,
+      "test": 62,
+      "testable": 229,
+      "pct": 27.1
+    },
+    {
+      "id": "d59ca6245b57e7295ade52f68f80a7625b25be3e",
+      "who": "jvanzyl@apache.org",
+      "when": "2004-03-06T00:20:36+00:00",
+      "all": 57,
+      "test": 57,
+      "testable": 57,
+      "pct": 100.0
     }
-  ], 
-  "description": "XStream (master branch)", 
+  ],
+  "description": "XStream (master branch)",
   "baseURL": "https://github.com/x-stream/xstream/commit/"
 }

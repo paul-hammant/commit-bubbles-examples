@@ -1,33 +1,33 @@
 {
   "commits": [
     {
-      "all": 0, 
-      "who": "pcnoordhuis@gmail.com", 
-      "when": "2011-08-17T18:09:01+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "3aa4b0097062b13031506b6b52fc8fc4bfec6dfc"
-    }, 
+      "id": "3aa4b0097062b13031506b6b52fc8fc4bfec6dfc",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2011-08-17T18:09:01+02:00",
+      "all": 46,
+      "test": 46,
+      "testable": 46,
+      "pct": 100.0
+    },
     {
-      "all": 0, 
-      "who": "pcnoordhuis@gmail.com", 
-      "when": "2011-08-17T17:06:19+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "bdbf3acff5ffc5d114f18c1383b103fe6f45829e"
-    }, 
+      "id": "bdbf3acff5ffc5d114f18c1383b103fe6f45829e",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2011-08-17T17:06:19+02:00",
+      "all": 91,
+      "test": 0,
+      "testable": 91,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "pcnoordhuis@gmail.com", 
-      "when": "2011-08-17T18:15:06+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "5f54a5e615efca2c15a8990c336986d9c9497453"
+      "id": "5f54a5e615efca2c15a8990c336986d9c9497453",
+      "who": "pcnoordhuis@gmail.com",
+      "when": "2011-08-17T18:15:06+02:00",
+      "all": 13,
+      "test": 0,
+      "testable": 13,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

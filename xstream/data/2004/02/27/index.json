@@ -1,42 +1,42 @@
 {
   "commits": [
     {
-      "all": 59, 
-      "who": "jvanzyl@apache.org", 
-      "when": "2004-02-27T18:12:28+00:00", 
-      "pct": 40.0, 
-      "test": 24, 
-      "testable": 59, 
-      "id": "08da47350c1df5f0b10cfee7f4fc92e02725b36d"
-    }, 
+      "id": "08da47350c1df5f0b10cfee7f4fc92e02725b36d",
+      "who": "jvanzyl@apache.org",
+      "when": "2004-02-27T18:12:28+00:00",
+      "all": 131,
+      "test": 91,
+      "testable": 131,
+      "pct": 69.5
+    },
     {
-      "all": 70, 
-      "who": "jvanzyl@apache.org", 
-      "when": "2004-02-27T18:11:36+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 70, 
-      "id": "a3cc097091e7c47c686ff7af3b57210541fea765"
-    }, 
+      "id": "a3cc097091e7c47c686ff7af3b57210541fea765",
+      "who": "jvanzyl@apache.org",
+      "when": "2004-02-27T18:11:36+00:00",
+      "all": 81,
+      "test": 0,
+      "testable": 81,
+      "pct": 0.0
+    },
     {
-      "all": 63, 
-      "who": "jvanzyl@apache.org", 
-      "when": "2004-02-27T18:10:51+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 63, 
-      "id": "fef5916364cd147a9a1148ddcc56eb766d1107e8"
-    }, 
+      "id": "fef5916364cd147a9a1148ddcc56eb766d1107e8",
+      "who": "jvanzyl@apache.org",
+      "when": "2004-02-27T18:10:51+00:00",
+      "all": 102,
+      "test": 0,
+      "testable": 102,
+      "pct": 0.0
+    },
     {
-      "all": 105, 
-      "who": "jvanzyl@apache.org", 
-      "when": "2004-02-27T15:45:37+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 105, 
-      "id": "b11aa6f9009a50352f8f70c8e9b67ee48884e8b5"
+      "id": "b11aa6f9009a50352f8f70c8e9b67ee48884e8b5",
+      "who": "jvanzyl@apache.org",
+      "when": "2004-02-27T15:45:37+00:00",
+      "all": 147,
+      "test": 0,
+      "testable": 147,
+      "pct": 0.0
     }
-  ], 
-  "description": "XStream (master branch)", 
+  ],
+  "description": "XStream (master branch)",
   "baseURL": "https://github.com/x-stream/xstream/commit/"
 }

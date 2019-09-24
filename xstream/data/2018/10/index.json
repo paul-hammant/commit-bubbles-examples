@@ -1,33 +1,51 @@
 {
   "commits": [
     {
-      "all": 44, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2018-10-27T02:11:18+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 37, 
-      "id": "dde4e067ab1aa6b33958c0dd5a27fc439fe192e7"
-    }, 
+      "id": "dde4e067ab1aa6b33958c0dd5a27fc439fe192e7",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2018-10-27T02:11:18+02:00",
+      "all": 83,
+      "test": 23,
+      "testable": 75,
+      "pct": 30.7
+    },
     {
-      "all": 41, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2018-10-23T00:50:59+02:00", 
-      "pct": 100.0, 
-      "test": 33, 
-      "testable": 33, 
-      "id": "727b6acc78215bfe2b602db3506c0626da2fa2d3"
-    }, 
+      "id": "6f03bea54d124aaa992006c84ca93e2b649d79d6",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2018-10-26T10:42:44+02:00",
+      "all": 27,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
     {
-      "all": 473, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2018-10-22T20:45:43+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 326, 
-      "id": "28068d4371061c483a5adc367f86573ad37565bc"
+      "id": "727b6acc78215bfe2b602db3506c0626da2fa2d3",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2018-10-23T00:50:59+02:00",
+      "all": 52,
+      "test": 42,
+      "testable": 42,
+      "pct": 100.0
+    },
+    {
+      "id": "881f23e306b36601fabc0dc14862996e8e183200",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2018-10-22T23:33:15+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "28068d4371061c483a5adc367f86573ad37565bc",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2018-10-22T20:45:43+02:00",
+      "all": 573,
+      "test": 0,
+      "testable": 417,
+      "pct": 0.0
     }
-  ], 
-  "description": "XStream (master branch)", 
+  ],
+  "description": "XStream (master branch)",
   "baseURL": "https://github.com/x-stream/xstream/commit/"
 }

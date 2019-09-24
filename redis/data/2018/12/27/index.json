@@ -1,15 +1,15 @@
 {
   "commits": [
     {
-      "all": 0, 
-      "who": "artix2@gmail.com", 
-      "when": "2018-12-27T17:20:38+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "17797660f133b4d0491098f656944f46757e2edd"
+      "id": "17797660f133b4d0491098f656944f46757e2edd",
+      "who": "artix2@gmail.com",
+      "when": "2018-12-27T17:20:38+01:00",
+      "all": 15,
+      "test": 0,
+      "testable": 15,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

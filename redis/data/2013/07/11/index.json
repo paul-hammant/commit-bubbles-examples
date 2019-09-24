@@ -1,51 +1,51 @@
 {
   "commits": [
     {
-      "all": 0, 
-      "who": "lamby@debian.org", 
-      "when": "2013-07-11T12:45:15+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "af62d9a687c7f61178c1fd8a4c7c9f1cc3d5083f"
-    }, 
+      "id": "af62d9a687c7f61178c1fd8a4c7c9f1cc3d5083f",
+      "who": "lamby@debian.org",
+      "when": "2013-07-11T12:45:15+01:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "badboy@archlinux.us", 
-      "when": "2013-07-11T17:47:55+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "1b696dc07ce137c4e5bfc7c7e35e0f9b751099fc"
-    }, 
+      "id": "1b696dc07ce137c4e5bfc7c7e35e0f9b751099fc",
+      "who": "badboy@archlinux.us",
+      "when": "2013-07-11T17:47:55+02:00",
+      "all": 11,
+      "test": 0,
+      "testable": 11,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2013-07-11T16:38:30+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "73ae8558c17a486a694f49dede5a6febed99e9e5"
-    }, 
+      "id": "73ae8558c17a486a694f49dede5a6febed99e9e5",
+      "who": "antirez@gmail.com",
+      "when": "2013-07-11T16:38:30+02:00",
+      "all": 23,
+      "test": 0,
+      "testable": 23,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2013-07-11T16:31:39+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "3fc7f324d243c718d8076e9dcc71e0990deb8192"
-    }, 
+      "id": "3fc7f324d243c718d8076e9dcc71e0990deb8192",
+      "who": "antirez@gmail.com",
+      "when": "2013-07-11T16:31:39+02:00",
+      "all": 26,
+      "test": 0,
+      "testable": 26,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2013-07-11T13:11:27+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "4735f03c5ab4ee3518943576e2ebf8e4d463abcc"
+      "id": "4735f03c5ab4ee3518943576e2ebf8e4d463abcc",
+      "who": "antirez@gmail.com",
+      "when": "2013-07-11T13:11:27+02:00",
+      "all": 21,
+      "test": 0,
+      "testable": 21,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

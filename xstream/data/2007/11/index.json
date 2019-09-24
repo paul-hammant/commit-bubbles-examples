@@ -1,141 +1,330 @@
 {
   "commits": [
     {
-      "all": 54, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2007-11-25T23:30:40+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 54, 
-      "id": "7f165ccbd532d0f63b018bf9669b752f13259716"
-    }, 
+      "id": "3769a44cd13920449ba74ebfc5fa8c4045eec781",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2007-11-26T00:41:54+00:00",
+      "all": 16,
+      "test": 0,
+      "testable": 16,
+      "pct": 0.0
+    },
     {
-      "all": 147, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2007-11-23T22:06:31+00:00", 
-      "pct": 53.0, 
-      "test": 79, 
-      "testable": 147, 
-      "id": "d8a6771f4d8b9b544c96bcbe006a745edf26d57a"
-    }, 
+      "id": "7f165ccbd532d0f63b018bf9669b752f13259716",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2007-11-25T23:30:40+00:00",
+      "all": 105,
+      "test": 11,
+      "testable": 105,
+      "pct": 10.5
+    },
     {
-      "all": 163, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2007-11-22T23:58:48+00:00", 
-      "pct": 82.0, 
-      "test": 135, 
-      "testable": 163, 
-      "id": "7fd8942725eab61510e70c98434c984758a4c5f3"
-    }, 
+      "id": "afa9c1af1b2be26d02cf5e2c895cf6e578e922bb",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2007-11-23T23:26:18+00:00",
+      "all": 45,
+      "test": 25,
+      "testable": 45,
+      "pct": 55.6
+    },
     {
-      "all": 796, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2007-11-22T23:07:56+00:00", 
-      "pct": 100.0, 
-      "test": 796, 
-      "testable": 796, 
-      "id": "97dc0c4f07713b78fb109e64e3e7e0377b22b6bc"
-    }, 
+      "id": "13ec22dd0787955c8ce0c34b70fd6f66e88e10de",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2007-11-23T22:36:48+00:00",
+      "all": 61,
+      "test": 61,
+      "testable": 61,
+      "pct": 100.0
+    },
     {
-      "all": 179, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2007-11-20T21:00:34+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 179, 
-      "id": "661a84b71951729c7ed06d982aedd566b9d320b5"
-    }, 
+      "id": "e9e6b06a3adb19f3c8614c2fa147136afc5d025e",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2007-11-23T22:36:22+00:00",
+      "all": 41,
+      "test": 41,
+      "testable": 41,
+      "pct": 100.0
+    },
     {
-      "all": 653, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2007-11-20T20:16:04+00:00", 
-      "pct": 89.0, 
-      "test": 583, 
-      "testable": 653, 
-      "id": "a11776c8c69365045a9d3ff467791a1d15723bd3"
-    }, 
+      "id": "9e2d863a68f7ef2addf0c6af6e9608ed5b634ea4",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2007-11-23T22:27:09+00:00",
+      "all": 33,
+      "test": 33,
+      "testable": 33,
+      "pct": 100.0
+    },
     {
-      "all": 1193, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2007-11-17T17:59:47+00:00", 
-      "pct": 32.0, 
-      "test": 384, 
-      "testable": 1193, 
-      "id": "6fd610dbe8beb14f097c774401de79969f707a06"
-    }, 
+      "id": "d8a6771f4d8b9b544c96bcbe006a745edf26d57a",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2007-11-23T22:06:31+00:00",
+      "all": 235,
+      "test": 158,
+      "testable": 235,
+      "pct": 67.2
+    },
     {
-      "all": 244, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2007-11-15T21:42:05+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 244, 
-      "id": "97f43a378cf2cff73acda6e709f88b7d811670ed"
-    }, 
+      "id": "7fd8942725eab61510e70c98434c984758a4c5f3",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2007-11-22T23:58:48+00:00",
+      "all": 225,
+      "test": 195,
+      "testable": 225,
+      "pct": 86.7
+    },
     {
-      "all": 97, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2007-11-10T23:32:03+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 97, 
-      "id": "b6d9c85d35a289ac242506550e84596df98047ff"
-    }, 
+      "id": "97dc0c4f07713b78fb109e64e3e7e0377b22b6bc",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2007-11-22T23:07:56+00:00",
+      "all": 840,
+      "test": 840,
+      "testable": 840,
+      "pct": 100.0
+    },
     {
-      "all": 504, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2007-11-10T22:58:36+00:00", 
-      "pct": 48.0, 
-      "test": 225, 
-      "testable": 465, 
-      "id": "21aa9af880bda4da140ea95bc23a8c7da7368829"
-    }, 
+      "id": "661a84b71951729c7ed06d982aedd566b9d320b5",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2007-11-20T21:00:34+00:00",
+      "all": 237,
+      "test": 38,
+      "testable": 237,
+      "pct": 16.0
+    },
     {
-      "all": 86, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2007-11-10T22:07:51+00:00", 
-      "pct": 100.0, 
-      "test": 86, 
-      "testable": 86, 
-      "id": "0f1422c2bf1ceaf328b8df99e9595d5b26cdfe69"
-    }, 
+      "id": "a11776c8c69365045a9d3ff467791a1d15723bd3",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2007-11-20T20:16:04+00:00",
+      "all": 750,
+      "test": 672,
+      "testable": 750,
+      "pct": 89.6
+    },
     {
-      "all": 420, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2007-11-06T21:38:22+00:00", 
-      "pct": 6.0, 
-      "test": 27, 
-      "testable": 420, 
-      "id": "796828a6bdc85e26aa5dfd853cacbdd5dae51170"
-    }, 
+      "id": "09ed5154d2ab8273ce121cf3e9a7b7c5587d3d05",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2007-11-19T21:12:14+00:00",
+      "all": 25,
+      "test": 25,
+      "testable": 25,
+      "pct": 100.0
+    },
     {
-      "all": 391, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2007-11-03T19:10:32+00:00", 
-      "pct": 100.0, 
-      "test": 391, 
-      "testable": 391, 
-      "id": "f63ea60eea6acc8a357c0beafc47d93ba1c318ac"
-    }, 
+      "id": "8e9a3ad4e9193814a16c9101dcfb64751839fcd7",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2007-11-19T08:51:43+00:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
     {
-      "all": 134, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2007-11-03T18:40:50+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 134, 
-      "id": "37fe2c6d4c9d6a9fe3467780661249fff4205b40"
-    }, 
+      "id": "6fd610dbe8beb14f097c774401de79969f707a06",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2007-11-17T17:59:47+00:00",
+      "all": 1304,
+      "test": 478,
+      "testable": 1304,
+      "pct": 36.7
+    },
     {
-      "all": 146, 
-      "who": "joerg.schaible@gmx.de", 
-      "when": "2007-11-03T15:39:09+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 146, 
-      "id": "d92a0b32ea900a2749b505a8680e230d0208825f"
+      "id": "32e8af7e04c1221961ca4e60cd145a8a04acf5cd",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2007-11-15T21:48:07+00:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "97f43a378cf2cff73acda6e709f88b7d811670ed",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2007-11-15T21:42:05+00:00",
+      "all": 320,
+      "test": 9,
+      "testable": 320,
+      "pct": 2.8
+    },
+    {
+      "id": "4ed2e9ebc03dc133ce6f91092760d642546f7074",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2007-11-15T21:36:14+00:00",
+      "all": 27,
+      "test": 0,
+      "testable": 27,
+      "pct": 0.0
+    },
+    {
+      "id": "ce9567a8d6ade88ea482a6e289ae43d1b0609c43",
+      "who": "mauro.talevi@aquilonia.org",
+      "when": "2007-11-15T11:59:14+00:00",
+      "all": 33,
+      "test": 33,
+      "testable": 33,
+      "pct": 100.0
+    },
+    {
+      "id": "dccd75223227a0afcb43d9670cfcdb2e33d83c14",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2007-11-12T21:45:36+00:00",
+      "all": 49,
+      "test": 26,
+      "testable": 49,
+      "pct": 53.1
+    },
+    {
+      "id": "b6d9c85d35a289ac242506550e84596df98047ff",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2007-11-10T23:32:03+00:00",
+      "all": 153,
+      "test": 0,
+      "testable": 153,
+      "pct": 0.0
+    },
+    {
+      "id": "21aa9af880bda4da140ea95bc23a8c7da7368829",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2007-11-10T22:58:36+00:00",
+      "all": 577,
+      "test": 273,
+      "testable": 530,
+      "pct": 51.5
+    },
+    {
+      "id": "0f1422c2bf1ceaf328b8df99e9595d5b26cdfe69",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2007-11-10T22:07:51+00:00",
+      "all": 130,
+      "test": 130,
+      "testable": 130,
+      "pct": 100.0
+    },
+    {
+      "id": "52fbbd705e5b3297521ca0e998c332ca07964a0a",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2007-11-10T22:00:13+00:00",
+      "all": 18,
+      "test": 18,
+      "testable": 18,
+      "pct": 100.0
+    },
+    {
+      "id": "cc153ba98b18b3d5922eae0497a63ae4b27172f8",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2007-11-10T13:51:08+00:00",
+      "all": 17,
+      "test": 0,
+      "testable": 17,
+      "pct": 0.0
+    },
+    {
+      "id": "5ffcae1119c507d06b9b2c36c58912b7efde3a8e",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2007-11-10T13:49:52+00:00",
+      "all": 16,
+      "test": 0,
+      "testable": 16,
+      "pct": 0.0
+    },
+    {
+      "id": "c9493335cd5faf17d15e32ca0abeee84c5e77cfd",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2007-11-07T21:05:48+00:00",
+      "all": 31,
+      "test": 9,
+      "testable": 31,
+      "pct": 29.0
+    },
+    {
+      "id": "796828a6bdc85e26aa5dfd853cacbdd5dae51170",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2007-11-06T21:38:22+00:00",
+      "all": 484,
+      "test": 57,
+      "testable": 484,
+      "pct": 11.8
+    },
+    {
+      "id": "97be67d75b73338f051b1a19752e6b1c81f141b3",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2007-11-06T05:15:45+00:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "0391946a78669e06cc548df8a1fc9a38df6fee5c",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2007-11-06T05:02:24+00:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "77cb887ef05b68376f3b02ea24096e11da2fb7c1",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2007-11-04T15:58:53+00:00",
+      "all": 72,
+      "test": 72,
+      "testable": 72,
+      "pct": 100.0
+    },
+    {
+      "id": "f63ea60eea6acc8a357c0beafc47d93ba1c318ac",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2007-11-03T19:10:32+00:00",
+      "all": 480,
+      "test": 480,
+      "testable": 480,
+      "pct": 100.0
+    },
+    {
+      "id": "2db1a9bd3c50f1ab843dfdb031a6467faab7dc7c",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2007-11-03T18:41:26+00:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "37fe2c6d4c9d6a9fe3467780661249fff4205b40",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2007-11-03T18:40:50+00:00",
+      "all": 172,
+      "test": 23,
+      "testable": 172,
+      "pct": 13.4
+    },
+    {
+      "id": "d92a0b32ea900a2749b505a8680e230d0208825f",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2007-11-03T15:39:09+00:00",
+      "all": 220,
+      "test": 31,
+      "testable": 220,
+      "pct": 14.1
+    },
+    {
+      "id": "47279683d26c086b0ded81addd390a0762d798d2",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2007-11-03T14:42:02+00:00",
+      "all": 20,
+      "test": 0,
+      "testable": 20,
+      "pct": 0.0
+    },
+    {
+      "id": "8b8a8cb1af91fdc443cfdf2dc7d76abff6b3b74a",
+      "who": "joerg.schaible@gmx.de",
+      "when": "2007-11-03T14:17:54+00:00",
+      "all": 47,
+      "test": 47,
+      "testable": 47,
+      "pct": 100.0
     }
-  ], 
-  "description": "XStream (master branch)", 
+  ],
+  "description": "XStream (master branch)",
   "baseURL": "https://github.com/x-stream/xstream/commit/"
 }

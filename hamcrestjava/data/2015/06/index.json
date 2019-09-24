@@ -1,13 +1,22 @@
 {
   "commits": [
     {
-      "all": 56, 
+      "all": 100, 
       "who": "github@m3p.co.uk", 
       "when": "2015-06-25T20:28:15+02:00", 
-      "pct": 42.0, 
-      "test": 24, 
-      "testable": 56, 
+      "pct": 64.0, 
+      "test": 64, 
+      "testable": 100, 
       "id": "5f79ba7f0c15871f02a95c622c954eefedfcf183"
+    }, 
+    {
+      "all": 40, 
+      "who": "magic@magicninja.org", 
+      "when": "2015-06-16T21:30:29+02:00", 
+      "pct": 77.0, 
+      "test": 31, 
+      "testable": 40, 
+      "id": "83f85ad93fa4ba9c3213d524fb9e4b2f734ee47c"
     }
   ], 
   "description": "Hamcrest Java (master branch)", 

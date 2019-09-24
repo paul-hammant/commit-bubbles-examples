@@ -1,24 +1,24 @@
 {
   "commits": [
     {
-      "all": 0, 
-      "who": "zhaozhao.zz@alibaba-inc.com", 
-      "when": "2017-12-08T16:09:27+08:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "109ee497be24906e7931d33b71e3a6e78c5de77b"
-    }, 
+      "id": "109ee497be24906e7931d33b71e3a6e78c5de77b",
+      "who": "zhaozhao.zz@alibaba-inc.com",
+      "when": "2017-12-08T16:09:27+08:00",
+      "all": 18,
+      "test": 0,
+      "testable": 18,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "zhaozhao.zz@alibaba-inc.com", 
-      "when": "2017-12-08T15:37:08+08:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "e8901b2fe489013b17e943d2721f961a50bda07c"
+      "id": "e8901b2fe489013b17e943d2721f961a50bda07c",
+      "who": "zhaozhao.zz@alibaba-inc.com",
+      "when": "2017-12-08T15:37:08+08:00",
+      "all": 82,
+      "test": 0,
+      "testable": 82,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

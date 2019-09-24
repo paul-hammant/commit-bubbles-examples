@@ -1,33 +1,24 @@
 {
   "commits": [
     {
-      "all": 0, 
-      "who": "bobby.potter@gmail.com", 
-      "when": "2009-04-07T18:40:33-05:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "5a6e8b1daa259141917ccc83cb3851614efac615"
-    }, 
+      "id": "5a6e8b1daa259141917ccc83cb3851614efac615",
+      "who": "bobby.potter@gmail.com",
+      "when": "2009-04-07T18:40:33-05:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "bobby.potter@gmail.com", 
-      "when": "2009-04-07T18:36:23-05:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "27dd15268c9b519e94a4194bd32bac2d39c6c9fb"
-    }, 
-    {
-      "all": 0, 
-      "who": "bobby.potter@gmail.com", 
-      "when": "2009-04-07T18:33:44-05:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "5fba9f717be77af5bd5a5149595a1b934d4d5057"
+      "id": "5fba9f717be77af5bd5a5149595a1b934d4d5057",
+      "who": "bobby.potter@gmail.com",
+      "when": "2009-04-07T18:33:44-05:00",
+      "all": 28,
+      "test": 0,
+      "testable": 28,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

@@ -1,67 +1,112 @@
 {
   "commits": [
     {
-      "all": 95, 
+      "all": 196, 
       "who": "smgfreeman", 
       "when": "2008-10-18T08:07:30+00:00", 
       "pct": 100.0, 
-      "test": 95, 
-      "testable": 95, 
+      "test": 196, 
+      "testable": 196, 
       "id": "a433c741a8ef749209689a5777e392b4494f78b9"
     }, 
     {
-      "all": 74, 
+      "all": 32, 
+      "who": "nat.pryce", 
+      "when": "2008-10-16T12:05:29+00:00", 
+      "pct": 100.0, 
+      "test": 32, 
+      "testable": 32, 
+      "id": "9ac3e3680de142fbf43ea446dd59dbf8416245c7"
+    }, 
+    {
+      "all": 31, 
+      "who": "smgfreeman", 
+      "when": "2008-10-16T05:16:01+00:00", 
+      "pct": 100.0, 
+      "test": 31, 
+      "testable": 31, 
+      "id": "a856cf7da08c052bb873abcb10d8c8064e274166"
+    }, 
+    {
+      "all": 53, 
+      "who": "smgfreeman", 
+      "when": "2008-10-13T21:26:18+00:00", 
+      "pct": 69.0, 
+      "test": 37, 
+      "testable": 53, 
+      "id": "6e77d9c7d20d65bccd24719fc9cc1cfa842edb9c"
+    }, 
+    {
+      "all": 120, 
       "who": "smgfreeman", 
       "when": "2008-10-13T07:05:13+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 74, 
+      "pct": 30.0, 
+      "test": 36, 
+      "testable": 120, 
       "id": "2b358c02ef2757f652526f7f7bab5d99cae09755"
     }, 
     {
-      "all": 88, 
+      "all": 166, 
       "who": "smgfreeman", 
       "when": "2008-10-12T11:03:18+00:00", 
-      "pct": 4.0, 
-      "test": 4, 
-      "testable": 88, 
+      "pct": 41.0, 
+      "test": 62, 
+      "testable": 150, 
       "id": "8c6fffef5a5627f38877f0c8ccd4061e4b59f4c4"
     }, 
     {
-      "all": 1139, 
+      "all": 1225, 
       "who": "nat.pryce", 
       "when": "2008-10-11T20:38:34+00:00", 
-      "pct": 36.0, 
-      "test": 409, 
-      "testable": 1133, 
+      "pct": 35.0, 
+      "test": 437, 
+      "testable": 1217, 
       "id": "7e67e5695a017ad94422f0cfdc9a5bba5baae126"
     }, 
     {
-      "all": 311, 
+      "all": 351, 
       "who": "smgfreeman", 
       "when": "2008-10-11T03:56:44+00:00", 
-      "pct": 84.0, 
-      "test": 262, 
-      "testable": 311, 
+      "pct": 83.0, 
+      "test": 294, 
+      "testable": 351, 
       "id": "d1ce178f426052aeb6a31027efc9cf861f7747d2"
     }, 
     {
-      "all": 91, 
+      "all": 117, 
       "who": "smgfreeman", 
       "when": "2008-10-11T03:27:33+00:00", 
-      "pct": 43.0, 
-      "test": 32, 
-      "testable": 73, 
+      "pct": 44.0, 
+      "test": 34, 
+      "testable": 77, 
       "id": "9aa0c3b0e4b36c20b3f182735c76c49b96d29d34"
     }, 
     {
-      "all": 490, 
+      "all": 560, 
       "who": "smgfreeman", 
       "when": "2008-10-09T20:26:25+00:00", 
       "pct": 31.0, 
-      "test": 142, 
-      "testable": 448, 
+      "test": 157, 
+      "testable": 502, 
       "id": "554ef1590568cd2c83a7f5053316259548c537ab"
+    }, 
+    {
+      "all": 10, 
+      "who": "smgfreeman", 
+      "when": "2008-10-05T20:36:20+00:00", 
+      "pct": 100.0, 
+      "test": 10, 
+      "testable": 10, 
+      "id": "d9d63b1093c6a999fd16a94c774a65191089a23c"
+    }, 
+    {
+      "all": 72, 
+      "who": "smgfreeman", 
+      "when": "2008-10-05T20:32:50+00:00", 
+      "pct": 83.0, 
+      "test": 60, 
+      "testable": 72, 
+      "id": "670fc9f61ae8e2a6cceb9b2e02277aa4b5b52ae1"
     }
   ], 
   "description": "Hamcrest Java (master branch)", 

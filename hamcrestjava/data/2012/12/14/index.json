@@ -1,31 +1,58 @@
 {
   "commits": [
     {
-      "all": 488, 
+      "all": 576, 
       "who": "t.denley@cantab.net", 
       "when": "2012-12-14T23:23:17+00:00", 
       "pct": 100.0, 
-      "test": 488, 
-      "testable": 488, 
+      "test": 576, 
+      "testable": 576, 
       "id": "de599fc6c587cf50702fb25b9dc9574bd7fb88e4"
     }, 
     {
-      "all": 68, 
+      "all": 53, 
+      "who": "t.denley@cantab.net", 
+      "when": "2012-12-14T12:02:00+00:00", 
+      "pct": 100.0, 
+      "test": 53, 
+      "testable": 53, 
+      "id": "f4e73d954face228d3e9c922a88390986c78406f"
+    }, 
+    {
+      "all": 53, 
+      "who": "t.denley@cantab.net", 
+      "when": "2012-12-14T12:01:10+00:00", 
+      "pct": 100.0, 
+      "test": 53, 
+      "testable": 53, 
+      "id": "b82ad4bbe3f3e4c7ed058765f1d7f91f04915585"
+    }, 
+    {
+      "all": 124, 
       "who": "t.denley@cantab.net", 
       "when": "2012-12-14T11:39:10+00:00", 
       "pct": 100.0, 
-      "test": 68, 
-      "testable": 68, 
+      "test": 124, 
+      "testable": 124, 
       "id": "3a6b60b53545a7f2fdb90b32c5c916d2ea8dfcad"
     }, 
     {
-      "all": 68, 
+      "all": 124, 
       "who": "t.denley@cantab.net", 
       "when": "2012-12-14T11:37:11+00:00", 
       "pct": 100.0, 
-      "test": 68, 
-      "testable": 68, 
+      "test": 124, 
+      "testable": 124, 
       "id": "9bc78cb8744c4dbb9671c3d97c3e0c6389bc1a64"
+    }, 
+    {
+      "all": 95, 
+      "who": "t.denley@cantab.net", 
+      "when": "2012-12-14T11:02:35+00:00", 
+      "pct": 100.0, 
+      "test": 20, 
+      "testable": 20, 
+      "id": "3b90b9a439f48fb22e9d261f690de524f1a568e7"
     }
   ], 
   "description": "Hamcrest Java (master branch)", 

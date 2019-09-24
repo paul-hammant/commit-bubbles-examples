@@ -1,24 +1,24 @@
 {
   "commits": [
     {
-      "all": 0, 
-      "who": "john@csquare.ca", 
-      "when": "2019-03-09T11:03:59-05:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "5b52bc738bcf0881d07805dc300aeee9cf555b77"
-    }, 
+      "id": "5b52bc738bcf0881d07805dc300aeee9cf555b77",
+      "who": "john@csquare.ca",
+      "when": "2019-03-09T11:03:59-05:00",
+      "all": 15,
+      "test": 0,
+      "testable": 15,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "brad.solomon.1124@gmail.com", 
-      "when": "2019-03-09T10:21:15-05:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "79660e4ff43b55fee1eaa70a27263c4cc3c905a4"
+      "id": "79660e4ff43b55fee1eaa70a27263c4cc3c905a4",
+      "who": "brad.solomon.1124@gmail.com",
+      "when": "2019-03-09T10:21:15-05:00",
+      "all": 21,
+      "test": 0,
+      "testable": 11,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

@@ -1,33 +1,33 @@
 {
   "commits": [
     {
-      "all": 0, 
-      "who": "sean.kelly.2992@gmail.com", 
-      "when": "2016-12-01T02:33:01-08:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "e5db99ad4acfa22e28056a480b106ff7b06a0120"
-    }, 
+      "id": "e5db99ad4acfa22e28056a480b106ff7b06a0120",
+      "who": "sean.kelly.2992@gmail.com",
+      "when": "2016-12-01T02:33:01-08:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "chris@chris-lamb.co.uk", 
-      "when": "2016-12-01T12:10:14+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "6eb0c52d4c9f56561eec76db64190f720661efe6"
-    }, 
+      "id": "6eb0c52d4c9f56561eec76db64190f720661efe6",
+      "who": "chris@chris-lamb.co.uk",
+      "when": "2016-12-01T12:10:14+00:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2016-12-01T09:09:37+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "ff1d5487383df2718a1dbbe4a409d078f353ee6d"
+      "id": "ff1d5487383df2718a1dbbe4a409d078f353ee6d",
+      "who": "antirez@gmail.com",
+      "when": "2016-12-01T09:09:37+01:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

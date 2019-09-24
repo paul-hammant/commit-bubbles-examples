@@ -1,33 +1,24 @@
 {
   "commits": [
     {
-      "all": 0, 
-      "who": "janerik@fnordig.de", 
-      "when": "2016-01-13T10:22:29-07:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "15dacfec6f25fe291ce8aaa702c7fabbee9e3d00"
-    }, 
+      "id": "15dacfec6f25fe291ce8aaa702c7fabbee9e3d00",
+      "who": "janerik@fnordig.de",
+      "when": "2016-01-13T10:22:29-07:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2016-01-13T17:30:53+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "f984cef2171f18158ffbfba34f988f559f855bba"
-    }, 
-    {
-      "all": 0, 
-      "who": "shfbai@gmail.com", 
-      "when": "2016-01-13T00:49:28-08:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "28e80bf96dba35f8937518421a2ee5a3a9c36c4d"
+      "id": "28e80bf96dba35f8937518421a2ee5a3a9c36c4d",
+      "who": "shfbai@gmail.com",
+      "when": "2016-01-13T00:49:28-08:00",
+      "all": 81,
+      "test": 0,
+      "testable": 81,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

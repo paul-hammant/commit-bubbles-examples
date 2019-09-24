@@ -1,15 +1,42 @@
 {
   "commits": [
     {
-      "all": 41, 
-      "who": "oran@redislabs.com", 
-      "when": "2018-07-14T16:49:15+03:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 41, 
-      "id": "d55598988b3381afff87bc974f5cfda0e8ae77e0"
+      "id": "d55598988b3381afff87bc974f5cfda0e8ae77e0",
+      "who": "oran@redislabs.com",
+      "when": "2018-07-14T16:49:15+03:00",
+      "all": 80,
+      "test": 0,
+      "testable": 80,
+      "pct": 0.0
+    },
+    {
+      "id": "491682a668dc5eeffdb6c989b819c1015c97b4f0",
+      "who": "dejun.xdj@alibaba-inc.com",
+      "when": "2018-07-14T15:03:05+08:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "a2177cd2b6bcbacc376d9640727cd89c5ffed3fa",
+      "who": "dejun.xdj@alibaba-inc.com",
+      "when": "2018-07-14T15:02:24+08:00",
+      "all": 8,
+      "test": 0,
+      "testable": 8,
+      "pct": 0.0
+    },
+    {
+      "id": "2d4366c5440ddd565e91142d59455232b6894dbd",
+      "who": "xzsyeb@126.com",
+      "when": "2018-07-14T09:06:23+08:00",
+      "all": 11,
+      "test": 0,
+      "testable": 11,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

@@ -1,51 +1,24 @@
 {
   "commits": [
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2013-11-06T11:30:44+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "e1a1d904dec30ccec2ee17d634d97b72f1b23fb0"
-    }, 
+      "id": "80da056c291108e13ab96ec281e8f541e6a21c68",
+      "who": "antirez@gmail.com",
+      "when": "2013-11-06T11:23:49+01:00",
+      "all": 25,
+      "test": 0,
+      "testable": 25,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2013-11-06T11:23:49+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "80da056c291108e13ab96ec281e8f541e6a21c68"
-    }, 
-    {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2013-11-06T11:21:44+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "23800d9e496a582760a35573cb33e0431d077808"
-    }, 
-    {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2013-11-06T00:42:03-08:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "b5ec3ede7a9714e32f08ef9b9c13dbcf3612c738"
-    }, 
-    {
-      "all": 0, 
-      "who": "ryan@simplymeasured.com", 
-      "when": "2013-11-06T08:31:57+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "ae8642fb79867ef7a6a672567e66a43dab94fcbc"
+      "id": "23800d9e496a582760a35573cb33e0431d077808",
+      "who": "antirez@gmail.com",
+      "when": "2013-11-06T11:21:44+01:00",
+      "all": 28,
+      "test": 0,
+      "testable": 28,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

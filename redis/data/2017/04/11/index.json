@@ -1,51 +1,51 @@
 {
   "commits": [
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2017-04-11T16:56:00+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "4a850be4dc0709d66209e440315ca314a785e964"
-    }, 
+      "id": "4a850be4dc0709d66209e440315ca314a785e964",
+      "who": "antirez@gmail.com",
+      "when": "2017-04-11T16:56:00+02:00",
+      "all": 17,
+      "test": 0,
+      "testable": 17,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2017-04-11T16:54:27+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "f47607af0242c31a113e6ff9c0a884acec036757"
-    }, 
+      "id": "f47607af0242c31a113e6ff9c0a884acec036757",
+      "who": "antirez@gmail.com",
+      "when": "2017-04-11T16:54:27+02:00",
+      "all": 11,
+      "test": 0,
+      "testable": 11,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2017-04-11T16:45:49+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "74720ea993fa67ec865c697e1291e953628bdffd"
-    }, 
+      "id": "74720ea993fa67ec865c697e1291e953628bdffd",
+      "who": "antirez@gmail.com",
+      "when": "2017-04-11T16:45:49+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2017-04-11T16:45:08+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "aa5b4be02ecf280b68786986f3fe99a9abcf0446"
-    }, 
+      "id": "aa5b4be02ecf280b68786986f3fe99a9abcf0446",
+      "who": "antirez@gmail.com",
+      "when": "2017-04-11T16:45:08+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "antirez@gmail.com", 
-      "when": "2017-04-11T16:31:55+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "69ce5c5d10f0baf395892a850f656463f42d8d1d"
+      "id": "69ce5c5d10f0baf395892a850f656463f42d8d1d",
+      "who": "antirez@gmail.com",
+      "when": "2017-04-11T16:31:55+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

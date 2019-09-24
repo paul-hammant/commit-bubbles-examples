@@ -1,15 +1,15 @@
 {
   "commits": [
     {
-      "all": 0, 
-      "who": "guy.benoish@redislabs.com", 
-      "when": "2018-06-24T16:53:01+07:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "dfcc20f4fd30e4373bbd4bc20d500af50796d23c"
+      "id": "dfcc20f4fd30e4373bbd4bc20d500af50796d23c",
+      "who": "guy.benoish@redislabs.com",
+      "when": "2018-06-24T16:53:01+07:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }
