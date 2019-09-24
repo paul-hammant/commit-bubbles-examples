@@ -1,0 +1,51 @@
+{
+  "commits": [
+    {
+      "id": "c5ab3e8fd284e5a769b94037f2e2fbe377707afe",
+      "who": "akushnir@google.com",
+      "when": "2019-01-07T16:35:06-08:00",
+      "all": 235,
+      "test": 121,
+      "testable": 235,
+      "pct": 51.5
+    },
+    {
+      "id": "f5471107d94a5a2ec9d024e076cc4f1a4882013f",
+      "who": "akushnir@google.com",
+      "when": "2019-01-07T17:26:23-08:00",
+      "all": 82,
+      "test": 82,
+      "testable": 82,
+      "pct": 100.0
+    },
+    {
+      "id": "e7753131880479f8c084c4233040b1af97e1e5fd",
+      "who": "mlaval@amadeus.com",
+      "when": "2019-01-07T17:07:39+01:00",
+      "all": 253,
+      "test": 198,
+      "testable": 253,
+      "pct": 78.3
+    },
+    {
+      "id": "996435b79a1e43bd79aaab9ada014366e6b03ddd",
+      "who": "mlaval@amadeus.com",
+      "when": "2019-01-07T10:38:55+01:00",
+      "all": 74,
+      "test": 0,
+      "testable": 63,
+      "pct": 0.0
+    },
+    {
+      "id": "45880532bffb5012a9b5da6da95e18688f4da10b",
+      "who": "pkozlowski.opensource@gmail.com",
+      "when": "2019-01-07T17:29:24+01:00",
+      "all": 191,
+      "test": 191,
+      "testable": 191,
+      "pct": 100.0
+    }
+  ],
+  "description": "Angular (master branch)",
+  "baseURL": "https://github.com/angular/angular/commit/"
+}

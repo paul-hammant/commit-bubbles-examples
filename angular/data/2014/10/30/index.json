@@ -1,0 +1,33 @@
+{
+  "commits": [
+    {
+      "id": "1dc5a22f072c623a36dcb9e5cffd899e4432e23d",
+      "who": "vojta.jina@gmail.com",
+      "when": "2014-10-30T18:52:32+01:00",
+      "all": 141,
+      "test": 0,
+      "testable": 141,
+      "pct": 0.0
+    },
+    {
+      "id": "965fa1a9859a69bcfb7c796e34231348043a3ed7",
+      "who": "radokirov@google.com",
+      "when": "2014-10-30T23:47:22-07:00",
+      "all": 561,
+      "test": 118,
+      "testable": 468,
+      "pct": 25.2
+    },
+    {
+      "id": "8c566dcfb5e9bef9637b19ebcff7c2ea8081e4ab",
+      "who": "radokirov@google.com",
+      "when": "2014-10-30T14:41:19-07:00",
+      "all": 325,
+      "test": 140,
+      "testable": 325,
+      "pct": 43.1
+    }
+  ],
+  "description": "Angular (master branch)",
+  "baseURL": "https://github.com/angular/angular/commit/"
+}

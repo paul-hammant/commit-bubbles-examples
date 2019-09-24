@@ -1,0 +1,69 @@
+{
+  "commits": [
+    {
+      "id": "00c110b055e9b59abd77d3515befdef586cdcebf",
+      "who": "kalpakas.g@gmail.com",
+      "when": "2017-10-24T14:54:08+03:00",
+      "all": 1518,
+      "test": 1151,
+      "testable": 1316,
+      "pct": 87.5
+    },
+    {
+      "id": "743651f5e8a6de2760d174faf4907baa2031111b",
+      "who": "bowen1897@gmail.com",
+      "when": "2017-10-24T11:30:37-07:00",
+      "all": 19,
+      "test": 0,
+      "testable": 19,
+      "pct": 0.0
+    },
+    {
+      "id": "54eba606cb7471897931f7b85b7dd7ea0b29a589",
+      "who": "pete@bacondarwin.com",
+      "when": "2017-10-24T09:51:23+01:00",
+      "all": 160,
+      "test": 0,
+      "testable": 160,
+      "pct": 0.0
+    },
+    {
+      "id": "333786591311fe5f32109376f155e313550b4e67",
+      "who": "pete@bacondarwin.com",
+      "when": "2017-10-24T09:50:27+01:00",
+      "all": 40,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "56b18ff06322e6bbaa8f2d30ad5e3302653fe82b",
+      "who": "chuckj@google.com",
+      "when": "2017-10-24T14:44:25-07:00",
+      "all": 35,
+      "test": 0,
+      "testable": 35,
+      "pct": 0.0
+    },
+    {
+      "id": "7bfeac746e717d02e062fe4a65c008060b8b662c",
+      "who": "chuckj@google.com",
+      "when": "2017-10-24T12:52:14-07:00",
+      "all": 90,
+      "test": 36,
+      "testable": 90,
+      "pct": 40.0
+    },
+    {
+      "id": "c92efc15fba643c1d3c5b5c3ef2283ca3dd015fa",
+      "who": "tbosch1009@gmail.com",
+      "when": "2017-10-24T11:26:04-07:00",
+      "all": 132,
+      "test": 72,
+      "testable": 132,
+      "pct": 54.5
+    }
+  ],
+  "description": "Angular (master branch)",
+  "baseURL": "https://github.com/angular/angular/commit/"
+}
