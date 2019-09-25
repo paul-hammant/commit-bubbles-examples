@@ -1,0 +1,51 @@
+{
+  "commits": [
+    {
+      "id": "92622021de720f9b78ccac676ea12057c0d62831",
+      "who": "Willi@Dell.(none)",
+      "when": "2012-05-20T19:00:02+02:00",
+      "all": 37,
+      "test": 37,
+      "testable": 37,
+      "pct": 100.0
+    },
+    {
+      "id": "989ecb3b9b75cc5d01972cbfdfdfe729705a2650",
+      "who": "oskar.berggren@gmail.com",
+      "when": "2012-05-20T21:55:56+02:00",
+      "all": 714,
+      "test": 339,
+      "testable": 563,
+      "pct": 60.2
+    },
+    {
+      "id": "16d269030389ac52869e67db79fa1c154e50907b",
+      "who": "hazzik@gmail.com",
+      "when": "2012-05-20T15:25:38+06:00",
+      "all": 24,
+      "test": 24,
+      "testable": 24,
+      "pct": 100.0
+    },
+    {
+      "id": "ecfc306402faa363fa044af025979271401bd67e",
+      "who": "hazzik@gmail.com",
+      "when": "2012-05-20T02:26:17-07:00",
+      "all": 108,
+      "test": 89,
+      "testable": 108,
+      "pct": 82.4
+    },
+    {
+      "id": "a83fdbd346a5c3eddc164291c7b6942d59a636dd",
+      "who": "oskar.berggren@gmail.com",
+      "when": "2012-05-20T10:16:50+02:00",
+      "all": 123,
+      "test": 52,
+      "testable": 71,
+      "pct": 73.2
+    }
+  ],
+  "description": "NHibernate (master branch)",
+  "baseURL": "https://github.com/nhibernate/nhibernate-core/commit/"
+}

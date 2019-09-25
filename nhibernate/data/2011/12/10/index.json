@@ -1,0 +1,33 @@
+{
+  "commits": [
+    {
+      "id": "4635913b7654ddb8dba2b9e7add93d51313ad56f",
+      "who": "julian.maughan@gmail.com",
+      "when": "2011-12-10T23:45:11+08:00",
+      "all": 13,
+      "test": 0,
+      "testable": 13,
+      "pct": 0.0
+    },
+    {
+      "id": "a3e268ed067593b81bfb37215b7a5248b981ebae",
+      "who": "julian.maughan@gmail.com",
+      "when": "2011-12-10T23:14:32+08:00",
+      "all": 340,
+      "test": 87,
+      "testable": 332,
+      "pct": 26.2
+    },
+    {
+      "id": "e2218116c7231e7e2c7cd79ac5a349eb1dd9689b",
+      "who": "julian.maughan@gmail.com",
+      "when": "2011-12-10T22:48:56+08:00",
+      "all": 359,
+      "test": 86,
+      "testable": 325,
+      "pct": 26.5
+    }
+  ],
+  "description": "NHibernate (master branch)",
+  "baseURL": "https://github.com/nhibernate/nhibernate-core/commit/"
+}

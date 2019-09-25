@@ -1,0 +1,42 @@
+{
+  "commits": [
+    {
+      "id": "0da331250e5378dcabc262b47d7a4b20a35a8c47",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2008-01-03T14:32:44+00:00",
+      "all": 318,
+      "test": 210,
+      "testable": 309,
+      "pct": 68.0
+    },
+    {
+      "id": "8f90e44c6f4f9bdb3c9db92af864f522b06a7901",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2008-01-03T13:16:29+00:00",
+      "all": 64,
+      "test": 64,
+      "testable": 64,
+      "pct": 100.0
+    },
+    {
+      "id": "2ea233237476fc98b684329d2062e4afd813f5b3",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2008-01-03T12:57:12+00:00",
+      "all": 11629,
+      "test": 323,
+      "testable": 11604,
+      "pct": 2.8
+    },
+    {
+      "id": "5402b2f6c5586870a0a2cd0b375989849aa61541",
+      "who": "ayende@ayende.com",
+      "when": "2008-01-03T05:11:00+00:00",
+      "all": 213,
+      "test": 0,
+      "testable": 213,
+      "pct": 0.0
+    }
+  ],
+  "description": "NHibernate (master branch)",
+  "baseURL": "https://github.com/nhibernate/nhibernate-core/commit/"
+}

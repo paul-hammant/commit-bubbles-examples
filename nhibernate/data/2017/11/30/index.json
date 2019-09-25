@@ -1,0 +1,51 @@
+{
+  "commits": [
+    {
+      "id": "7af6f4cc5f8221f35d17bae3e83c09493824d210",
+      "who": "fredericdelaporte@free.fr",
+      "when": "2017-11-30T12:15:31+01:00",
+      "all": 24,
+      "test": 0,
+      "testable": 24,
+      "pct": 0.0
+    },
+    {
+      "id": "338a827efcca0fd404178f94948e937049083261",
+      "who": "fredericdelaporte@free.fr",
+      "when": "2017-11-30T11:40:43+01:00",
+      "all": 29,
+      "test": 19,
+      "testable": 29,
+      "pct": 65.5
+    },
+    {
+      "id": "4edbbed5c53bcdb8c3074b3fcfe619006dfffa96",
+      "who": "hazzik@gmail.com",
+      "when": "2017-11-30T16:24:58+13:00",
+      "all": 69,
+      "test": 0,
+      "testable": 32,
+      "pct": 0.0
+    },
+    {
+      "id": "63dee05a69acedb1bf64e66a0787c863ca5fd452",
+      "who": "hazzik@gmail.com",
+      "when": "2017-11-30T15:35:39+13:00",
+      "all": 32,
+      "test": 0,
+      "testable": 32,
+      "pct": 0.0
+    },
+    {
+      "id": "5c4eccb0994995aaa1db754966221b3f389e05ad",
+      "who": "hazzik@gmail.com",
+      "when": "2017-11-30T00:11:47+13:00",
+      "all": 4849,
+      "test": 472,
+      "testable": 4769,
+      "pct": 9.9
+    }
+  ],
+  "description": "NHibernate (master branch)",
+  "baseURL": "https://github.com/nhibernate/nhibernate-core/commit/"
+}

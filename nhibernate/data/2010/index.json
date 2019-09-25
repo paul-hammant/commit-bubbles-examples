@@ -1,0 +1,3318 @@
+{
+  "commits": [
+    {
+      "id": "7adde5bddddfd49d041e8e87aec3be64e9de4433",
+      "who": "djg@cheerful.com",
+      "when": "2010-04-15T14:12:00+12:00",
+      "all": 198,
+      "test": 180,
+      "testable": 180,
+      "pct": 100.0
+    },
+    {
+      "id": "683803f327134ae7ce6c2eea81e1eeffdd5d17ea",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-12-31T03:20:16+00:00",
+      "all": 963,
+      "test": 0,
+      "testable": 954,
+      "pct": 0.0
+    },
+    {
+      "id": "56adee434e71d6bb4991623b0420cc7b6f22f281",
+      "who": "ayende@ayende.com",
+      "when": "2010-12-27T14:12:24+00:00",
+      "all": 224,
+      "test": 71,
+      "testable": 174,
+      "pct": 40.8
+    },
+    {
+      "id": "e99809e9af5870e5bad0eb75856385dd8ec3aee0",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-12-26T15:53:13+00:00",
+      "all": 192,
+      "test": 0,
+      "testable": 182,
+      "pct": 0.0
+    },
+    {
+      "id": "d443d7416dac713267351e7741d4245895dc6154",
+      "who": "patearl@patearl.net",
+      "when": "2010-12-25T04:48:25+00:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "42e5c17c42c9132741528385a7574729291c8181",
+      "who": "patearl@patearl.net",
+      "when": "2010-12-25T00:40:50+00:00",
+      "all": 109,
+      "test": 49,
+      "testable": 100,
+      "pct": 49.0
+    },
+    {
+      "id": "c17133ff6a1363c67306e41e47fb74c1b88e1180",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-12-24T20:24:43+00:00",
+      "all": 438,
+      "test": 373,
+      "testable": 373,
+      "pct": 100.0
+    },
+    {
+      "id": "cc9e8cb6af4e4e5952a57227a35e5179ccf4798d",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-12-22T17:30:48+00:00",
+      "all": 97,
+      "test": 37,
+      "testable": 97,
+      "pct": 38.1
+    },
+    {
+      "id": "c3dd1a91c49b9d38f13dba5f50eaf986299ed472",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-12-19T18:40:07+00:00",
+      "all": 57,
+      "test": 29,
+      "testable": 57,
+      "pct": 50.9
+    },
+    {
+      "id": "534c8129e5edb82e197c83eb877cfcaad5d4e2c3",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-12-19T17:46:48+00:00",
+      "all": 18,
+      "test": 0,
+      "testable": 18,
+      "pct": 0.0
+    },
+    {
+      "id": "9b290760b66023a3d2fcbd49f1a5fe33b7f8750a",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-12-19T16:52:03+00:00",
+      "all": 110,
+      "test": 72,
+      "testable": 72,
+      "pct": 100.0
+    },
+    {
+      "id": "b212fb6dd6a81791a7f36c0d2400f3352bf887fc",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-12-19T14:41:59+00:00",
+      "all": 126,
+      "test": 82,
+      "testable": 82,
+      "pct": 100.0
+    },
+    {
+      "id": "c1fcaa65c3232d42f3ef79590bd9685572a2c86d",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-12-18T22:29:06+00:00",
+      "all": 152,
+      "test": 96,
+      "testable": 108,
+      "pct": 88.9
+    },
+    {
+      "id": "e9f9401fb7ba47dd7cedd898c21fde780c7734e3",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-12-18T16:26:47+00:00",
+      "all": 91,
+      "test": 58,
+      "testable": 58,
+      "pct": 100.0
+    },
+    {
+      "id": "faeaf6f76ef28ba4480b1425f0cef3621267d0e8",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-12-18T16:17:48+00:00",
+      "all": 126,
+      "test": 75,
+      "testable": 75,
+      "pct": 100.0
+    },
+    {
+      "id": "afe958601d713d6878270460b43b8f7aba52afb8",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-12-18T16:03:32+00:00",
+      "all": 63,
+      "test": 63,
+      "testable": 63,
+      "pct": 100.0
+    },
+    {
+      "id": "39ab8e8d707236e25fc2d50fcf52b624f6425ddd",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-12-18T15:59:02+00:00",
+      "all": 290,
+      "test": 68,
+      "testable": 280,
+      "pct": 24.3
+    },
+    {
+      "id": "42d19ce56339af95dd82745be2d74652185d6936",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-12-18T15:40:50+00:00",
+      "all": 31,
+      "test": 31,
+      "testable": 31,
+      "pct": 100.0
+    },
+    {
+      "id": "719e62f6314f7becf8e1f15913476ec15b6da8d9",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-12-18T15:35:27+00:00",
+      "all": 28,
+      "test": 28,
+      "testable": 28,
+      "pct": 100.0
+    },
+    {
+      "id": "2f9d3a4ab8243506409e2f97d7b994e35707902a",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-12-17T04:09:00+00:00",
+      "all": 75,
+      "test": 41,
+      "testable": 75,
+      "pct": 54.7
+    },
+    {
+      "id": "10b4be06bdb6523ad0dd6e38b5d1e15075054d6e",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-12-15T22:21:00+00:00",
+      "all": 87,
+      "test": 32,
+      "testable": 78,
+      "pct": 41.0
+    },
+    {
+      "id": "a0e99941fe582467563ff6118b555d4ac2e55e2f",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-12-15T22:09:18+00:00",
+      "all": 156,
+      "test": 0,
+      "testable": 147,
+      "pct": 0.0
+    },
+    {
+      "id": "c31daa7614581ba0e37e9891ce97adb208966ea2",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-12-15T21:57:25+00:00",
+      "all": 76,
+      "test": 32,
+      "testable": 67,
+      "pct": 47.8
+    },
+    {
+      "id": "920e2e83d6bc0c9ec4934099238f7daff97a09f8",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-12-15T21:36:23+00:00",
+      "all": 174,
+      "test": 78,
+      "testable": 156,
+      "pct": 50.0
+    },
+    {
+      "id": "7d87dfca1726c805ef326082bd5069864b00d890",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-12-14T10:13:36+00:00",
+      "all": 25,
+      "test": 0,
+      "testable": 25,
+      "pct": 0.0
+    },
+    {
+      "id": "47a58a47719844dbf9c7405d5334726985f72df5",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-12-12T20:02:13+00:00",
+      "all": 84,
+      "test": 48,
+      "testable": 48,
+      "pct": 100.0
+    },
+    {
+      "id": "81b5d8205355df6220d2e999c1d890045282fc2b",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-12-12T15:31:41+00:00",
+      "all": 167,
+      "test": 107,
+      "testable": 124,
+      "pct": 86.3
+    },
+    {
+      "id": "ae9da23462d6bf49870a1dc510d5649860283fa1",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-12-12T13:18:26+00:00",
+      "all": 142,
+      "test": 36,
+      "testable": 133,
+      "pct": 27.1
+    },
+    {
+      "id": "ce92dfa9ddf2dcdacd8f9a78dfc11a6f98b02f81",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-12-12T12:47:00+00:00",
+      "all": 86,
+      "test": 0,
+      "testable": 86,
+      "pct": 0.0
+    },
+    {
+      "id": "c25666e804ce69e28c088007ab96faa2049d32bf",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-12-11T18:39:48+00:00",
+      "all": 301,
+      "test": 210,
+      "testable": 229,
+      "pct": 91.7
+    },
+    {
+      "id": "12ca3c68251a0342d07a20dea74af9d9e8ba3aab",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-12-10T18:12:42+00:00",
+      "all": 48,
+      "test": 0,
+      "testable": 48,
+      "pct": 0.0
+    },
+    {
+      "id": "d426abf91d49f6fea45e872e187274498d06f086",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-12-10T16:47:11+00:00",
+      "all": 495,
+      "test": 246,
+      "testable": 397,
+      "pct": 62.0
+    },
+    {
+      "id": "3d43d5f8c95c5313eeaa71dd5131b6a20d013dc3",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-12-10T14:23:49+00:00",
+      "all": 357,
+      "test": 0,
+      "testable": 357,
+      "pct": 0.0
+    },
+    {
+      "id": "706e3ecf154772e98ccd4983c5bb22b1b3d27831",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-12-09T16:15:38+00:00",
+      "all": 135,
+      "test": 81,
+      "testable": 91,
+      "pct": 89.0
+    },
+    {
+      "id": "a41748b8e8ece820700ea11bb2147d8638ddb511",
+      "who": "patearl@patearl.net",
+      "when": "2010-12-06T16:56:40+00:00",
+      "all": 10,
+      "test": 10,
+      "testable": 10,
+      "pct": 100.0
+    },
+    {
+      "id": "2bba2191b465eea1752830c45bd963ed99aaa2a5",
+      "who": "patearl@patearl.net",
+      "when": "2010-12-06T16:25:47+00:00",
+      "all": 10,
+      "test": 10,
+      "testable": 10,
+      "pct": 100.0
+    },
+    {
+      "id": "04bbfa1c662b6b4960357b29625c9adf2d10c182",
+      "who": "patearl@patearl.net",
+      "when": "2010-12-06T16:10:14+00:00",
+      "all": 10,
+      "test": 10,
+      "testable": 10,
+      "pct": 100.0
+    },
+    {
+      "id": "b7a4c1c395abc26e85244a9c4f97321d808fe469",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-12-05T08:35:46+00:00",
+      "all": 793,
+      "test": 463,
+      "testable": 463,
+      "pct": 100.0
+    },
+    {
+      "id": "3b811e16d7951c60fc8fcfdff2c7f066a3c1c6f2",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-12-04T02:27:02+00:00",
+      "all": 2841,
+      "test": 79,
+      "testable": 2809,
+      "pct": 2.8
+    },
+    {
+      "id": "6a54e7c50618457b34b1a6052f554fda1ee56b22",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-12-02T11:46:19+00:00",
+      "all": 103,
+      "test": 0,
+      "testable": 103,
+      "pct": 0.0
+    },
+    {
+      "id": "676921b5f64bae6006b1101993c33df7e3d934a1",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-12-01T16:03:31+00:00",
+      "all": 181,
+      "test": 118,
+      "testable": 137,
+      "pct": 86.1
+    },
+    {
+      "id": "c5535a810e82c5357c66471350883224869fe66b",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-11-29T12:59:16+00:00",
+      "all": 12,
+      "test": 12,
+      "testable": 12,
+      "pct": 100.0
+    },
+    {
+      "id": "39e7b343cb9845631bd13b08b993b3313db41830",
+      "who": "patearl@patearl.net",
+      "when": "2010-11-29T02:29:12+00:00",
+      "all": 134,
+      "test": 92,
+      "testable": 92,
+      "pct": 100.0
+    },
+    {
+      "id": "98d456d7bc704501a04d0e28c0683469694e8f56",
+      "who": "patearl@patearl.net",
+      "when": "2010-11-28T21:02:39+00:00",
+      "all": 10,
+      "test": 10,
+      "testable": 10,
+      "pct": 100.0
+    },
+    {
+      "id": "ae67d91f136b225a220f3e84f05ff83e8ee5b3c5",
+      "who": "patearl@patearl.net",
+      "when": "2010-11-28T20:40:57+00:00",
+      "all": 74,
+      "test": 0,
+      "testable": 64,
+      "pct": 0.0
+    },
+    {
+      "id": "bd1f88d4015b0b259bfd2fb1ba41c62174a7a163",
+      "who": "patearl@patearl.net",
+      "when": "2010-11-28T20:14:01+00:00",
+      "all": 375,
+      "test": 290,
+      "testable": 337,
+      "pct": 86.1
+    },
+    {
+      "id": "43cb21959a40553b4af7f27c55039125e738aad7",
+      "who": "patearl@patearl.net",
+      "when": "2010-11-28T19:18:45+00:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "90d8b0ebee34ae363a3dd2e2c2c81b21f343df1c",
+      "who": "patearl@patearl.net",
+      "when": "2010-11-28T19:12:13+00:00",
+      "all": 30,
+      "test": 0,
+      "testable": 30,
+      "pct": 0.0
+    },
+    {
+      "id": "8ba15733dba477069f15cf001475e2fc08afa580",
+      "who": "patearl@patearl.net",
+      "when": "2010-11-28T04:35:11+00:00",
+      "all": 311,
+      "test": 311,
+      "testable": 311,
+      "pct": 100.0
+    },
+    {
+      "id": "23febdea541113680f34d630c673ac2b35f58b84",
+      "who": "patearl@patearl.net",
+      "when": "2010-11-28T03:37:31+00:00",
+      "all": 74,
+      "test": 0,
+      "testable": 64,
+      "pct": 0.0
+    },
+    {
+      "id": "37f331fdc38a5c35f6290fce75fa2f459db45e64",
+      "who": "patearl@patearl.net",
+      "when": "2010-11-26T04:02:34+00:00",
+      "all": 46,
+      "test": 0,
+      "testable": 46,
+      "pct": 0.0
+    },
+    {
+      "id": "ca286ae447928dce63493426e73aca45d8abe9ee",
+      "who": "patearl@patearl.net",
+      "when": "2010-11-25T03:34:05+00:00",
+      "all": 165,
+      "test": 35,
+      "testable": 148,
+      "pct": 23.6
+    },
+    {
+      "id": "dcbd6e9fcc122a433c60855d35e2406b3595e711",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-11-21T17:36:14+00:00",
+      "all": 89,
+      "test": 0,
+      "testable": 89,
+      "pct": 0.0
+    },
+    {
+      "id": "0437a735082d35a6849ed73045f11470c69f5adc",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-11-21T17:14:48+00:00",
+      "all": 1403,
+      "test": 145,
+      "testable": 1316,
+      "pct": 11.0
+    },
+    {
+      "id": "38b948172d59d75606ed4a05cb85aed792c6d284",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-11-10T06:54:12+00:00",
+      "all": 265,
+      "test": 0,
+      "testable": 265,
+      "pct": 0.0
+    },
+    {
+      "id": "2d2d06ce11bcd197c124c0b4e7b437ce2190c480",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-11-07T15:52:07+00:00",
+      "all": 934,
+      "test": 0,
+      "testable": 925,
+      "pct": 0.0
+    },
+    {
+      "id": "16aa8faeafa6aeac2535cf5f93f45ffcc54e8a33",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-11-07T13:37:31+00:00",
+      "all": 153,
+      "test": 19,
+      "testable": 153,
+      "pct": 12.4
+    },
+    {
+      "id": "4d723873d22e28eb2e704bf14f2df55ad8bac647",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-11-02T11:59:09+00:00",
+      "all": 725,
+      "test": 346,
+      "testable": 644,
+      "pct": 53.7
+    },
+    {
+      "id": "5aed661929374571c70525504b0eba34b281890d",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-11-02T10:56:42+00:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "68a7763e46da1d2701633d06f10466fc0124f6c7",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-10-24T00:54:21+00:00",
+      "all": 122,
+      "test": 0,
+      "testable": 122,
+      "pct": 0.0
+    },
+    {
+      "id": "1bb0af2b4322bc7e757f6157fdec8e45a139d277",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-10-14T16:42:37+00:00",
+      "all": 192,
+      "test": 134,
+      "testable": 147,
+      "pct": 91.2
+    },
+    {
+      "id": "84e7c46dc1eac223a982f5e5e4698a79d300aeaa",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-10-13T12:55:16+00:00",
+      "all": 99,
+      "test": 38,
+      "testable": 90,
+      "pct": 42.2
+    },
+    {
+      "id": "1b98f1b8789b56eb0275e5fcbf766b209084b918",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-10-12T21:27:00+00:00",
+      "all": 35,
+      "test": 0,
+      "testable": 35,
+      "pct": 0.0
+    },
+    {
+      "id": "ee7f535f46e7ebbb723b08cbec98634703309102",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-10-12T19:12:23+00:00",
+      "all": 8,
+      "test": 0,
+      "testable": 8,
+      "pct": 0.0
+    },
+    {
+      "id": "a8f4d1d39b4396900f43c867f04cadf333d862b8",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-10-12T17:57:29+00:00",
+      "all": 100,
+      "test": 42,
+      "testable": 100,
+      "pct": 42.0
+    },
+    {
+      "id": "c29482232f7dac51e6cd44f3b2ab063f4da68f86",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-10-12T17:25:31+00:00",
+      "all": 267,
+      "test": 91,
+      "testable": 207,
+      "pct": 44.0
+    },
+    {
+      "id": "37220c70fbc9a9fe534e437c22f0a437ea2d2381",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-10-12T16:15:16+00:00",
+      "all": 182,
+      "test": 93,
+      "testable": 144,
+      "pct": 64.6
+    },
+    {
+      "id": "428c5296f540e3ac0267964e19f0603f7339143f",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-10-12T05:41:30+00:00",
+      "all": 9,
+      "test": 9,
+      "testable": 9,
+      "pct": 100.0
+    },
+    {
+      "id": "415f99bfb956f95b395f810577a370f3d97e8e8c",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-10-10T07:47:16+00:00",
+      "all": 298,
+      "test": 217,
+      "testable": 227,
+      "pct": 95.6
+    },
+    {
+      "id": "860b15788dd395141a13acde384a42dd058bb7a4",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-10-09T11:29:22+00:00",
+      "all": 79,
+      "test": 50,
+      "testable": 79,
+      "pct": 63.3
+    },
+    {
+      "id": "175dad5fb9efb9c172051e8829929d7d6ba7a435",
+      "who": "ayende@ayende.com",
+      "when": "2010-10-07T23:56:06+00:00",
+      "all": 19,
+      "test": 0,
+      "testable": 19,
+      "pct": 0.0
+    },
+    {
+      "id": "1709fe01edf4293f7a5190c97b533553a496bef9",
+      "who": "ayende@ayende.com",
+      "when": "2010-10-07T20:57:08+00:00",
+      "all": 119,
+      "test": 97,
+      "testable": 119,
+      "pct": 81.5
+    },
+    {
+      "id": "35fd0dde6d6638eb1402c993efdb7b82967f3eea",
+      "who": "ayende@ayende.com",
+      "when": "2010-10-07T16:30:45+00:00",
+      "all": 448,
+      "test": 176,
+      "testable": 430,
+      "pct": 40.9
+    },
+    {
+      "id": "2fad3ead9103bf51daa61e60389f81b1ba326455",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-10-07T13:48:36+00:00",
+      "all": 85,
+      "test": 35,
+      "testable": 47,
+      "pct": 74.5
+    },
+    {
+      "id": "7aa0958379e9b37d2c8ec790e525e0869940a24b",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-10-07T12:34:39+00:00",
+      "all": 218,
+      "test": 90,
+      "testable": 177,
+      "pct": 50.8
+    },
+    {
+      "id": "18bd45c474e5e65d8f51ae00634498e42ecfb7f8",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-10-06T20:55:15+00:00",
+      "all": 208,
+      "test": 87,
+      "testable": 199,
+      "pct": 43.7
+    },
+    {
+      "id": "62bdded9734f392d1cc5ee29f348091690713607",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-10-06T18:58:13+00:00",
+      "all": 151,
+      "test": 81,
+      "testable": 113,
+      "pct": 71.7
+    },
+    {
+      "id": "6a844f30ad14a88cf1f3fd8d2e833f40e31a8fa5",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-10-06T17:40:17+00:00",
+      "all": 53,
+      "test": 21,
+      "testable": 21,
+      "pct": 100.0
+    },
+    {
+      "id": "bdbbc77fd4ecc1097c0478598355aabc4b461efc",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-10-06T17:09:41+00:00",
+      "all": 113,
+      "test": 73,
+      "testable": 104,
+      "pct": 70.2
+    },
+    {
+      "id": "01e1a156d3ce3cf866307aecd78fff4ddd8e5a48",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-10-01T11:55:44+00:00",
+      "all": 144,
+      "test": 51,
+      "testable": 106,
+      "pct": 48.1
+    },
+    {
+      "id": "f8181e84de5eaeb9d45ed5af0676697b8cfc75d0",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-09-30T16:27:15+00:00",
+      "all": 202,
+      "test": 153,
+      "testable": 153,
+      "pct": 100.0
+    },
+    {
+      "id": "47d8af483d3da9faab122c23786acb5ce873cd62",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-09-28T21:23:08+00:00",
+      "all": 14,
+      "test": 0,
+      "testable": 14,
+      "pct": 0.0
+    },
+    {
+      "id": "4a0c24b42ff0cf72ee40ee209b5c2ccb4afb2791",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-09-26T17:49:15+00:00",
+      "all": 1716,
+      "test": 0,
+      "testable": 1716,
+      "pct": 0.0
+    },
+    {
+      "id": "31b0d9018a86b6436c8768145212f4355938a8e3",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-09-26T16:54:16+00:00",
+      "all": 428,
+      "test": 307,
+      "testable": 367,
+      "pct": 83.7
+    },
+    {
+      "id": "d0557711a457d6640afdea10078b27569b7f6789",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-09-26T14:26:22+00:00",
+      "all": 282,
+      "test": 195,
+      "testable": 195,
+      "pct": 100.0
+    },
+    {
+      "id": "036f5ea6dd221170874bc3c2ae2a5a5e92403f91",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-09-26T03:53:27+00:00",
+      "all": 842,
+      "test": 765,
+      "testable": 842,
+      "pct": 90.9
+    },
+    {
+      "id": "62c8ccd91ba23d78243456ec3533b1be9a2df049",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-09-26T02:53:50+00:00",
+      "all": 1367,
+      "test": 767,
+      "testable": 1231,
+      "pct": 62.3
+    },
+    {
+      "id": "499db0a0127f4ed360000edc5ac70fca3e12dd39",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-09-25T20:07:30+00:00",
+      "all": 53,
+      "test": 53,
+      "testable": 53,
+      "pct": 100.0
+    },
+    {
+      "id": "9a766795186670786f3961edd55e97c6c209e260",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-09-25T18:06:13+00:00",
+      "all": 72,
+      "test": 40,
+      "testable": 63,
+      "pct": 63.5
+    },
+    {
+      "id": "fd3705793c56c5bf3dd1941a69eeeee81fe3d771",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-09-25T15:47:16+00:00",
+      "all": 19,
+      "test": 0,
+      "testable": 19,
+      "pct": 0.0
+    },
+    {
+      "id": "7594ab9321ea925920c5594226767d5d4a1d785c",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-09-25T15:24:43+00:00",
+      "all": 358,
+      "test": 316,
+      "testable": 316,
+      "pct": 100.0
+    },
+    {
+      "id": "2a1bc38b80a0bcef691a64230704b7c85e45a854",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-09-24T13:45:53+00:00",
+      "all": 135,
+      "test": 58,
+      "testable": 100,
+      "pct": 58.0
+    },
+    {
+      "id": "5254005e55cf72cff4c13ee2d8fef7c1689fabdf",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-09-24T12:30:53+00:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "38a8de38d75a48e422dd0747c4779d8034664dd9",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-09-24T12:18:20+00:00",
+      "all": 50,
+      "test": 37,
+      "testable": 50,
+      "pct": 74.0
+    },
+    {
+      "id": "770314f4c448882577beb6c9ac21eb2148718652",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-09-24T04:50:50+00:00",
+      "all": 240,
+      "test": 154,
+      "testable": 184,
+      "pct": 83.7
+    },
+    {
+      "id": "eb63382c7ee032a54dccaff1bb350ca966a81694",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-09-24T02:46:33+00:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "e1d2b86b56e41b977cac0465fc61636e11c5cd11",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-09-23T23:10:31+00:00",
+      "all": 134,
+      "test": 65,
+      "testable": 98,
+      "pct": 66.3
+    },
+    {
+      "id": "1b9c38d561809889a90aa7c7523b84089bb8284d",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-09-23T17:07:21+00:00",
+      "all": 83,
+      "test": 24,
+      "testable": 40,
+      "pct": 60.0
+    },
+    {
+      "id": "38de2d6a1e3fb8f4fdddaf6c78dd7d3a3f645b92",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-09-22T22:11:09+00:00",
+      "all": 36,
+      "test": 0,
+      "testable": 36,
+      "pct": 0.0
+    },
+    {
+      "id": "ace1ca09f8d08e7492dd4943b02a1961e0ff2ee1",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-09-22T21:01:34+00:00",
+      "all": 635,
+      "test": 46,
+      "testable": 635,
+      "pct": 7.2
+    },
+    {
+      "id": "e2bfea7f403959b8e299f162e31713065e865030",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-09-22T20:25:09+00:00",
+      "all": 59,
+      "test": 10,
+      "testable": 40,
+      "pct": 25.0
+    },
+    {
+      "id": "a52669b7b5353b3a25abbedc38291ce52856b2e8",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-09-22T19:57:43+00:00",
+      "all": 56,
+      "test": 30,
+      "testable": 56,
+      "pct": 53.6
+    },
+    {
+      "id": "9620105ca33961497bee100de7d1a0ae6a3f9070",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-09-22T17:05:14+00:00",
+      "all": 14,
+      "test": 0,
+      "testable": 14,
+      "pct": 0.0
+    },
+    {
+      "id": "4140bbd9e9bc7a07ce47171360313190b161fdfd",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-09-22T16:04:12+00:00",
+      "all": 237,
+      "test": 87,
+      "testable": 145,
+      "pct": 60.0
+    },
+    {
+      "id": "49ba781269e0d28b9d496d81eec3f7123f8bf2d5",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-09-21T15:00:19+00:00",
+      "all": 774,
+      "test": 9,
+      "testable": 747,
+      "pct": 1.2
+    },
+    {
+      "id": "de27f940bbddddbb2b6c0d0f74d2caeff7bd2aef",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-09-20T15:13:25+00:00",
+      "all": 21,
+      "test": 21,
+      "testable": 21,
+      "pct": 100.0
+    },
+    {
+      "id": "cc4df7553e2e85c19b387f880c303f1c53a3ef9d",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-09-20T14:55:09+00:00",
+      "all": 512,
+      "test": 415,
+      "testable": 415,
+      "pct": 100.0
+    },
+    {
+      "id": "5697a37d3f54153140af01a65016da4e331cba63",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-09-20T09:41:14+00:00",
+      "all": 29,
+      "test": 29,
+      "testable": 29,
+      "pct": 100.0
+    },
+    {
+      "id": "f665f80e24ccdaf717198e3cecaf04d7b2f19b3b",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-09-19T21:45:33+00:00",
+      "all": 15,
+      "test": 0,
+      "testable": 15,
+      "pct": 0.0
+    },
+    {
+      "id": "9810ec02deae2182c0528abcbdd37228ab139820",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-09-19T20:34:17+00:00",
+      "all": 14,
+      "test": 0,
+      "testable": 14,
+      "pct": 0.0
+    },
+    {
+      "id": "c8b923629878868e0f37955b90d047cb52af171e",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-09-19T20:17:12+00:00",
+      "all": 309,
+      "test": 93,
+      "testable": 249,
+      "pct": 37.3
+    },
+    {
+      "id": "14d36df97099dcac3352a76d158bb9667b428935",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-09-19T12:31:31+00:00",
+      "all": 32,
+      "test": 0,
+      "testable": 32,
+      "pct": 0.0
+    },
+    {
+      "id": "5f57583fd53a4adf23abee81808c787c1c734aa9",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-09-17T16:25:16+00:00",
+      "all": 60,
+      "test": 0,
+      "testable": 60,
+      "pct": 0.0
+    },
+    {
+      "id": "be2542749c57bd0ba942c38602e9c40439fa9412",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-09-17T16:23:14+00:00",
+      "all": 95,
+      "test": 0,
+      "testable": 95,
+      "pct": 0.0
+    },
+    {
+      "id": "fdd88260710f9bb74f4f87f1d2ecf7b5935ab868",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-09-17T16:13:14+00:00",
+      "all": 831,
+      "test": 126,
+      "testable": 779,
+      "pct": 16.2
+    },
+    {
+      "id": "eb722e7ee38665a0569921cd39da5aaf3128e44b",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-09-17T15:44:32+00:00",
+      "all": 37,
+      "test": 0,
+      "testable": 37,
+      "pct": 0.0
+    },
+    {
+      "id": "22b1dd13b2c9ebe70f4daebb5d1184361984c6db",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-09-16T15:21:57+00:00",
+      "all": 956,
+      "test": 0,
+      "testable": 946,
+      "pct": 0.0
+    },
+    {
+      "id": "84c46771f0a395ddb196085f841287bafc4dc642",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-09-14T15:31:30+00:00",
+      "all": 196,
+      "test": 0,
+      "testable": 196,
+      "pct": 0.0
+    },
+    {
+      "id": "62369a077a97ed6e2b584ad10a20ae09933608e2",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-09-14T13:37:52+00:00",
+      "all": 299,
+      "test": 209,
+      "testable": 239,
+      "pct": 87.4
+    },
+    {
+      "id": "c462eaaf32e0db595137f19a764fad496db6cae4",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-09-13T16:31:46+00:00",
+      "all": 146,
+      "test": 89,
+      "testable": 102,
+      "pct": 87.3
+    },
+    {
+      "id": "e7f3d7487b4ca0d10a29ea7e0e88ceb43e444e24",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-09-11T13:09:24+00:00",
+      "all": 75,
+      "test": 37,
+      "testable": 75,
+      "pct": 49.3
+    },
+    {
+      "id": "15c2e1d1e94a1103f4db0b71d7f8cbf16e33a8eb",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-09-04T23:33:02+00:00",
+      "all": 193,
+      "test": 139,
+      "testable": 193,
+      "pct": 72.0
+    },
+    {
+      "id": "4900903d125eb2618304e9f14a6923824a70e902",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-09-03T05:07:46+00:00",
+      "all": 20,
+      "test": 0,
+      "testable": 20,
+      "pct": 0.0
+    },
+    {
+      "id": "0568e65ccc7dab556d3af2d530556f797765e1be",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-09-02T14:45:56+00:00",
+      "all": 137,
+      "test": 83,
+      "testable": 83,
+      "pct": 100.0
+    },
+    {
+      "id": "e176c1b28fb5678b7db59438472aaa86c92cbb8f",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-09-01T18:39:43+00:00",
+      "all": 268,
+      "test": 209,
+      "testable": 209,
+      "pct": 100.0
+    },
+    {
+      "id": "663df5bf789fa927623aad0c13a80c824c850d18",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-09-01T17:44:35+00:00",
+      "all": 81,
+      "test": 64,
+      "testable": 64,
+      "pct": 100.0
+    },
+    {
+      "id": "b90e285f037b62efd54581aa14152b67faf4b687",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-09-01T17:24:19+00:00",
+      "all": 49,
+      "test": 49,
+      "testable": 49,
+      "pct": 100.0
+    },
+    {
+      "id": "9746b30e3ac15cefb2c8b2e11616b04a26b04f05",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-09-01T17:17:12+00:00",
+      "all": 338,
+      "test": 205,
+      "testable": 280,
+      "pct": 73.2
+    },
+    {
+      "id": "232d64856cbe9fa6c53a28479722be29b6807c21",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-09-01T17:08:11+00:00",
+      "all": 424,
+      "test": 238,
+      "testable": 344,
+      "pct": 69.2
+    },
+    {
+      "id": "648faf73619fff8cba9565fd1191639c937e9407",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-31T18:08:13+00:00",
+      "all": 174,
+      "test": 45,
+      "testable": 134,
+      "pct": 33.6
+    },
+    {
+      "id": "e65c8b01ac2a7a4d07aa0faaf9a15dad69758a86",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-31T16:14:12+00:00",
+      "all": 754,
+      "test": 0,
+      "testable": 754,
+      "pct": 0.0
+    },
+    {
+      "id": "8b2f45a1fc19bcb7cc6260b98cfd7ee994ca7762",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-08-29T17:17:39+00:00",
+      "all": 72,
+      "test": 0,
+      "testable": 72,
+      "pct": 0.0
+    },
+    {
+      "id": "5d97bcede244d0c707b5e0b5d99a984229d54fe1",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-25T11:59:51+00:00",
+      "all": 8226,
+      "test": 9,
+      "testable": 41,
+      "pct": 22.0
+    },
+    {
+      "id": "8e5fed4048392a3e0fe6987de62df85ef745d3c1",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-24T21:37:17+00:00",
+      "all": 51,
+      "test": 30,
+      "testable": 42,
+      "pct": 71.4
+    },
+    {
+      "id": "db3f2c4d6ad4fda037069c5172f25470eee0dc07",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-24T21:28:41+00:00",
+      "all": 39,
+      "test": 30,
+      "testable": 30,
+      "pct": 100.0
+    },
+    {
+      "id": "88b93c4ca38e548407cf244fdcfe446dd36ac81e",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-08-20T18:44:29+00:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "a9c1e37f7c8f641593c8ac1be258812957b06c30",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-08-17T21:38:41+00:00",
+      "all": 30,
+      "test": 0,
+      "testable": 30,
+      "pct": 0.0
+    },
+    {
+      "id": "225ce77a5eaad33a9c2b5e7bd5739f30357a9eca",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-08-16T15:16:22+00:00",
+      "all": 655,
+      "test": 655,
+      "testable": 655,
+      "pct": 100.0
+    },
+    {
+      "id": "94c05c5e314f18d6a87aea04d796a406946d66d5",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-08-16T14:02:01+00:00",
+      "all": 338,
+      "test": 0,
+      "testable": 338,
+      "pct": 0.0
+    },
+    {
+      "id": "cc5cf93c9db851416ccfbbfde7794c9a813d1c5f",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-15T15:25:18+00:00",
+      "all": 76,
+      "test": 31,
+      "testable": 43,
+      "pct": 72.1
+    },
+    {
+      "id": "6190c8ec9175edb109b6fd955c0bc54bc8e00084",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-08-15T13:31:20+00:00",
+      "all": 557,
+      "test": 268,
+      "testable": 557,
+      "pct": 48.1
+    },
+    {
+      "id": "6abeba22660efb44eafb7add59ffd08e9d587a46",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-08-14T22:03:06+00:00",
+      "all": 55,
+      "test": 46,
+      "testable": 55,
+      "pct": 83.6
+    },
+    {
+      "id": "4140a4e2214272bd58dd6037dd78eef1e1666521",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-08-14T21:04:51+00:00",
+      "all": 103,
+      "test": 80,
+      "testable": 80,
+      "pct": 100.0
+    },
+    {
+      "id": "a93af3a3aecc4be17e6ea90aab6eb9b01e4273f3",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-14T17:52:57+00:00",
+      "all": 18,
+      "test": 0,
+      "testable": 18,
+      "pct": 0.0
+    },
+    {
+      "id": "3a1464c8d22f87ce0761637db3b67e13b9884a64",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-14T17:50:54+00:00",
+      "all": 18,
+      "test": 0,
+      "testable": 18,
+      "pct": 0.0
+    },
+    {
+      "id": "8a8d34e06efe0c2c43a975fc46b6de64e7288d2c",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-14T17:48:54+00:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "5146a79604def64d5c5de3b9b7faa7891f85d7f5",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-14T17:47:59+00:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "1736993374efdabf3e1306c1f91dc17a8dd7f896",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-14T17:46:32+00:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "a5f2b4423f8b566e085f38923d95147887f5b142",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-14T17:44:56+00:00",
+      "all": 11,
+      "test": 0,
+      "testable": 11,
+      "pct": 0.0
+    },
+    {
+      "id": "a2c5f0ba8417fc0ff5f21d2b20df2cf199c7190f",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-14T17:43:44+00:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "949e1dd455735b6049cfc0f921c89da77a4f9e43",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-14T17:41:32+00:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "6c46690e556b105a7e371221463c8129f586e22a",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-14T17:40:18+00:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "bb904343e18b693f6d1e13b357c305fdd46ff5ee",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-14T17:37:12+00:00",
+      "all": 178,
+      "test": 121,
+      "testable": 169,
+      "pct": 71.6
+    },
+    {
+      "id": "eb8174eeb95406bf9febe0d24f09a45901ab1240",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-14T16:58:49+00:00",
+      "all": 28,
+      "test": 0,
+      "testable": 28,
+      "pct": 0.0
+    },
+    {
+      "id": "fdfbc05bd3a94f6defa5f8aa98b2fe761f6e9966",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-14T16:52:58+00:00",
+      "all": 101,
+      "test": 42,
+      "testable": 75,
+      "pct": 56.0
+    },
+    {
+      "id": "5bd1c94136c1083e54e37d94393e57f88d90cf44",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-14T15:59:58+00:00",
+      "all": 111,
+      "test": 0,
+      "testable": 99,
+      "pct": 0.0
+    },
+    {
+      "id": "a5996a15db61d768d800fc0d9f4b1c9114c6f809",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-08-11T16:08:53+00:00",
+      "all": 11,
+      "test": 11,
+      "testable": 11,
+      "pct": 100.0
+    },
+    {
+      "id": "d71ff193d45ca10f6a97996daf98481a57a14263",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-08-11T14:44:01+00:00",
+      "all": 147,
+      "test": 97,
+      "testable": 97,
+      "pct": 100.0
+    },
+    {
+      "id": "8e3b1cb36ad127b9123c0ee034401187edd8c5af",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-08-11T14:37:05+00:00",
+      "all": 19,
+      "test": 0,
+      "testable": 19,
+      "pct": 0.0
+    },
+    {
+      "id": "85749bd7116a21af24a2f90911bf4cd9fdc28dd7",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-08-11T13:27:05+00:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "4d353d212af73d19c6b8572c81d22f4605301ba4",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-08-11T13:25:54+00:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "8844d8ed7854781e2e2ed985cced25cdedc7b94a",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-08-10T17:19:39+00:00",
+      "all": 142,
+      "test": 0,
+      "testable": 142,
+      "pct": 0.0
+    },
+    {
+      "id": "1c5757cee8490b647a0ddac5bfc35f877a240d3f",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-10T02:46:39+00:00",
+      "all": 101,
+      "test": 0,
+      "testable": 32,
+      "pct": 0.0
+    },
+    {
+      "id": "c123caa0452ae4180af80fa3205bb6596f276562",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-09T13:03:36+00:00",
+      "all": 195,
+      "test": 17,
+      "testable": 195,
+      "pct": 8.7
+    },
+    {
+      "id": "5d4ea77be0461b05c159b39166de4ebd6afc7685",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-09T11:43:36+00:00",
+      "all": 10,
+      "test": 10,
+      "testable": 10,
+      "pct": 100.0
+    },
+    {
+      "id": "f96fa061aaf15c26e7c612ca25f13c81e2ad0d47",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-09T11:41:40+00:00",
+      "all": 1758,
+      "test": 36,
+      "testable": 1748,
+      "pct": 2.1
+    },
+    {
+      "id": "5b5eb954f17593cca3e61f5a590508c1d87f40a2",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-09T11:33:20+00:00",
+      "all": 109,
+      "test": 0,
+      "testable": 88,
+      "pct": 0.0
+    },
+    {
+      "id": "fbce4496b562709d2fe78e68de4fefce9fa5fbaa",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-08T23:08:04+00:00",
+      "all": 245,
+      "test": 0,
+      "testable": 245,
+      "pct": 0.0
+    },
+    {
+      "id": "a3d5592d651848873d3035e561a83bb7aa50df3f",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-08T21:40:41+00:00",
+      "all": 3562,
+      "test": 330,
+      "testable": 3543,
+      "pct": 9.3
+    },
+    {
+      "id": "56f295e16def6331f64a0248f1e8aacbcb0a00f7",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-07T17:35:36+00:00",
+      "all": 23,
+      "test": 0,
+      "testable": 23,
+      "pct": 0.0
+    },
+    {
+      "id": "709e0a3566c50861e9d797de22a9994f23e792ae",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-07T17:24:50+00:00",
+      "all": 34,
+      "test": 24,
+      "testable": 34,
+      "pct": 70.6
+    },
+    {
+      "id": "c2b5feabc91a35eff275a0d2d6a57ffa5d5f005e",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-07T16:51:50+00:00",
+      "all": 111,
+      "test": 35,
+      "testable": 73,
+      "pct": 47.9
+    },
+    {
+      "id": "33d033b698ea8b1a32d344e0df3e8da0b492029a",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-07T12:58:27+00:00",
+      "all": 86,
+      "test": 51,
+      "testable": 51,
+      "pct": 100.0
+    },
+    {
+      "id": "d3801a9073cd1f2e1c3fc1a2e63f8ce5e106f9d8",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-07T12:34:19+00:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "1118ab1b647601c4dbe78839d44cd3bc41e265b1",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-06T23:19:38+00:00",
+      "all": 43,
+      "test": 0,
+      "testable": 43,
+      "pct": 0.0
+    },
+    {
+      "id": "0d267ed011ce64b10e6be0556a17cc53b6d505ac",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-06T23:17:22+00:00",
+      "all": 440,
+      "test": 0,
+      "testable": 440,
+      "pct": 0.0
+    },
+    {
+      "id": "6155eab06b55e02a28ce00b463d9b5a2ea111ab4",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-06T22:29:22+00:00",
+      "all": 211,
+      "test": 78,
+      "testable": 180,
+      "pct": 43.3
+    },
+    {
+      "id": "e6bf5b75d3d41f2d03fb5bd52bdba5e11f7ce28b",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-08-06T19:57:08+00:00",
+      "all": 874,
+      "test": 237,
+      "testable": 847,
+      "pct": 28.0
+    },
+    {
+      "id": "9e663aa78c11adffed4f7c776d051174ae15734c",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-06T13:56:15+00:00",
+      "all": 369,
+      "test": 156,
+      "testable": 294,
+      "pct": 53.1
+    },
+    {
+      "id": "60a885b61b6de962bec068902df1a9adce8bb158",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-05T16:11:15+00:00",
+      "all": 208,
+      "test": 75,
+      "testable": 175,
+      "pct": 42.9
+    },
+    {
+      "id": "dea689c7c049b4a3e697db7840b7752831ef85f3",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-05T12:30:38+00:00",
+      "all": 253,
+      "test": 0,
+      "testable": 253,
+      "pct": 0.0
+    },
+    {
+      "id": "24038778dea7f578422fc0c5b1c26963f2f9bdb4",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-05T12:20:09+00:00",
+      "all": 195,
+      "test": 0,
+      "testable": 178,
+      "pct": 0.0
+    },
+    {
+      "id": "79209e709591b259dbebb0868e6ffbb4ee0929f7",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-05T11:06:46+00:00",
+      "all": 77,
+      "test": 0,
+      "testable": 77,
+      "pct": 0.0
+    },
+    {
+      "id": "24dc6d6f066a1598eb86cf2e09f0e99277b9bf7b",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-05T03:06:22+00:00",
+      "all": 45,
+      "test": 29,
+      "testable": 45,
+      "pct": 64.4
+    },
+    {
+      "id": "dff35bb4ad3c87111931a59844da3a616f628e66",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-04T19:54:32+00:00",
+      "all": 64,
+      "test": 0,
+      "testable": 55,
+      "pct": 0.0
+    },
+    {
+      "id": "83b5db63ea2b11285e17a8cfb3db342d5d2b791d",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-04T17:40:14+00:00",
+      "all": 44,
+      "test": 0,
+      "testable": 44,
+      "pct": 0.0
+    },
+    {
+      "id": "07a49ee28f878ba606dc2cdd4ff55d2d30fe209e",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-04T17:30:13+00:00",
+      "all": 55,
+      "test": 55,
+      "testable": 55,
+      "pct": 100.0
+    },
+    {
+      "id": "b511fb5ab2351fd197dd4d1d8cff4e21bc3da10a",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-04T17:21:44+00:00",
+      "all": 66,
+      "test": 57,
+      "testable": 57,
+      "pct": 100.0
+    },
+    {
+      "id": "3cc1a5feaaadd7dd8e62334d062f4aab735f9507",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-04T11:57:46+00:00",
+      "all": 14,
+      "test": 0,
+      "testable": 14,
+      "pct": 0.0
+    },
+    {
+      "id": "241f8c57f613d19644c30d3c11da2a7e9e6be866",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-04T11:54:24+00:00",
+      "all": 11,
+      "test": 0,
+      "testable": 11,
+      "pct": 0.0
+    },
+    {
+      "id": "37b252b4b8cf9a99e514f3198b2596e5f7b9d770",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-03T13:04:37+00:00",
+      "all": 167,
+      "test": 79,
+      "testable": 149,
+      "pct": 53.0
+    },
+    {
+      "id": "3a9eb6caed580434161ebf57dea3cc84adf796e9",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-03T11:41:25+00:00",
+      "all": 122,
+      "test": 77,
+      "testable": 89,
+      "pct": 86.5
+    },
+    {
+      "id": "8407ea8b5740db78516180c6469a95b5281b6d31",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-03T10:47:31+00:00",
+      "all": 18,
+      "test": 0,
+      "testable": 18,
+      "pct": 0.0
+    },
+    {
+      "id": "6f98bb2c85a7af970e8805bf95ee94e668655f3e",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-02T22:34:19+00:00",
+      "all": 167,
+      "test": 102,
+      "testable": 124,
+      "pct": 82.3
+    },
+    {
+      "id": "3df561dea56bef93decec4d01a194719ee88f6b6",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-02T21:44:15+00:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "44cb7411c23130b61714469635324a97e0c807dc",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-02T21:40:16+00:00",
+      "all": 39,
+      "test": 0,
+      "testable": 39,
+      "pct": 0.0
+    },
+    {
+      "id": "d6108ab81e84e8370f41d87fc9d1a614cd8bbebc",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-02T19:14:47+00:00",
+      "all": 33,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "a3e8c72d87219c48fa6c1f6efbecebbdbee7b4e0",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-02T17:56:21+00:00",
+      "all": 39,
+      "test": 0,
+      "testable": 30,
+      "pct": 0.0
+    },
+    {
+      "id": "9ac85c44688a0db6f2a84ae7f0540e579abde5cb",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-02T17:30:36+00:00",
+      "all": 235,
+      "test": 83,
+      "testable": 226,
+      "pct": 36.7
+    },
+    {
+      "id": "912dd234a91b9795e2ead8f7788c10022f11c722",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-02T11:44:24+00:00",
+      "all": 77,
+      "test": 27,
+      "testable": 59,
+      "pct": 45.8
+    },
+    {
+      "id": "64daf4a5c4cdb06a87f9b975b0ecc1c41c299cda",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-02T11:35:07+00:00",
+      "all": 563,
+      "test": 113,
+      "testable": 563,
+      "pct": 20.1
+    },
+    {
+      "id": "c3fc9f1923d62533b8bcf1660a3dee941f79fb68",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-01T19:49:12+00:00",
+      "all": 252,
+      "test": 0,
+      "testable": 233,
+      "pct": 0.0
+    },
+    {
+      "id": "faa72710c57832a2a594c14d0d4fb7bbb822a4e7",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-01T17:41:53+00:00",
+      "all": 26,
+      "test": 26,
+      "testable": 26,
+      "pct": 100.0
+    },
+    {
+      "id": "01ba3e37818bb4d1f6d186e773cdccd17b149ab7",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-01T13:49:32+00:00",
+      "all": 55,
+      "test": 0,
+      "testable": 55,
+      "pct": 0.0
+    },
+    {
+      "id": "6bc9f871f0c816fd0e2d66c9e2958eb5b62f2fd3",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-08-01T12:50:01+00:00",
+      "all": 140,
+      "test": 83,
+      "testable": 105,
+      "pct": 79.0
+    },
+    {
+      "id": "43ca5f0ed1732b3be3383baf68808df8455d0a38",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-31T14:15:53+00:00",
+      "all": 73,
+      "test": 0,
+      "testable": 73,
+      "pct": 0.0
+    },
+    {
+      "id": "6adb2b59a3bb9d034e8ddacadf0933da871bf859",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-31T13:59:59+00:00",
+      "all": 1079,
+      "test": 14,
+      "testable": 1056,
+      "pct": 1.3
+    },
+    {
+      "id": "0fcb95a46e3784ba91baf84455c868a8590a110a",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-31T11:38:05+00:00",
+      "all": 163,
+      "test": 94,
+      "testable": 154,
+      "pct": 61.0
+    },
+    {
+      "id": "8e3ebd5fe1dde6bda2f8512ba927b3fb5dfd1d60",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-07-31T08:30:17+00:00",
+      "all": 222,
+      "test": 17,
+      "testable": 222,
+      "pct": 7.7
+    },
+    {
+      "id": "7ece3492573cb2564ea470100499c375917e7103",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-30T17:03:00+00:00",
+      "all": 471,
+      "test": 96,
+      "testable": 462,
+      "pct": 20.8
+    },
+    {
+      "id": "e28b4d0c703627c3aa869a74a8ec942a70f13306",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-29T13:10:59+00:00",
+      "all": 79,
+      "test": 70,
+      "testable": 70,
+      "pct": 100.0
+    },
+    {
+      "id": "6a118612328b53859dfcc4b44f3c4abd18ecb78d",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-28T22:34:55+00:00",
+      "all": 34,
+      "test": 0,
+      "testable": 34,
+      "pct": 0.0
+    },
+    {
+      "id": "3557ca72a4022897ab4a49343c92a6e08859156c",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-28T22:21:16+00:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "cf9f051ca3a30eb66fddd20d30280fe9c03bf0c6",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-28T22:19:19+00:00",
+      "all": 155,
+      "test": 0,
+      "testable": 146,
+      "pct": 0.0
+    },
+    {
+      "id": "7eeab981fea89959b53fce3f6cec87b43d5fc1cc",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-28T21:42:28+00:00",
+      "all": 98,
+      "test": 0,
+      "testable": 98,
+      "pct": 0.0
+    },
+    {
+      "id": "740ee79186ed292466a96414c826d3ebc0f27601",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-28T21:35:11+00:00",
+      "all": 64,
+      "test": 0,
+      "testable": 64,
+      "pct": 0.0
+    },
+    {
+      "id": "be11e232895a24e0d111571a83d10acf697e5894",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-28T21:19:47+00:00",
+      "all": 98,
+      "test": 30,
+      "testable": 88,
+      "pct": 34.1
+    },
+    {
+      "id": "e4887afa9ab6856757107855439f62ad175606c8",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-28T21:15:15+00:00",
+      "all": 53,
+      "test": 32,
+      "testable": 53,
+      "pct": 60.4
+    },
+    {
+      "id": "131b97e9971608e5f90b31cd57e09b8d7935c4a8",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-07-28T20:57:45+00:00",
+      "all": 179,
+      "test": 47,
+      "testable": 146,
+      "pct": 32.2
+    },
+    {
+      "id": "294de3ec77b36741cd9d62679d6d0c93803f8469",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-28T20:44:14+00:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "8cc7f9ca185228d95cb438ed99f567f00d27e62f",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-28T20:40:40+00:00",
+      "all": 118,
+      "test": 56,
+      "testable": 100,
+      "pct": 56.0
+    },
+    {
+      "id": "f4d4764811959fed55615b1c2777c6b81e9738b2",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-28T20:11:31+00:00",
+      "all": 142,
+      "test": 0,
+      "testable": 142,
+      "pct": 0.0
+    },
+    {
+      "id": "b5be333ea93d95119a8c096beacbbcebe9a82c9f",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-28T19:45:24+00:00",
+      "all": 155,
+      "test": 0,
+      "testable": 155,
+      "pct": 0.0
+    },
+    {
+      "id": "e4e6b2bfe042e8979e3c495c6d17a31ef101db8b",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-28T19:38:13+00:00",
+      "all": 79,
+      "test": 0,
+      "testable": 79,
+      "pct": 0.0
+    },
+    {
+      "id": "189ad87e07ffb15890f1a704f7ee5087db3a3b15",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-28T19:23:54+00:00",
+      "all": 154,
+      "test": 0,
+      "testable": 145,
+      "pct": 0.0
+    },
+    {
+      "id": "e2c8ec1bb0708901d1309cb00f03dce1e81d9e3b",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-28T17:48:04+00:00",
+      "all": 117,
+      "test": 0,
+      "testable": 117,
+      "pct": 0.0
+    },
+    {
+      "id": "a7f49b1c71de7ff8a64c92fb7ad478c4e1e06587",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-28T16:51:31+00:00",
+      "all": 55,
+      "test": 0,
+      "testable": 46,
+      "pct": 0.0
+    },
+    {
+      "id": "c9cb79128bdb9278eddfc84b4e507ac94a218b7c",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-27T20:19:40+00:00",
+      "all": 209,
+      "test": 160,
+      "testable": 160,
+      "pct": 100.0
+    },
+    {
+      "id": "d413d25d4388c77e2697c96cac29f544377e1011",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-27T18:36:09+00:00",
+      "all": 60,
+      "test": 46,
+      "testable": 60,
+      "pct": 76.7
+    },
+    {
+      "id": "5271ec7631a82c239aa5d061a89c0560b4e37eb8",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-27T17:52:03+00:00",
+      "all": 58,
+      "test": 34,
+      "testable": 49,
+      "pct": 69.4
+    },
+    {
+      "id": "e77e857034587e75d1fc0f016fceefe5d0d6fa6c",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-27T17:08:22+00:00",
+      "all": 67,
+      "test": 0,
+      "testable": 67,
+      "pct": 0.0
+    },
+    {
+      "id": "572cb0903e0138fd5b16e1544becac979be2a3ad",
+      "who": "ayende@ayende.com",
+      "when": "2010-07-26T09:30:53+00:00",
+      "all": 15,
+      "test": 0,
+      "testable": 15,
+      "pct": 0.0
+    },
+    {
+      "id": "2fa83b94e262b38967e82159db57e8b26e3742f5",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-23T14:37:02+00:00",
+      "all": 96,
+      "test": 49,
+      "testable": 87,
+      "pct": 56.3
+    },
+    {
+      "id": "2a3a5289ca52f250c0e4c2a083d78a9e019c23e7",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-23T05:37:14+00:00",
+      "all": 10,
+      "test": 10,
+      "testable": 10,
+      "pct": 100.0
+    },
+    {
+      "id": "78f515264827e6906cd9c5f3043206d1aec09a50",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-23T05:27:34+00:00",
+      "all": 99,
+      "test": 67,
+      "testable": 67,
+      "pct": 100.0
+    },
+    {
+      "id": "5cb0dc0fc2f555fb4a30526d04bf0c11d0737288",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-23T04:38:56+00:00",
+      "all": 143,
+      "test": 40,
+      "testable": 105,
+      "pct": 38.1
+    },
+    {
+      "id": "18d8e70116c50b897e339622e7415deafd6330a4",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-23T03:51:24+00:00",
+      "all": 69,
+      "test": 43,
+      "testable": 60,
+      "pct": 71.7
+    },
+    {
+      "id": "bc9ffbba2c0cc722ca6526041617fe8085632220",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-07-22T20:59:41+00:00",
+      "all": 206,
+      "test": 31,
+      "testable": 206,
+      "pct": 15.0
+    },
+    {
+      "id": "053d1f8252db07f76e4cd3a141122f7ced1ab373",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-22T16:50:49+00:00",
+      "all": 78,
+      "test": 38,
+      "testable": 48,
+      "pct": 79.2
+    },
+    {
+      "id": "07453da479aace5eed315bfcd89a18712280b963",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-22T15:56:09+00:00",
+      "all": 27,
+      "test": 27,
+      "testable": 27,
+      "pct": 100.0
+    },
+    {
+      "id": "6d062ce327b27a45f42677164859e0ae8006cfec",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-22T15:39:51+00:00",
+      "all": 64,
+      "test": 47,
+      "testable": 64,
+      "pct": 73.4
+    },
+    {
+      "id": "0fa06b1261ee91018f1513da1cffeb90eac8aadb",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-22T14:21:58+00:00",
+      "all": 10,
+      "test": 10,
+      "testable": 10,
+      "pct": 100.0
+    },
+    {
+      "id": "b2d46577dc6f1bbfcb2790aa600612323ebfdf8a",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-22T14:19:50+00:00",
+      "all": 60,
+      "test": 0,
+      "testable": 51,
+      "pct": 0.0
+    },
+    {
+      "id": "9e17339f7a8b8319f8b8b951b691a7342a7de3a4",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-22T13:34:19+00:00",
+      "all": 52,
+      "test": 0,
+      "testable": 52,
+      "pct": 0.0
+    },
+    {
+      "id": "7c934b388e073180dac04a4400be57c255221e8f",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-22T05:39:46+00:00",
+      "all": 22,
+      "test": 0,
+      "testable": 22,
+      "pct": 0.0
+    },
+    {
+      "id": "1b3da244ae4e67f3c6947e50554c5ab05d5c9751",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-22T05:36:15+00:00",
+      "all": 19,
+      "test": 0,
+      "testable": 19,
+      "pct": 0.0
+    },
+    {
+      "id": "e5f0fb7c42ea7aa92776cb324105cb71e4623b3e",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-22T04:57:07+00:00",
+      "all": 146,
+      "test": 97,
+      "testable": 136,
+      "pct": 71.3
+    },
+    {
+      "id": "f449e84055a360f7c0c787603d358b8c66b51357",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-22T03:55:22+00:00",
+      "all": 220,
+      "test": 108,
+      "testable": 182,
+      "pct": 59.3
+    },
+    {
+      "id": "4ef5bae7f506c38389491c1f5a21fbd4f7a3d597",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-21T20:58:52+00:00",
+      "all": 20,
+      "test": 0,
+      "testable": 20,
+      "pct": 0.0
+    },
+    {
+      "id": "b7666245ff6ecbaecc7a0f1f229ca0d70d82f499",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-21T20:31:40+00:00",
+      "all": 137,
+      "test": 105,
+      "testable": 105,
+      "pct": 100.0
+    },
+    {
+      "id": "b45acd85e1ecfd15bf6bf1a13651ecb30659d801",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-21T17:51:11+00:00",
+      "all": 175,
+      "test": 38,
+      "testable": 166,
+      "pct": 22.9
+    },
+    {
+      "id": "257e82c89f8a9c7738fe620cd221aedec51ce050",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-21T17:19:49+00:00",
+      "all": 87,
+      "test": 42,
+      "testable": 51,
+      "pct": 82.4
+    },
+    {
+      "id": "6dfabf390128e80874753d468e92a55edf9f25cd",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-21T14:33:45+00:00",
+      "all": 117,
+      "test": 0,
+      "testable": 101,
+      "pct": 0.0
+    },
+    {
+      "id": "f2df785b48b698a91d530116be9bd98efdd20288",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-21T13:06:48+00:00",
+      "all": 18,
+      "test": 0,
+      "testable": 18,
+      "pct": 0.0
+    },
+    {
+      "id": "1b61bef2a0450c86e5afe1b28d3d3dbcbb519956",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-21T06:37:34+00:00",
+      "all": 154,
+      "test": 89,
+      "testable": 115,
+      "pct": 77.4
+    },
+    {
+      "id": "177ea2450de1db0c66065c841eccac3ee08b3a48",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-21T06:11:15+00:00",
+      "all": 169,
+      "test": 120,
+      "testable": 130,
+      "pct": 92.3
+    },
+    {
+      "id": "e57d7640b3818eb175b4383180b7820f119ba1d7",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-20T21:23:32+00:00",
+      "all": 198,
+      "test": 165,
+      "testable": 165,
+      "pct": 100.0
+    },
+    {
+      "id": "d73fe2d2e9f1e383a1f032e72c6c2518d62c1730",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-20T19:16:18+00:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "8d3c5538f070a0c3ee7daae02eb592533d763cc6",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-20T19:01:08+00:00",
+      "all": 102,
+      "test": 87,
+      "testable": 102,
+      "pct": 85.3
+    },
+    {
+      "id": "24cde819bd2b622456c47c4e75a1ac257b5f001d",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-20T18:37:34+00:00",
+      "all": 143,
+      "test": 70,
+      "testable": 110,
+      "pct": 63.6
+    },
+    {
+      "id": "a4337902703628f3ba99a419df39535b7ff894af",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-20T17:52:31+00:00",
+      "all": 112,
+      "test": 75,
+      "testable": 75,
+      "pct": 100.0
+    },
+    {
+      "id": "cd22ecc7fc211b472f3d27cbd7d5a866d6ab185c",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-20T17:45:07+00:00",
+      "all": 337,
+      "test": 127,
+      "testable": 286,
+      "pct": 44.4
+    },
+    {
+      "id": "41680bdf453cfdd1580203054eb2b9238199b571",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-20T16:43:09+00:00",
+      "all": 62,
+      "test": 21,
+      "testable": 62,
+      "pct": 33.9
+    },
+    {
+      "id": "2d5b8c13852e555f9a0f4a76441675dc3b9ec92b",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-07-20T13:54:08+00:00",
+      "all": 87,
+      "test": 0,
+      "testable": 87,
+      "pct": 0.0
+    },
+    {
+      "id": "a492d2a729c756284c3c51d95ae83895875accd9",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-07-20T00:54:39+00:00",
+      "all": 593,
+      "test": 222,
+      "testable": 470,
+      "pct": 47.2
+    },
+    {
+      "id": "e239e179092aad64c1314eeab91930b153e48664",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-07-19T17:28:53+00:00",
+      "all": 23,
+      "test": 0,
+      "testable": 23,
+      "pct": 0.0
+    },
+    {
+      "id": "893dec0fba8dee1eddfb259046578642dc537fe8",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-07-19T15:31:18+00:00",
+      "all": 32,
+      "test": 20,
+      "testable": 20,
+      "pct": 100.0
+    },
+    {
+      "id": "e82a5f1f14a09ce4a98c2bc717baf7b52e9fd866",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-07-19T14:59:28+00:00",
+      "all": 339,
+      "test": 180,
+      "testable": 293,
+      "pct": 61.4
+    },
+    {
+      "id": "5450fc6e57d624f0a9d8b2a46715b93201f957e6",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-19T14:46:08+00:00",
+      "all": 25,
+      "test": 0,
+      "testable": 25,
+      "pct": 0.0
+    },
+    {
+      "id": "e1955f3b29bd319d05dccd24aed10e30a1ddd06a",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-19T14:32:15+00:00",
+      "all": 109,
+      "test": 72,
+      "testable": 72,
+      "pct": 100.0
+    },
+    {
+      "id": "14272fed05acfd292ddb854ef41b3004f974e489",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-07-19T14:31:25+00:00",
+      "all": 20,
+      "test": 20,
+      "testable": 20,
+      "pct": 100.0
+    },
+    {
+      "id": "38fc9450df7dd1649ae0ca44e0b7b433410ccb7f",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-07-18T15:05:47+00:00",
+      "all": 830,
+      "test": 706,
+      "testable": 706,
+      "pct": 100.0
+    },
+    {
+      "id": "84931329b114fbfd8638bc9777d4ae91f4705847",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-07-15T16:20:51+00:00",
+      "all": 194,
+      "test": 109,
+      "testable": 194,
+      "pct": 56.2
+    },
+    {
+      "id": "fb816799bfd4ef8ed74582e67b7425dba4b5b917",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-07-15T15:16:31+00:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "3887f0faffd668a200ff502375486ba12a5d122e",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-07-15T10:01:40+00:00",
+      "all": 317,
+      "test": 182,
+      "testable": 269,
+      "pct": 67.7
+    },
+    {
+      "id": "2643c5385121b68e1f3bc458d2909b0e11c0019a",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-07-12T21:48:46+00:00",
+      "all": 354,
+      "test": 78,
+      "testable": 345,
+      "pct": 22.6
+    },
+    {
+      "id": "13516f4fb9d197f02b210f2be3518314206cd554",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-07-08T22:13:54+00:00",
+      "all": 221,
+      "test": 26,
+      "testable": 206,
+      "pct": 12.6
+    },
+    {
+      "id": "7f2222ad222d1d6a308ea06218e0297b3b0e8f29",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-07-08T20:48:39+00:00",
+      "all": 90,
+      "test": 58,
+      "testable": 90,
+      "pct": 64.4
+    },
+    {
+      "id": "1323a2495da47fafeaf92dd7423a476f7392c482",
+      "who": "steverstrong@users.sourceforge.net",
+      "when": "2010-07-07T08:39:24+00:00",
+      "all": 49,
+      "test": 30,
+      "testable": 49,
+      "pct": 61.2
+    },
+    {
+      "id": "ead0bf2ed4ff6138753bcb3d059269382e21c489",
+      "who": "steverstrong@users.sourceforge.net",
+      "when": "2010-07-06T20:05:52+00:00",
+      "all": 17,
+      "test": 17,
+      "testable": 17,
+      "pct": 100.0
+    },
+    {
+      "id": "609114034ee32552ccaaaabd0702b5171dfa94a3",
+      "who": "steverstrong@users.sourceforge.net",
+      "when": "2010-07-06T19:37:06+00:00",
+      "all": 119,
+      "test": 52,
+      "testable": 109,
+      "pct": 47.7
+    },
+    {
+      "id": "df96c53ca6e13a369f3ac877f8f05a48d447f6ba",
+      "who": "steverstrong@users.sourceforge.net",
+      "when": "2010-07-06T09:14:59+00:00",
+      "all": 115,
+      "test": 16,
+      "testable": 58,
+      "pct": 27.6
+    },
+    {
+      "id": "d27703bdcf98d0843888f137d70b1deed7fe7891",
+      "who": "julian.maughan@gmail.com",
+      "when": "2010-07-03T14:46:23+00:00",
+      "all": 387,
+      "test": 10,
+      "testable": 378,
+      "pct": 2.6
+    },
+    {
+      "id": "11b1ff536cbdc146fc0be8ec54ef36e6afcfb3a3",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-06-28T12:11:26+00:00",
+      "all": 11142,
+      "test": 84,
+      "testable": 121,
+      "pct": 69.4
+    },
+    {
+      "id": "efc42cb02f7f00a1724b38f98be0e08028cd3e8e",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-06-28T10:32:18+00:00",
+      "all": 69,
+      "test": 38,
+      "testable": 69,
+      "pct": 55.1
+    },
+    {
+      "id": "7bec66aee6f479d0195891bdfe2a07aa92e00ebc",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-06-27T13:30:16+00:00",
+      "all": 56,
+      "test": 0,
+      "testable": 56,
+      "pct": 0.0
+    },
+    {
+      "id": "f9b695c8c2cbed799184edc7b624bfab2e11e96f",
+      "who": "steverstrong@users.sourceforge.net",
+      "when": "2010-06-21T14:57:32+00:00",
+      "all": 224,
+      "test": 58,
+      "testable": 224,
+      "pct": 25.9
+    },
+    {
+      "id": "5cd3ff7e03e1a4737176b88b1914d973d0b664ee",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-06-19T15:00:19+00:00",
+      "all": 57,
+      "test": 48,
+      "testable": 48,
+      "pct": 100.0
+    },
+    {
+      "id": "9900971df3916bd2db71ab1a0ffb5cf0640bbcb4",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-06-18T04:54:01+00:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "49f3a2f9d27faab2a50891b708f8b4d3b6a1fcbe",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-06-18T04:33:05+00:00",
+      "all": 7503,
+      "test": 7446,
+      "testable": 7446,
+      "pct": 100.0
+    },
+    {
+      "id": "adb45881da319751caa8021b280da98ebb104754",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-05-29T19:25:32+00:00",
+      "all": 262,
+      "test": 190,
+      "testable": 209,
+      "pct": 90.9
+    },
+    {
+      "id": "34e7c3645101e29852e72c13a433cbcf4d9b9e69",
+      "who": "steverstrong@users.sourceforge.net",
+      "when": "2010-05-27T14:18:07+00:00",
+      "all": 88,
+      "test": 25,
+      "testable": 88,
+      "pct": 28.4
+    },
+    {
+      "id": "46eb8357f802bc63ab8c18913c0adb84447c2865",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-05-27T10:11:44+00:00",
+      "all": 20,
+      "test": 0,
+      "testable": 20,
+      "pct": 0.0
+    },
+    {
+      "id": "4efcc1f5c29064c2b52232b629e5ddfd4099b900",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-05-27T09:19:36+00:00",
+      "all": 422,
+      "test": 260,
+      "testable": 373,
+      "pct": 69.7
+    },
+    {
+      "id": "042f2982bcb1906add78ab9c4c5b1018b0edd813",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-05-24T20:02:27+00:00",
+      "all": 118,
+      "test": 70,
+      "testable": 79,
+      "pct": 88.6
+    },
+    {
+      "id": "1ed930851720c33aeea0ea6bca5aa24a3211f9fa",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-05-10T11:24:31+00:00",
+      "all": 396,
+      "test": 158,
+      "testable": 396,
+      "pct": 39.9
+    },
+    {
+      "id": "c5d8a409dfc3cdf85225c49e33134e8902449d97",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-05-07T22:44:13+00:00",
+      "all": 229,
+      "test": 133,
+      "testable": 196,
+      "pct": 67.9
+    },
+    {
+      "id": "32407daed19acb87114f377caaa3e2c5869d773f",
+      "who": "steverstrong@users.sourceforge.net",
+      "when": "2010-05-01T22:22:06+00:00",
+      "all": 65297,
+      "test": 0,
+      "testable": 65297,
+      "pct": 0.0
+    },
+    {
+      "id": "5db65768a46df656dc39a042c3f61ed6abb261a5",
+      "who": "steverstrong@users.sourceforge.net",
+      "when": "2010-05-01T18:38:21+00:00",
+      "all": 89,
+      "test": 52,
+      "testable": 67,
+      "pct": 77.6
+    },
+    {
+      "id": "1d148d7e4fe62b045ea723c91ef1e3ffc2e0f1af",
+      "who": "steverstrong@users.sourceforge.net",
+      "when": "2010-04-29T21:49:12+00:00",
+      "all": 65284,
+      "test": 0,
+      "testable": 65284,
+      "pct": 0.0
+    },
+    {
+      "id": "140de9c3bae229d4aadd93e03c76741c5a67facc",
+      "who": "steverstrong@users.sourceforge.net",
+      "when": "2010-04-29T21:01:11+00:00",
+      "all": 65284,
+      "test": 0,
+      "testable": 65284,
+      "pct": 0.0
+    },
+    {
+      "id": "064cec33782916888d9447a1d585efd64e83cd89",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-04-27T16:54:44+00:00",
+      "all": 109,
+      "test": 48,
+      "testable": 109,
+      "pct": 44.0
+    },
+    {
+      "id": "55ff9b324672a0d963e4554df5181675c44d9f2d",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-04-27T16:28:10+00:00",
+      "all": 244,
+      "test": 107,
+      "testable": 244,
+      "pct": 43.9
+    },
+    {
+      "id": "ea7527144b225d0f368fdbf870f5d321d08231ed",
+      "who": "ayende@ayende.com",
+      "when": "2010-04-22T22:25:21+00:00",
+      "all": 308,
+      "test": 98,
+      "testable": 266,
+      "pct": 36.8
+    },
+    {
+      "id": "a229ff85895080f9cdd04a08c1c1438ebc7bbc30",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-04-13T18:10:31+00:00",
+      "all": 265,
+      "test": 180,
+      "testable": 254,
+      "pct": 70.9
+    },
+    {
+      "id": "4e644c8694214f8c24b512821c39dc443affc66d",
+      "who": "steverstrong@users.sourceforge.net",
+      "when": "2010-04-07T10:48:41+00:00",
+      "all": 177,
+      "test": 63,
+      "testable": 168,
+      "pct": 37.5
+    },
+    {
+      "id": "9a936a32c1ddb53369603de787c95c31ff41b2a7",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-04-05T07:15:43+00:00",
+      "all": 100,
+      "test": 70,
+      "testable": 100,
+      "pct": 70.0
+    },
+    {
+      "id": "e1311065f5bb371d6b73a4add026f21247f02624",
+      "who": "ayende@ayende.com",
+      "when": "2010-03-26T18:58:47+00:00",
+      "all": 15,
+      "test": 0,
+      "testable": 15,
+      "pct": 0.0
+    },
+    {
+      "id": "510b049c752737d989366e8e9dc86abc5b4379a9",
+      "who": "ayende@ayende.com",
+      "when": "2010-03-23T21:04:38+00:00",
+      "all": 745,
+      "test": 0,
+      "testable": 745,
+      "pct": 0.0
+    },
+    {
+      "id": "26b6f407cd9c44b7b39515c1a7b92817f10a033d",
+      "who": "steverstrong@users.sourceforge.net",
+      "when": "2010-03-22T15:17:58+00:00",
+      "all": 374,
+      "test": 74,
+      "testable": 348,
+      "pct": 21.3
+    },
+    {
+      "id": "5f1429f2d166da4dc7cb1b7d3644a6e2193097a6",
+      "who": "steverstrong@users.sourceforge.net",
+      "when": "2010-03-17T17:16:04+00:00",
+      "all": 10,
+      "test": 10,
+      "testable": 10,
+      "pct": 100.0
+    },
+    {
+      "id": "4450e92d2e6abe725958b501b3aec53a1c1a2f54",
+      "who": "steverstrong@users.sourceforge.net",
+      "when": "2010-03-17T16:58:31+00:00",
+      "all": 23,
+      "test": 13,
+      "testable": 13,
+      "pct": 100.0
+    },
+    {
+      "id": "7b8c9014a5d16f762a8bb769f4e261cb8b1c8326",
+      "who": "steverstrong@users.sourceforge.net",
+      "when": "2010-03-17T16:26:33+00:00",
+      "all": 129,
+      "test": 32,
+      "testable": 32,
+      "pct": 100.0
+    },
+    {
+      "id": "1deed1ccabde41bd9f9c85c571e609c7752f9a2a",
+      "who": "steverstrong@users.sourceforge.net",
+      "when": "2010-03-17T15:35:33+00:00",
+      "all": 151,
+      "test": 49,
+      "testable": 49,
+      "pct": 100.0
+    },
+    {
+      "id": "d994a72f0abc19f382d022ef16514890e8f7d116",
+      "who": "steverstrong@users.sourceforge.net",
+      "when": "2010-03-17T14:18:03+00:00",
+      "all": 111,
+      "test": 73,
+      "testable": 92,
+      "pct": 79.3
+    },
+    {
+      "id": "807916e98220aae2b4092c3e31058e8eb70555df",
+      "who": "steverstrong@users.sourceforge.net",
+      "when": "2010-03-17T12:41:45+00:00",
+      "all": 102,
+      "test": 0,
+      "testable": 79,
+      "pct": 0.0
+    },
+    {
+      "id": "0fefe5417d5957f8f10e5dac26b861de56442a38",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-03-15T16:06:07+00:00",
+      "all": 129,
+      "test": 66,
+      "testable": 76,
+      "pct": 86.8
+    },
+    {
+      "id": "f3ed2a10c453665457c3bcbe6d46f51459ee9421",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-03-07T10:16:09+00:00",
+      "all": 60,
+      "test": 34,
+      "testable": 60,
+      "pct": 56.7
+    },
+    {
+      "id": "5e9e354ab72f80119ecdf4f2d9cf49efd98f32fc",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-03-07T09:47:45+00:00",
+      "all": 279,
+      "test": 108,
+      "testable": 270,
+      "pct": 40.0
+    },
+    {
+      "id": "b386c591009e52c068517d6e0d1ab70891516c74",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-03-06T22:49:21+00:00",
+      "all": 238,
+      "test": 78,
+      "testable": 229,
+      "pct": 34.1
+    },
+    {
+      "id": "ed654e0ea07a67320b8a966c886613fbc0708691",
+      "who": "ayende@ayende.com",
+      "when": "2010-03-03T17:29:11+00:00",
+      "all": 52,
+      "test": 42,
+      "testable": 42,
+      "pct": 100.0
+    },
+    {
+      "id": "4a08b986f8fce1f8a7ed272c8a6baf33f8cf1dda",
+      "who": "ayende@ayende.com",
+      "when": "2010-03-03T15:54:34+00:00",
+      "all": 235,
+      "test": 151,
+      "testable": 183,
+      "pct": 82.5
+    },
+    {
+      "id": "f45bfc614ca75b7d2f9141743c66817d0bc7eaff",
+      "who": "steverstrong@users.sourceforge.net",
+      "when": "2010-02-26T20:47:09+00:00",
+      "all": 1634,
+      "test": 123,
+      "testable": 1600,
+      "pct": 7.7
+    },
+    {
+      "id": "754a986bd9e258474ce9bc0d42e92b126f60622c",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-02-24T21:23:13+00:00",
+      "all": 22,
+      "test": 22,
+      "testable": 22,
+      "pct": 100.0
+    },
+    {
+      "id": "bad53dfeb6f60e0bc5d4974ca9b6bdbda33a51a2",
+      "who": "steverstrong@users.sourceforge.net",
+      "when": "2010-02-24T16:45:34+00:00",
+      "all": 22,
+      "test": 22,
+      "testable": 22,
+      "pct": 100.0
+    },
+    {
+      "id": "e41ff2c6deb3ef40aa69f0031beeb069d1b6fac0",
+      "who": "steverstrong@users.sourceforge.net",
+      "when": "2010-02-24T15:52:13+00:00",
+      "all": 2142,
+      "test": 400,
+      "testable": 2098,
+      "pct": 19.1
+    },
+    {
+      "id": "7cc96b15668b2ee7ba9a43919ff936585814135d",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-02-16T22:50:19+00:00",
+      "all": 707,
+      "test": 116,
+      "testable": 673,
+      "pct": 17.2
+    },
+    {
+      "id": "0a132c589f6bac4353c566517c12b5acda4548bb",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-02-07T12:15:51+00:00",
+      "all": 236,
+      "test": 36,
+      "testable": 236,
+      "pct": 15.3
+    },
+    {
+      "id": "88d1edb9eb0fee9c039f98a544ede0c59eac4ba2",
+      "who": "ayende@ayende.com",
+      "when": "2010-02-01T20:48:56+00:00",
+      "all": 39,
+      "test": 0,
+      "testable": 39,
+      "pct": 0.0
+    },
+    {
+      "id": "5fe11279910659683e805583ca247e1c77033309",
+      "who": "ayende@ayende.com",
+      "when": "2010-01-27T15:58:40+00:00",
+      "all": 353,
+      "test": 41,
+      "testable": 317,
+      "pct": 12.9
+    },
+    {
+      "id": "e9da51da197aff8385303c7b1212b4a3e90abcd6",
+      "who": "ayende@ayende.com",
+      "when": "2010-01-27T15:19:39+00:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "8b73ea26a70ad8aa28dbf767b3915faf9b5c830c",
+      "who": "ayende@ayende.com",
+      "when": "2010-01-27T15:19:14+00:00",
+      "all": 30,
+      "test": 0,
+      "testable": 30,
+      "pct": 0.0
+    },
+    {
+      "id": "a72643c1b89a5a89242e0cbec41351a8db389c67",
+      "who": "ayende@ayende.com",
+      "when": "2010-01-27T15:07:21+00:00",
+      "all": 103,
+      "test": 55,
+      "testable": 65,
+      "pct": 84.6
+    },
+    {
+      "id": "b16df0352f3822bc21fcbcf0ac2925f88de39d1e",
+      "who": "ayende@ayende.com",
+      "when": "2010-01-27T14:40:36+00:00",
+      "all": 23,
+      "test": 0,
+      "testable": 23,
+      "pct": 0.0
+    },
+    {
+      "id": "985686a39eb2b5b754dd101b9671dd6e081bd883",
+      "who": "ayende@ayende.com",
+      "when": "2010-01-27T14:38:34+00:00",
+      "all": 281,
+      "test": 39,
+      "testable": 281,
+      "pct": 13.9
+    },
+    {
+      "id": "e79f47e712a0b5dc6b4c569c443780a6eead32c6",
+      "who": "ayende@ayende.com",
+      "when": "2010-01-27T14:00:14+00:00",
+      "all": 158,
+      "test": 92,
+      "testable": 158,
+      "pct": 58.2
+    },
+    {
+      "id": "b359650d625af3c0076edc8187dc48d909f5a9eb",
+      "who": "ayende@ayende.com",
+      "when": "2010-01-27T13:53:45+00:00",
+      "all": 67,
+      "test": 56,
+      "testable": 67,
+      "pct": 83.6
+    },
+    {
+      "id": "63ab5b7da0a507b1935788369ac9306ef0704345",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-01-26T23:28:18+00:00",
+      "all": 153,
+      "test": 92,
+      "testable": 114,
+      "pct": 80.7
+    },
+    {
+      "id": "4a6ef3f2f01a0e965d630991531318f71c7080e9",
+      "who": "ayende@ayende.com",
+      "when": "2010-01-26T09:25:25+00:00",
+      "all": 126,
+      "test": 18,
+      "testable": 126,
+      "pct": 14.3
+    },
+    {
+      "id": "92d185baeaa21bc9cda38272efdae9885c9ae80e",
+      "who": "ayende@ayende.com",
+      "when": "2010-01-25T21:57:55+00:00",
+      "all": 16,
+      "test": 0,
+      "testable": 16,
+      "pct": 0.0
+    },
+    {
+      "id": "cc8e8c26ba0153be595c7c7411e3ef55c0de0e07",
+      "who": "ayende@ayende.com",
+      "when": "2010-01-25T10:27:03+00:00",
+      "all": 10,
+      "test": 10,
+      "testable": 10,
+      "pct": 100.0
+    },
+    {
+      "id": "9365859536ecaa274179d10eca30b4d47276c38a",
+      "who": "ayende@ayende.com",
+      "when": "2010-01-25T07:44:42+00:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "01485d5ef6c9b6c1d33e2166b994d1d46e37434a",
+      "who": "ayende@ayende.com",
+      "when": "2010-01-25T07:33:00+00:00",
+      "all": 248,
+      "test": 21,
+      "testable": 248,
+      "pct": 8.5
+    },
+    {
+      "id": "9314f23c8f675f04a55377e3496106709a8bbd6a",
+      "who": "ayende@ayende.com",
+      "when": "2010-01-24T22:44:45+00:00",
+      "all": 91,
+      "test": 0,
+      "testable": 73,
+      "pct": 0.0
+    },
+    {
+      "id": "88df52503e31fae7645bf68389feeab5e87f595a",
+      "who": "ayende@ayende.com",
+      "when": "2010-01-24T21:46:35+00:00",
+      "all": 594,
+      "test": 113,
+      "testable": 536,
+      "pct": 21.1
+    },
+    {
+      "id": "1b6a478a3b72e3c5476c499f013f1231d068e5fd",
+      "who": "ayende@ayende.com",
+      "when": "2010-01-24T17:41:59+00:00",
+      "all": 74,
+      "test": 48,
+      "testable": 74,
+      "pct": 64.9
+    },
+    {
+      "id": "45e83247e2d2ce16ccde3669fe41408ab6a866e8",
+      "who": "ayende@ayende.com",
+      "when": "2010-01-24T16:46:51+00:00",
+      "all": 2375,
+      "test": 164,
+      "testable": 2292,
+      "pct": 7.2
+    },
+    {
+      "id": "ddba8601c6bfc56da18c01007bf05b9330400de6",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-01-19T12:53:21+00:00",
+      "all": 294,
+      "test": 47,
+      "testable": 294,
+      "pct": 16.0
+    },
+    {
+      "id": "0fa21f404a40f145c9cbbf56d4c2aee6d513aca2",
+      "who": "steverstrong@users.sourceforge.net",
+      "when": "2010-01-19T10:31:20+00:00",
+      "all": 229,
+      "test": 17,
+      "testable": 217,
+      "pct": 7.8
+    },
+    {
+      "id": "e96ab2defbb3fc381f6c829cc797afc294494acb",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-01-17T19:31:11+00:00",
+      "all": 218,
+      "test": 74,
+      "testable": 174,
+      "pct": 42.5
+    },
+    {
+      "id": "7a1cd7abe977f4ca87b615cc3439420146eff297",
+      "who": "ayende@ayende.com",
+      "when": "2010-01-13T16:03:54+00:00",
+      "all": 18,
+      "test": 18,
+      "testable": 18,
+      "pct": 100.0
+    },
+    {
+      "id": "37c83265d4f58c870b0ff2fa9b5264162375791a",
+      "who": "ayende@ayende.com",
+      "when": "2010-01-13T15:56:35+00:00",
+      "all": 196,
+      "test": 120,
+      "testable": 158,
+      "pct": 75.9
+    },
+    {
+      "id": "19bab1d937ef211df8a457c2151bc506b83871a3",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-01-10T19:01:42+00:00",
+      "all": 508,
+      "test": 289,
+      "testable": 472,
+      "pct": 61.2
+    },
+    {
+      "id": "03eb58acae867e2d5620446c3b07cb91e7d74422",
+      "who": "ayende@ayende.com",
+      "when": "2010-01-08T10:09:47+00:00",
+      "all": 30,
+      "test": 10,
+      "testable": 30,
+      "pct": 33.3
+    },
+    {
+      "id": "5770b20df382ff4fada696c37df826590344c21a",
+      "who": "ayende@ayende.com",
+      "when": "2010-01-08T06:57:28+00:00",
+      "all": 37,
+      "test": 10,
+      "testable": 37,
+      "pct": 27.0
+    },
+    {
+      "id": "20f35ac7131aa93fa82bcd9930f7d88e07415736",
+      "who": "ayende@ayende.com",
+      "when": "2010-01-06T22:32:59+00:00",
+      "all": 265,
+      "test": 95,
+      "testable": 208,
+      "pct": 45.7
+    },
+    {
+      "id": "23f505856a74acde142691666b8f5daec45107bf",
+      "who": "ayende@ayende.com",
+      "when": "2010-01-06T22:11:57+00:00",
+      "all": 56,
+      "test": 0,
+      "testable": 56,
+      "pct": 0.0
+    },
+    {
+      "id": "c52d259c8e0f1659ed82c39c19831b738b7b799e",
+      "who": "ayende@ayende.com",
+      "when": "2010-01-06T21:41:19+00:00",
+      "all": 24,
+      "test": 0,
+      "testable": 24,
+      "pct": 0.0
+    },
+    {
+      "id": "8c93e6f4e5d62dd5aff56717899a389d2350648d",
+      "who": "ayende@ayende.com",
+      "when": "2010-01-06T21:39:25+00:00",
+      "all": 121,
+      "test": 79,
+      "testable": 89,
+      "pct": 88.8
+    },
+    {
+      "id": "e3ff1d10f69bff2e9ad351151c3c01f87511f015",
+      "who": "ayende@ayende.com",
+      "when": "2010-01-06T21:35:19+00:00",
+      "all": 804,
+      "test": 128,
+      "testable": 722,
+      "pct": 17.7
+    },
+    {
+      "id": "24649ae11893f7f42a4d57d5f8d61b5ae13e13ec",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-01-06T05:08:17+00:00",
+      "all": 221,
+      "test": 0,
+      "testable": 212,
+      "pct": 0.0
+    },
+    {
+      "id": "8553e4b7ff7a5a7fac7cbafb5b09d17ba947895a",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-01-06T04:00:10+00:00",
+      "all": 188,
+      "test": 0,
+      "testable": 188,
+      "pct": 0.0
+    },
+    {
+      "id": "d1232bc2d038abdf0b0ba982b45a6023291bce43",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-01-06T00:09:14+00:00",
+      "all": 25,
+      "test": 0,
+      "testable": 25,
+      "pct": 0.0
+    },
+    {
+      "id": "8e2addbe8c400e31f989ddda61a41d64c9a37cbb",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-01-05T22:56:37+00:00",
+      "all": 184,
+      "test": 0,
+      "testable": 175,
+      "pct": 0.0
+    },
+    {
+      "id": "fea66d14c0f15b5bdc3e524eb2968cb4eef38d52",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-01-05T22:16:33+00:00",
+      "all": 137,
+      "test": 0,
+      "testable": 137,
+      "pct": 0.0
+    },
+    {
+      "id": "d6c7ecc96b6b1700c90c444d5451087a95de124b",
+      "who": "fabiomaulo@gmail.com",
+      "when": "2010-01-05T22:09:23+00:00",
+      "all": 5459,
+      "test": 0,
+      "testable": 5398,
+      "pct": 0.0
+    },
+    {
+      "id": "e53a6682b55ec26593d01e5e3b22d284d12a5d61",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-01-04T15:35:10+00:00",
+      "all": 68,
+      "test": 19,
+      "testable": 68,
+      "pct": 27.9
+    },
+    {
+      "id": "650ae3bb62d7f3524e6e55598f2f31229519e00e",
+      "who": "flukefan@googlemail.com",
+      "when": "2010-01-04T15:20:56+00:00",
+      "all": 68,
+      "test": 19,
+      "testable": 68,
+      "pct": 27.9
+    }
+  ],
+  "description": "NHibernate (master branch)",
+  "baseURL": "https://github.com/nhibernate/nhibernate-core/commit/"
+}

@@ -1,0 +1,33 @@
+{
+  "commits": [
+    {
+      "id": "84af3e7956c919e73e26c412fde07c5be79d0677",
+      "who": "Nathan.Brown@harley-davidson.com",
+      "when": "2014-03-03T13:54:51-07:00",
+      "all": 159,
+      "test": 139,
+      "testable": 149,
+      "pct": 93.3
+    },
+    {
+      "id": "5e78ad6c7d5d37aebfeca75d832e44eded89e894",
+      "who": "hazzik@gmail.com",
+      "when": "2014-03-27T15:27:40+13:00",
+      "all": 21945,
+      "test": 44,
+      "testable": 140,
+      "pct": 31.4
+    },
+    {
+      "id": "49c6b89fc92791e1a851f8754ee7c74879f7d254",
+      "who": "hazzik@gmail.com",
+      "when": "2014-03-27T15:06:17+13:00",
+      "all": 48,
+      "test": 0,
+      "testable": 48,
+      "pct": 0.0
+    }
+  ],
+  "description": "NHibernate (master branch)",
+  "baseURL": "https://github.com/nhibernate/nhibernate-core/commit/"
+}

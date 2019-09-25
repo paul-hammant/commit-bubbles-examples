@@ -1,0 +1,60 @@
+{
+  "commits": [
+    {
+      "id": "400f866074e206a597dd7f685d0bc3bb5fde4705",
+      "who": "fredericdelaporte@free.fr",
+      "when": "2017-03-24T01:32:29+01:00",
+      "all": 681,
+      "test": 533,
+      "testable": 533,
+      "pct": 100.0
+    },
+    {
+      "id": "acd305de16016fe97bc1d078b6daeaf36117b560",
+      "who": "hazzik@gmail.com",
+      "when": "2017-03-24T17:36:19+13:00",
+      "all": 1337,
+      "test": 0,
+      "testable": 1258,
+      "pct": 0.0
+    },
+    {
+      "id": "0dbacba4d5be657edded8c20c8ed0fe118169ecd",
+      "who": "hazzik@gmail.com",
+      "when": "2017-03-24T01:48:47+13:00",
+      "all": 1265,
+      "test": 0,
+      "testable": 1265,
+      "pct": 0.0
+    },
+    {
+      "id": "fd1b81abef030de011e8f3198b677d716f1e1602",
+      "who": "hazzik@gmail.com",
+      "when": "2017-03-24T01:22:39+13:00",
+      "all": 342,
+      "test": 0,
+      "testable": 342,
+      "pct": 0.0
+    },
+    {
+      "id": "fba9c79a63aa02fdb3c24639025b42f21fbe31c7",
+      "who": "hazzik@gmail.com",
+      "when": "2017-03-24T01:09:37+13:00",
+      "all": 321,
+      "test": 32,
+      "testable": 315,
+      "pct": 10.2
+    },
+    {
+      "id": "cb672393e86100fed86b685bf5e34e94e54e4e83",
+      "who": "hazzik@gmail.com",
+      "when": "2017-03-24T12:18:31+13:00",
+      "all": 634,
+      "test": 21,
+      "testable": 625,
+      "pct": 3.4
+    }
+  ],
+  "description": "NHibernate (master branch)",
+  "baseURL": "https://github.com/nhibernate/nhibernate-core/commit/"
+}

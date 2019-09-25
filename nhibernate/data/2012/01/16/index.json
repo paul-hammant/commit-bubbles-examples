@@ -1,0 +1,60 @@
+{
+  "commits": [
+    {
+      "id": "4a7f27a16dbf983b06488611d525af9b1f79122c",
+      "who": "julian.maughan@gmail.com",
+      "when": "2012-01-16T22:00:42+08:00",
+      "all": 49,
+      "test": 49,
+      "testable": 49,
+      "pct": 100.0
+    },
+    {
+      "id": "f5dedfe738cc4e3219706add6308d8c614de8f3e",
+      "who": "julian.maughan@gmail.com",
+      "when": "2012-01-16T21:46:13+08:00",
+      "all": 84,
+      "test": 59,
+      "testable": 74,
+      "pct": 79.7
+    },
+    {
+      "id": "b1fa3f6f4299903f30b81e0786daca1e14102bbe",
+      "who": "oskar.berggren@gmail.com",
+      "when": "2012-01-16T10:15:38+01:00",
+      "all": 73,
+      "test": 57,
+      "testable": 73,
+      "pct": 78.1
+    },
+    {
+      "id": "6b8d56e6638c0ca9456e0c74afb740c88da5592d",
+      "who": "eamonhetherton@gmail.com",
+      "when": "2012-01-16T19:02:42+10:00",
+      "all": 15,
+      "test": 0,
+      "testable": 15,
+      "pct": 0.0
+    },
+    {
+      "id": "28d40c6d0b7217e05e128e432a0d5dffe83292ff",
+      "who": "eamonhetherton@gmail.com",
+      "when": "2012-01-16T18:59:00+10:00",
+      "all": 69,
+      "test": 59,
+      "testable": 59,
+      "pct": 100.0
+    },
+    {
+      "id": "315924db32ad1fd67626933ca24102f7771cf2ee",
+      "who": "eamonhetherton@gmail.com",
+      "when": "2012-01-16T17:01:17+10:00",
+      "all": 643,
+      "test": 511,
+      "testable": 601,
+      "pct": 85.0
+    }
+  ],
+  "description": "NHibernate (master branch)",
+  "baseURL": "https://github.com/nhibernate/nhibernate-core/commit/"
+}

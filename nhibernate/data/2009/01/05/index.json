@@ -1,0 +1,51 @@
+{
+  "commits": [
+    {
+      "id": "c529fb4acfc3c54d833b8cf31cc22938a6f5ce3c",
+      "who": "ayende@ayende.com",
+      "when": "2009-01-05T23:22:36+00:00",
+      "all": 22,
+      "test": 10,
+      "testable": 22,
+      "pct": 45.5
+    },
+    {
+      "id": "735c8347bdc0b7a7ff6cf1759b06d6f0d69528e3",
+      "who": "ayende@ayende.com",
+      "when": "2009-01-05T14:13:16+00:00",
+      "all": 43,
+      "test": 43,
+      "testable": 43,
+      "pct": 100.0
+    },
+    {
+      "id": "3650d24e9d738422d435b5e7ba1f62a6a75222da",
+      "who": "ayende@ayende.com",
+      "when": "2009-01-05T12:57:44+00:00",
+      "all": 345,
+      "test": 169,
+      "testable": 300,
+      "pct": 56.3
+    },
+    {
+      "id": "48c99f51a616d9f3d1937e73b85e883f6ca280ec",
+      "who": "ayende@ayende.com",
+      "when": "2009-01-05T10:54:05+00:00",
+      "all": 69,
+      "test": 0,
+      "testable": 69,
+      "pct": 0.0
+    },
+    {
+      "id": "72d5e37711561bc0ea7905b685683da8de7add67",
+      "who": "tehlike@users.sourceforge.net",
+      "when": "2009-01-05T00:13:13+00:00",
+      "all": 45,
+      "test": 31,
+      "testable": 45,
+      "pct": 68.9
+    }
+  ],
+  "description": "NHibernate (master branch)",
+  "baseURL": "https://github.com/nhibernate/nhibernate-core/commit/"
+}

@@ -1,0 +1,78 @@
+{
+  "commits": [
+    {
+      "id": "8008b3f879681553ad4e10e97e8d6050f0b7799d",
+      "who": "oskar.berggren@gmail.com",
+      "when": "2012-03-04T17:56:08+01:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "07a84ff401bc8f66c784246c171dc568665b5b5a",
+      "who": "oskar.berggren@gmail.com",
+      "when": "2012-03-04T17:55:32+01:00",
+      "all": 36,
+      "test": 36,
+      "testable": 36,
+      "pct": 100.0
+    },
+    {
+      "id": "5544ce134fc7f285862a3ee6432186cbf9a8ac1d",
+      "who": "oskar.berggren@gmail.com",
+      "when": "2012-03-04T16:00:41+01:00",
+      "all": 456,
+      "test": 277,
+      "testable": 409,
+      "pct": 67.7
+    },
+    {
+      "id": "10865457dd21fb95393ff617299b05b37484897c",
+      "who": "oskar.berggren@gmail.com",
+      "when": "2012-03-04T15:51:07+01:00",
+      "all": 57,
+      "test": 0,
+      "testable": 57,
+      "pct": 0.0
+    },
+    {
+      "id": "194c5f9e35c86c0d586fb728ec61ebf2d7cab552",
+      "who": "oskar.berggren@gmail.com",
+      "when": "2012-03-04T15:15:29+01:00",
+      "all": 454,
+      "test": 277,
+      "testable": 407,
+      "pct": 68.1
+    },
+    {
+      "id": "bb5bf04497e12c13c8fdec6995188937d6a3a204",
+      "who": "oskar.berggren@gmail.com",
+      "when": "2012-03-04T15:06:27+01:00",
+      "all": 403,
+      "test": 403,
+      "testable": 403,
+      "pct": 100.0
+    },
+    {
+      "id": "fe9db5ceee9ab90924480c05add790470e9794d5",
+      "who": "julian.maughan@gmail.com",
+      "when": "2012-03-04T13:54:15+08:00",
+      "all": 162,
+      "test": 162,
+      "testable": 162,
+      "pct": 100.0
+    },
+    {
+      "id": "0936e505643e4ca2b340afa0936e8990a5157667",
+      "who": "julian.maughan@gmail.com",
+      "when": "2012-03-04T11:28:41+08:00",
+      "all": 243,
+      "test": 0,
+      "testable": 243,
+      "pct": 0.0
+    }
+  ],
+  "description": "NHibernate (master branch)",
+  "baseURL": "https://github.com/nhibernate/nhibernate-core/commit/"
+}

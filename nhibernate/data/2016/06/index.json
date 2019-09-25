@@ -1,0 +1,51 @@
+{
+  "commits": [
+    {
+      "id": "a6c78c3a492c327103c5ddb5ab010c7dc975530d",
+      "who": "oskar.berggren@gmail.com",
+      "when": "2016-06-25T02:08:22+02:00",
+      "all": 20,
+      "test": 0,
+      "testable": 20,
+      "pct": 0.0
+    },
+    {
+      "id": "17852b90ae3eadde86b89210eea47658020b12ed",
+      "who": "oskar.berggren@gmail.com",
+      "when": "2016-06-25T01:00:21+02:00",
+      "all": 159,
+      "test": 159,
+      "testable": 159,
+      "pct": 100.0
+    },
+    {
+      "id": "d9bac12e210aa2fbf8664d9a2137c5ef36312cac",
+      "who": "hazzik@gmail.com",
+      "when": "2016-06-10T12:57:01+12:00",
+      "all": 179,
+      "test": 179,
+      "testable": 179,
+      "pct": 100.0
+    },
+    {
+      "id": "7e83aff1529d002b404bf72552ad07415f0fef9d",
+      "who": "duncan@pleasantsolutions.com",
+      "when": "2016-06-09T15:42:25-06:00",
+      "all": 345,
+      "test": 242,
+      "testable": 271,
+      "pct": 89.3
+    },
+    {
+      "id": "b7c085ca371f7d9bb4deca7ef425e1b8c5681ae6",
+      "who": "duncan@pleasantsolutions.com",
+      "when": "2016-06-09T15:41:02-06:00",
+      "all": 11063,
+      "test": 212,
+      "testable": 11035,
+      "pct": 1.9
+    }
+  ],
+  "description": "NHibernate (master branch)",
+  "baseURL": "https://github.com/nhibernate/nhibernate-core/commit/"
+}
