@@ -4,28 +4,28 @@
       "id": "0fb5c4ebd8f0b9532b02e33666007b4f824d436c",
       "who": "oran@redislabs.com",
       "when": "2017-01-30T12:53:13-08:00",
-      "all": 50,
-      "test": 50,
-      "testable": 50,
+      "all": 46,
+      "test": 46,
+      "testable": 46,
       "pct": 100.0
     },
     {
       "id": "c495d095ae495ea5253443ee4562aaa30681a854",
       "who": "antirez@gmail.com",
       "when": "2017-01-30T16:34:08+01:00",
-      "all": 26,
+      "all": 11,
       "test": 0,
-      "testable": 26,
+      "testable": 11,
       "pct": 0.0
     },
     {
       "id": "27e29f4fe61d822eb23d948bcb72db76c4c887e5",
       "who": "antirez@gmail.com",
       "when": "2017-01-30T09:58:34+01:00",
-      "all": 38749,
-      "test": 5558,
-      "testable": 26149,
-      "pct": 21.3
+      "all": 23750,
+      "test": 3966,
+      "testable": 15828,
+      "pct": 25.1
     }
   ],
   "description": "Redis (unstable branch)",

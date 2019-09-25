@@ -1,264 +1,264 @@
 {
   "commits": [
     {
-      "all": 29, 
+      "all": 8, 
       "who": "smgfreeman", 
       "when": "2009-10-01T11:26:12+00:00", 
       "pct": 0.0, 
       "test": 0, 
-      "testable": 19, 
+      "testable": 5, 
       "id": "c70825ccee720fed6bc40c14b8175f4381e76e4e"
     }, 
     {
-      "all": 156, 
+      "all": 47, 
       "who": "smgfreeman", 
       "when": "2009-08-12T20:17:11+00:00", 
-      "pct": 70.0, 
-      "test": 103, 
-      "testable": 146, 
+      "pct": 68.0, 
+      "test": 30, 
+      "testable": 44, 
       "id": "853ac505d753fdf73070cb62f7deb16fa8e52177"
-    }, 
-    {
-      "all": 26, 
-      "who": "smgfreeman", 
-      "when": "2009-06-11T07:05:27+00:00", 
-      "pct": 50.0, 
-      "test": 13, 
-      "testable": 26, 
-      "id": "5addb7ecf58bc8f222121f4e8730635b16315b0f"
-    }, 
-    {
-      "all": 174, 
-      "who": "david.saff", 
-      "when": "2009-05-28T19:53:32+00:00", 
-      "pct": 69.0, 
-      "test": 121, 
-      "testable": 174, 
-      "id": "613cd127fe3f743641602a8fb21e2f375a4b7587"
-    }, 
-    {
-      "all": 14, 
-      "who": "david.saff", 
-      "when": "2009-05-28T18:10:12+00:00", 
-      "pct": 100.0, 
-      "test": 14, 
-      "testable": 14, 
-      "id": "0d6daa4d361026460f377c396e3946ee96d4768a"
-    }, 
-    {
-      "all": 29, 
-      "who": "smgfreeman", 
-      "when": "2009-05-16T11:17:27+00:00", 
-      "pct": 100.0, 
-      "test": 29, 
-      "testable": 29, 
-      "id": "7d6a0ebe98cf44bf2f05d2d95ebdf4eaf40f31b1"
-    }, 
-    {
-      "all": 91, 
-      "who": "nat.pryce", 
-      "when": "2009-05-11T20:45:50+00:00", 
-      "pct": 9.0, 
-      "test": 9, 
-      "testable": 91, 
-      "id": "969cf38a36181c1899b1db0e16312fc7c03b75fa"
-    }, 
-    {
-      "all": 17, 
-      "who": "smgfreeman", 
-      "when": "2009-04-26T19:45:02+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 17, 
-      "id": "7a28ef882ab81882e220b636ce90b3e314cfbf13"
-    }, 
-    {
-      "all": 20, 
-      "who": "smgfreeman", 
-      "when": "2009-04-26T09:46:13+00:00", 
-      "pct": 50.0, 
-      "test": 10, 
-      "testable": 20, 
-      "id": "a4e7045f7ab8253b2bc6ee26b3380539e19faeab"
-    }, 
-    {
-      "all": 84, 
-      "who": "smgfreeman", 
-      "when": "2009-04-25T20:59:05+00:00", 
-      "pct": 86.0, 
-      "test": 73, 
-      "testable": 84, 
-      "id": "e878329d15d43af60913d1e4769651f3e6a4c77e"
-    }, 
-    {
-      "all": 157, 
-      "who": "smgfreeman", 
-      "when": "2009-04-25T20:45:17+00:00", 
-      "pct": 24.0, 
-      "test": 39, 
-      "testable": 157, 
-      "id": "dff7af83b9c4fd06d67af8a271520930cb6f232a"
-    }, 
-    {
-      "all": 99, 
-      "who": "smgfreeman", 
-      "when": "2009-04-03T11:00:13+00:00", 
-      "pct": 52.0, 
-      "test": 52, 
-      "testable": 99, 
-      "id": "599203808f257f7ab58e7947c97e8c129ecd0c05"
-    }, 
-    {
-      "all": 35, 
-      "who": "c.a.corbyn", 
-      "when": "2009-04-01T12:17:16+00:00", 
-      "pct": 100.0, 
-      "test": 35, 
-      "testable": 35, 
-      "id": "312617bdc67450e1931869222f088fbadf92f7a7"
-    }, 
-    {
-      "all": 29, 
-      "who": "smgfreeman", 
-      "when": "2009-03-26T10:24:07+00:00", 
-      "pct": 65.0, 
-      "test": 19, 
-      "testable": 29, 
-      "id": "7f797ea72394b068cb81cd7d4e2394a1e195b7a1"
-    }, 
-    {
-      "all": 89, 
-      "who": "smgfreeman", 
-      "when": "2009-03-25T16:46:19+00:00", 
-      "pct": 35.0, 
-      "test": 32, 
-      "testable": 89, 
-      "id": "b15c66f7d528450d5d28d79249070c4d72d611af"
-    }, 
-    {
-      "all": 19, 
-      "who": "smgfreeman", 
-      "when": "2009-03-25T16:11:58+00:00", 
-      "pct": 52.0, 
-      "test": 10, 
-      "testable": 19, 
-      "id": "d5f2a7f52aed609b6017d2205221eb5ce98a3693"
-    }, 
-    {
-      "all": 9, 
-      "who": "smgfreeman", 
-      "when": "2009-03-21T12:25:15+00:00", 
-      "pct": 100.0, 
-      "test": 9, 
-      "testable": 9, 
-      "id": "38f562c0216ffb33a6fada88fbb59ee8cd2d5b6b"
-    }, 
-    {
-      "all": 53, 
-      "who": "smgfreeman", 
-      "when": "2009-03-21T12:24:48+00:00", 
-      "pct": 100.0, 
-      "test": 53, 
-      "testable": 53, 
-      "id": "46a6d570ce45ed473f6dc624ce64be12a7d289c6"
-    }, 
-    {
-      "all": 415, 
-      "who": "smgfreeman", 
-      "when": "2009-03-21T11:38:01+00:00", 
-      "pct": 19.0, 
-      "test": 79, 
-      "testable": 415, 
-      "id": "5e0cb5c6898736d2ee01c4926db1cea0c6d8d908"
-    }, 
-    {
-      "all": 159, 
-      "who": "smgfreeman", 
-      "when": "2009-03-21T11:29:08+00:00", 
-      "pct": 26.0, 
-      "test": 42, 
-      "testable": 159, 
-      "id": "b3837b0476d695388b672c20090c81b51021cb32"
-    }, 
-    {
-      "all": 6, 
-      "who": "smgfreeman", 
-      "when": "2009-03-21T11:26:49+00:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 6, 
-      "id": "3d6914af9fbc1fc301164e466c7dbe34cb9c8db9"
-    }, 
-    {
-      "all": 53, 
-      "who": "smgfreeman", 
-      "when": "2009-03-03T09:36:38+00:00", 
-      "pct": 100.0, 
-      "test": 53, 
-      "testable": 53, 
-      "id": "db2959c884a288e79e882bc8e7b39caba660556d"
     }, 
     {
       "all": 10, 
       "who": "smgfreeman", 
+      "when": "2009-06-11T07:05:27+00:00", 
+      "pct": 50.0, 
+      "test": 5, 
+      "testable": 10, 
+      "id": "5addb7ecf58bc8f222121f4e8730635b16315b0f"
+    }, 
+    {
+      "all": 49, 
+      "who": "david.saff", 
+      "when": "2009-05-28T19:53:32+00:00", 
+      "pct": 65.0, 
+      "test": 32, 
+      "testable": 49, 
+      "id": "613cd127fe3f743641602a8fb21e2f375a4b7587"
+    }, 
+    {
+      "all": 7, 
+      "who": "david.saff", 
+      "when": "2009-05-28T18:10:12+00:00", 
+      "pct": 100.0, 
+      "test": 7, 
+      "testable": 7, 
+      "id": "0d6daa4d361026460f377c396e3946ee96d4768a"
+    }, 
+    {
+      "all": 10, 
+      "who": "smgfreeman", 
+      "when": "2009-05-16T11:17:27+00:00", 
+      "pct": 100.0, 
+      "test": 10, 
+      "testable": 10, 
+      "id": "7d6a0ebe98cf44bf2f05d2d95ebdf4eaf40f31b1"
+    }, 
+    {
+      "all": 48, 
+      "who": "nat.pryce", 
+      "when": "2009-05-11T20:45:50+00:00", 
+      "pct": 6.0, 
+      "test": 3, 
+      "testable": 48, 
+      "id": "969cf38a36181c1899b1db0e16312fc7c03b75fa"
+    }, 
+    {
+      "all": 3, 
+      "who": "smgfreeman", 
+      "when": "2009-04-26T19:45:02+00:00", 
+      "pct": 0.0, 
+      "test": 0, 
+      "testable": 3, 
+      "id": "7a28ef882ab81882e220b636ce90b3e314cfbf13"
+    }, 
+    {
+      "all": 6, 
+      "who": "smgfreeman", 
+      "when": "2009-04-26T09:46:13+00:00", 
+      "pct": 50.0, 
+      "test": 3, 
+      "testable": 6, 
+      "id": "a4e7045f7ab8253b2bc6ee26b3380539e19faeab"
+    }, 
+    {
+      "all": 57, 
+      "who": "smgfreeman", 
+      "when": "2009-04-25T20:59:05+00:00", 
+      "pct": 92.0, 
+      "test": 53, 
+      "testable": 57, 
+      "id": "e878329d15d43af60913d1e4769651f3e6a4c77e"
+    }, 
+    {
+      "all": 72, 
+      "who": "smgfreeman", 
+      "when": "2009-04-25T20:45:17+00:00", 
+      "pct": 29.0, 
+      "test": 21, 
+      "testable": 72, 
+      "id": "dff7af83b9c4fd06d67af8a271520930cb6f232a"
+    }, 
+    {
+      "all": 48, 
+      "who": "smgfreeman", 
+      "when": "2009-04-03T11:00:13+00:00", 
+      "pct": 60.0, 
+      "test": 29, 
+      "testable": 48, 
+      "id": "599203808f257f7ab58e7947c97e8c129ecd0c05"
+    }, 
+    {
+      "all": 23, 
+      "who": "c.a.corbyn", 
+      "when": "2009-04-01T12:17:16+00:00", 
+      "pct": 100.0, 
+      "test": 23, 
+      "testable": 23, 
+      "id": "312617bdc67450e1931869222f088fbadf92f7a7"
+    }, 
+    {
+      "all": 8, 
+      "who": "smgfreeman", 
+      "when": "2009-03-26T10:24:07+00:00", 
+      "pct": 62.0, 
+      "test": 5, 
+      "testable": 8, 
+      "id": "7f797ea72394b068cb81cd7d4e2394a1e195b7a1"
+    }, 
+    {
+      "all": 44, 
+      "who": "smgfreeman", 
+      "when": "2009-03-25T16:46:19+00:00", 
+      "pct": 36.0, 
+      "test": 16, 
+      "testable": 44, 
+      "id": "b15c66f7d528450d5d28d79249070c4d72d611af"
+    }, 
+    {
+      "all": 6, 
+      "who": "smgfreeman", 
+      "when": "2009-03-25T16:11:58+00:00", 
+      "pct": 50.0, 
+      "test": 3, 
+      "testable": 6, 
+      "id": "d5f2a7f52aed609b6017d2205221eb5ce98a3693"
+    }, 
+    {
+      "all": 2, 
+      "who": "smgfreeman", 
+      "when": "2009-03-21T12:25:15+00:00", 
+      "pct": 100.0, 
+      "test": 2, 
+      "testable": 2, 
+      "id": "38f562c0216ffb33a6fada88fbb59ee8cd2d5b6b"
+    }, 
+    {
+      "all": 15, 
+      "who": "smgfreeman", 
+      "when": "2009-03-21T12:24:48+00:00", 
+      "pct": 100.0, 
+      "test": 15, 
+      "testable": 15, 
+      "id": "46a6d570ce45ed473f6dc624ce64be12a7d289c6"
+    }, 
+    {
+      "all": 338, 
+      "who": "smgfreeman", 
+      "when": "2009-03-21T11:38:01+00:00", 
+      "pct": 10.0, 
+      "test": 35, 
+      "testable": 338, 
+      "id": "5e0cb5c6898736d2ee01c4926db1cea0c6d8d908"
+    }, 
+    {
+      "all": 141, 
+      "who": "smgfreeman", 
+      "when": "2009-03-21T11:29:08+00:00", 
+      "pct": 21.0, 
+      "test": 30, 
+      "testable": 141, 
+      "id": "b3837b0476d695388b672c20090c81b51021cb32"
+    }, 
+    {
+      "all": 3, 
+      "who": "smgfreeman", 
+      "when": "2009-03-21T11:26:49+00:00", 
+      "pct": 0.0, 
+      "test": 0, 
+      "testable": 3, 
+      "id": "3d6914af9fbc1fc301164e466c7dbe34cb9c8db9"
+    }, 
+    {
+      "all": 40, 
+      "who": "smgfreeman", 
+      "when": "2009-03-03T09:36:38+00:00", 
+      "pct": 100.0, 
+      "test": 40, 
+      "testable": 40, 
+      "id": "db2959c884a288e79e882bc8e7b39caba660556d"
+    }, 
+    {
+      "all": 3, 
+      "who": "smgfreeman", 
       "when": "2009-03-02T22:55:51+00:00", 
       "pct": 0.0, 
       "test": 0, 
-      "testable": 10, 
+      "testable": 3, 
       "id": "d4d08775dfa6be07b68297b2134ef041d037cf35"
     }, 
     {
-      "all": 54, 
+      "all": 25, 
       "who": "smgfreeman", 
       "when": "2009-03-02T20:50:01+00:00", 
-      "pct": 22.0, 
-      "test": 12, 
-      "testable": 54, 
+      "pct": 20.0, 
+      "test": 5, 
+      "testable": 25, 
       "id": "edc46050018937b359380d56078b0aabc0ed0e91"
     }, 
     {
-      "all": 149, 
+      "all": 79, 
       "who": "smgfreeman", 
       "when": "2009-02-27T17:45:07+00:00", 
-      "pct": 57.0, 
-      "test": 85, 
-      "testable": 149, 
+      "pct": 56.0, 
+      "test": 45, 
+      "testable": 79, 
       "id": "359c3ca25774f2ef420f484297e81c15eab1235c"
     }, 
     {
-      "all": 291, 
+      "all": 155, 
       "who": "smgfreeman", 
       "when": "2009-02-27T10:53:16+00:00", 
-      "pct": 35.0, 
-      "test": 104, 
-      "testable": 291, 
+      "pct": 24.0, 
+      "test": 38, 
+      "testable": 155, 
       "id": "9a2975b254e40314d460442963b7d310bd36cf78"
     }, 
     {
-      "all": 202, 
+      "all": 134, 
       "who": "smgfreeman", 
       "when": "2009-02-27T09:29:50+00:00", 
-      "pct": 32.0, 
-      "test": 65, 
-      "testable": 202, 
+      "pct": 27.0, 
+      "test": 37, 
+      "testable": 134, 
       "id": "76987522d6d4162079ade1c1d975bbea8eaa54f2"
     }, 
     {
-      "all": 50, 
+      "all": 23, 
       "who": "smgfreeman", 
       "when": "2009-01-20T22:09:52+00:00", 
-      "pct": 80.0, 
-      "test": 40, 
-      "testable": 50, 
+      "pct": 82.0, 
+      "test": 19, 
+      "testable": 23, 
       "id": "6472f4ec4d572aabad175b7360c1b8aca92b184a"
     }, 
     {
-      "all": 112, 
+      "all": 37, 
       "who": "smgfreeman", 
       "when": "2009-01-05T16:07:20+00:00", 
-      "pct": 63.0, 
-      "test": 65, 
-      "testable": 102, 
+      "pct": 67.0, 
+      "test": 23, 
+      "testable": 34, 
       "id": "658eaf83bee00aa9e0ea68b5b657dd0b14839305"
     }
   ], 
