@@ -1,0 +1,78 @@
+{
+  "commits": [
+    {
+      "id": "1ace4082e4983e784cccff079923ce26713459c2",
+      "who": "sam@sambrannen.com",
+      "when": "2016-08-17T21:08:28+02:00",
+      "all": 2,
+      "test": 0,
+      "testable": 2,
+      "pct": 0.0
+    },
+    {
+      "id": "cda0deff823627f4beeb3c2229f480cfcd195040",
+      "who": "sam@sambrannen.com",
+      "when": "2016-08-17T21:07:26+02:00",
+      "all": 2,
+      "test": 2,
+      "testable": 2,
+      "pct": 100.0
+    },
+    {
+      "id": "63c9ff4e4227a336da82350c12f446174411439d",
+      "who": "sam@sambrannen.com",
+      "when": "2016-08-17T21:00:44+02:00",
+      "all": 90,
+      "test": 75,
+      "testable": 86,
+      "pct": 87.2
+    },
+    {
+      "id": "d85ea4d98bbbaa9f52d524487cfaafacbf348dff",
+      "who": "sam@sambrannen.com",
+      "when": "2016-08-17T19:54:00+02:00",
+      "all": 225,
+      "test": 97,
+      "testable": 221,
+      "pct": 43.9
+    },
+    {
+      "id": "b127738509dc37010dcb54ad1ca544d2de049138",
+      "who": "sam@sambrannen.com",
+      "when": "2016-08-17T14:10:04+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 3,
+      "pct": 0.0
+    },
+    {
+      "id": "c2a55409a091f30ea643d48995bf0168bbe2c25e",
+      "who": "sam@sambrannen.com",
+      "when": "2016-08-17T13:57:22+02:00",
+      "all": 68,
+      "test": 0,
+      "testable": 68,
+      "pct": 0.0
+    },
+    {
+      "id": "3a23c90ff8e6a6e5aa0733ce7fa2555a2a5b251f",
+      "who": "sam@sambrannen.com",
+      "when": "2016-08-17T13:42:35+02:00",
+      "all": 118,
+      "test": 26,
+      "testable": 115,
+      "pct": 22.6
+    },
+    {
+      "id": "decaeffc5566049ca2eee3bf09d8dd911907adcd",
+      "who": "sam@sambrannen.com",
+      "when": "2016-08-17T12:45:35+02:00",
+      "all": 180,
+      "test": 28,
+      "testable": 180,
+      "pct": 15.6
+    }
+  ],
+  "description": "JUnit 5 (master branch)",
+  "baseURL": "https://github.com/junit-team/junit5/commit/"
+}

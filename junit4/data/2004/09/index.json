@@ -1,0 +1,51 @@
+{
+  "commits": [
+    {
+      "id": "255f47231f5e49373d4b331e3a946e0005f1e0f4",
+      "who": "egamma",
+      "when": "2004-09-11T13:49:07+00:00",
+      "all": 25,
+      "test": 3,
+      "testable": 25,
+      "pct": 12.0
+    },
+    {
+      "id": "ffd5f087e9b0ffaf146c91323adcf0ffdf469b0f",
+      "who": "kbeck",
+      "when": "2004-09-10T18:27:23+00:00",
+      "all": 28,
+      "test": 18,
+      "testable": 28,
+      "pct": 64.3
+    },
+    {
+      "id": "3b5085dec3f1fd578c5109114bd02370bea48fda",
+      "who": "kbeck",
+      "when": "2004-09-09T21:53:54+00:00",
+      "all": 564,
+      "test": 108,
+      "testable": 564,
+      "pct": 19.1
+    },
+    {
+      "id": "108dc8c751471e4737233a4fe8eff810a23977d9",
+      "who": "egamma",
+      "when": "2004-09-03T16:27:28+00:00",
+      "all": 28,
+      "test": 14,
+      "testable": 28,
+      "pct": 50.0
+    },
+    {
+      "id": "45fd0de94ec90d56f0c76b896b8eb809e6858d7c",
+      "who": "egamma",
+      "when": "2004-09-01T21:37:07+00:00",
+      "all": 3,
+      "test": 0,
+      "testable": 3,
+      "pct": 0.0
+    }
+  ],
+  "description": "JUnit 4 (master branch)",
+  "baseURL": "https://github.com/junit-team/junit4/commit/"
+}

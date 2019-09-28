@@ -1,0 +1,87 @@
+{
+  "commits": [
+    {
+      "id": "228d6ab279deb6a42dbef6697dad321b1bd6914d",
+      "who": "sormuras@gmail.com",
+      "when": "2019-08-28T17:06:01+02:00",
+      "all": 75,
+      "test": 68,
+      "testable": 73,
+      "pct": 93.2
+    },
+    {
+      "id": "6752ba37591d8048660c5c78e91505d6862937a8",
+      "who": "sbrannen@pivotal.io",
+      "when": "2019-08-27T13:55:28+02:00",
+      "all": 74,
+      "test": 51,
+      "testable": 74,
+      "pct": 68.9
+    },
+    {
+      "id": "9177fde25c84f73f159506d22b8c5a20e2d71931",
+      "who": "sbrannen@pivotal.io",
+      "when": "2019-08-27T13:24:33+02:00",
+      "all": 105,
+      "test": 49,
+      "testable": 81,
+      "pct": 60.5
+    },
+    {
+      "id": "3bcbf9fdfa4b74e1b6b9c0cf5d01ea88ebaf6450",
+      "who": "mail@marcphilipp.de",
+      "when": "2019-08-27T11:29:44+02:00",
+      "all": 23,
+      "test": 13,
+      "testable": 13,
+      "pct": 100.0
+    },
+    {
+      "id": "7f32f0d9b68c3870e2a250117af325c682b7d895",
+      "who": "julien.topcu@gmail.com",
+      "when": "2019-08-14T21:27:19+02:00",
+      "all": 291,
+      "test": 190,
+      "testable": 265,
+      "pct": 71.7
+    },
+    {
+      "id": "dff526f3f0dcebb101f40446f5d5df207160f7a4",
+      "who": "sbrannen@pivotal.io",
+      "when": "2019-08-23T11:33:06+02:00",
+      "all": 139,
+      "test": 15,
+      "testable": 123,
+      "pct": 12.2
+    },
+    {
+      "id": "501c12001e74b66ed9d88188426855e9f25ae4a0",
+      "who": "derancourt.juliette@gmail.com",
+      "when": "2019-08-03T12:59:31+02:00",
+      "all": 426,
+      "test": 263,
+      "testable": 419,
+      "pct": 62.8
+    },
+    {
+      "id": "d51ba2cdbc31e39a24069563d3588d015eb73a39",
+      "who": "sbrannen@pivotal.io",
+      "when": "2019-08-07T10:55:34+02:00",
+      "all": 20,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "b0fd2d865a2b534f35ff8a49ac3e7d0c23cb78ec",
+      "who": "derancourt.juliette@gmail.com",
+      "when": "2019-08-02T23:36:55+02:00",
+      "all": 19,
+      "test": 8,
+      "testable": 12,
+      "pct": 66.7
+    }
+  ],
+  "description": "JUnit 5 (master branch)",
+  "baseURL": "https://github.com/junit-team/junit5/commit/"
+}

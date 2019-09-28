@@ -1,0 +1,24 @@
+{
+  "commits": [
+    {
+      "id": "aa90e9fecfa19b15d35f52b21bdb2897e5ace0ee",
+      "who": "scolebourne@joda.org",
+      "when": "2019-06-15T20:05:57+01:00",
+      "all": 31,
+      "test": 10,
+      "testable": 25,
+      "pct": 40.0
+    },
+    {
+      "id": "e4dc43c49a9209e973693135028d0b0589a2fc1f",
+      "who": "sbrannen@pivotal.io",
+      "when": "2019-06-15T21:55:52+03:00",
+      "all": 103,
+      "test": 75,
+      "testable": 103,
+      "pct": 72.8
+    }
+  ],
+  "description": "JUnit 5 (master branch)",
+  "baseURL": "https://github.com/junit-team/junit5/commit/"
+}

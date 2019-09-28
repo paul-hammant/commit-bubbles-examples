@@ -1,0 +1,6828 @@
+{
+  "commits": [
+    {
+      "id": "1f276d9b5cf15f0099eebc6b2943011addef719c",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-31T12:55:53+01:00",
+      "all": 21,
+      "test": 21,
+      "testable": 21,
+      "pct": 100.0
+    },
+    {
+      "id": "cf91ce4cd20d11da24b139254d146571cdcbbc8e",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-29T16:39:41+01:00",
+      "all": 145,
+      "test": 100,
+      "testable": 145,
+      "pct": 69.0
+    },
+    {
+      "id": "969c523bc3c08bd15ee6337d219d736c791c3e4c",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-29T12:03:36+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 3,
+      "pct": 0.0
+    },
+    {
+      "id": "a2012b3ac7e3c0d3a0c9de2674c0906c1e104f89",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-29T12:01:43+01:00",
+      "all": 5,
+      "test": 5,
+      "testable": 5,
+      "pct": 100.0
+    },
+    {
+      "id": "d09f119bbc64630be01305f3dcd5c4dfa18fc6f1",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-29T11:25:22+01:00",
+      "all": 67,
+      "test": 2,
+      "testable": 67,
+      "pct": 3.0
+    },
+    {
+      "id": "dc2f86c8b3bd7a1259024806f25871e515b8751a",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-28T14:22:42+01:00",
+      "all": 28,
+      "test": 28,
+      "testable": 28,
+      "pct": 100.0
+    },
+    {
+      "id": "57c984a82712214d7d2fa5be3403f0815073db9c",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-28T12:13:38+01:00",
+      "all": 36,
+      "test": 29,
+      "testable": 36,
+      "pct": 80.6
+    },
+    {
+      "id": "ce293b211b26b1386277d8761d2b3e1c0ab299ce",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-28T11:56:32+01:00",
+      "all": 145,
+      "test": 135,
+      "testable": 145,
+      "pct": 93.1
+    },
+    {
+      "id": "a3b4cff2ef2fb76fe739a8e26e9a45d6325913e8",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-28T11:03:33+01:00",
+      "all": 158,
+      "test": 158,
+      "testable": 158,
+      "pct": 100.0
+    },
+    {
+      "id": "d9282fd6d37165b2461c2c2e8def311ca7359601",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-25T12:39:36+01:00",
+      "all": 8,
+      "test": 5,
+      "testable": 5,
+      "pct": 100.0
+    },
+    {
+      "id": "50ddbdd69d1f19da678a8577da1d26a033b947af",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-25T12:29:35+01:00",
+      "all": 58,
+      "test": 35,
+      "testable": 38,
+      "pct": 92.1
+    },
+    {
+      "id": "6cd6afdb5164b4ec8a87727eb77d25418c7c46f1",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-24T21:57:56+01:00",
+      "all": 71,
+      "test": 71,
+      "testable": 71,
+      "pct": 100.0
+    },
+    {
+      "id": "591eab7207b37451a23c89cb7746ad80344a9078",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-23T18:56:43+01:00",
+      "all": 27,
+      "test": 7,
+      "testable": 27,
+      "pct": 25.9
+    },
+    {
+      "id": "80362fe2fb42cc7200d470688fbee810e8bcab42",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-23T18:43:44+01:00",
+      "all": 48,
+      "test": 3,
+      "testable": 48,
+      "pct": 6.2
+    },
+    {
+      "id": "9a41523434fd4e3dada7291e0e3e09a0e27ea22a",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-23T18:27:43+01:00",
+      "all": 32,
+      "test": 32,
+      "testable": 32,
+      "pct": 100.0
+    },
+    {
+      "id": "c54786d16f1c5f5ac5384a68893d069eba062e39",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-23T09:39:28+01:00",
+      "all": 7,
+      "test": 0,
+      "testable": 7,
+      "pct": 0.0
+    },
+    {
+      "id": "d3e8a9fac261e1ec09ff7aba7536f52f419108d4",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-22T22:29:26+01:00",
+      "all": 8,
+      "test": 4,
+      "testable": 8,
+      "pct": 50.0
+    },
+    {
+      "id": "e45c3250aaedd8e80f854b6cd99c24f7f99f145b",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-22T17:25:22+01:00",
+      "all": 155,
+      "test": 0,
+      "testable": 155,
+      "pct": 0.0
+    },
+    {
+      "id": "255e91bbfa74234afffffe2d393ad6a43091cfd2",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-22T16:15:30+01:00",
+      "all": 302,
+      "test": 31,
+      "testable": 302,
+      "pct": 10.3
+    },
+    {
+      "id": "496cc6fa15d4358c6e721cbf2951ffc218dd0de9",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-22T14:15:07+01:00",
+      "all": 16,
+      "test": 16,
+      "testable": 16,
+      "pct": 100.0
+    },
+    {
+      "id": "0027ade00fd483e08714ece1021a7715bb1855da",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-22T10:33:09+01:00",
+      "all": 230,
+      "test": 27,
+      "testable": 230,
+      "pct": 11.7
+    },
+    {
+      "id": "4dfb1c838ff287ef3e8b986c3a7920169de06ab8",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-22T09:49:00+01:00",
+      "all": 83,
+      "test": 0,
+      "testable": 83,
+      "pct": 0.0
+    },
+    {
+      "id": "a9a24319fc9451f9719b2dacad3527e01c525ce2",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-21T17:09:11+01:00",
+      "all": 102,
+      "test": 102,
+      "testable": 102,
+      "pct": 100.0
+    },
+    {
+      "id": "1c6a2598fb0bed05dc746a207ab1057550819bf0",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-20T20:23:25+01:00",
+      "all": 53,
+      "test": 0,
+      "testable": 53,
+      "pct": 0.0
+    },
+    {
+      "id": "8a49739ffe79c6ea91b117bc402f85c34af0e820",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-20T19:44:22+01:00",
+      "all": 48,
+      "test": 0,
+      "testable": 48,
+      "pct": 0.0
+    },
+    {
+      "id": "cb34c5dab017132de529d7adf5f43d1e6bcb4de5",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-20T17:56:16+01:00",
+      "all": 8,
+      "test": 0,
+      "testable": 8,
+      "pct": 0.0
+    },
+    {
+      "id": "bf1da84b269b8a9d9c6bef83a0737a4343faf217",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-20T17:38:34+01:00",
+      "all": 69,
+      "test": 0,
+      "testable": 69,
+      "pct": 0.0
+    },
+    {
+      "id": "53bd43a0098f7f736ca6fcce8e16d01b4808b34f",
+      "who": "sam@sambrannen.com",
+      "when": "2015-12-20T17:31:15+01:00",
+      "all": 48,
+      "test": 0,
+      "testable": 48,
+      "pct": 0.0
+    },
+    {
+      "id": "9a0220d38b7f029a2931555705d4d5c8ae259239",
+      "who": "sam@sambrannen.com",
+      "when": "2015-12-20T17:08:34+01:00",
+      "all": 242,
+      "test": 24,
+      "testable": 242,
+      "pct": 9.9
+    },
+    {
+      "id": "66ca716c98d03ef5d513a8aebd8c3007a1905d3d",
+      "who": "sam@sambrannen.com",
+      "when": "2015-12-20T16:17:24+01:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "625d71615cbdfe3d66307273c4c129df728bbfd2",
+      "who": "sam@sambrannen.com",
+      "when": "2015-12-20T16:16:52+01:00",
+      "all": 15,
+      "test": 0,
+      "testable": 15,
+      "pct": 0.0
+    },
+    {
+      "id": "a8e1f3a3a669f03aa4adceaf9030bebc0aa8fd30",
+      "who": "sam@sambrannen.com",
+      "when": "2015-12-20T16:10:59+01:00",
+      "all": 15,
+      "test": 0,
+      "testable": 15,
+      "pct": 0.0
+    },
+    {
+      "id": "46de6ac0547ea8b752e14a15adb52dc791b10ffb",
+      "who": "sam@sambrannen.com",
+      "when": "2015-12-20T16:10:27+01:00",
+      "all": 58,
+      "test": 0,
+      "testable": 58,
+      "pct": 0.0
+    },
+    {
+      "id": "dd8a3f15436923363aa1c485ee9070b22c5dfee1",
+      "who": "sam@sambrannen.com",
+      "when": "2015-12-20T15:53:24+01:00",
+      "all": 80,
+      "test": 0,
+      "testable": 80,
+      "pct": 0.0
+    },
+    {
+      "id": "002fd08d22197725fa5aac7d99a4e9fed7eb18e7",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-20T09:25:25+01:00",
+      "all": 97,
+      "test": 0,
+      "testable": 97,
+      "pct": 0.0
+    },
+    {
+      "id": "6e59ae2020944f3ec9715ce8f5c1ac36db3e89ef",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-19T16:51:32+01:00",
+      "all": 71,
+      "test": 3,
+      "testable": 71,
+      "pct": 4.2
+    },
+    {
+      "id": "075cac887db2cfefca1b37201ba69cb2a30bbbbf",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-19T16:51:10+01:00",
+      "all": 33,
+      "test": 0,
+      "testable": 3,
+      "pct": 0.0
+    },
+    {
+      "id": "5eb780a472283bb537b7a9423e048d780dbf7213",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-19T20:49:30+01:00",
+      "all": 37,
+      "test": 37,
+      "testable": 37,
+      "pct": 100.0
+    },
+    {
+      "id": "55a383f8f3ee3c1cee06fd8535c8355bcbd82c9a",
+      "who": "sam@sambrannen.com",
+      "when": "2015-12-19T20:40:29+01:00",
+      "all": 4,
+      "test": 0,
+      "testable": 4,
+      "pct": 0.0
+    },
+    {
+      "id": "4886299e859d9f693ec6f841becc7aaa600ecbfa",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-19T20:38:57+01:00",
+      "all": 22,
+      "test": 22,
+      "testable": 22,
+      "pct": 100.0
+    },
+    {
+      "id": "1e532ba8b2c5601a6b1156bf0aa0075cd6a898e7",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-19T20:29:08+01:00",
+      "all": 35,
+      "test": 35,
+      "testable": 35,
+      "pct": 100.0
+    },
+    {
+      "id": "e984d731de8c3e1eb63e160b04015274de6e96ce",
+      "who": "jens.schauder@freenet.de",
+      "when": "2015-12-19T14:14:21+01:00",
+      "all": 5,
+      "test": 5,
+      "testable": 5,
+      "pct": 100.0
+    },
+    {
+      "id": "34f8e5a41a6f5f52cb765dfd7f1252ab3a791a15",
+      "who": "jens.schauder@freenet.de",
+      "when": "2015-12-19T13:54:03+01:00",
+      "all": 7,
+      "test": 7,
+      "testable": 7,
+      "pct": 100.0
+    },
+    {
+      "id": "e45ddc10ac787b167d5b8f32b441dad5cad1d02f",
+      "who": "jens.schauder@freenet.de",
+      "when": "2015-12-19T13:36:30+01:00",
+      "all": 5,
+      "test": 3,
+      "testable": 3,
+      "pct": 100.0
+    },
+    {
+      "id": "b82dc1e26349e852ef9a6ff49b52247d5b68e6d1",
+      "who": "jens.schauder@freenet.de",
+      "when": "2015-12-19T11:15:32+01:00",
+      "all": 8,
+      "test": 8,
+      "testable": 8,
+      "pct": 100.0
+    },
+    {
+      "id": "dcdb2e79b2ec98172209b8d0ae1c49a5460e4b07",
+      "who": "jens.schauder@freenet.de",
+      "when": "2015-12-19T10:57:07+01:00",
+      "all": 64,
+      "test": 64,
+      "testable": 64,
+      "pct": 100.0
+    },
+    {
+      "id": "d7a968f7e4f8da834f77aa0948d7d2d4048ee280",
+      "who": "jens.schauder@freenet.de",
+      "when": "2015-12-19T10:40:36+01:00",
+      "all": 186,
+      "test": 186,
+      "testable": 186,
+      "pct": 100.0
+    },
+    {
+      "id": "c942a11c2364d943c4ca7f5d1f8baf2ae42446ca",
+      "who": "jens.schauder@freenet.de",
+      "when": "2015-12-19T10:36:12+01:00",
+      "all": 4,
+      "test": 4,
+      "testable": 4,
+      "pct": 100.0
+    },
+    {
+      "id": "4c8000a1045800c099d90c8ffd7022e111eb5ba7",
+      "who": "jens.schauder@freenet.de",
+      "when": "2015-12-19T10:21:39+01:00",
+      "all": 11,
+      "test": 11,
+      "testable": 11,
+      "pct": 100.0
+    },
+    {
+      "id": "7c78b8dd77050dd0c8f4f6ff297c75a04f14bd53",
+      "who": "jens.schauder@freenet.de",
+      "when": "2015-12-19T10:09:27+01:00",
+      "all": 16,
+      "test": 16,
+      "testable": 16,
+      "pct": 100.0
+    },
+    {
+      "id": "a7dab07d9187b783e9122dfe1812aae64c17f181",
+      "who": "jens.schauder@freenet.de",
+      "when": "2015-12-19T10:03:45+01:00",
+      "all": 13,
+      "test": 13,
+      "testable": 13,
+      "pct": 100.0
+    },
+    {
+      "id": "896f8e479f16180af38b5311d3910341178def9d",
+      "who": "jens.schauder@freenet.de",
+      "when": "2015-12-19T06:52:52+01:00",
+      "all": 35,
+      "test": 30,
+      "testable": 30,
+      "pct": 100.0
+    },
+    {
+      "id": "34e216faa551f981e0e65c8cebe8f733da0818c3",
+      "who": "sam@sambrannen.com",
+      "when": "2015-12-19T20:33:19+01:00",
+      "all": 92,
+      "test": 0,
+      "testable": 92,
+      "pct": 0.0
+    },
+    {
+      "id": "b8d922994b76478e2024b3087f2fe8e20679fc1f",
+      "who": "sam@sambrannen.com",
+      "when": "2015-12-19T20:19:02+01:00",
+      "all": 69,
+      "test": 0,
+      "testable": 69,
+      "pct": 0.0
+    },
+    {
+      "id": "cd4f22c248e34e60f9d4b9e578e77937aed45ce9",
+      "who": "sam@sambrannen.com",
+      "when": "2015-12-19T19:27:06+01:00",
+      "all": 16,
+      "test": 13,
+      "testable": 16,
+      "pct": 81.2
+    },
+    {
+      "id": "664c322531235902a3222d6847dc3442f2e9300a",
+      "who": "sam@sambrannen.com",
+      "when": "2015-12-19T19:24:41+01:00",
+      "all": 28,
+      "test": 0,
+      "testable": 28,
+      "pct": 0.0
+    },
+    {
+      "id": "b2f64779aee87021348c8b8465be89675b700b16",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-18T17:24:52+01:00",
+      "all": 123,
+      "test": 110,
+      "testable": 123,
+      "pct": 89.4
+    },
+    {
+      "id": "6c5dbe63d4bcaedcb32f0d8e4e0d21589556b2c4",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-18T17:04:23+01:00",
+      "all": 20,
+      "test": 10,
+      "testable": 20,
+      "pct": 50.0
+    },
+    {
+      "id": "e56fcfc20e3c100cf9e4ed4b142a6a3863c29353",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-18T16:56:57+01:00",
+      "all": 277,
+      "test": 144,
+      "testable": 277,
+      "pct": 52.0
+    },
+    {
+      "id": "9f7d082872c4b4109729a3a480f1dedad3083bad",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-18T09:28:22+01:00",
+      "all": 42,
+      "test": 0,
+      "testable": 42,
+      "pct": 0.0
+    },
+    {
+      "id": "12bbe5afc72f457e5bba4bbcf68c49d6e4b77a4e",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-18T15:47:48+01:00",
+      "all": 301,
+      "test": 243,
+      "testable": 301,
+      "pct": 80.7
+    },
+    {
+      "id": "9d2f703e0718f063bd1c9fb625451b425e874aa2",
+      "who": "sam@sambrannen.com",
+      "when": "2015-12-18T14:24:13+01:00",
+      "all": 36,
+      "test": 0,
+      "testable": 36,
+      "pct": 0.0
+    },
+    {
+      "id": "fb8f1ed90866cc6b75bb5102d9c5b99428f38653",
+      "who": "sam@sambrannen.com",
+      "when": "2015-12-18T12:28:40+01:00",
+      "all": 25,
+      "test": 0,
+      "testable": 25,
+      "pct": 0.0
+    },
+    {
+      "id": "08d1cdd322b80812c7210eb3e1a960d6d7443680",
+      "who": "sam@sambrannen.com",
+      "when": "2015-12-18T11:47:33+01:00",
+      "all": 85,
+      "test": 46,
+      "testable": 85,
+      "pct": 54.1
+    },
+    {
+      "id": "3e6edc2dc68d95052afc1302df93be3f0958a35f",
+      "who": "sam@sambrannen.com",
+      "when": "2015-12-18T11:06:19+01:00",
+      "all": 273,
+      "test": 159,
+      "testable": 273,
+      "pct": 58.2
+    },
+    {
+      "id": "a6d71d85c4393a8180b9c6cc044fb8410f2629b1",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-16T09:46:23+01:00",
+      "all": 122,
+      "test": 35,
+      "testable": 122,
+      "pct": 28.7
+    },
+    {
+      "id": "994fc85d7c6f572d79626c40b28b2d93befeb22c",
+      "who": "sam@sambrannen.com",
+      "when": "2015-12-15T19:32:57+01:00",
+      "all": 265,
+      "test": 129,
+      "testable": 265,
+      "pct": 48.7
+    },
+    {
+      "id": "be3ece25dba3738b5c146797c15ebf161867757a",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-18T09:06:04+01:00",
+      "all": 108,
+      "test": 55,
+      "testable": 108,
+      "pct": 50.9
+    },
+    {
+      "id": "328e70385b947bc2d9cf3688ffcc7097896c76a7",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-17T22:57:35+01:00",
+      "all": 13,
+      "test": 13,
+      "testable": 13,
+      "pct": 100.0
+    },
+    {
+      "id": "b90f9c883f8bb6c0ea212a8b0acae113e17fecfb",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-17T22:37:56+01:00",
+      "all": 114,
+      "test": 62,
+      "testable": 114,
+      "pct": 54.4
+    },
+    {
+      "id": "c2d9a533b97ee808e5f51ffd94eb4a0524ff8362",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-17T20:10:07+01:00",
+      "all": 218,
+      "test": 89,
+      "testable": 218,
+      "pct": 40.8
+    },
+    {
+      "id": "b023d5c4dd54e002e5ba98716f54bccb9fd96704",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-17T18:28:24+01:00",
+      "all": 52,
+      "test": 45,
+      "testable": 52,
+      "pct": 86.5
+    },
+    {
+      "id": "f07cbd776997ae4e970f5087fb96522b34e21c5a",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-17T18:12:27+01:00",
+      "all": 80,
+      "test": 80,
+      "testable": 80,
+      "pct": 100.0
+    },
+    {
+      "id": "544ff5ba896a87c00b2136ce3fec1e52dbc76f25",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-17T13:52:03+01:00",
+      "all": 3,
+      "test": 3,
+      "testable": 3,
+      "pct": 100.0
+    },
+    {
+      "id": "8db7e41d03b3d1f989c458e040f86f7e30e153d7",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-17T13:48:18+01:00",
+      "all": 192,
+      "test": 58,
+      "testable": 192,
+      "pct": 30.2
+    },
+    {
+      "id": "b8f87c20c3c0f77bf1051123c9f43cea8eaa8ce8",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-15T05:41:26+01:00",
+      "all": 144,
+      "test": 54,
+      "testable": 144,
+      "pct": 37.5
+    },
+    {
+      "id": "30aa4cfa124dd4d987dcc3cb3aa482ed60108cee",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-14T23:56:47+01:00",
+      "all": 50,
+      "test": 0,
+      "testable": 50,
+      "pct": 0.0
+    },
+    {
+      "id": "5a243f89b9e4949587e18ad8f42f13d08c6f5c77",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-14T22:44:22+01:00",
+      "all": 61,
+      "test": 61,
+      "testable": 61,
+      "pct": 100.0
+    },
+    {
+      "id": "611fe1cc967bd2b11aaf7ada2e5de7a5e8d63955",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-14T12:38:04+01:00",
+      "all": 6,
+      "test": 6,
+      "testable": 6,
+      "pct": 100.0
+    },
+    {
+      "id": "70f41edef4e26f84337cf46f8d34fb4a8fdf4af6",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-14T08:55:14+01:00",
+      "all": 78,
+      "test": 19,
+      "testable": 78,
+      "pct": 24.4
+    },
+    {
+      "id": "55a1054a3310fdbf6e7a0c03f9a6ba9366aa2ece",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-13T22:24:57+01:00",
+      "all": 38,
+      "test": 0,
+      "testable": 38,
+      "pct": 0.0
+    },
+    {
+      "id": "d920335e85cfee5444fe3d69d12806d999b9f2ec",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-13T21:52:21+01:00",
+      "all": 47,
+      "test": 7,
+      "testable": 47,
+      "pct": 14.9
+    },
+    {
+      "id": "cfefe1e65034c5e66e0fbcb503fe8ad1a4c086d2",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-13T21:42:06+01:00",
+      "all": 47,
+      "test": 7,
+      "testable": 47,
+      "pct": 14.9
+    },
+    {
+      "id": "e9d19c214a3117efdd9295bdb1b2ddb4f7e67987",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-13T21:40:44+01:00",
+      "all": 167,
+      "test": 122,
+      "testable": 167,
+      "pct": 73.1
+    },
+    {
+      "id": "94bd5987b3b75c91a41fd70779bae83bb9b5fb9c",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-13T21:08:15+01:00",
+      "all": 131,
+      "test": 81,
+      "testable": 129,
+      "pct": 62.8
+    },
+    {
+      "id": "7ae7c8eede5dfae9870fa90cbcf4c4978128abf7",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-13T20:30:13+01:00",
+      "all": 13,
+      "test": 0,
+      "testable": 13,
+      "pct": 0.0
+    },
+    {
+      "id": "63e308f163976fa188b6dc2d59036c5ceb7c1033",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-13T18:19:29+01:00",
+      "all": 48,
+      "test": 48,
+      "testable": 48,
+      "pct": 100.0
+    },
+    {
+      "id": "f59b8a1bdbd53ef8fa4396f58a57df0b93c57051",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-13T16:26:05+01:00",
+      "all": 122,
+      "test": 40,
+      "testable": 122,
+      "pct": 32.8
+    },
+    {
+      "id": "77644dc71e20caf48aac6b11bdd8d23ed1bc41ba",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-13T15:36:07+01:00",
+      "all": 84,
+      "test": 2,
+      "testable": 84,
+      "pct": 2.4
+    },
+    {
+      "id": "c763bec6e2a01b9182018b9ffb8cf9063de0eb6e",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-12T18:27:45+01:00",
+      "all": 72,
+      "test": 72,
+      "testable": 72,
+      "pct": 100.0
+    },
+    {
+      "id": "634890bff8f38128db31c244486d257b8ef729d7",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-12T17:55:53+01:00",
+      "all": 91,
+      "test": 0,
+      "testable": 91,
+      "pct": 0.0
+    },
+    {
+      "id": "b1879ddd3ef74859fa089f54acde7de52417d70f",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-12T17:00:34+01:00",
+      "all": 278,
+      "test": 160,
+      "testable": 278,
+      "pct": 57.6
+    },
+    {
+      "id": "f992c0ad42543d1b2a4d834adadaed11d0698b46",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-12T13:13:57+01:00",
+      "all": 82,
+      "test": 0,
+      "testable": 82,
+      "pct": 0.0
+    },
+    {
+      "id": "7a1d986f19d7da0472d5452d82f626777cf7a515",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-11T22:26:57+01:00",
+      "all": 13,
+      "test": 0,
+      "testable": 13,
+      "pct": 0.0
+    },
+    {
+      "id": "eed1948cee6701ac66122f210ed2a402b937f627",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-11T22:13:31+01:00",
+      "all": 68,
+      "test": 68,
+      "testable": 68,
+      "pct": 100.0
+    },
+    {
+      "id": "809d38b7f2ae48cd3fafbb75663a717f72e85216",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-11T22:12:02+01:00",
+      "all": 25,
+      "test": 0,
+      "testable": 25,
+      "pct": 0.0
+    },
+    {
+      "id": "f8a1c6b5ae5a144d1a3e85100a4d61b7f059822d",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-11T22:00:11+01:00",
+      "all": 141,
+      "test": 55,
+      "testable": 141,
+      "pct": 39.0
+    },
+    {
+      "id": "fc86dab57883ffcc0c5e6b9ea0999abb98101137",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-11T21:46:39+01:00",
+      "all": 351,
+      "test": 37,
+      "testable": 351,
+      "pct": 10.5
+    },
+    {
+      "id": "7c0661ea86e3b101caa2692301b663b0088ae8ea",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-11T20:50:16+01:00",
+      "all": 51,
+      "test": 3,
+      "testable": 51,
+      "pct": 5.9
+    },
+    {
+      "id": "16d43f8300559b27ef98e0a5c82cce389cb14377",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-11T20:38:06+01:00",
+      "all": 30,
+      "test": 0,
+      "testable": 30,
+      "pct": 0.0
+    },
+    {
+      "id": "99aaaf56f401af1e08cccd0c013a8633c04eb22b",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-11T20:28:53+01:00",
+      "all": 120,
+      "test": 0,
+      "testable": 120,
+      "pct": 0.0
+    },
+    {
+      "id": "a93c88157fd11e73cbe82f2b72f205b6aa5d7434",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-11T22:35:14+01:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "cd8f0e85552bab2676eadb9ecce8bee360da72d4",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-11T22:34:07+01:00",
+      "all": 71,
+      "test": 68,
+      "testable": 71,
+      "pct": 95.8
+    },
+    {
+      "id": "417fd0e92571ec0cc01987c03f3ff112e4d867fc",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-11T20:07:43+01:00",
+      "all": 72,
+      "test": 0,
+      "testable": 72,
+      "pct": 0.0
+    },
+    {
+      "id": "09b33da66c9780d80e020b42b319198a34ba24e9",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-11T15:14:45+01:00",
+      "all": 5,
+      "test": 0,
+      "testable": 5,
+      "pct": 0.0
+    },
+    {
+      "id": "ca354e6ae32c9814f39bc3c87e12128d1f5cdcf0",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-11T15:01:24+01:00",
+      "all": 73,
+      "test": 0,
+      "testable": 73,
+      "pct": 0.0
+    },
+    {
+      "id": "554912b8f895d7ede966afa64fecd6b392eb3072",
+      "who": "sam@sambrannen.com",
+      "when": "2015-12-11T14:32:14+01:00",
+      "all": 19,
+      "test": 5,
+      "testable": 19,
+      "pct": 26.3
+    },
+    {
+      "id": "758f652746e826fcd059b5ed110dcc57597bce36",
+      "who": "sam@sambrannen.com",
+      "when": "2015-12-11T13:23:19+01:00",
+      "all": 25,
+      "test": 3,
+      "testable": 22,
+      "pct": 13.6
+    },
+    {
+      "id": "e5352771e83464afba6b8b6313932bef27749fc3",
+      "who": "sam@sambrannen.com",
+      "when": "2015-12-11T12:56:28+01:00",
+      "all": 535,
+      "test": 154,
+      "testable": 478,
+      "pct": 32.2
+    },
+    {
+      "id": "bdaa8b7e2cc21e00696c50bdc96b4f86479d1a34",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-11T11:49:11+01:00",
+      "all": 21,
+      "test": 0,
+      "testable": 21,
+      "pct": 0.0
+    },
+    {
+      "id": "c795b9df2c1a3b904b4cd1401c893f63b8bd1f8b",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-11T11:34:53+01:00",
+      "all": 64,
+      "test": 37,
+      "testable": 64,
+      "pct": 57.8
+    },
+    {
+      "id": "4c8ae138570195b329299f5af66a713bcb894102",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-11T11:07:59+01:00",
+      "all": 29,
+      "test": 0,
+      "testable": 29,
+      "pct": 0.0
+    },
+    {
+      "id": "94a07d17a63802b99bbdab882e264eea06519053",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-11T10:01:54+01:00",
+      "all": 4,
+      "test": 0,
+      "testable": 4,
+      "pct": 0.0
+    },
+    {
+      "id": "ea70192d0afde64e15c34194e46eb7c2d89e4f46",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-11T09:52:51+01:00",
+      "all": 4,
+      "test": 0,
+      "testable": 4,
+      "pct": 0.0
+    },
+    {
+      "id": "5cc8f7316d64b4487986ee0779a8bbec762d0fd9",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-11T09:49:41+01:00",
+      "all": 31,
+      "test": 31,
+      "testable": 31,
+      "pct": 100.0
+    },
+    {
+      "id": "cd2ba3bb70817d0b1b078c79e27d67e79fe180ba",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-11T09:45:45+01:00",
+      "all": 54,
+      "test": 15,
+      "testable": 54,
+      "pct": 27.8
+    },
+    {
+      "id": "a3db67e02e9930b1eaf26293e29b97fca3082947",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-11T09:17:17+01:00",
+      "all": 29,
+      "test": 0,
+      "testable": 29,
+      "pct": 0.0
+    },
+    {
+      "id": "41a9a929c26f6f59cc4b943ab6ba8daacb40588f",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-10T22:54:37+01:00",
+      "all": 57,
+      "test": 11,
+      "testable": 57,
+      "pct": 19.3
+    },
+    {
+      "id": "1dffb58c26b79f501ec4c8eefab433dad05f6efe",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-10T22:36:15+01:00",
+      "all": 1036,
+      "test": 121,
+      "testable": 1036,
+      "pct": 11.7
+    },
+    {
+      "id": "3f9c11b9326b7d3051cb2a50568cd91113a0c0da",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-10T12:29:16+01:00",
+      "all": 94,
+      "test": 0,
+      "testable": 94,
+      "pct": 0.0
+    },
+    {
+      "id": "0e14ad4525a5ade99dacdd76d0ab27223f57ebd4",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-09T23:17:14+01:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "ed614b591e5d21956b30b1d293ea4a286ce18403",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-09T23:08:14+01:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "b67bd2e32f8274fb0972e3a98157e2398140dcbf",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-09T23:00:40+01:00",
+      "all": 34,
+      "test": 0,
+      "testable": 34,
+      "pct": 0.0
+    },
+    {
+      "id": "19f108be8f2c6733421af34da965261ab8ac6986",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-09T23:00:04+01:00",
+      "all": 16,
+      "test": 16,
+      "testable": 16,
+      "pct": 100.0
+    },
+    {
+      "id": "11ece8b11085a01a95a10e7bf26e4eb51034ac00",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-09T22:51:47+01:00",
+      "all": 39,
+      "test": 3,
+      "testable": 39,
+      "pct": 7.7
+    },
+    {
+      "id": "fc5ff8d87c124e43601f64da76668e516758a74a",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-09T22:37:13+01:00",
+      "all": 163,
+      "test": 14,
+      "testable": 163,
+      "pct": 8.6
+    },
+    {
+      "id": "efb867427dd0722262fea5c869ac37cd64ea0070",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-09T22:16:18+01:00",
+      "all": 112,
+      "test": 0,
+      "testable": 112,
+      "pct": 0.0
+    },
+    {
+      "id": "3cbb596f9b35b903e29675841eb20ab97e8cbb88",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-09T21:34:51+01:00",
+      "all": 170,
+      "test": 16,
+      "testable": 170,
+      "pct": 9.4
+    },
+    {
+      "id": "056981ba8b1931f4a05312060e10d5c6c42f13d2",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-09T21:23:58+01:00",
+      "all": 11,
+      "test": 0,
+      "testable": 11,
+      "pct": 0.0
+    },
+    {
+      "id": "1707de270bd5f59f4e93e080ef56e6f6460d03da",
+      "who": "team@junit.org",
+      "when": "2015-12-09T14:44:10+01:00",
+      "all": 531,
+      "test": 58,
+      "testable": 531,
+      "pct": 10.9
+    },
+    {
+      "id": "67ec62513564b48741925f79132f3fe6427e48b3",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-09T14:06:57+01:00",
+      "all": 181,
+      "test": 6,
+      "testable": 181,
+      "pct": 3.3
+    },
+    {
+      "id": "fa681a536942811f712ca91be70f5510ca472020",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-09T11:56:45+01:00",
+      "all": 155,
+      "test": 88,
+      "testable": 155,
+      "pct": 56.8
+    },
+    {
+      "id": "6c643a69bab0f405bdcd9db8318f991e1c88ef63",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-09T10:56:52+01:00",
+      "all": 28,
+      "test": 11,
+      "testable": 28,
+      "pct": 39.3
+    },
+    {
+      "id": "fdff317c92cca3219ab75a52f729b4ea65acc7e0",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-09T10:15:48+01:00",
+      "all": 20,
+      "test": 20,
+      "testable": 20,
+      "pct": 100.0
+    },
+    {
+      "id": "470866bc19cac8717ac77b26efc1fe703bed264a",
+      "who": "team@junit.org",
+      "when": "2015-12-09T10:08:59+01:00",
+      "all": 1682,
+      "test": 811,
+      "testable": 1682,
+      "pct": 48.2
+    },
+    {
+      "id": "57b31220d25f59bb4aa4903dfee4b8ec2be4525e",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-08T14:55:37+01:00",
+      "all": 210,
+      "test": 0,
+      "testable": 210,
+      "pct": 0.0
+    },
+    {
+      "id": "28ffd5ee9d1e996133445cac2256407f28380e91",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-08T14:32:26+01:00",
+      "all": 600,
+      "test": 225,
+      "testable": 600,
+      "pct": 37.5
+    },
+    {
+      "id": "5eb46423110cacebed9ba92f80d87b7d42730934",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-07T15:45:23+01:00",
+      "all": 60,
+      "test": 60,
+      "testable": 60,
+      "pct": 100.0
+    },
+    {
+      "id": "e4c640078022076935caef8edd312ea547f3b9d1",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-07T15:01:16+01:00",
+      "all": 609,
+      "test": 123,
+      "testable": 609,
+      "pct": 20.2
+    },
+    {
+      "id": "830b6d5976b6db01dad3866cfb3d54c6216b1252",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-07T13:10:21+01:00",
+      "all": 481,
+      "test": 2,
+      "testable": 481,
+      "pct": 0.4
+    },
+    {
+      "id": "804ae15cdb3ea86311bad4c99a377e5104dd5de9",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-07T21:37:51+01:00",
+      "all": 100,
+      "test": 27,
+      "testable": 27,
+      "pct": 100.0
+    },
+    {
+      "id": "1fc86dd4c1f5e6d7b4c4402734523eaa1d48855e",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-06T20:28:13+01:00",
+      "all": 7,
+      "test": 7,
+      "testable": 7,
+      "pct": 100.0
+    },
+    {
+      "id": "e9b1bd435dc182d13f610948024659a99bd727da",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-06T20:16:45+01:00",
+      "all": 53,
+      "test": 0,
+      "testable": 53,
+      "pct": 0.0
+    },
+    {
+      "id": "dadf4482250f33170c0fe246a8f354c9c7615c68",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-06T20:08:40+01:00",
+      "all": 265,
+      "test": 160,
+      "testable": 265,
+      "pct": 60.4
+    },
+    {
+      "id": "f8a2d5fbfceba09f643087058e8ceeb8dbf15f31",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-06T20:06:41+01:00",
+      "all": 15,
+      "test": 0,
+      "testable": 15,
+      "pct": 0.0
+    },
+    {
+      "id": "550e5b1d774d538ecfa22d7efe8fe893dcd9fa06",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-06T13:48:46+01:00",
+      "all": 262,
+      "test": 82,
+      "testable": 262,
+      "pct": 31.3
+    },
+    {
+      "id": "7dc017fd9255ba302736d9ad1ce778f93e77b573",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-06T13:29:06+01:00",
+      "all": 388,
+      "test": 285,
+      "testable": 388,
+      "pct": 73.5
+    },
+    {
+      "id": "e74f44734fa1099bc1d9fc2d60838d7b1f64de46",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-04T21:40:29+01:00",
+      "all": 11,
+      "test": 0,
+      "testable": 11,
+      "pct": 0.0
+    },
+    {
+      "id": "f7a365730b02c8e5d21fef849f3255d76be894c4",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-04T21:36:29+01:00",
+      "all": 138,
+      "test": 53,
+      "testable": 138,
+      "pct": 38.4
+    },
+    {
+      "id": "5f5065bca31e59d4158c8296bf4935113e9e41c2",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-04T20:22:56+01:00",
+      "all": 7,
+      "test": 0,
+      "testable": 7,
+      "pct": 0.0
+    },
+    {
+      "id": "7f39b3e12aa84fe0c7de0c972ed761ea4b1f539b",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-04T20:21:36+01:00",
+      "all": 56,
+      "test": 0,
+      "testable": 56,
+      "pct": 0.0
+    },
+    {
+      "id": "c3d191d82d73fdb44c90d2fce803c2d4aca7acee",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-04T19:51:51+01:00",
+      "all": 244,
+      "test": 136,
+      "testable": 240,
+      "pct": 56.7
+    },
+    {
+      "id": "266d26ef02627c858ab5e3305eec3b60d68ae939",
+      "who": "sam@sambrannen.com",
+      "when": "2015-12-04T18:02:25+01:00",
+      "all": 32,
+      "test": 0,
+      "testable": 32,
+      "pct": 0.0
+    },
+    {
+      "id": "56adaa5c7ea024a144bf96179745f8557ee93f08",
+      "who": "sam@sambrannen.com",
+      "when": "2015-12-04T17:39:48+01:00",
+      "all": 21,
+      "test": 0,
+      "testable": 21,
+      "pct": 0.0
+    },
+    {
+      "id": "f0dfe1f4c8ba0c084c23e3df6b98b63581a348c7",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-04T15:17:53+01:00",
+      "all": 360,
+      "test": 3,
+      "testable": 360,
+      "pct": 0.8
+    },
+    {
+      "id": "7e1e67ec06ab89856e46246a9af3054451f046e8",
+      "who": "sam@sambrannen.com",
+      "when": "2015-12-04T15:08:27+01:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "82597c08954d308573ea7a86f27619eef8bdbfa6",
+      "who": "sam@sambrannen.com",
+      "when": "2015-12-04T14:56:12+01:00",
+      "all": 67,
+      "test": 60,
+      "testable": 67,
+      "pct": 89.6
+    },
+    {
+      "id": "0dfc9d3926ecb7c1617bac7ef60ba3fb22087a3a",
+      "who": "sam@sambrannen.com",
+      "when": "2015-12-04T14:13:30+01:00",
+      "all": 5,
+      "test": 0,
+      "testable": 5,
+      "pct": 0.0
+    },
+    {
+      "id": "8ad5c12c15d72decfb6998c36a73f04d0d63c1f7",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-04T14:20:11+01:00",
+      "all": 6,
+      "test": 6,
+      "testable": 6,
+      "pct": 100.0
+    },
+    {
+      "id": "40ceb13c4e9145851ba7f94b99a87c39f0a9c0a0",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-04T14:18:18+01:00",
+      "all": 31,
+      "test": 31,
+      "testable": 31,
+      "pct": 100.0
+    },
+    {
+      "id": "37ba9a2c3b8d3b1229073b7cb9fd714d3bb14e40",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-04T14:14:00+01:00",
+      "all": 179,
+      "test": 104,
+      "testable": 179,
+      "pct": 58.1
+    },
+    {
+      "id": "eb1f9f492fa8a88cc4999904476f830cdc4dedb5",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-04T14:12:13+01:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "0f20228e02fc429db8c1d44ad5e58ab7b7f58660",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-04T14:10:51+01:00",
+      "all": 11,
+      "test": 11,
+      "testable": 11,
+      "pct": 100.0
+    },
+    {
+      "id": "5e281800a73d375a4cda0a3e49380c9922008d38",
+      "who": "business@johanneslink.net",
+      "when": "2015-12-04T13:24:34+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 3,
+      "pct": 0.0
+    },
+    {
+      "id": "449a57fd4e04e224c61783f408f156da3892469a",
+      "who": "sam@sambrannen.com",
+      "when": "2015-12-04T12:34:26+01:00",
+      "all": 11,
+      "test": 0,
+      "testable": 11,
+      "pct": 0.0
+    },
+    {
+      "id": "d00921c052269119d2ac7b4fae70ba83cafeaca9",
+      "who": "sam@sambrannen.com",
+      "when": "2015-12-04T12:33:29+01:00",
+      "all": 148,
+      "test": 89,
+      "testable": 148,
+      "pct": 60.1
+    },
+    {
+      "id": "b4946a803d88b62d5f52d6b70fa50521875a87fa",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-04T10:02:27+01:00",
+      "all": 24,
+      "test": 16,
+      "testable": 24,
+      "pct": 66.7
+    },
+    {
+      "id": "403c2f8c290049cad8b217ac3e9d4f165875d459",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-04T09:49:47+01:00",
+      "all": 15,
+      "test": 9,
+      "testable": 15,
+      "pct": 60.0
+    },
+    {
+      "id": "856c132dbf860fcc8daf8ee74fc14f94161c4309",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-03T20:29:31+01:00",
+      "all": 19,
+      "test": 10,
+      "testable": 19,
+      "pct": 52.6
+    },
+    {
+      "id": "2391a446ef0d3a6f8f5440311e619d52a9d7f974",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-03T20:28:20+01:00",
+      "all": 21,
+      "test": 21,
+      "testable": 21,
+      "pct": 100.0
+    },
+    {
+      "id": "6373e52218166ac7fb5f48c711d75810f44ee463",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-03T20:23:16+01:00",
+      "all": 4,
+      "test": 0,
+      "testable": 4,
+      "pct": 0.0
+    },
+    {
+      "id": "0e545a34768c6a6ed16c3b7d678b7ef63bf84e81",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-03T20:22:34+01:00",
+      "all": 39,
+      "test": 34,
+      "testable": 39,
+      "pct": 87.2
+    },
+    {
+      "id": "4ca7baf9e060c13921ed265347d4a46b01cc42b2",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-03T21:57:31+01:00",
+      "all": 122,
+      "test": 0,
+      "testable": 122,
+      "pct": 0.0
+    },
+    {
+      "id": "9156bee7602e3d97cc09b8752ee951df3d880179",
+      "who": "sam@sambrannen.com",
+      "when": "2015-12-03T21:43:52+01:00",
+      "all": 13,
+      "test": 0,
+      "testable": 13,
+      "pct": 0.0
+    },
+    {
+      "id": "a052dff6e23129fbad84d73a49c22d311c17be07",
+      "who": "sam@sambrannen.com",
+      "when": "2015-12-03T21:28:42+01:00",
+      "all": 107,
+      "test": 0,
+      "testable": 107,
+      "pct": 0.0
+    },
+    {
+      "id": "ce7d854544c725b012a58e8f575ce57b8f6f9cc7",
+      "who": "sam@sambrannen.com",
+      "when": "2015-12-03T21:28:56+01:00",
+      "all": 58,
+      "test": 0,
+      "testable": 58,
+      "pct": 0.0
+    },
+    {
+      "id": "b30240ba3dc7b6a94b917e02040933295589b205",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-03T21:25:59+01:00",
+      "all": 279,
+      "test": 3,
+      "testable": 276,
+      "pct": 1.1
+    },
+    {
+      "id": "0b3859d2a895a9a5309e89dab4b6535e58039187",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-03T20:17:54+01:00",
+      "all": 130,
+      "test": 130,
+      "testable": 130,
+      "pct": 100.0
+    },
+    {
+      "id": "fc766732b8aa60feafef82bfdf9f31037406ccd4",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-03T19:03:33+01:00",
+      "all": 31,
+      "test": 0,
+      "testable": 31,
+      "pct": 0.0
+    },
+    {
+      "id": "6c9d0a5aea0805b5d52cc007403b5057cbd583fd",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-03T18:27:27+01:00",
+      "all": 290,
+      "test": 0,
+      "testable": 290,
+      "pct": 0.0
+    },
+    {
+      "id": "79c6f9f39cdf408a3bc69df6f8bb41746ce65084",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-03T14:42:42+01:00",
+      "all": 128,
+      "test": 0,
+      "testable": 128,
+      "pct": 0.0
+    },
+    {
+      "id": "72be67868ab404bc9ddf8f0b72f16e42d9d01588",
+      "who": "stefan.bechtold@me.com",
+      "when": "2015-12-03T14:16:16+01:00",
+      "all": 53,
+      "test": 27,
+      "testable": 53,
+      "pct": 50.9
+    },
+    {
+      "id": "40ea4f270254c3faf95fea9e2a48ecb7a6c47bb8",
+      "who": "stefan.bechtold@me.com",
+      "when": "2015-12-03T13:58:28+01:00",
+      "all": 90,
+      "test": 0,
+      "testable": 90,
+      "pct": 0.0
+    },
+    {
+      "id": "b371ee9a845f6571a93dfabb1e1356db6729221e",
+      "who": "stefan.bechtold@me.com",
+      "when": "2015-12-03T12:39:12+01:00",
+      "all": 5,
+      "test": 5,
+      "testable": 5,
+      "pct": 100.0
+    },
+    {
+      "id": "950bd890cc6e4848cbe8dd7fcfe94666fcadf501",
+      "who": "team@junit.org",
+      "when": "2015-12-03T12:18:50+01:00",
+      "all": 48,
+      "test": 10,
+      "testable": 10,
+      "pct": 100.0
+    },
+    {
+      "id": "59a0a13262b73c398c05376448aad97e7582384d",
+      "who": "team@junit.org",
+      "when": "2015-12-03T11:42:32+01:00",
+      "all": 165,
+      "test": 39,
+      "testable": 165,
+      "pct": 23.6
+    },
+    {
+      "id": "acc88a0c9979c9f7e6c70f8386d513a85c815646",
+      "who": "team@junit.org",
+      "when": "2015-12-03T11:17:23+01:00",
+      "all": 25,
+      "test": 25,
+      "testable": 25,
+      "pct": 100.0
+    },
+    {
+      "id": "c99cc0ad882d5b964f5dc0ee4fa409b190063e96",
+      "who": "team@junit.org",
+      "when": "2015-12-03T10:50:45+01:00",
+      "all": 455,
+      "test": 0,
+      "testable": 455,
+      "pct": 0.0
+    },
+    {
+      "id": "739ba793dfd3b136e514b31df5bdaff7fd43720a",
+      "who": "team@junit.org",
+      "when": "2015-12-03T10:44:41+01:00",
+      "all": 2983,
+      "test": 965,
+      "testable": 2983,
+      "pct": 32.3
+    },
+    {
+      "id": "ddf2298facb10a7eac12a8fe83c72e35bbb84ba4",
+      "who": "team@junit.org",
+      "when": "2015-12-03T10:02:07+01:00",
+      "all": 222,
+      "test": 0,
+      "testable": 200,
+      "pct": 0.0
+    },
+    {
+      "id": "80fd12170d4a560c1ffe9437dd0e0d906da0c650",
+      "who": "team@junit.org",
+      "when": "2015-12-02T20:10:24+01:00",
+      "all": 13,
+      "test": 0,
+      "testable": 13,
+      "pct": 0.0
+    },
+    {
+      "id": "f0b65f5e8efa43a5cb8ec5f809b5b5e01e6989f8",
+      "who": "team@junit.org",
+      "when": "2015-12-02T19:28:40+01:00",
+      "all": 34,
+      "test": 4,
+      "testable": 34,
+      "pct": 11.8
+    },
+    {
+      "id": "65d46933dbfe48a9a2b345b3028f2e5e4fc95e28",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-30T19:19:11+01:00",
+      "all": 92,
+      "test": 40,
+      "testable": 92,
+      "pct": 43.5
+    },
+    {
+      "id": "a179e3e1b552aecde69b717141493252efeeb480",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-27T14:12:07+01:00",
+      "all": 17,
+      "test": 0,
+      "testable": 17,
+      "pct": 0.0
+    },
+    {
+      "id": "cd9e13001d4e01a75297ac55c27734369ca0fad2",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-27T11:47:14+01:00",
+      "all": 19,
+      "test": 19,
+      "testable": 19,
+      "pct": 100.0
+    },
+    {
+      "id": "7828939076ebe7d498b4693ba91df9217454c386",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-27T11:29:32+01:00",
+      "all": 10,
+      "test": 10,
+      "testable": 10,
+      "pct": 100.0
+    },
+    {
+      "id": "6bf2aaea0d5dc927adc5aec63ad986c1ef695c6d",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-27T11:24:34+01:00",
+      "all": 214,
+      "test": 90,
+      "testable": 214,
+      "pct": 42.1
+    },
+    {
+      "id": "75a4a04dd8f6979b94e96e0ed1fb4197f4e9dbc5",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-26T15:11:26+01:00",
+      "all": 29,
+      "test": 0,
+      "testable": 29,
+      "pct": 0.0
+    },
+    {
+      "id": "7caa98370bf6ba7bd203ae66526f43c850276fd2",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-25T21:54:40+01:00",
+      "all": 336,
+      "test": 102,
+      "testable": 336,
+      "pct": 30.4
+    },
+    {
+      "id": "55316795906dcac64c8ec3ea5eeffbdf758c3383",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-25T19:53:10+01:00",
+      "all": 4,
+      "test": 0,
+      "testable": 4,
+      "pct": 0.0
+    },
+    {
+      "id": "2e838352eb2f9785c2e333d505edf390bee6b38e",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-25T19:27:04+01:00",
+      "all": 50,
+      "test": 16,
+      "testable": 50,
+      "pct": 32.0
+    },
+    {
+      "id": "2f627cfa20889dbda668619e09d8b591e8d29381",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-25T19:26:35+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 3,
+      "pct": 0.0
+    },
+    {
+      "id": "6b21a1b51df5ab43e2bfb3cfc9fc25b041c7977f",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-25T18:46:40+01:00",
+      "all": 5,
+      "test": 0,
+      "testable": 5,
+      "pct": 0.0
+    },
+    {
+      "id": "39c7541f723d1d0cc82bca2d9e5eb4de09c5dc22",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-25T18:34:05+01:00",
+      "all": 14,
+      "test": 0,
+      "testable": 14,
+      "pct": 0.0
+    },
+    {
+      "id": "79b62d7085f896bf884af411ca3fd44aca1e539b",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-25T18:16:32+01:00",
+      "all": 124,
+      "test": 4,
+      "testable": 124,
+      "pct": 3.2
+    },
+    {
+      "id": "5c074ee3542bf41c51bd85ffe6a6d822336f5be4",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-25T17:14:59+01:00",
+      "all": 31,
+      "test": 0,
+      "testable": 31,
+      "pct": 0.0
+    },
+    {
+      "id": "236d8879c6a669028b7e79e03611b9d9122183b8",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-11-25T17:31:12+01:00",
+      "all": 62,
+      "test": 0,
+      "testable": 62,
+      "pct": 0.0
+    },
+    {
+      "id": "9eae644fb22ed87ce30417ffff96848cd0bb8547",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-11-24T21:56:03+01:00",
+      "all": 222,
+      "test": 0,
+      "testable": 209,
+      "pct": 0.0
+    },
+    {
+      "id": "61a9645ca5858f652447696bcb54172a5a64b734",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-11-24T21:54:19+01:00",
+      "all": 5,
+      "test": 0,
+      "testable": 5,
+      "pct": 0.0
+    },
+    {
+      "id": "957d54bdd77b3786df8f74ba7a149ac675b9d898",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-11-24T21:54:00+01:00",
+      "all": 4,
+      "test": 0,
+      "testable": 4,
+      "pct": 0.0
+    },
+    {
+      "id": "1fcc50202a5e9fcf377efde44d10fef300913ac0",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-11-24T21:30:17+01:00",
+      "all": 87,
+      "test": 0,
+      "testable": 87,
+      "pct": 0.0
+    },
+    {
+      "id": "d20d0a6fa5ce96ba556c390c9a4d0da011770227",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-11-23T21:54:20+01:00",
+      "all": 175,
+      "test": 0,
+      "testable": 173,
+      "pct": 0.0
+    },
+    {
+      "id": "08c5c9353cc4f2f9cdf8f3bc3b266eaa218f62ad",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-11-23T20:15:30+01:00",
+      "all": 44,
+      "test": 0,
+      "testable": 32,
+      "pct": 0.0
+    },
+    {
+      "id": "884efc71012d74ccab55c8f98b823e067a6d0e29",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-23T10:43:07+01:00",
+      "all": 47,
+      "test": 0,
+      "testable": 41,
+      "pct": 0.0
+    },
+    {
+      "id": "c48e01100a7f9378cec7f9ff0888b3787a1d6fc5",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-22T23:12:40+01:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "849e9afba14e3ea2639dfc985b0fd515a991639a",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-22T23:02:54+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 3,
+      "pct": 0.0
+    },
+    {
+      "id": "5f0bdad2730cc1563ed3929964802abddff326de",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-22T22:46:28+01:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "a6a549c084132d2d1c2d7d46a26b47e48cb4f608",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-22T22:22:23+01:00",
+      "all": 5,
+      "test": 0,
+      "testable": 5,
+      "pct": 0.0
+    },
+    {
+      "id": "5bb440e06279fd20c98ea617c245141307390274",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-22T21:58:12+01:00",
+      "all": 13,
+      "test": 0,
+      "testable": 13,
+      "pct": 0.0
+    },
+    {
+      "id": "e72d561e16ddba37f0719acdad919dab3b15d5e7",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-22T19:53:25+01:00",
+      "all": 8,
+      "test": 0,
+      "testable": 8,
+      "pct": 0.0
+    },
+    {
+      "id": "8823140da0d3fa545860189dd00fb57b6e4d678f",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-22T19:04:32+01:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "42fde368ac08172d0988140f5b410b2a115d96a5",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-22T09:14:27+01:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "fb657e03bf64484b2c3cbce0cb7fd28a47be71bc",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-22T09:06:51+01:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "44c5ad7c68e52bfa85acd8967a6e9f5dae285ee3",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-22T08:54:08+01:00",
+      "all": 95,
+      "test": 9,
+      "testable": 95,
+      "pct": 9.5
+    },
+    {
+      "id": "5b9dd606ba7b8861057d5bc7b499c70e4bbe172d",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-21T19:01:36+01:00",
+      "all": 88,
+      "test": 0,
+      "testable": 88,
+      "pct": 0.0
+    },
+    {
+      "id": "29accaec594342b8c686f17634c880a86c76bf9d",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-21T18:25:45+01:00",
+      "all": 35,
+      "test": 0,
+      "testable": 35,
+      "pct": 0.0
+    },
+    {
+      "id": "132f971b6f3b20a70e31d7c24a3bbe47633999df",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-21T18:18:03+01:00",
+      "all": 125,
+      "test": 18,
+      "testable": 125,
+      "pct": 14.4
+    },
+    {
+      "id": "53c79e51334653e3d900aea25865a15f3184a402",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-21T17:39:37+01:00",
+      "all": 100,
+      "test": 43,
+      "testable": 100,
+      "pct": 43.0
+    },
+    {
+      "id": "52d1f9f8281fe9cb7fd2fa995fe160a3aa0d0ecc",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-21T17:26:02+01:00",
+      "all": 184,
+      "test": 116,
+      "testable": 184,
+      "pct": 63.0
+    },
+    {
+      "id": "8f8f0eee6714a833b910da842edd1195cb23bb2f",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-21T02:51:17+01:00",
+      "all": 60,
+      "test": 0,
+      "testable": 60,
+      "pct": 0.0
+    },
+    {
+      "id": "dff0e68798c4ff356939d65ecf374b5eb1e17f9c",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-21T02:26:27+01:00",
+      "all": 93,
+      "test": 0,
+      "testable": 93,
+      "pct": 0.0
+    },
+    {
+      "id": "214f9c07a5da69d27a8b98fba3617c526a84bdc0",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-20T23:22:46+01:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "7a62140881e44e096a9f5fa2c68bcb42c89723fb",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-20T21:25:05+01:00",
+      "all": 6,
+      "test": 0,
+      "testable": 6,
+      "pct": 0.0
+    },
+    {
+      "id": "1d3201c69944801d36759e033b9d47b2b7748ac6",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-11-20T21:10:14+01:00",
+      "all": 23,
+      "test": 0,
+      "testable": 23,
+      "pct": 0.0
+    },
+    {
+      "id": "a053f0c7437e42526965d95899340aa9c64c04a9",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-20T20:34:55+01:00",
+      "all": 141,
+      "test": 32,
+      "testable": 141,
+      "pct": 22.7
+    },
+    {
+      "id": "797276cce975110b113d678e6495cc2d3cf75d66",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-20T19:53:47+01:00",
+      "all": 23,
+      "test": 0,
+      "testable": 23,
+      "pct": 0.0
+    },
+    {
+      "id": "6f26cd00f2859fbc788636e12ab0d6351a18b475",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-20T19:43:33+01:00",
+      "all": 230,
+      "test": 54,
+      "testable": 230,
+      "pct": 23.5
+    },
+    {
+      "id": "6b121dd4059d3befc44f530dcd319a8f480b766b",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-20T19:23:51+01:00",
+      "all": 19,
+      "test": 0,
+      "testable": 19,
+      "pct": 0.0
+    },
+    {
+      "id": "45b6e3556ad44911c9fb0d7d3dafc016947b5efd",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-20T19:15:22+01:00",
+      "all": 15,
+      "test": 0,
+      "testable": 15,
+      "pct": 0.0
+    },
+    {
+      "id": "f8c120e6fe0d967d37c317ddfada11a8fb0c8f9b",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-20T19:05:13+01:00",
+      "all": 35,
+      "test": 28,
+      "testable": 35,
+      "pct": 80.0
+    },
+    {
+      "id": "22ba7b79b167b83a5ccd9a67ae89f6f230d087cd",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-20T18:56:09+01:00",
+      "all": 59,
+      "test": 0,
+      "testable": 59,
+      "pct": 0.0
+    },
+    {
+      "id": "0778ce02295a21e35cd5e978b5ecd13b10cca47a",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-20T18:15:56+01:00",
+      "all": 11,
+      "test": 0,
+      "testable": 11,
+      "pct": 0.0
+    },
+    {
+      "id": "823665a8e35e33492a83570b2249433bfacff930",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-20T18:12:30+01:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "a122832c934f8785c0c6a490823de555ee3c8c1a",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-20T18:06:26+01:00",
+      "all": 116,
+      "test": 0,
+      "testable": 116,
+      "pct": 0.0
+    },
+    {
+      "id": "79663e2d0d13b3e21d9f00f9e8135a1f1e260b2d",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-20T17:38:32+01:00",
+      "all": 170,
+      "test": 96,
+      "testable": 170,
+      "pct": 56.5
+    },
+    {
+      "id": "3f41855fb507c9bebbe2a29c0e3dc2978c6e19e3",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-20T16:40:22+01:00",
+      "all": 84,
+      "test": 0,
+      "testable": 84,
+      "pct": 0.0
+    },
+    {
+      "id": "6ed65639ceb0b23e80005697a90e1ae9439da41c",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-20T15:13:17+01:00",
+      "all": 6,
+      "test": 0,
+      "testable": 6,
+      "pct": 0.0
+    },
+    {
+      "id": "3353975e95ee72898412974b7809816363346260",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-20T15:08:30+01:00",
+      "all": 7,
+      "test": 0,
+      "testable": 7,
+      "pct": 0.0
+    },
+    {
+      "id": "baae8bd998f1bd8248c169e8811ab74754c2cd60",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-19T23:01:35+01:00",
+      "all": 32,
+      "test": 0,
+      "testable": 32,
+      "pct": 0.0
+    },
+    {
+      "id": "c868d4644e8aa5e714ff31c5a5290814bff29d18",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-20T14:45:21+01:00",
+      "all": 18,
+      "test": 0,
+      "testable": 18,
+      "pct": 0.0
+    },
+    {
+      "id": "b5482800836d7c4bd71929640b95bcdde45107f0",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-20T11:38:28+01:00",
+      "all": 75,
+      "test": 0,
+      "testable": 72,
+      "pct": 0.0
+    },
+    {
+      "id": "48b0380bf6fc23ad08f31328f6bf2a4af2b678f2",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-20T11:00:18+01:00",
+      "all": 343,
+      "test": 0,
+      "testable": 343,
+      "pct": 0.0
+    },
+    {
+      "id": "39fab8b2cac15504fd75dae28ada2f727e3ef72a",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-20T10:20:36+01:00",
+      "all": 6,
+      "test": 0,
+      "testable": 6,
+      "pct": 0.0
+    },
+    {
+      "id": "92c5c36ad24b8d78500343c5659ff0bd6ecf1164",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-19T22:31:51+01:00",
+      "all": 27,
+      "test": 6,
+      "testable": 27,
+      "pct": 22.2
+    },
+    {
+      "id": "ab5f81ec62919f7f84d95c2230c541d207c2c42e",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-19T22:29:12+01:00",
+      "all": 108,
+      "test": 14,
+      "testable": 108,
+      "pct": 13.0
+    },
+    {
+      "id": "2a7773eb773ac821a15444759bfda211af8ee006",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-19T21:41:48+01:00",
+      "all": 176,
+      "test": 154,
+      "testable": 176,
+      "pct": 87.5
+    },
+    {
+      "id": "40354049b285a9edec0dd8a031d6e1afce3cd599",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-19T21:39:13+01:00",
+      "all": 11,
+      "test": 0,
+      "testable": 11,
+      "pct": 0.0
+    },
+    {
+      "id": "d9bdf5f419140f5ab46f1a1ce097abcb9ff91d1a",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-19T17:44:49+01:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "f2572cc953ee3773a3e6f17016ce1516999b494c",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-19T17:39:30+01:00",
+      "all": 42,
+      "test": 3,
+      "testable": 42,
+      "pct": 7.1
+    },
+    {
+      "id": "a123befc15888320086cf3c58174da4e983fcc74",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-19T16:50:26+01:00",
+      "all": 17,
+      "test": 0,
+      "testable": 17,
+      "pct": 0.0
+    },
+    {
+      "id": "6cc2d2d732861c7d4c0407b746f45775d3adf71f",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-19T16:50:26+01:00",
+      "all": 3,
+      "test": 3,
+      "testable": 3,
+      "pct": 100.0
+    },
+    {
+      "id": "52ea9b29976635cb7b03cf4d2c3fe7999451591a",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-19T16:48:57+01:00",
+      "all": 197,
+      "test": 143,
+      "testable": 197,
+      "pct": 72.6
+    },
+    {
+      "id": "16ca96528ccdcbd0c966f02b96456ca6f29c0419",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-19T16:31:02+01:00",
+      "all": 14,
+      "test": 0,
+      "testable": 14,
+      "pct": 0.0
+    },
+    {
+      "id": "41580138a4feb17bac468c778c99151a66d7401f",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-19T16:12:30+01:00",
+      "all": 117,
+      "test": 117,
+      "testable": 117,
+      "pct": 100.0
+    },
+    {
+      "id": "326645db1e85848c4730a98a7737448561054db2",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-19T15:50:48+01:00",
+      "all": 3,
+      "test": 3,
+      "testable": 3,
+      "pct": 100.0
+    },
+    {
+      "id": "580dcb7292d409282d3134bdd64462150bc3d2c8",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-19T15:40:55+01:00",
+      "all": 154,
+      "test": 35,
+      "testable": 154,
+      "pct": 22.7
+    },
+    {
+      "id": "6d05b487b5eab9b6cae0c88695f68d8f20b7a817",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-19T15:38:14+01:00",
+      "all": 6,
+      "test": 0,
+      "testable": 6,
+      "pct": 0.0
+    },
+    {
+      "id": "ce7be4c38ae21a2fef38a101730fea40342b2449",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-19T15:03:53+01:00",
+      "all": 11,
+      "test": 0,
+      "testable": 11,
+      "pct": 0.0
+    },
+    {
+      "id": "4dd05a07107210bd4a47776fb82a62833d5d2afc",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-19T14:52:51+01:00",
+      "all": 7,
+      "test": 0,
+      "testable": 7,
+      "pct": 0.0
+    },
+    {
+      "id": "0f82e91f23911e8543ee24f9135ab5ceaecaf52e",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-19T15:15:22+01:00",
+      "all": 10,
+      "test": 10,
+      "testable": 10,
+      "pct": 100.0
+    },
+    {
+      "id": "945979ba2417f958f21881596c88a56504ec5162",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-19T14:12:12+01:00",
+      "all": 30,
+      "test": 0,
+      "testable": 30,
+      "pct": 0.0
+    },
+    {
+      "id": "f4e0c29f494df1bf7b8a48066c294ffc9ae3a7e8",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-19T12:32:39+01:00",
+      "all": 64,
+      "test": 0,
+      "testable": 64,
+      "pct": 0.0
+    },
+    {
+      "id": "fb83dd328496cb461bc6c4b445129ef3a244e4df",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-19T09:41:48+01:00",
+      "all": 32,
+      "test": 0,
+      "testable": 32,
+      "pct": 0.0
+    },
+    {
+      "id": "e220e497c7e215fc7a27127780462b301d580526",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-18T23:02:12+01:00",
+      "all": 13,
+      "test": 0,
+      "testable": 13,
+      "pct": 0.0
+    },
+    {
+      "id": "9dc93566d7c7b0aa1b80724e5307afee18434b8a",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-18T21:40:16+01:00",
+      "all": 19,
+      "test": 0,
+      "testable": 19,
+      "pct": 0.0
+    },
+    {
+      "id": "4a9df4e954eb9e8fb3227cf4b3f17fb23d4090f0",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-18T21:39:11+01:00",
+      "all": 204,
+      "test": 0,
+      "testable": 204,
+      "pct": 0.0
+    },
+    {
+      "id": "25758f09407b5ddf99ad4a5528de3aab4d5babd0",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-18T18:44:15+01:00",
+      "all": 16,
+      "test": 0,
+      "testable": 16,
+      "pct": 0.0
+    },
+    {
+      "id": "0fb0cb1ae144f45fab32880fb69ba03a0492c02c",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-18T18:21:52+01:00",
+      "all": 45,
+      "test": 13,
+      "testable": 45,
+      "pct": 28.9
+    },
+    {
+      "id": "258c548fd0e1de69565b88af40c1a23684534dd7",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-18T16:43:28+01:00",
+      "all": 113,
+      "test": 0,
+      "testable": 110,
+      "pct": 0.0
+    },
+    {
+      "id": "c05f0de7e49a2c62de1f7a67cd66d4f9a1d8d799",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-18T16:04:54+01:00",
+      "all": 83,
+      "test": 23,
+      "testable": 83,
+      "pct": 27.7
+    },
+    {
+      "id": "6b8e135bf6dcf4f3de1ad4eb0bb2e98cafdc8467",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-18T12:53:14+01:00",
+      "all": 145,
+      "test": 0,
+      "testable": 145,
+      "pct": 0.0
+    },
+    {
+      "id": "0070246a4ccdcb04ca2a9816fdccc2ebe31cc474",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-18T12:27:00+01:00",
+      "all": 240,
+      "test": 112,
+      "testable": 240,
+      "pct": 46.7
+    },
+    {
+      "id": "b48d880ba4d4b002837f6267c737649129ad6335",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-18T09:57:15+01:00",
+      "all": 16,
+      "test": 0,
+      "testable": 16,
+      "pct": 0.0
+    },
+    {
+      "id": "b25f5d81d2d47a73ba29d3a61c132e0728f6e408",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-18T09:52:39+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 3,
+      "pct": 0.0
+    },
+    {
+      "id": "63ff12f55a0e2b5fa9ee70babd9e9d33f7717651",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-18T00:19:53+01:00",
+      "all": 164,
+      "test": 65,
+      "testable": 164,
+      "pct": 39.6
+    },
+    {
+      "id": "1103627d5ab333bae640e740071b13aaabfb475e",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-17T23:23:04+01:00",
+      "all": 14,
+      "test": 0,
+      "testable": 14,
+      "pct": 0.0
+    },
+    {
+      "id": "7213d695a7ffbefdb3342126daf0f7450551fb88",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-17T22:07:35+01:00",
+      "all": 5,
+      "test": 0,
+      "testable": 5,
+      "pct": 0.0
+    },
+    {
+      "id": "9782428d2c9730f6dd9df04a6598ffd29592f69b",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-17T21:26:54+01:00",
+      "all": 1124,
+      "test": 1124,
+      "testable": 1124,
+      "pct": 100.0
+    },
+    {
+      "id": "4e1a030ce44c126f538a03ca242216956f33f512",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-17T20:28:08+01:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "123e49d975c69a47c1507c8c8367d806a2d8a280",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-17T12:56:15+01:00",
+      "all": 55,
+      "test": 3,
+      "testable": 52,
+      "pct": 5.8
+    },
+    {
+      "id": "e8af9d2c2cc7af85862bbfd19ff5df86104292e8",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-17T12:41:19+01:00",
+      "all": 85,
+      "test": 8,
+      "testable": 85,
+      "pct": 9.4
+    },
+    {
+      "id": "b45641d0368fbda311b62b72eb9bf3d5df5efe0c",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-17T11:40:00+01:00",
+      "all": 92,
+      "test": 42,
+      "testable": 92,
+      "pct": 45.7
+    },
+    {
+      "id": "8550e7130d1611fcd70da1ccb3e9aee61129b4f7",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-17T10:52:43+01:00",
+      "all": 97,
+      "test": 37,
+      "testable": 97,
+      "pct": 38.1
+    },
+    {
+      "id": "c30424a539acd9d8554250fadefc10e95bd8f4ce",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-17T10:16:18+01:00",
+      "all": 170,
+      "test": 73,
+      "testable": 170,
+      "pct": 42.9
+    },
+    {
+      "id": "d094dcb157a644e06f1fcdb44c68f774ddbd507f",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-17T08:29:53+01:00",
+      "all": 95,
+      "test": 55,
+      "testable": 95,
+      "pct": 57.9
+    },
+    {
+      "id": "ea4d04e12e53dab6babf8a59fb3363d4724477fe",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-11-16T21:31:07+01:00",
+      "all": 34,
+      "test": 0,
+      "testable": 34,
+      "pct": 0.0
+    },
+    {
+      "id": "1cb14d58e082fdcefbb0cbe614b13d61c4613381",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-11-16T21:30:41+01:00",
+      "all": 3,
+      "test": 3,
+      "testable": 3,
+      "pct": 100.0
+    },
+    {
+      "id": "4ae93c76a177547e01661ac50d1f9a30330b9485",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-16T01:27:42+01:00",
+      "all": 31,
+      "test": 0,
+      "testable": 31,
+      "pct": 0.0
+    },
+    {
+      "id": "3a6208066382dfac799d582c20cf0885bb59d59b",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-16T01:11:58+01:00",
+      "all": 195,
+      "test": 97,
+      "testable": 195,
+      "pct": 49.7
+    },
+    {
+      "id": "38467a298ce304085c9e190f7f6076cc091e182d",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-15T23:38:28+01:00",
+      "all": 53,
+      "test": 53,
+      "testable": 53,
+      "pct": 100.0
+    },
+    {
+      "id": "c095870d090182fc72f57f15b64733b60c912d2a",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-15T22:16:09+01:00",
+      "all": 88,
+      "test": 43,
+      "testable": 88,
+      "pct": 48.9
+    },
+    {
+      "id": "320b5de9fd8c92ea2e320e231dad6e0a4a85f853",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-15T21:32:54+01:00",
+      "all": 57,
+      "test": 13,
+      "testable": 57,
+      "pct": 22.8
+    },
+    {
+      "id": "a11d8087504436a626ac6b48b2507f64f4eff4f1",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-15T21:16:43+01:00",
+      "all": 199,
+      "test": 57,
+      "testable": 199,
+      "pct": 28.6
+    },
+    {
+      "id": "ee3482e59ab45801f95cd9d6468123d4c5aa7bf0",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-15T21:15:04+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 3,
+      "pct": 0.0
+    },
+    {
+      "id": "167667aeb40335bfac3089963345352643396a18",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-15T21:07:05+01:00",
+      "all": 138,
+      "test": 14,
+      "testable": 138,
+      "pct": 10.1
+    },
+    {
+      "id": "20894e1bf4df834967379bf0a2c62b96d8671f04",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-15T17:30:43+01:00",
+      "all": 19,
+      "test": 19,
+      "testable": 19,
+      "pct": 100.0
+    },
+    {
+      "id": "476714d52885adb93b5b538c1a23669a2fe40abc",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-15T21:02:47+01:00",
+      "all": 14,
+      "test": 0,
+      "testable": 14,
+      "pct": 0.0
+    },
+    {
+      "id": "a2652fb0bbfff81fc2a5133b4d41e0c50984b94e",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-15T21:01:59+01:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "be74b9dc83ada2300ada9e721ae2308e8c0b5a87",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-15T20:59:24+01:00",
+      "all": 13,
+      "test": 0,
+      "testable": 13,
+      "pct": 0.0
+    },
+    {
+      "id": "b1aa1e699dafe9b6742e16da0e42cfc77b7e1ccf",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-15T20:58:47+01:00",
+      "all": 14,
+      "test": 0,
+      "testable": 14,
+      "pct": 0.0
+    },
+    {
+      "id": "950fcf21545f309b782b38dd7947eaf189579cdc",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-15T20:50:48+01:00",
+      "all": 54,
+      "test": 0,
+      "testable": 54,
+      "pct": 0.0
+    },
+    {
+      "id": "09a6753a295354081028bc8fccb14f428e8a9a8b",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-15T20:49:41+01:00",
+      "all": 178,
+      "test": 0,
+      "testable": 178,
+      "pct": 0.0
+    },
+    {
+      "id": "87cff3b624f9943db7197d90be75af3a5c00cb01",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-15T20:17:29+01:00",
+      "all": 67,
+      "test": 0,
+      "testable": 67,
+      "pct": 0.0
+    },
+    {
+      "id": "fcc6649fb12f049af1145954ab0a6069e66aa13f",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-15T19:50:16+01:00",
+      "all": 121,
+      "test": 0,
+      "testable": 121,
+      "pct": 0.0
+    },
+    {
+      "id": "6c267abd32715a3fd57ea98b2377a530aff41165",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-15T19:01:41+01:00",
+      "all": 51,
+      "test": 51,
+      "testable": 51,
+      "pct": 100.0
+    },
+    {
+      "id": "5530afc33ba0002cb35f755d9e1b1e7200d88680",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-15T19:00:38+01:00",
+      "all": 132,
+      "test": 10,
+      "testable": 132,
+      "pct": 7.6
+    },
+    {
+      "id": "d318816f60523f4ebde0f69edae2b463e22e62d1",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-15T17:45:12+01:00",
+      "all": 22,
+      "test": 0,
+      "testable": 22,
+      "pct": 0.0
+    },
+    {
+      "id": "0be3862b5f70d0ac2cdc87708442bc122322f269",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-15T17:40:55+01:00",
+      "all": 8,
+      "test": 0,
+      "testable": 8,
+      "pct": 0.0
+    },
+    {
+      "id": "fb0417592a214ebbac21edb142b3aadb02a72f0a",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-15T15:39:45+01:00",
+      "all": 47,
+      "test": 5,
+      "testable": 47,
+      "pct": 10.6
+    },
+    {
+      "id": "7121aa6e232bc7fd0ff73f4d7487e72a54ef0cdf",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-11-15T14:50:30+01:00",
+      "all": 56,
+      "test": 0,
+      "testable": 56,
+      "pct": 0.0
+    },
+    {
+      "id": "55f0f2c4ee34e9d7b50c72eba8b49f096d9df1ce",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-15T13:42:39+01:00",
+      "all": 80,
+      "test": 0,
+      "testable": 80,
+      "pct": 0.0
+    },
+    {
+      "id": "a7725c855d1a3ff8734af43a9f81dc62f792447b",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-15T13:14:41+01:00",
+      "all": 49,
+      "test": 38,
+      "testable": 49,
+      "pct": 77.6
+    },
+    {
+      "id": "677eea1c9e80c65693c14eda14cdc47c14f570e2",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-15T13:13:59+01:00",
+      "all": 140,
+      "test": 18,
+      "testable": 140,
+      "pct": 12.9
+    },
+    {
+      "id": "ddfd2803aa60556ce06c591fe1fb31a7389ce9f1",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-15T11:04:38+01:00",
+      "all": 69,
+      "test": 69,
+      "testable": 69,
+      "pct": 100.0
+    },
+    {
+      "id": "0c0604dc6b53f8256b1a85063d436e23af4c3ddc",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-15T09:27:29+01:00",
+      "all": 144,
+      "test": 38,
+      "testable": 144,
+      "pct": 26.4
+    },
+    {
+      "id": "8ff876c8ca1df219b7b211108f9221b291727266",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-15T08:15:35+01:00",
+      "all": 25,
+      "test": 25,
+      "testable": 25,
+      "pct": 100.0
+    },
+    {
+      "id": "31ec7d068ca43ae27c1fd32b6683b2b903f6c057",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-11-14T23:08:47+01:00",
+      "all": 29,
+      "test": 0,
+      "testable": 29,
+      "pct": 0.0
+    },
+    {
+      "id": "90747aed5098c5c87ecb855a8a1c32fd56be6b9c",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-11-14T22:58:18+01:00",
+      "all": 63,
+      "test": 0,
+      "testable": 61,
+      "pct": 0.0
+    },
+    {
+      "id": "b9878f9455d23f7c49456d162c5fd2c975befb8b",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-14T20:17:58+01:00",
+      "all": 60,
+      "test": 34,
+      "testable": 60,
+      "pct": 56.7
+    },
+    {
+      "id": "d3249a2ba972a3bb3d1452471f4912d117e641b6",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-14T20:16:04+01:00",
+      "all": 21,
+      "test": 0,
+      "testable": 21,
+      "pct": 0.0
+    },
+    {
+      "id": "c0756fdeb1bac8e70d9e30ed98a51797c72aede9",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-14T20:14:30+01:00",
+      "all": 106,
+      "test": 0,
+      "testable": 106,
+      "pct": 0.0
+    },
+    {
+      "id": "b6a1e8baa859b3ca6f03a655900b0f245b4dccfe",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-14T20:11:19+01:00",
+      "all": 49,
+      "test": 0,
+      "testable": 40,
+      "pct": 0.0
+    },
+    {
+      "id": "da00cfbb66b1a4501fe30f9e2e4484a30716532f",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-14T18:32:48+01:00",
+      "all": 32,
+      "test": 0,
+      "testable": 32,
+      "pct": 0.0
+    },
+    {
+      "id": "7c0c404d2c9756f5fcd5999b68438d26863b29bd",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-14T18:22:32+01:00",
+      "all": 80,
+      "test": 40,
+      "testable": 74,
+      "pct": 54.1
+    },
+    {
+      "id": "f6a781519a8f6a3527725048a61c6aa485303472",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-14T17:44:00+01:00",
+      "all": 52,
+      "test": 31,
+      "testable": 52,
+      "pct": 59.6
+    },
+    {
+      "id": "e75bb5ba9b5ea5675a8c007fd65a79b1ef468010",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-14T16:46:14+01:00",
+      "all": 19,
+      "test": 0,
+      "testable": 19,
+      "pct": 0.0
+    },
+    {
+      "id": "08423ef0317dd7c62a4aa29bfa141df26f3eaf2b",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-14T16:34:36+01:00",
+      "all": 20,
+      "test": 0,
+      "testable": 20,
+      "pct": 0.0
+    },
+    {
+      "id": "14390ec4b7242ce123148fb4fe08ec449f82c0ef",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-14T16:26:15+01:00",
+      "all": 19,
+      "test": 0,
+      "testable": 19,
+      "pct": 0.0
+    },
+    {
+      "id": "c1680cff1482fcdec39f2c4f107005a7945c4e55",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-14T16:23:10+01:00",
+      "all": 240,
+      "test": 0,
+      "testable": 240,
+      "pct": 0.0
+    },
+    {
+      "id": "15360ca3852bd597b4ba645bb3b770edb86bcc53",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-11-14T16:20:04+01:00",
+      "all": 5,
+      "test": 5,
+      "testable": 5,
+      "pct": 100.0
+    },
+    {
+      "id": "e8b453534dbaa263ec0a7bc911886d07bf47c9f8",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-11-14T16:05:45+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 3,
+      "pct": 0.0
+    },
+    {
+      "id": "2fab23a613a5e4111d40af412791a61390564bcc",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-14T15:38:31+01:00",
+      "all": 6,
+      "test": 0,
+      "testable": 6,
+      "pct": 0.0
+    },
+    {
+      "id": "e32b74bafa0a896fa7ead7710808fc7875da130b",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-11-14T15:39:01+01:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "85795f7c503646c65f7ffac0af6a26373b837cc7",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-11-14T15:31:20+01:00",
+      "all": 4,
+      "test": 4,
+      "testable": 4,
+      "pct": 100.0
+    },
+    {
+      "id": "2c1d41d8027b8a586498405c37dbe7b572d91f8c",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-11-14T15:30:19+01:00",
+      "all": 33,
+      "test": 0,
+      "testable": 11,
+      "pct": 0.0
+    },
+    {
+      "id": "8279cda4a15441905e0e63a97773374c054c9987",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-14T14:32:03+01:00",
+      "all": 22,
+      "test": 0,
+      "testable": 22,
+      "pct": 0.0
+    },
+    {
+      "id": "1570ce1ffbeb64ca00dc62276825ed4b712eb200",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-14T14:22:07+01:00",
+      "all": 11,
+      "test": 11,
+      "testable": 11,
+      "pct": 100.0
+    },
+    {
+      "id": "18e54bfc2fd9e0822cb5db152e0ced8e5780c591",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-14T14:11:39+01:00",
+      "all": 6,
+      "test": 0,
+      "testable": 6,
+      "pct": 0.0
+    },
+    {
+      "id": "ebbe1b01087bed10934307adafa86bfcba473950",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-14T14:06:15+01:00",
+      "all": 96,
+      "test": 0,
+      "testable": 96,
+      "pct": 0.0
+    },
+    {
+      "id": "5dfa601c9ca0b4cc8d63c072e2ec98a974ab8561",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-11-14T13:41:09+01:00",
+      "all": 4,
+      "test": 4,
+      "testable": 4,
+      "pct": 100.0
+    },
+    {
+      "id": "90679206aed25b37ed11425188d36176cceac176",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-11-14T13:36:47+01:00",
+      "all": 2,
+      "test": 2,
+      "testable": 2,
+      "pct": 100.0
+    },
+    {
+      "id": "e4769957a3517c9473b157402e45d1ef892b7b80",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-11-14T13:32:31+01:00",
+      "all": 7,
+      "test": 7,
+      "testable": 7,
+      "pct": 100.0
+    },
+    {
+      "id": "db043db8bc5af4242159facca0329a53dca9eb15",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-14T12:47:20+01:00",
+      "all": 62,
+      "test": 0,
+      "testable": 62,
+      "pct": 0.0
+    },
+    {
+      "id": "c82f479e8820f466061e8a5bfb03d3d1b351f82b",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-14T12:11:40+01:00",
+      "all": 140,
+      "test": 0,
+      "testable": 140,
+      "pct": 0.0
+    },
+    {
+      "id": "c2b82a7de0e755b137e595906f8dc415f1619727",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-14T08:52:08+01:00",
+      "all": 148,
+      "test": 23,
+      "testable": 148,
+      "pct": 15.5
+    },
+    {
+      "id": "356ad5ef8be2d18feb4af8e63e9a3497b89ad50a",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-14T08:27:45+01:00",
+      "all": 44,
+      "test": 0,
+      "testable": 44,
+      "pct": 0.0
+    },
+    {
+      "id": "3222ab72b7d365aedcb6f5a56abac80fad13865b",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-14T08:21:57+01:00",
+      "all": 45,
+      "test": 0,
+      "testable": 45,
+      "pct": 0.0
+    },
+    {
+      "id": "902b0aeae3aae6b994454b37ec398eb9f078c9ba",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-14T11:23:25+01:00",
+      "all": 33,
+      "test": 0,
+      "testable": 23,
+      "pct": 0.0
+    },
+    {
+      "id": "3dbf05d46a0afd3cfe26045fbe42a2bd20da8669",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-14T08:52:08+01:00",
+      "all": 148,
+      "test": 23,
+      "testable": 148,
+      "pct": 15.5
+    },
+    {
+      "id": "75cbe68d04d41dd7127a7980a43fce1f5c6c1c18",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-14T08:27:45+01:00",
+      "all": 44,
+      "test": 0,
+      "testable": 44,
+      "pct": 0.0
+    },
+    {
+      "id": "c02ef612c63ef8031ed70f768bf12465ba98a764",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-14T08:21:57+01:00",
+      "all": 45,
+      "test": 0,
+      "testable": 45,
+      "pct": 0.0
+    },
+    {
+      "id": "8479cfeb25ea498ec7b2761cebf95961a0ad32d5",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-14T01:10:36+01:00",
+      "all": 6,
+      "test": 0,
+      "testable": 6,
+      "pct": 0.0
+    },
+    {
+      "id": "65839a4f087a1eb3e34b14c968d6ee80dd88d47c",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-14T01:09:59+01:00",
+      "all": 111,
+      "test": 0,
+      "testable": 111,
+      "pct": 0.0
+    },
+    {
+      "id": "aba9d8618c2ea423b005be4abf47ae2b5f3cbf47",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-14T00:06:15+01:00",
+      "all": 129,
+      "test": 129,
+      "testable": 129,
+      "pct": 100.0
+    },
+    {
+      "id": "3c05f522c5691b0308331fefe7274608a27b7315",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-13T23:37:56+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 3,
+      "pct": 0.0
+    },
+    {
+      "id": "f40fbd62c44b06ce4be589d3abfea4065577979b",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-13T23:36:50+01:00",
+      "all": 6,
+      "test": 0,
+      "testable": 6,
+      "pct": 0.0
+    },
+    {
+      "id": "18d7d435c7aeff153203179e143dd571aea3e844",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-13T17:39:39+01:00",
+      "all": 455,
+      "test": 74,
+      "testable": 455,
+      "pct": 16.3
+    },
+    {
+      "id": "eb212482d7b706b64f4664cf31c0d8da8255808a",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-13T17:07:16+01:00",
+      "all": 15,
+      "test": 0,
+      "testable": 15,
+      "pct": 0.0
+    },
+    {
+      "id": "6d0de9474a45bb56ddbf56db692c7c4ad05ab603",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-13T16:59:19+01:00",
+      "all": 53,
+      "test": 9,
+      "testable": 53,
+      "pct": 17.0
+    },
+    {
+      "id": "7b25b8c77631589ff81fc4678ea9911c547688d2",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-13T14:32:09+00:00",
+      "all": 5,
+      "test": 0,
+      "testable": 5,
+      "pct": 0.0
+    },
+    {
+      "id": "6d24b860dddbe4cff67b50fbced78aa3aea8adbf",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-13T14:21:52+00:00",
+      "all": 83,
+      "test": 53,
+      "testable": 83,
+      "pct": 63.9
+    },
+    {
+      "id": "986d6d91a253f3910314f2b9ffa891c6612d7200",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-13T15:07:14+01:00",
+      "all": 43,
+      "test": 0,
+      "testable": 43,
+      "pct": 0.0
+    },
+    {
+      "id": "bc486cc496ce75c1500de8d295cbe0cb103ff1dd",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-13T13:57:20+00:00",
+      "all": 228,
+      "test": 0,
+      "testable": 228,
+      "pct": 0.0
+    },
+    {
+      "id": "927ec1d709eaf752f6fe92a68564fb4393b50bef",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-13T14:28:34+01:00",
+      "all": 150,
+      "test": 8,
+      "testable": 150,
+      "pct": 5.3
+    },
+    {
+      "id": "6fe08b38bb3af3e528ce3f65b2f189169970ed1b",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-13T11:23:18+00:00",
+      "all": 105,
+      "test": 41,
+      "testable": 105,
+      "pct": 39.0
+    },
+    {
+      "id": "22edfe46f0b8a99acc310f6dac5bc72a776494c2",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-13T11:02:39+00:00",
+      "all": 52,
+      "test": 0,
+      "testable": 52,
+      "pct": 0.0
+    },
+    {
+      "id": "11a58e40b478f51a98fa2b27a58c78e6280acff2",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-13T11:01:57+00:00",
+      "all": 20,
+      "test": 0,
+      "testable": 20,
+      "pct": 0.0
+    },
+    {
+      "id": "5ff5f8f215c8f684be699a0cfc79ef115ee20387",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-13T10:59:39+00:00",
+      "all": 9,
+      "test": 5,
+      "testable": 9,
+      "pct": 55.6
+    },
+    {
+      "id": "dceb9f61c81bc21302c5c46428257228e90fbfaf",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-13T10:57:10+00:00",
+      "all": 20,
+      "test": 0,
+      "testable": 20,
+      "pct": 0.0
+    },
+    {
+      "id": "3fa6a483b1b54352bd36bc0dca3ac1fea0a754f5",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-13T11:36:38+00:00",
+      "all": 3,
+      "test": 0,
+      "testable": 3,
+      "pct": 0.0
+    },
+    {
+      "id": "8c5966ab41de53789c75e908ba61bc144f4614ad",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-13T12:40:14+01:00",
+      "all": 33,
+      "test": 0,
+      "testable": 33,
+      "pct": 0.0
+    },
+    {
+      "id": "891efa3653cb899ca27afcd1abc385fc3fa663fa",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-13T12:24:00+01:00",
+      "all": 166,
+      "test": 4,
+      "testable": 166,
+      "pct": 2.4
+    },
+    {
+      "id": "c924f9c2af7d026ba30e2d424f68e98d1e77710b",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-13T08:45:12+01:00",
+      "all": 5,
+      "test": 0,
+      "testable": 5,
+      "pct": 0.0
+    },
+    {
+      "id": "bf41ffd2aa275def5a02ba58dc202c6e61b09b27",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-12T22:18:21+01:00",
+      "all": 44,
+      "test": 3,
+      "testable": 44,
+      "pct": 6.8
+    },
+    {
+      "id": "91cfffe1ba24cf7e538b9b57a3cd39cf431b69e0",
+      "who": "jl@johanneslink.net",
+      "when": "2015-11-12T21:47:29+01:00",
+      "all": 913,
+      "test": 373,
+      "testable": 910,
+      "pct": 41.0
+    },
+    {
+      "id": "e66262e446441eb1243ff78a0e3d431698bd1ed6",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-12T21:44:52+01:00",
+      "all": 59,
+      "test": 38,
+      "testable": 59,
+      "pct": 64.4
+    },
+    {
+      "id": "522a472725952c2147525920205c579138b86d99",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-12T21:17:24+01:00",
+      "all": 1558,
+      "test": 462,
+      "testable": 1558,
+      "pct": 29.7
+    },
+    {
+      "id": "92747820312d5bbcddd8bbfe385a91cd9c47079b",
+      "who": "jl@johanneslink.net",
+      "when": "2015-11-12T20:47:41+01:00",
+      "all": 771,
+      "test": 252,
+      "testable": 771,
+      "pct": 32.7
+    },
+    {
+      "id": "d56e607c166f8b3feda43762b38f472847a0b278",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-12T20:43:31+01:00",
+      "all": 23,
+      "test": 0,
+      "testable": 23,
+      "pct": 0.0
+    },
+    {
+      "id": "bfdad831842f3e839ee64e3103434b87316cbd2c",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-12T20:31:10+01:00",
+      "all": 1139,
+      "test": 205,
+      "testable": 1139,
+      "pct": 18.0
+    },
+    {
+      "id": "5f85ec2ccecfb96df99da4fb99ae1b1b6b8c2f3b",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-12T17:04:16+00:00",
+      "all": 158,
+      "test": 0,
+      "testable": 158,
+      "pct": 0.0
+    },
+    {
+      "id": "979cdee7106f57c24141bc3c00a5aaa78b8c254b",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-12T16:36:24+00:00",
+      "all": 16,
+      "test": 9,
+      "testable": 16,
+      "pct": 56.2
+    },
+    {
+      "id": "94f83a9c23897f332a8bf0641e4ea2c016e82d5d",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-12T16:35:30+00:00",
+      "all": 10,
+      "test": 10,
+      "testable": 10,
+      "pct": 100.0
+    },
+    {
+      "id": "2710fc4e131418ab44a4481c73b4eabf63af2f0f",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-12T16:26:14+00:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "d79ef579bee91d49796f4b723e0e94818e7ee50c",
+      "who": "Matthias.Merdes@heidelberg-mobil.com",
+      "when": "2015-11-12T14:14:23+01:00",
+      "all": 150,
+      "test": 20,
+      "testable": 150,
+      "pct": 13.3
+    },
+    {
+      "id": "59e4b7e7b952d25508e00449500f0a4f1df2cbe4",
+      "who": "jl@johanneslink.net",
+      "when": "2015-11-12T13:29:25+01:00",
+      "all": 403,
+      "test": 71,
+      "testable": 403,
+      "pct": 17.6
+    },
+    {
+      "id": "51b9fde98119f28da724d9ca4940140ca51f0486",
+      "who": "Matthias.Merdes@heidelberg-mobil.com",
+      "when": "2015-11-12T13:24:47+01:00",
+      "all": 742,
+      "test": 79,
+      "testable": 742,
+      "pct": 10.6
+    },
+    {
+      "id": "d574b08d7d10a15a6f71be43c36626ab8c79dc22",
+      "who": "Matthias.Merdes@heidelberg-mobil.com",
+      "when": "2015-11-12T10:01:22+01:00",
+      "all": 8,
+      "test": 8,
+      "testable": 8,
+      "pct": 100.0
+    },
+    {
+      "id": "cbe76e2a2c15f3b971597e484cd7dfea49fe410a",
+      "who": "Matthias.Merdes@heidelberg-mobil.com",
+      "when": "2015-11-12T09:55:42+01:00",
+      "all": 48,
+      "test": 24,
+      "testable": 48,
+      "pct": 50.0
+    },
+    {
+      "id": "73a039cc68eec20b9870b77acd7d0e16bbcb6fb8",
+      "who": "Matthias.Merdes@heidelberg-mobil.com",
+      "when": "2015-11-12T08:53:52+01:00",
+      "all": 39,
+      "test": 0,
+      "testable": 39,
+      "pct": 0.0
+    },
+    {
+      "id": "e70c806c53ebef07a78fb71ee2a8efaa8e8e27cc",
+      "who": "Matthias.Merdes@heidelberg-mobil.com",
+      "when": "2015-11-12T08:38:55+01:00",
+      "all": 5,
+      "test": 0,
+      "testable": 5,
+      "pct": 0.0
+    },
+    {
+      "id": "95ca112d4e6e8f2f6bacefb7758dcd189272a88d",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-11T20:16:17+00:00",
+      "all": 114,
+      "test": 0,
+      "testable": 114,
+      "pct": 0.0
+    },
+    {
+      "id": "9a3843db2a2e142d665e055626a1a15211eb4aab",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-11T20:00:56+00:00",
+      "all": 33,
+      "test": 0,
+      "testable": 33,
+      "pct": 0.0
+    },
+    {
+      "id": "6d7b8b4127d174e1d5cb7c686f5b44230faf2844",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-11T19:53:47+00:00",
+      "all": 157,
+      "test": 76,
+      "testable": 157,
+      "pct": 48.4
+    },
+    {
+      "id": "4da06b757d4f10891a28810eb63c3e0d4d448453",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-11-11T20:55:24+01:00",
+      "all": 25,
+      "test": 0,
+      "testable": 25,
+      "pct": 0.0
+    },
+    {
+      "id": "032bf7117bcd44389edcac9f517bb45b12bf0f3c",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-11-11T20:54:56+01:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "7b277f3be6157f9c31a03cd73200343bb1c50482",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-11-11T20:53:13+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 3,
+      "pct": 0.0
+    },
+    {
+      "id": "5495e4cd6db2abb577bf0ce2a5c003d789c97a79",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-11T18:55:53+01:00",
+      "all": 296,
+      "test": 7,
+      "testable": 296,
+      "pct": 2.4
+    },
+    {
+      "id": "71a62f194a6244d43873f05e57ac9082391caaa2",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-11T13:57:56+00:00",
+      "all": 122,
+      "test": 3,
+      "testable": 122,
+      "pct": 2.5
+    },
+    {
+      "id": "c8b16aca4c36ffb7812e8fcf4f9dc0151b789d5b",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-11T14:48:08+01:00",
+      "all": 79,
+      "test": 0,
+      "testable": 79,
+      "pct": 0.0
+    },
+    {
+      "id": "87715b8cec1b51a5d232164544f79b559087e22c",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-11T14:34:14+01:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "7500d1416a514d86aafcd90f9f4d20a8992d1bac",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-11T14:29:22+01:00",
+      "all": 124,
+      "test": 0,
+      "testable": 124,
+      "pct": 0.0
+    },
+    {
+      "id": "241958f953494ae0bd37c2f13dcfc65ece7af523",
+      "who": "Matthias.Merdes@heidelberg-mobil.com",
+      "when": "2015-11-11T14:20:44+01:00",
+      "all": 3,
+      "test": 3,
+      "testable": 3,
+      "pct": 100.0
+    },
+    {
+      "id": "5b3b3645881550714eeba06a2c8d9739d3f350c7",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-11T12:46:18+01:00",
+      "all": 71,
+      "test": 0,
+      "testable": 71,
+      "pct": 0.0
+    },
+    {
+      "id": "51c973945693fca5794a1fa9b27bec8c332e0efd",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-11T12:45:37+01:00",
+      "all": 582,
+      "test": 11,
+      "testable": 582,
+      "pct": 1.9
+    },
+    {
+      "id": "9a5d1b93ea1ee1ddc14b21d1e9d61478b81b0ad1",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-11T11:32:23+01:00",
+      "all": 2,
+      "test": 0,
+      "testable": 2,
+      "pct": 0.0
+    },
+    {
+      "id": "6a71651e421798be4667973bb71f6bd13b9a8ecf",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-11T11:31:31+01:00",
+      "all": 2,
+      "test": 0,
+      "testable": 2,
+      "pct": 0.0
+    },
+    {
+      "id": "b70debfb8d209166eb995b006e8e12a63e045873",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-11T11:27:01+01:00",
+      "all": 1101,
+      "test": 49,
+      "testable": 1101,
+      "pct": 4.5
+    },
+    {
+      "id": "7edfc49a037cd097b4cc253cac08decac6e09cb2",
+      "who": "Matthias.Merdes@heidelberg-mobil.com",
+      "when": "2015-11-11T11:23:07+01:00",
+      "all": 7,
+      "test": 7,
+      "testable": 7,
+      "pct": 100.0
+    },
+    {
+      "id": "d7863be729fbf69030dac9b770ddbe378702f3df",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-11T11:13:50+01:00",
+      "all": 296,
+      "test": 93,
+      "testable": 296,
+      "pct": 31.4
+    },
+    {
+      "id": "4bfeac345903be34bd072a7082dd08f9a6c6f945",
+      "who": "Matthias.Merdes@heidelberg-mobil.com",
+      "when": "2015-11-11T09:47:11+01:00",
+      "all": 49,
+      "test": 0,
+      "testable": 49,
+      "pct": 0.0
+    },
+    {
+      "id": "e68203b2eb2ad3c36efd5a0995cfed210d50dcb7",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-11T09:37:58+01:00",
+      "all": 147,
+      "test": 0,
+      "testable": 147,
+      "pct": 0.0
+    },
+    {
+      "id": "03fd06ccf8cb4614c16a1bc453b6c5b0286fceaf",
+      "who": "Matthias.Merdes@heidelberg-mobil.com",
+      "when": "2015-11-11T09:33:20+01:00",
+      "all": 7,
+      "test": 0,
+      "testable": 7,
+      "pct": 0.0
+    },
+    {
+      "id": "7be005f10c77ed1dab530a85dcf451500c8c494d",
+      "who": "Matthias.Merdes@heidelberg-mobil.com",
+      "when": "2015-11-11T09:28:36+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 3,
+      "pct": 0.0
+    },
+    {
+      "id": "054bcbd394807f7b821765a947e4d3cdfb08e19e",
+      "who": "Matthias.Merdes@heidelberg-mobil.com",
+      "when": "2015-11-10T18:14:32+01:00",
+      "all": 97,
+      "test": 85,
+      "testable": 97,
+      "pct": 87.6
+    },
+    {
+      "id": "e239c6eabb42de0838155c00120aecc3a4f6ede8",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-10T17:13:21+00:00",
+      "all": 11,
+      "test": 0,
+      "testable": 11,
+      "pct": 0.0
+    },
+    {
+      "id": "0e599967c28767d4e7c34b0e55e0b57c347e8c8c",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-10T16:49:37+00:00",
+      "all": 131,
+      "test": 0,
+      "testable": 131,
+      "pct": 0.0
+    },
+    {
+      "id": "a037ff0bdfe3debef56409e65f6d9361c2857ad2",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-10T15:42:35+00:00",
+      "all": 13,
+      "test": 0,
+      "testable": 13,
+      "pct": 0.0
+    },
+    {
+      "id": "1a69ae0af88c8b1c4478ad18feba9392ba0224bd",
+      "who": "Matthias.Merdes@heidelberg-mobil.com",
+      "when": "2015-11-10T16:55:45+01:00",
+      "all": 8,
+      "test": 0,
+      "testable": 8,
+      "pct": 0.0
+    },
+    {
+      "id": "133f8b7df673156b57dd9b98cacfa4f7fc7c1375",
+      "who": "Matthias.Merdes@heidelberg-mobil.com",
+      "when": "2015-11-10T16:53:06+01:00",
+      "all": 5,
+      "test": 0,
+      "testable": 5,
+      "pct": 0.0
+    },
+    {
+      "id": "d17b09786db3ff074eaa65e1eb486fff559eff31",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-10T16:49:07+01:00",
+      "all": 5,
+      "test": 0,
+      "testable": 5,
+      "pct": 0.0
+    },
+    {
+      "id": "dcc5da47a4dd8063c30d5507c1bad8078aab6dad",
+      "who": "Matthias.Merdes@heidelberg-mobil.com",
+      "when": "2015-11-10T16:33:42+01:00",
+      "all": 900,
+      "test": 22,
+      "testable": 900,
+      "pct": 2.4
+    },
+    {
+      "id": "acfbcaae8ddd082b5aec7430573c3cb9f47030d1",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-10T13:58:12+01:00",
+      "all": 185,
+      "test": 18,
+      "testable": 185,
+      "pct": 9.7
+    },
+    {
+      "id": "827af94c38f5061e45eacbfa5fe263449519748e",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-10T11:56:21+00:00",
+      "all": 32,
+      "test": 0,
+      "testable": 32,
+      "pct": 0.0
+    },
+    {
+      "id": "2caaa421f06157ba0c113148587454618c390a9e",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-10T11:46:09+00:00",
+      "all": 35,
+      "test": 0,
+      "testable": 35,
+      "pct": 0.0
+    },
+    {
+      "id": "e81f562c7aa4b5a0fcf5ae05230721e0ff4628ce",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-10T11:43:42+00:00",
+      "all": 25,
+      "test": 0,
+      "testable": 25,
+      "pct": 0.0
+    },
+    {
+      "id": "4ddfb1809a7c1f52e9c03743adba52f495e41e16",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-10T10:54:43+01:00",
+      "all": 5,
+      "test": 0,
+      "testable": 5,
+      "pct": 0.0
+    },
+    {
+      "id": "ba991ffaef45eb817eb1f92ff1a667b100639e3e",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-10T09:53:24+01:00",
+      "all": 2,
+      "test": 0,
+      "testable": 2,
+      "pct": 0.0
+    },
+    {
+      "id": "ddb6ce70f3879686f31bcd87a64671036ba394c5",
+      "who": "mmbaden@gmail.com",
+      "when": "2015-11-09T23:35:43+01:00",
+      "all": 21,
+      "test": 0,
+      "testable": 21,
+      "pct": 0.0
+    },
+    {
+      "id": "c536e100ce89c89fea645e759558588328b83b59",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-11-09T22:21:17+01:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "875f2796b7e8804bdf321b4cb027b1813f527d06",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-11-09T22:17:44+01:00",
+      "all": 175,
+      "test": 0,
+      "testable": 175,
+      "pct": 0.0
+    },
+    {
+      "id": "07483603360962c2a180ace24616898a1a4e59d8",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-09T21:07:34+00:00",
+      "all": 2,
+      "test": 0,
+      "testable": 2,
+      "pct": 0.0
+    },
+    {
+      "id": "0e6008f4c151982b15c430a6f2ea67ef71c490b6",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-09T21:07:11+00:00",
+      "all": 7,
+      "test": 0,
+      "testable": 7,
+      "pct": 0.0
+    },
+    {
+      "id": "db44cc0f0df47f9973f4471bc857c2102972f7e4",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-09T21:03:35+00:00",
+      "all": 4,
+      "test": 0,
+      "testable": 4,
+      "pct": 0.0
+    },
+    {
+      "id": "3a5f932bf77913db8f2b623f6bbbe7da13f11238",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-09T20:56:19+00:00",
+      "all": 47,
+      "test": 0,
+      "testable": 47,
+      "pct": 0.0
+    },
+    {
+      "id": "1c2fb19571279d70af33ca4be638e67c08193bad",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-09T20:44:28+00:00",
+      "all": 20,
+      "test": 0,
+      "testable": 20,
+      "pct": 0.0
+    },
+    {
+      "id": "74d40421ea4c972d005cd13d86e447d40dc5e306",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-09T20:29:34+00:00",
+      "all": 3,
+      "test": 0,
+      "testable": 3,
+      "pct": 0.0
+    },
+    {
+      "id": "c19507a761d6508c547103a07f8d1da9c650bc42",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-11-09T22:03:15+01:00",
+      "all": 56,
+      "test": 0,
+      "testable": 56,
+      "pct": 0.0
+    },
+    {
+      "id": "9c8e4fad1010936a801ce9545e208a0e2f529a3d",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-09T22:03:14+01:00",
+      "all": 73,
+      "test": 21,
+      "testable": 73,
+      "pct": 28.8
+    },
+    {
+      "id": "e84889630dac68b6a6f2aea83e3f82fdb222356f",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-11-09T21:54:22+01:00",
+      "all": 133,
+      "test": 0,
+      "testable": 133,
+      "pct": 0.0
+    },
+    {
+      "id": "ec7951d2a658b6c678030476aaf40f9e738e88d3",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-09T19:59:58+00:00",
+      "all": 14,
+      "test": 0,
+      "testable": 14,
+      "pct": 0.0
+    },
+    {
+      "id": "811416dc71cccaed717bf4550a0b2324c1721981",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-09T19:59:37+00:00",
+      "all": 5,
+      "test": 0,
+      "testable": 5,
+      "pct": 0.0
+    },
+    {
+      "id": "72a1139fb3763e0d27383d44cf1928c0046a9504",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-09T19:57:45+00:00",
+      "all": 9,
+      "test": 9,
+      "testable": 9,
+      "pct": 100.0
+    },
+    {
+      "id": "9c9f478321b6c7014dbc0f66940ab4cafbe9c1c2",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-09T19:25:41+00:00",
+      "all": 3,
+      "test": 0,
+      "testable": 3,
+      "pct": 0.0
+    },
+    {
+      "id": "07d209fc38d9c45a776b99c01e28d68622f54ae7",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-09T19:10:03+00:00",
+      "all": 5,
+      "test": 0,
+      "testable": 5,
+      "pct": 0.0
+    },
+    {
+      "id": "a94710e088d55dabd2a0e446fd39720ab464e57d",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-09T19:08:51+00:00",
+      "all": 2,
+      "test": 2,
+      "testable": 2,
+      "pct": 100.0
+    },
+    {
+      "id": "7ed2f8f4bb8288df0ac7a6c077329f1688af74d8",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-09T20:04:24+01:00",
+      "all": 19,
+      "test": 7,
+      "testable": 19,
+      "pct": 36.8
+    },
+    {
+      "id": "aa964524845637b929025313e809ebe08a0cb78f",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-09T19:48:06+01:00",
+      "all": 98,
+      "test": 50,
+      "testable": 98,
+      "pct": 51.0
+    },
+    {
+      "id": "574e4b388e3cd61f8c5324c5bdbe587c4a4a776c",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-09T18:05:56+01:00",
+      "all": 33,
+      "test": 5,
+      "testable": 33,
+      "pct": 15.2
+    },
+    {
+      "id": "e41edd271100e61153d7320dd34fe5a85430bc58",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-09T18:00:23+01:00",
+      "all": 53,
+      "test": 0,
+      "testable": 53,
+      "pct": 0.0
+    },
+    {
+      "id": "a2bac170c12080067a197e0a5ef905f85a7604af",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-09T16:11:10+01:00",
+      "all": 68,
+      "test": 36,
+      "testable": 68,
+      "pct": 52.9
+    },
+    {
+      "id": "49ae3709bdf93aa8c83f5d11476b9c301eb4fc7f",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-09T15:50:20+01:00",
+      "all": 290,
+      "test": 20,
+      "testable": 290,
+      "pct": 6.9
+    },
+    {
+      "id": "4a34c1bc27a7ad936639a83ad7e34f89add92c4c",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-09T11:43:55+01:00",
+      "all": 199,
+      "test": 59,
+      "testable": 199,
+      "pct": 29.6
+    },
+    {
+      "id": "80332bc3278da8923c2601250ca33ba016bcdb3a",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-09T10:51:31+01:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "1d6a7d51909235fcee75cb77dddcfbc698eb2603",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-09T10:14:17+01:00",
+      "all": 35,
+      "test": 15,
+      "testable": 35,
+      "pct": 42.9
+    },
+    {
+      "id": "e79a619ffa646dfa97d1dfb5a15079c9fe8d4ac1",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-09T09:41:49+01:00",
+      "all": 23,
+      "test": 17,
+      "testable": 23,
+      "pct": 73.9
+    },
+    {
+      "id": "716d9f46876fecf582e1e2f64900dadcd38f57c6",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-08T20:24:16+01:00",
+      "all": 65,
+      "test": 43,
+      "testable": 65,
+      "pct": 66.2
+    },
+    {
+      "id": "592ee55f39c46453f37bd12d36081e5262c31525",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-08T12:22:59+01:00",
+      "all": 111,
+      "test": 97,
+      "testable": 111,
+      "pct": 87.4
+    },
+    {
+      "id": "2fe6c74caec7fce2c82cbd095df51e9707fe6faa",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-08T11:58:56+01:00",
+      "all": 63,
+      "test": 7,
+      "testable": 63,
+      "pct": 11.1
+    },
+    {
+      "id": "1105bef6877be1c036331d5b6d607d5e16c7463b",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-08T10:46:32+01:00",
+      "all": 2,
+      "test": 0,
+      "testable": 2,
+      "pct": 0.0
+    },
+    {
+      "id": "f5e07eb572717a38f2f74c5af7facea3818426e1",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-08T10:39:03+01:00",
+      "all": 5,
+      "test": 0,
+      "testable": 5,
+      "pct": 0.0
+    },
+    {
+      "id": "c07bc7c25e01f3278f29375fa3d4ad186c7ec129",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-08T08:39:44+01:00",
+      "all": 375,
+      "test": 3,
+      "testable": 375,
+      "pct": 0.8
+    },
+    {
+      "id": "4ea5e6968a6dbc812077d8635808c5ed5d20d860",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-08T07:49:27+01:00",
+      "all": 65,
+      "test": 10,
+      "testable": 65,
+      "pct": 15.4
+    },
+    {
+      "id": "e1184f5a171d084f33ddca961836b17dabc63165",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-08T07:31:26+01:00",
+      "all": 57,
+      "test": 2,
+      "testable": 57,
+      "pct": 3.5
+    },
+    {
+      "id": "aaab566bb4af0eeccf853b2e3ed7c842c10bb7c4",
+      "who": "mmbaden@gmail.com",
+      "when": "2015-11-08T00:00:26+01:00",
+      "all": 3435,
+      "test": 1163,
+      "testable": 3430,
+      "pct": 33.9
+    },
+    {
+      "id": "fe849aff6e4c223a703dd189b6a457ab0016a5b0",
+      "who": "mmbaden@gmail.com",
+      "when": "2015-11-07T23:37:26+01:00",
+      "all": 31,
+      "test": 0,
+      "testable": 31,
+      "pct": 0.0
+    },
+    {
+      "id": "f0bf645518d3d3ca79f7ce324c07535539f33da4",
+      "who": "mmbaden@gmail.com",
+      "when": "2015-11-07T23:32:35+01:00",
+      "all": 33,
+      "test": 0,
+      "testable": 33,
+      "pct": 0.0
+    },
+    {
+      "id": "cbf4667ba069750a2382f01620a2a0ae7d7b4b16",
+      "who": "mmbaden@gmail.com",
+      "when": "2015-11-07T23:24:32+01:00",
+      "all": 35,
+      "test": 0,
+      "testable": 35,
+      "pct": 0.0
+    },
+    {
+      "id": "a881ff75a8368afa76362a0e06c7f9da2c43d35b",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-07T23:24:16+01:00",
+      "all": 14,
+      "test": 0,
+      "testable": 14,
+      "pct": 0.0
+    },
+    {
+      "id": "cecc46dfd9b0dd931bc8625560cdcd9bced45753",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-07T22:58:38+01:00",
+      "all": 119,
+      "test": 25,
+      "testable": 119,
+      "pct": 21.0
+    },
+    {
+      "id": "3a5f3aa47bcc55811170f7c70b9942e0e3178223",
+      "who": "stefan.bechtold@me.com",
+      "when": "2015-11-07T22:11:54+01:00",
+      "all": 304,
+      "test": 192,
+      "testable": 301,
+      "pct": 63.8
+    },
+    {
+      "id": "a859d14b845c059715d70dec81c279eab8adf67c",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-07T21:30:31+01:00",
+      "all": 6,
+      "test": 0,
+      "testable": 6,
+      "pct": 0.0
+    },
+    {
+      "id": "2d29543161c7b0fc5b94c16ed9c58eb35482717a",
+      "who": "stefan.bechtold@me.com",
+      "when": "2015-11-07T20:14:02+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 3,
+      "pct": 0.0
+    },
+    {
+      "id": "809c02a76fec4fd0ee40d96e3662b1f060beb9f3",
+      "who": "stefan.bechtold@me.com",
+      "when": "2015-11-07T20:02:40+01:00",
+      "all": 36,
+      "test": 3,
+      "testable": 36,
+      "pct": 8.3
+    },
+    {
+      "id": "873d47a28bfdb2407db2db7848432ab8be10feb7",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-07T19:47:30+01:00",
+      "all": 6,
+      "test": 0,
+      "testable": 6,
+      "pct": 0.0
+    },
+    {
+      "id": "318e86eaaddd5c063da1f29887ccf79c386019bf",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-07T19:39:54+01:00",
+      "all": 213,
+      "test": 30,
+      "testable": 213,
+      "pct": 14.1
+    },
+    {
+      "id": "133d830999dd01eb0c312fbcf9f3f0d47f82d015",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-07T17:46:48+01:00",
+      "all": 183,
+      "test": 32,
+      "testable": 183,
+      "pct": 17.5
+    },
+    {
+      "id": "40aff3a4037dbf5cab829a4187351d2d1c4909d3",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-07T16:17:24+00:00",
+      "all": 313,
+      "test": 64,
+      "testable": 313,
+      "pct": 20.4
+    },
+    {
+      "id": "b5c3ddfb0633075aaef7b00a76631b3b33158ab2",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-07T15:14:14+00:00",
+      "all": 5,
+      "test": 0,
+      "testable": 5,
+      "pct": 0.0
+    },
+    {
+      "id": "545bf79bcedd215149d86ea7594f9eadb8fea46f",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-07T15:13:26+00:00",
+      "all": 65,
+      "test": 0,
+      "testable": 63,
+      "pct": 0.0
+    },
+    {
+      "id": "87c0ed5afa3f3a6ea6e05849eb124448dcc4f3a7",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-11-07T13:42:20+01:00",
+      "all": 4,
+      "test": 0,
+      "testable": 4,
+      "pct": 0.0
+    },
+    {
+      "id": "60ba5238f5c3114980fa0ce6f62b00ad81c7ebdf",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-11-07T13:41:45+01:00",
+      "all": 18,
+      "test": 0,
+      "testable": 18,
+      "pct": 0.0
+    },
+    {
+      "id": "fb9c34e36ab6fd4732c29f2d5af0539a6aa18d3b",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-11-03T10:51:09+01:00",
+      "all": 11,
+      "test": 0,
+      "testable": 11,
+      "pct": 0.0
+    },
+    {
+      "id": "3fa622defa5a5e4decfaa8850acb0685992f2a7c",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-11-03T10:50:49+01:00",
+      "all": 4,
+      "test": 0,
+      "testable": 4,
+      "pct": 0.0
+    },
+    {
+      "id": "903855d3866abd786a8038f169f837b59feea434",
+      "who": "mmbaden@gmail.com",
+      "when": "2015-11-07T12:16:15+01:00",
+      "all": 19,
+      "test": 19,
+      "testable": 19,
+      "pct": 100.0
+    },
+    {
+      "id": "60eeeee4ba7ad8db3cc23abe3cb4b7af41716fe1",
+      "who": "mmbaden@gmail.com",
+      "when": "2015-11-07T12:10:09+01:00",
+      "all": 44,
+      "test": 0,
+      "testable": 44,
+      "pct": 0.0
+    },
+    {
+      "id": "55e2a148756aeeb55741e7b2e7f4b2e250bdda8d",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-07T03:00:59+00:00",
+      "all": 58,
+      "test": 40,
+      "testable": 58,
+      "pct": 69.0
+    },
+    {
+      "id": "5556818beda5d1ff36080702643aada060e62f2c",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-07T02:49:38+00:00",
+      "all": 811,
+      "test": 705,
+      "testable": 811,
+      "pct": 86.9
+    },
+    {
+      "id": "566977fb948a8a7dd90ac4fc33fd621bc1176a57",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-06T20:49:28+01:00",
+      "all": 59,
+      "test": 0,
+      "testable": 59,
+      "pct": 0.0
+    },
+    {
+      "id": "7fbad57aed39fce25d89cb7d2bca49d756778c3d",
+      "who": "jl@johanneslink.net",
+      "when": "2015-11-06T20:26:58+01:00",
+      "all": 1941,
+      "test": 743,
+      "testable": 1941,
+      "pct": 38.3
+    },
+    {
+      "id": "b9bb2dceb22eedf6518baf32464043cc391fe344",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-06T18:19:51+01:00",
+      "all": 248,
+      "test": 162,
+      "testable": 248,
+      "pct": 65.3
+    },
+    {
+      "id": "e2dba944b6941c1c90c15e8f5b55b26483def680",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-06T17:16:15+01:00",
+      "all": 150,
+      "test": 3,
+      "testable": 150,
+      "pct": 2.0
+    },
+    {
+      "id": "d80f67a821d88d18156dda9f1950f8c71c970be0",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-06T16:37:13+01:00",
+      "all": 101,
+      "test": 41,
+      "testable": 101,
+      "pct": 40.6
+    },
+    {
+      "id": "c1cf37266268ce655b0c46b68e8f4bd25d6cbd98",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-06T15:43:50+01:00",
+      "all": 87,
+      "test": 22,
+      "testable": 87,
+      "pct": 25.3
+    },
+    {
+      "id": "78e6c988295c31a0809482d9ae5febe5b7317b8d",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-06T15:34:07+01:00",
+      "all": 68,
+      "test": 9,
+      "testable": 68,
+      "pct": 13.2
+    },
+    {
+      "id": "82c0c2ecf66ff42c21b5d5e835b070756971eec1",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-06T15:15:58+01:00",
+      "all": 23,
+      "test": 17,
+      "testable": 23,
+      "pct": 73.9
+    },
+    {
+      "id": "433570be30a6a89956b86f7d996d2c0389e1e802",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-06T12:03:36+00:00",
+      "all": 13,
+      "test": 13,
+      "testable": 13,
+      "pct": 100.0
+    },
+    {
+      "id": "3ddf37c85bae8de694672bdaf46867286199b318",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-06T12:25:21+01:00",
+      "all": 55,
+      "test": 0,
+      "testable": 55,
+      "pct": 0.0
+    },
+    {
+      "id": "fb7842e75ea3a8323c8b68a1114ffb8ef1b6bfe9",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-06T12:16:30+01:00",
+      "all": 21,
+      "test": 0,
+      "testable": 21,
+      "pct": 0.0
+    },
+    {
+      "id": "6c22a022dc75f4739f0689e690d4042a79af4478",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-06T12:06:47+01:00",
+      "all": 43,
+      "test": 30,
+      "testable": 43,
+      "pct": 69.8
+    },
+    {
+      "id": "a30844dbaccb63ae447606c898b5d979de042dbf",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-06T12:02:53+01:00",
+      "all": 21,
+      "test": 8,
+      "testable": 21,
+      "pct": 38.1
+    },
+    {
+      "id": "c32dd8b5bfb39777581ac5f99879c0db056d06e5",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-06T12:00:17+01:00",
+      "all": 22,
+      "test": 17,
+      "testable": 22,
+      "pct": 77.3
+    },
+    {
+      "id": "9e6fe1894f36a343c536ecbe81c0ef7553b35093",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-06T11:54:18+01:00",
+      "all": 20,
+      "test": 17,
+      "testable": 20,
+      "pct": 85.0
+    },
+    {
+      "id": "349d596cc454023052f806fa23be0c1f85685e72",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-06T11:48:59+01:00",
+      "all": 4,
+      "test": 0,
+      "testable": 4,
+      "pct": 0.0
+    },
+    {
+      "id": "f8c4ae8ad44348ebfd923b4246c7bd79ab0202af",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-06T11:46:52+01:00",
+      "all": 146,
+      "test": 31,
+      "testable": 146,
+      "pct": 21.2
+    },
+    {
+      "id": "ee13a6282552f9f2f1d788c544f0fda7e88a7d04",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-06T11:39:48+01:00",
+      "all": 50,
+      "test": 31,
+      "testable": 50,
+      "pct": 62.0
+    },
+    {
+      "id": "82605ff16f1e18bf97e81cbdf82c23f2a9f7dd73",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-06T11:38:42+01:00",
+      "all": 96,
+      "test": 0,
+      "testable": 96,
+      "pct": 0.0
+    },
+    {
+      "id": "c1fbf5c2ebf7999500765a0d7a9ec825e393f4c9",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-05T22:20:37+01:00",
+      "all": 34,
+      "test": 0,
+      "testable": 34,
+      "pct": 0.0
+    },
+    {
+      "id": "782a29764782aefb95b2e879701d3ddd5ee771b2",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-05T22:19:51+01:00",
+      "all": 34,
+      "test": 0,
+      "testable": 34,
+      "pct": 0.0
+    },
+    {
+      "id": "a91cd1974765d00b397a4edd7a4270209b3f8a1f",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-05T22:01:05+01:00",
+      "all": 13,
+      "test": 4,
+      "testable": 13,
+      "pct": 30.8
+    },
+    {
+      "id": "3d05c965f5b30f9ae36f5ed098f27e186e77f517",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-05T21:58:02+01:00",
+      "all": 60,
+      "test": 8,
+      "testable": 60,
+      "pct": 13.3
+    },
+    {
+      "id": "40cdcc0784dba843e4975e7dc96cfe5e82b91127",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-05T21:54:39+01:00",
+      "all": 59,
+      "test": 7,
+      "testable": 59,
+      "pct": 11.9
+    },
+    {
+      "id": "4ada689a3fbeed4054fd99c951739ca9522ba4fb",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-05T16:14:33+01:00",
+      "all": 70,
+      "test": 33,
+      "testable": 70,
+      "pct": 47.1
+    },
+    {
+      "id": "f377d60c98e1170d406671d94fc3c849e07ef961",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-05T16:12:26+01:00",
+      "all": 70,
+      "test": 33,
+      "testable": 70,
+      "pct": 47.1
+    },
+    {
+      "id": "d3d57db2f066fc90c36570fbde9bf73befe17ef7",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-05T15:07:34+01:00",
+      "all": 489,
+      "test": 69,
+      "testable": 489,
+      "pct": 14.1
+    },
+    {
+      "id": "ae2d2b2bdf1cb9461ef05f9e170435380d973ddd",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-05T14:05:02+01:00",
+      "all": 37,
+      "test": 30,
+      "testable": 37,
+      "pct": 81.1
+    },
+    {
+      "id": "c42617dd2d6c1910164f0663102e822db9bd7afe",
+      "who": "Matthias.Merdes@heidelberg-mobil.com",
+      "when": "2015-11-05T12:52:23+01:00",
+      "all": 16,
+      "test": 0,
+      "testable": 16,
+      "pct": 0.0
+    },
+    {
+      "id": "e2e441af2b0376d8b34e194d47c381c73959f8c7",
+      "who": "Matthias.Merdes@heidelberg-mobil.com",
+      "when": "2015-11-05T12:36:51+01:00",
+      "all": 17,
+      "test": 0,
+      "testable": 17,
+      "pct": 0.0
+    },
+    {
+      "id": "d8da49c629554da7760f6449f01eeaab905e9464",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-05T12:33:52+01:00",
+      "all": 39,
+      "test": 0,
+      "testable": 39,
+      "pct": 0.0
+    },
+    {
+      "id": "493048fe6b035ee8d1a5500b179fb1445dca30c3",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-05T10:46:56+01:00",
+      "all": 73,
+      "test": 19,
+      "testable": 73,
+      "pct": 26.0
+    },
+    {
+      "id": "e25312d16840e6e0f57ba13c2d54cfea749303c1",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-05T10:05:50+01:00",
+      "all": 144,
+      "test": 43,
+      "testable": 144,
+      "pct": 29.9
+    },
+    {
+      "id": "266a03736ebc3f75da2f490e022dbe1350625999",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-05T09:43:39+01:00",
+      "all": 131,
+      "test": 85,
+      "testable": 131,
+      "pct": 64.9
+    },
+    {
+      "id": "09b5cf3555f863cecf502874f31e16a3009c566d",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-05T09:14:38+01:00",
+      "all": 91,
+      "test": 74,
+      "testable": 91,
+      "pct": 81.3
+    },
+    {
+      "id": "69aba3f74aa40a859d62e91db9b24551d72ac96a",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-05T08:59:26+01:00",
+      "all": 28,
+      "test": 0,
+      "testable": 28,
+      "pct": 0.0
+    },
+    {
+      "id": "ed6cf11918fba7643cd46abfe9b45442dd68d87a",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-05T08:54:13+01:00",
+      "all": 32,
+      "test": 0,
+      "testable": 32,
+      "pct": 0.0
+    },
+    {
+      "id": "8f7e580956d444f8a4d3c58e7ab1200153186630",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-05T08:49:13+01:00",
+      "all": 159,
+      "test": 0,
+      "testable": 159,
+      "pct": 0.0
+    },
+    {
+      "id": "e9e593289d4688eaf40888e6f9e38b39e4402e12",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-05T08:36:16+01:00",
+      "all": 160,
+      "test": 0,
+      "testable": 160,
+      "pct": 0.0
+    },
+    {
+      "id": "249832074b3a9f2f4b6b3a1ad89b225d6abdd73b",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-04T17:14:37+01:00",
+      "all": 45,
+      "test": 21,
+      "testable": 45,
+      "pct": 46.7
+    },
+    {
+      "id": "3f9923bd4f55081d7cd62ea090668dfef2fad6d4",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-04T16:49:27+01:00",
+      "all": 576,
+      "test": 160,
+      "testable": 576,
+      "pct": 27.8
+    },
+    {
+      "id": "a150c7c86dcb16500114a601f76f476c06b0a782",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-04T16:28:17+01:00",
+      "all": 29,
+      "test": 0,
+      "testable": 29,
+      "pct": 0.0
+    },
+    {
+      "id": "113318d8a0e0bb6d6125db36bc821c33077453e2",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-04T13:36:43+01:00",
+      "all": 564,
+      "test": 178,
+      "testable": 564,
+      "pct": 31.6
+    },
+    {
+      "id": "a6e54394c8445bb74750b2854a462abc53f46f4e",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-04T13:35:26+01:00",
+      "all": 175,
+      "test": 25,
+      "testable": 175,
+      "pct": 14.3
+    },
+    {
+      "id": "c1c1d6bbeadccf6c53d2a2927b6eddc7d91fca76",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-04T12:46:23+01:00",
+      "all": 41,
+      "test": 25,
+      "testable": 41,
+      "pct": 61.0
+    },
+    {
+      "id": "793527b26cb6e3330446c31bde12a42d5844d249",
+      "who": "Matthias.Merdes@heidelberg-mobil.com",
+      "when": "2015-11-04T08:15:34+01:00",
+      "all": 7,
+      "test": 0,
+      "testable": 7,
+      "pct": 0.0
+    },
+    {
+      "id": "4b6326e75b7e94f013c95c10c57428767e53fa67",
+      "who": "mmbaden@gmail.com",
+      "when": "2015-11-04T07:44:24+01:00",
+      "all": 44,
+      "test": 0,
+      "testable": 44,
+      "pct": 0.0
+    },
+    {
+      "id": "aa7e142158ac6b6c15027c5de81fadd6ebf74eca",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-04T05:48:25+01:00",
+      "all": 2,
+      "test": 0,
+      "testable": 2,
+      "pct": 0.0
+    },
+    {
+      "id": "a665075f0cee8a0c45dceddca340a607db24583a",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-04T05:46:02+01:00",
+      "all": 798,
+      "test": 235,
+      "testable": 798,
+      "pct": 29.4
+    },
+    {
+      "id": "7673bca13658ce50f7592e2586545aa66ad58f29",
+      "who": "mmbaden@gmail.com",
+      "when": "2015-11-03T23:58:19+01:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "003dbc16290e7d3628bd7f4e0128638c9ecc996e",
+      "who": "mmbaden@gmail.com",
+      "when": "2015-11-03T23:56:16+01:00",
+      "all": 56,
+      "test": 0,
+      "testable": 56,
+      "pct": 0.0
+    },
+    {
+      "id": "789b3e6e0e8d93957046a7557080f2a13b5ac5b5",
+      "who": "mmbaden@gmail.com",
+      "when": "2015-11-03T23:53:04+01:00",
+      "all": 13,
+      "test": 0,
+      "testable": 13,
+      "pct": 0.0
+    },
+    {
+      "id": "d37a04cd8255c9e991d37b3d426464f565bd8588",
+      "who": "mmbaden@gmail.com",
+      "when": "2015-11-03T23:51:24+01:00",
+      "all": 31,
+      "test": 0,
+      "testable": 31,
+      "pct": 0.0
+    },
+    {
+      "id": "9c042e4b1bb153994b1d79b64bc20ac5b4b9a34a",
+      "who": "mmbaden@gmail.com",
+      "when": "2015-11-03T23:44:39+01:00",
+      "all": 7,
+      "test": 0,
+      "testable": 7,
+      "pct": 0.0
+    },
+    {
+      "id": "553c09c08b9287a39415ab0cdf65ed1bb0c5251c",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-03T22:57:41+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 3,
+      "pct": 0.0
+    },
+    {
+      "id": "0086d09328ed8d9671057f5e93969487b17b885e",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-03T22:56:46+01:00",
+      "all": 69,
+      "test": 18,
+      "testable": 69,
+      "pct": 26.1
+    },
+    {
+      "id": "585684b950cde5fb78f877cadf7bf7cb355bfff6",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-03T14:36:37+01:00",
+      "all": 27,
+      "test": 21,
+      "testable": 27,
+      "pct": 77.8
+    },
+    {
+      "id": "29ee90ba5e3962ac0f27a5ee56ee2fd2b68aedcd",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-03T14:34:06+01:00",
+      "all": 8,
+      "test": 8,
+      "testable": 8,
+      "pct": 100.0
+    },
+    {
+      "id": "f3d05998dd443077c10f0a4cbe14b3526b42d207",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-03T13:54:40+01:00",
+      "all": 100,
+      "test": 56,
+      "testable": 100,
+      "pct": 56.0
+    },
+    {
+      "id": "588813a715e6d157017e45450c7e169fc5b2e17a",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-03T13:16:15+01:00",
+      "all": 318,
+      "test": 41,
+      "testable": 318,
+      "pct": 12.9
+    },
+    {
+      "id": "7509faebf3d3963f796f68e1003970298bf3201c",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-02T16:52:27+01:00",
+      "all": 91,
+      "test": 10,
+      "testable": 91,
+      "pct": 11.0
+    },
+    {
+      "id": "4326dcd444680d0446cc678d2eb4f70e22b1fd7d",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-02T16:21:16+01:00",
+      "all": 9,
+      "test": 9,
+      "testable": 9,
+      "pct": 100.0
+    },
+    {
+      "id": "5783fb7c6cc783498f4c4fe3935b4945b1710306",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-02T08:05:16+01:00",
+      "all": 19,
+      "test": 0,
+      "testable": 19,
+      "pct": 0.0
+    },
+    {
+      "id": "37a0a1c3834e6e17d1b2afb3d1d7984ddb2bdbe1",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-01T20:00:38+01:00",
+      "all": 16,
+      "test": 0,
+      "testable": 16,
+      "pct": 0.0
+    },
+    {
+      "id": "39b5c9f5b6adf56836a3deed801c4eedb64507b9",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-01T19:59:47+01:00",
+      "all": 67,
+      "test": 0,
+      "testable": 67,
+      "pct": 0.0
+    },
+    {
+      "id": "51d96186cc00657e351fb23222a8cf6e844f304e",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-01T10:56:38+01:00",
+      "all": 198,
+      "test": 155,
+      "testable": 198,
+      "pct": 78.3
+    },
+    {
+      "id": "6efcc31cb7c7fe21942daeb29730cbba9f5d91d0",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-01T08:58:34+01:00",
+      "all": 91,
+      "test": 0,
+      "testable": 91,
+      "pct": 0.0
+    },
+    {
+      "id": "abbd2ed748f6e4566d9b9d047a7a5768888d9b90",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-03T14:36:37+01:00",
+      "all": 27,
+      "test": 21,
+      "testable": 27,
+      "pct": 77.8
+    },
+    {
+      "id": "b8ef529205cdaff4343fd8ba03e7689a6fd85441",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-03T14:34:06+01:00",
+      "all": 8,
+      "test": 8,
+      "testable": 8,
+      "pct": 100.0
+    },
+    {
+      "id": "9eb3937158782c316e69516e73448136ec90e548",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-03T13:54:40+01:00",
+      "all": 100,
+      "test": 56,
+      "testable": 100,
+      "pct": 56.0
+    },
+    {
+      "id": "68a52e279f905cb58142f27442a79a6aa1f0e6dc",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-03T13:16:15+01:00",
+      "all": 318,
+      "test": 41,
+      "testable": 318,
+      "pct": 12.9
+    },
+    {
+      "id": "ac758bcb2f6aeea4bf3e075d01f0f35d9dbc97fb",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-11-03T10:46:21+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 3,
+      "pct": 0.0
+    },
+    {
+      "id": "0e097640972835e71a625cdee7a9359089cbec78",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-11-03T10:46:05+01:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "6bfee9e4cbb8582e1727998fa4b5cdb82a962f7f",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-02T16:52:27+01:00",
+      "all": 91,
+      "test": 10,
+      "testable": 91,
+      "pct": 11.0
+    },
+    {
+      "id": "8ac8c6041d45503e7100994ee9925108b37fabd7",
+      "who": "mmbaden@gmail.com",
+      "when": "2015-11-02T16:40:37+01:00",
+      "all": 31,
+      "test": 0,
+      "testable": 31,
+      "pct": 0.0
+    },
+    {
+      "id": "bb17b6aa878aa438a0e22e6b0ef7bbef82474302",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-02T16:21:16+01:00",
+      "all": 9,
+      "test": 9,
+      "testable": 9,
+      "pct": 100.0
+    },
+    {
+      "id": "1612cf721f51ee3c656f792fde647cde44896a7b",
+      "who": "mmbaden@gmail.com",
+      "when": "2015-11-02T16:14:16+01:00",
+      "all": 76,
+      "test": 0,
+      "testable": 76,
+      "pct": 0.0
+    },
+    {
+      "id": "8be2cd843dc43708941073d329e37b55c7c24376",
+      "who": "mmbaden@gmail.com",
+      "when": "2015-11-02T16:01:26+01:00",
+      "all": 5,
+      "test": 0,
+      "testable": 5,
+      "pct": 0.0
+    },
+    {
+      "id": "1e8bfacfa5dba518d6a334cbfc37772f0640f523",
+      "who": "mmbaden@gmail.com",
+      "when": "2015-11-02T15:59:29+01:00",
+      "all": 17,
+      "test": 0,
+      "testable": 17,
+      "pct": 0.0
+    },
+    {
+      "id": "4aa1f15de07e0e8168218c608c42993f987de8be",
+      "who": "mmbaden@gmail.com",
+      "when": "2015-11-02T15:41:21+01:00",
+      "all": 64,
+      "test": 11,
+      "testable": 64,
+      "pct": 17.2
+    },
+    {
+      "id": "8094382fdc56affac999fca5e47c1100ba8a931d",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-02T08:05:16+01:00",
+      "all": 19,
+      "test": 0,
+      "testable": 19,
+      "pct": 0.0
+    },
+    {
+      "id": "9529ad45882064936933baa0560af96ca873b4a5",
+      "who": "mmbaden@gmail.com",
+      "when": "2015-11-02T00:37:09+01:00",
+      "all": 19,
+      "test": 2,
+      "testable": 19,
+      "pct": 10.5
+    },
+    {
+      "id": "aca54999cbc4a2abad3f0d684438e633926e6adf",
+      "who": "mmbaden@gmail.com",
+      "when": "2015-11-02T00:28:51+01:00",
+      "all": 37,
+      "test": 14,
+      "testable": 37,
+      "pct": 37.8
+    },
+    {
+      "id": "073bbb3f78bebd2c810d8ca3aefadea5136ca2d8",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-01T20:00:38+01:00",
+      "all": 16,
+      "test": 0,
+      "testable": 16,
+      "pct": 0.0
+    },
+    {
+      "id": "fa2948ac289970fd62ed4f93684442d9dd600c7f",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-01T19:59:47+01:00",
+      "all": 67,
+      "test": 0,
+      "testable": 67,
+      "pct": 0.0
+    },
+    {
+      "id": "937ae1295f4d9af743dba872b107289969f2317a",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-01T18:51:46+01:00",
+      "all": 34,
+      "test": 0,
+      "testable": 34,
+      "pct": 0.0
+    },
+    {
+      "id": "c4095e8d85c76cdb67cc97933568edc3eaeacf41",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-01T18:51:46+01:00",
+      "all": 34,
+      "test": 0,
+      "testable": 34,
+      "pct": 0.0
+    },
+    {
+      "id": "88c4c3e754c9f0ad1685c9c6137a4bcd1694fbfb",
+      "who": "mmbaden@gmail.com",
+      "when": "2015-11-01T15:39:15+01:00",
+      "all": 53,
+      "test": 15,
+      "testable": 53,
+      "pct": 28.3
+    },
+    {
+      "id": "341522b1af3c7ff2a833bc0cdfa254217e899ea1",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-01T10:56:38+01:00",
+      "all": 198,
+      "test": 155,
+      "testable": 198,
+      "pct": 78.3
+    },
+    {
+      "id": "ab5add262ce4735b88ccd5eb58ffee2aa89440ca",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-01T08:58:34+01:00",
+      "all": 91,
+      "test": 0,
+      "testable": 91,
+      "pct": 0.0
+    },
+    {
+      "id": "335180e05cb606bc9aa3bd67228c3d83c08536b1",
+      "who": "business@johanneslink.net",
+      "when": "2015-11-01T08:42:27+01:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "75e1c67e7a7ff8fd4e577ec27f212267eb3b607b",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-01T00:07:53+01:00",
+      "all": 3,
+      "test": 3,
+      "testable": 3,
+      "pct": 100.0
+    },
+    {
+      "id": "d621d8c698903e83a9b6573b9f17a093ead5f6e7",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-01T00:06:40+01:00",
+      "all": 6,
+      "test": 6,
+      "testable": 6,
+      "pct": 100.0
+    },
+    {
+      "id": "0a96c2fd1804a2ae356314a127eea6e6cbf738c3",
+      "who": "sam@sambrannen.com",
+      "when": "2015-11-01T00:05:45+01:00",
+      "all": 21,
+      "test": 3,
+      "testable": 21,
+      "pct": 14.3
+    },
+    {
+      "id": "095d792c9a3a39af107e7af382394e4d6c78fc27",
+      "who": "business@johanneslink.net",
+      "when": "2015-10-31T22:05:20+01:00",
+      "all": 56,
+      "test": 7,
+      "testable": 56,
+      "pct": 12.5
+    },
+    {
+      "id": "e156abc0ada43b347eb8b18ceb24007a087e46ca",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-31T21:59:57+01:00",
+      "all": 2,
+      "test": 0,
+      "testable": 2,
+      "pct": 0.0
+    },
+    {
+      "id": "3f568d071e65332fdc0a36a5e71ca8520857fe7c",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-31T21:56:44+01:00",
+      "all": 255,
+      "test": 20,
+      "testable": 255,
+      "pct": 7.8
+    },
+    {
+      "id": "b5e979727b2a3f8c9b059c205a99f593f2d0c07c",
+      "who": "business@johanneslink.net",
+      "when": "2015-10-31T21:19:41+01:00",
+      "all": 82,
+      "test": 18,
+      "testable": 82,
+      "pct": 22.0
+    },
+    {
+      "id": "9c1907bb42bb04185579153344aa4617055b589e",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-31T19:24:10+01:00",
+      "all": 5,
+      "test": 0,
+      "testable": 5,
+      "pct": 0.0
+    },
+    {
+      "id": "c51e49aadc1f22280dc16d1e6dbe47b0647f8e4c",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-31T19:21:04+01:00",
+      "all": 24,
+      "test": 24,
+      "testable": 24,
+      "pct": 100.0
+    },
+    {
+      "id": "d4d78baeb86998dc765d9ac7871c992de8df1ad9",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-31T19:10:13+01:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "3754fefb93427a79f82efc5bff914bcef1c30632",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-31T19:09:52+01:00",
+      "all": 5,
+      "test": 0,
+      "testable": 5,
+      "pct": 0.0
+    },
+    {
+      "id": "000de20dc1cc58bb2f5ef7c1323188332c876cd3",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-31T19:08:51+01:00",
+      "all": 5,
+      "test": 0,
+      "testable": 5,
+      "pct": 0.0
+    },
+    {
+      "id": "27ffd4fad78e778fb3e712d73093da400b9553ed",
+      "who": "business@johanneslink.net",
+      "when": "2015-10-31T18:35:16+01:00",
+      "all": 17,
+      "test": 0,
+      "testable": 17,
+      "pct": 0.0
+    },
+    {
+      "id": "70e6bc614b202521d77912dff2402ee5e47db3f5",
+      "who": "business@johanneslink.net",
+      "when": "2015-10-31T18:24:37+01:00",
+      "all": 48,
+      "test": 16,
+      "testable": 48,
+      "pct": 33.3
+    },
+    {
+      "id": "4553a4f5d46751168cabadc53ba68c091034cafc",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-31T17:01:09+01:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "8a208b970c0aafe22e98d921e9ab6564f6a45d9e",
+      "who": "business@johanneslink.net",
+      "when": "2015-10-31T16:38:03+01:00",
+      "all": 20,
+      "test": 0,
+      "testable": 20,
+      "pct": 0.0
+    },
+    {
+      "id": "b0c87b2e8ce0bfe210cfc6ce8b2dd60800b05838",
+      "who": "business@johanneslink.net",
+      "when": "2015-10-31T16:02:35+01:00",
+      "all": 68,
+      "test": 0,
+      "testable": 68,
+      "pct": 0.0
+    },
+    {
+      "id": "11b5041bbeb65af6c24d4773c7c9f953fb059460",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-31T16:08:53+01:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "dd788ef0d57b42b38a53bab38473f79020f5dc7c",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-31T14:37:37+01:00",
+      "all": 7,
+      "test": 0,
+      "testable": 7,
+      "pct": 0.0
+    },
+    {
+      "id": "e0022c896acc914e080dd015358802cc7a243715",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-31T14:14:56+01:00",
+      "all": 119,
+      "test": 88,
+      "testable": 119,
+      "pct": 73.9
+    },
+    {
+      "id": "be20d357999231d881386ce5aebd0e630d754e52",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-31T14:14:33+01:00",
+      "all": 175,
+      "test": 130,
+      "testable": 175,
+      "pct": 74.3
+    },
+    {
+      "id": "e3f9b168b20654e5bda3640da2e1082da719802f",
+      "who": "business@johanneslink.net",
+      "when": "2015-10-31T15:35:22+01:00",
+      "all": 14,
+      "test": 0,
+      "testable": 14,
+      "pct": 0.0
+    },
+    {
+      "id": "ae9d12ac73265df7632c290e47c9b5b7bc2a3cd8",
+      "who": "business@johanneslink.net",
+      "when": "2015-10-31T15:27:27+01:00",
+      "all": 16,
+      "test": 16,
+      "testable": 16,
+      "pct": 100.0
+    },
+    {
+      "id": "3ef2bdf051cb64bc9f797aef80af2795f4359e28",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-31T13:19:45+01:00",
+      "all": 20,
+      "test": 0,
+      "testable": 20,
+      "pct": 0.0
+    },
+    {
+      "id": "a2ae1cee8ea2c16d17c19fba6eb1ff3a561bc941",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-31T13:19:15+01:00",
+      "all": 2,
+      "test": 0,
+      "testable": 2,
+      "pct": 0.0
+    },
+    {
+      "id": "2bc821d32d97f42255334e5e88f99a89bae1bc17",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-31T13:05:50+01:00",
+      "all": 22,
+      "test": 22,
+      "testable": 22,
+      "pct": 100.0
+    },
+    {
+      "id": "5885fa61675a2a1a04ca7c81e95d26d1a098d635",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-31T13:00:24+01:00",
+      "all": 187,
+      "test": 187,
+      "testable": 187,
+      "pct": 100.0
+    },
+    {
+      "id": "623ccd4a73d487ec55e24f8415597910626fd90d",
+      "who": "business@johanneslink.net",
+      "when": "2015-10-31T12:28:09+01:00",
+      "all": 73,
+      "test": 44,
+      "testable": 73,
+      "pct": 60.3
+    },
+    {
+      "id": "00da4559995025e357f162a93ec80516a086ffec",
+      "who": "business@johanneslink.net",
+      "when": "2015-10-31T11:42:20+01:00",
+      "all": 70,
+      "test": 0,
+      "testable": 70,
+      "pct": 0.0
+    },
+    {
+      "id": "c3ea835a43e1e3fa31ce74adf053fae125c9162a",
+      "who": "business@johanneslink.net",
+      "when": "2015-10-31T11:21:28+01:00",
+      "all": 24,
+      "test": 9,
+      "testable": 24,
+      "pct": 37.5
+    },
+    {
+      "id": "b74b4888a9d919d9cd42560ff06e4fd8885f8f5e",
+      "who": "business@johanneslink.net",
+      "when": "2015-10-31T11:04:58+01:00",
+      "all": 6,
+      "test": 3,
+      "testable": 3,
+      "pct": 100.0
+    },
+    {
+      "id": "e0c52289afe24751204abb56a2f2ea845d6d8242",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-30T23:41:27+01:00",
+      "all": 28,
+      "test": 0,
+      "testable": 28,
+      "pct": 0.0
+    },
+    {
+      "id": "b2a3d0224dea33b6c881a0d7957744139684d42b",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-30T23:25:32+01:00",
+      "all": 295,
+      "test": 116,
+      "testable": 295,
+      "pct": 39.3
+    },
+    {
+      "id": "5cf4b1e77df7512ec6ff0778d8698d3d64d28bf2",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-30T22:18:37+01:00",
+      "all": 82,
+      "test": 8,
+      "testable": 80,
+      "pct": 10.0
+    },
+    {
+      "id": "90557f5414831ca924bca50c1591dd348c1c7162",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-30T21:40:52+01:00",
+      "all": 37,
+      "test": 0,
+      "testable": 37,
+      "pct": 0.0
+    },
+    {
+      "id": "c1841b93383b25892c31a7c8ff098660a5447f9f",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-30T21:40:09+01:00",
+      "all": 114,
+      "test": 18,
+      "testable": 103,
+      "pct": 17.5
+    },
+    {
+      "id": "5ad185ff222568c358c99c49af903dbc792b22ec",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-30T21:36:33+01:00",
+      "all": 25,
+      "test": 0,
+      "testable": 25,
+      "pct": 0.0
+    },
+    {
+      "id": "a15daac2019d4f451deab98cd68696d25207730d",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-30T21:36:06+01:00",
+      "all": 18,
+      "test": 5,
+      "testable": 18,
+      "pct": 27.8
+    },
+    {
+      "id": "88ee91e673f8612dd229c2680fd72e01c7b0cf6d",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-30T20:44:44+01:00",
+      "all": 74,
+      "test": 0,
+      "testable": 74,
+      "pct": 0.0
+    },
+    {
+      "id": "5bb449c9c07ba977a6d0deda060b2fe7883eda7c",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-30T19:41:47+01:00",
+      "all": 304,
+      "test": 36,
+      "testable": 304,
+      "pct": 11.8
+    },
+    {
+      "id": "c408a77ea4b6976a399ccda860a96b6f5c6f2070",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-30T18:17:46+01:00",
+      "all": 8,
+      "test": 5,
+      "testable": 8,
+      "pct": 62.5
+    },
+    {
+      "id": "5658dc1f7d3be1a688532be691486136fccd1326",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-30T19:53:03+01:00",
+      "all": 48,
+      "test": 0,
+      "testable": 48,
+      "pct": 0.0
+    },
+    {
+      "id": "d77db6cbf6798a3ad210d8407c798d4f55091228",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-30T19:40:27+01:00",
+      "all": 4,
+      "test": 4,
+      "testable": 4,
+      "pct": 100.0
+    },
+    {
+      "id": "3d7f8db04c77f4c81d6df6efb46512e3765377e5",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-30T19:39:36+01:00",
+      "all": 17,
+      "test": 0,
+      "testable": 17,
+      "pct": 0.0
+    },
+    {
+      "id": "a0ff89a2dd40d82e54dc58e64ac19b549daf0eb3",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-30T19:36:41+01:00",
+      "all": 30,
+      "test": 8,
+      "testable": 30,
+      "pct": 26.7
+    },
+    {
+      "id": "f1499025134237a84c084ca6cb1941c891d01d97",
+      "who": "stefan.bechtold@me.com",
+      "when": "2015-10-30T17:03:15+01:00",
+      "all": 123,
+      "test": 2,
+      "testable": 123,
+      "pct": 1.6
+    },
+    {
+      "id": "fa19e7cf6f677e457cee0dead72cb5d6c7244b99",
+      "who": "business@johanneslink.net",
+      "when": "2015-10-30T16:55:20+01:00",
+      "all": 70,
+      "test": 13,
+      "testable": 70,
+      "pct": 18.6
+    },
+    {
+      "id": "9d0819e13f70c9385836259aabb8077b5240fb2c",
+      "who": "stefan.bechtold@me.com",
+      "when": "2015-10-30T16:08:22+01:00",
+      "all": 653,
+      "test": 121,
+      "testable": 650,
+      "pct": 18.6
+    },
+    {
+      "id": "15179836342e05bdecce07a1c894c7e98283cbb0",
+      "who": "business@johanneslink.net",
+      "when": "2015-10-30T16:05:57+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 3,
+      "pct": 0.0
+    },
+    {
+      "id": "c0475866f679c0b848cdcf91465ab395d41874a9",
+      "who": "business@johanneslink.net",
+      "when": "2015-10-30T15:55:55+01:00",
+      "all": 212,
+      "test": 78,
+      "testable": 212,
+      "pct": 36.8
+    },
+    {
+      "id": "e4a7194051fb13b0d51c57302f5e6881d59f09ca",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-30T14:31:36+01:00",
+      "all": 5,
+      "test": 0,
+      "testable": 5,
+      "pct": 0.0
+    },
+    {
+      "id": "c153672b080dc84687dcb87886e03c7d8ad5ad86",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-30T13:49:41+01:00",
+      "all": 17,
+      "test": 3,
+      "testable": 17,
+      "pct": 17.6
+    },
+    {
+      "id": "f27c95fe3643afc0da748d0f0ffcb7b01cb5e05c",
+      "who": "business@johanneslink.net",
+      "when": "2015-10-30T12:46:05+01:00",
+      "all": 69,
+      "test": 24,
+      "testable": 63,
+      "pct": 38.1
+    },
+    {
+      "id": "3ab6dece7ff8e49b5af3a4fa7a80833717f4cabe",
+      "who": "business@johanneslink.net",
+      "when": "2015-10-30T12:10:39+01:00",
+      "all": 18,
+      "test": 9,
+      "testable": 18,
+      "pct": 50.0
+    },
+    {
+      "id": "bb7aa92fdc9c7d6dc8b5f3c5c86a5e88baa5cfd1",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-30T12:10:36+01:00",
+      "all": 11,
+      "test": 0,
+      "testable": 11,
+      "pct": 0.0
+    },
+    {
+      "id": "fab3921e45972e5571a531ff5d7aa9e97dbb2949",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-30T12:09:26+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 3,
+      "pct": 0.0
+    },
+    {
+      "id": "a1bca63c81ae0f21bb14cb11ecb55aa8d36c23ec",
+      "who": "business@johanneslink.net",
+      "when": "2015-10-30T12:00:39+01:00",
+      "all": 83,
+      "test": 39,
+      "testable": 83,
+      "pct": 47.0
+    },
+    {
+      "id": "7bce8df6cd7ce5bf59f9bfebb3b8d321d3f8f578",
+      "who": "stefan.bechtold@me.com",
+      "when": "2015-10-30T11:47:38+01:00",
+      "all": 337,
+      "test": 13,
+      "testable": 337,
+      "pct": 3.9
+    },
+    {
+      "id": "6d1117ed1ef8ce33773592df814004c5e2aba34d",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-30T11:44:55+01:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "a7b694882f2d0859c9b9f035bb5115e4f7d783b1",
+      "who": "business@johanneslink.net",
+      "when": "2015-10-30T11:23:53+01:00",
+      "all": 104,
+      "test": 40,
+      "testable": 104,
+      "pct": 38.5
+    },
+    {
+      "id": "5b99f734253c15189a88cd5704ec30ded2f24694",
+      "who": "stefan.bechtold@me.com",
+      "when": "2015-10-30T11:08:54+01:00",
+      "all": 147,
+      "test": 0,
+      "testable": 147,
+      "pct": 0.0
+    },
+    {
+      "id": "2faf053a85fd24cb6f65e7b1258d7c507587866c",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-30T10:54:22+01:00",
+      "all": 22,
+      "test": 0,
+      "testable": 22,
+      "pct": 0.0
+    },
+    {
+      "id": "a2abf9b70d4e4dcab2acc189267e46e52d144fb2",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-30T10:47:30+01:00",
+      "all": 49,
+      "test": 10,
+      "testable": 49,
+      "pct": 20.4
+    },
+    {
+      "id": "b9a89c31681f519fcbe2c0ec5ce474f97aec5240",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-30T10:34:11+01:00",
+      "all": 64,
+      "test": 8,
+      "testable": 64,
+      "pct": 12.5
+    },
+    {
+      "id": "169dab8739b8b51e52fc114ab797f2f540c2c257",
+      "who": "business@johanneslink.net",
+      "when": "2015-10-29T20:57:33+01:00",
+      "all": 49,
+      "test": 8,
+      "testable": 46,
+      "pct": 17.4
+    },
+    {
+      "id": "eef72898060d204d0577168716f7cb66b8a2e816",
+      "who": "stefan.bechtold@me.com",
+      "when": "2015-10-29T17:31:10+01:00",
+      "all": 6,
+      "test": 0,
+      "testable": 6,
+      "pct": 0.0
+    },
+    {
+      "id": "62e6078ac9c9a8109a28fd8ab1116976bdb28dd4",
+      "who": "business@johanneslink.net",
+      "when": "2015-10-29T16:31:35+01:00",
+      "all": 145,
+      "test": 26,
+      "testable": 145,
+      "pct": 17.9
+    },
+    {
+      "id": "8edbcf80166518746080a12cecfddc04f2577351",
+      "who": "business@johanneslink.net",
+      "when": "2015-10-29T16:10:52+01:00",
+      "all": 107,
+      "test": 11,
+      "testable": 107,
+      "pct": 10.3
+    },
+    {
+      "id": "2f4d175b8b29c7a916aa26d706fd3b36b67b1fb1",
+      "who": "business@johanneslink.net",
+      "when": "2015-10-29T15:28:45+01:00",
+      "all": 20,
+      "test": 0,
+      "testable": 20,
+      "pct": 0.0
+    },
+    {
+      "id": "afbeaf0295c3c9762910c3e3233d967521608efa",
+      "who": "business@johanneslink.net",
+      "when": "2015-10-29T15:26:50+01:00",
+      "all": 286,
+      "test": 24,
+      "testable": 286,
+      "pct": 8.4
+    },
+    {
+      "id": "12aa0fbcb624b65bc50fedd1e55a45a68207cd97",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-29T15:18:51+01:00",
+      "all": 358,
+      "test": 0,
+      "testable": 358,
+      "pct": 0.0
+    },
+    {
+      "id": "2aed1ecca0762d551a2736c805d3f71dfccad0f1",
+      "who": "mmbaden@gmail.com",
+      "when": "2015-10-29T15:08:30+01:00",
+      "all": 89,
+      "test": 0,
+      "testable": 89,
+      "pct": 0.0
+    },
+    {
+      "id": "dd4c3bcbe788685f6f332b3d2d084a3f1e5f9d30",
+      "who": "mmbaden@gmail.com",
+      "when": "2015-10-29T14:31:38+01:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "86869a8672a25c96c7883ec98746e5658c870b8d",
+      "who": "mmbaden@gmail.com",
+      "when": "2015-10-29T14:25:09+01:00",
+      "all": 64,
+      "test": 0,
+      "testable": 64,
+      "pct": 0.0
+    },
+    {
+      "id": "487bbff85f6651921a4c4a3520a9e315b0f2b381",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-29T14:22:52+01:00",
+      "all": 39,
+      "test": 0,
+      "testable": 39,
+      "pct": 0.0
+    },
+    {
+      "id": "da3a5c6da6cf42b60c6d21295506bd0ab972b963",
+      "who": "mmbaden@gmail.com",
+      "when": "2015-10-29T14:22:50+01:00",
+      "all": 18,
+      "test": 0,
+      "testable": 18,
+      "pct": 0.0
+    },
+    {
+      "id": "2b22a36e3c59173517f1e3c44a2c270855a06e7a",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-29T14:05:34+01:00",
+      "all": 141,
+      "test": 17,
+      "testable": 141,
+      "pct": 12.1
+    },
+    {
+      "id": "98f8f7b3c580ef76f7317828d0bb20b4eee33f84",
+      "who": "mmbaden@gmail.com",
+      "when": "2015-10-29T13:51:27+01:00",
+      "all": 144,
+      "test": 0,
+      "testable": 144,
+      "pct": 0.0
+    },
+    {
+      "id": "941214e306e9d85a4135c4cda5641e368d458499",
+      "who": "mmbaden@gmail.com",
+      "when": "2015-10-29T12:39:59+01:00",
+      "all": 212,
+      "test": 0,
+      "testable": 212,
+      "pct": 0.0
+    },
+    {
+      "id": "72c7483a3400e961940794e30ee9712cae886025",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-29T12:20:57+01:00",
+      "all": 31,
+      "test": 22,
+      "testable": 31,
+      "pct": 71.0
+    },
+    {
+      "id": "0a633a9044d77cb4e9f4ef980ce6d1699e5139ef",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-29T12:16:03+01:00",
+      "all": 48,
+      "test": 13,
+      "testable": 48,
+      "pct": 27.1
+    },
+    {
+      "id": "7356fa5754902102cfca328faffddc5815ee3ab5",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-29T12:14:04+01:00",
+      "all": 113,
+      "test": 13,
+      "testable": 113,
+      "pct": 11.5
+    },
+    {
+      "id": "9ef4b4c40d6598165fb9d231be26a2daea858287",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-29T11:40:14+01:00",
+      "all": 290,
+      "test": 57,
+      "testable": 283,
+      "pct": 20.1
+    },
+    {
+      "id": "04a20efe12ada9b292a38175f86f195fbf222aed",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-29T10:20:27+01:00",
+      "all": 48,
+      "test": 0,
+      "testable": 48,
+      "pct": 0.0
+    },
+    {
+      "id": "569d093458b14487d997f88e65c94cf6378ba012",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-29T11:05:41+01:00",
+      "all": 7,
+      "test": 0,
+      "testable": 7,
+      "pct": 0.0
+    },
+    {
+      "id": "b143608b3f248e39cb00902149c28cc8042d368f",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-29T10:40:56+01:00",
+      "all": 38,
+      "test": 0,
+      "testable": 38,
+      "pct": 0.0
+    },
+    {
+      "id": "d5f3be3ad3854beea7b459f00b1b8751e64750b0",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-29T10:36:26+01:00",
+      "all": 31,
+      "test": 31,
+      "testable": 31,
+      "pct": 100.0
+    },
+    {
+      "id": "e95e5eb55510fd601eb832fbb90d73a941f09550",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-29T09:48:51+01:00",
+      "all": 8,
+      "test": 0,
+      "testable": 8,
+      "pct": 0.0
+    },
+    {
+      "id": "f86a53c30ceac7ec806e398f1ff3be8a3a4bd6f3",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-29T09:37:52+01:00",
+      "all": 18,
+      "test": 0,
+      "testable": 18,
+      "pct": 0.0
+    },
+    {
+      "id": "30a77890c3b9a40e42e76b0b6afcaf8bd3b06c48",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-29T09:35:35+01:00",
+      "all": 16,
+      "test": 2,
+      "testable": 13,
+      "pct": 15.4
+    },
+    {
+      "id": "82e125faf08a6d16e0dbe57d227f9ea509567810",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-29T09:32:23+01:00",
+      "all": 59,
+      "test": 11,
+      "testable": 59,
+      "pct": 18.6
+    },
+    {
+      "id": "165a70bd1eb5f18f3b852923db67c8ade17bbc28",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-29T09:19:34+01:00",
+      "all": 29,
+      "test": 0,
+      "testable": 29,
+      "pct": 0.0
+    },
+    {
+      "id": "09eebd45c6ebf8453106c16bc9b81726c2ea068b",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-29T08:50:33+01:00",
+      "all": 65,
+      "test": 0,
+      "testable": 65,
+      "pct": 0.0
+    },
+    {
+      "id": "9fee463d5f6130e84b7c183440833435cac332ce",
+      "who": "eddu.melendez@avantica.net",
+      "when": "2015-10-28T18:24:19-05:00",
+      "all": 51,
+      "test": 10,
+      "testable": 51,
+      "pct": 19.6
+    },
+    {
+      "id": "0ab714a60a622c6b5844d75df86d208fc32f91e5",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-28T22:03:08+01:00",
+      "all": 590,
+      "test": 62,
+      "testable": 590,
+      "pct": 10.5
+    },
+    {
+      "id": "cdfeb39f7688c4db0be0133eecc3d5c5f9757c5a",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-28T21:57:54+01:00",
+      "all": 361,
+      "test": 0,
+      "testable": 26,
+      "pct": 0.0
+    },
+    {
+      "id": "049c0d9f881da166d0dd02a4f30a90b905dc736a",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-28T21:48:55+01:00",
+      "all": 25,
+      "test": 0,
+      "testable": 25,
+      "pct": 0.0
+    },
+    {
+      "id": "a16403e85b1ab69688d506c16e7e5bd30da269e2",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-28T20:04:32+01:00",
+      "all": 57,
+      "test": 0,
+      "testable": 57,
+      "pct": 0.0
+    },
+    {
+      "id": "2cf2714baa150b4eff53c791c90894729b177f18",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-28T19:54:31+01:00",
+      "all": 174,
+      "test": 0,
+      "testable": 174,
+      "pct": 0.0
+    },
+    {
+      "id": "59a08250767ae92b56dfd25471b33b9ea5d52692",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-28T19:52:07+01:00",
+      "all": 5,
+      "test": 5,
+      "testable": 5,
+      "pct": 100.0
+    },
+    {
+      "id": "20ac521f84385bbdc7d25afd391da58c988a5385",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-28T19:47:39+01:00",
+      "all": 14,
+      "test": 0,
+      "testable": 14,
+      "pct": 0.0
+    },
+    {
+      "id": "dd4f571a76a5680befb0179240cb1ae4d5869dbe",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-28T19:38:51+01:00",
+      "all": 99,
+      "test": 99,
+      "testable": 99,
+      "pct": 100.0
+    },
+    {
+      "id": "8305748e531406589d5313ff19cb7032196deba3",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-28T19:16:25+01:00",
+      "all": 93,
+      "test": 0,
+      "testable": 93,
+      "pct": 0.0
+    },
+    {
+      "id": "989a1fc59562f5719aad0f4c41ecbd0f23a0cb8f",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-28T19:15:43+01:00",
+      "all": 29,
+      "test": 0,
+      "testable": 29,
+      "pct": 0.0
+    },
+    {
+      "id": "27e7445b71c159542657766e1ba7fcd656fa850b",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-28T18:54:41+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 3,
+      "pct": 0.0
+    },
+    {
+      "id": "86930be3261e454acf01d2667b7272595fee121e",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-28T18:51:00+01:00",
+      "all": 129,
+      "test": 0,
+      "testable": 129,
+      "pct": 0.0
+    },
+    {
+      "id": "ffc643c4a23d913641669bc078ce407e0dddd01f",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-28T18:33:13+01:00",
+      "all": 3,
+      "test": 3,
+      "testable": 3,
+      "pct": 100.0
+    },
+    {
+      "id": "618cffc01566fd932adc467e9be2633bd7f3708e",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-28T18:26:39+01:00",
+      "all": 291,
+      "test": 32,
+      "testable": 291,
+      "pct": 11.0
+    },
+    {
+      "id": "699d164ed6a3fddc740c5a031e5a4990ee2f5299",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-28T18:25:44+01:00",
+      "all": 15,
+      "test": 0,
+      "testable": 15,
+      "pct": 0.0
+    },
+    {
+      "id": "4b58b0df028a83f4de4b4797cef08a6da11b1b5c",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-28T18:25:20+01:00",
+      "all": 53,
+      "test": 0,
+      "testable": 53,
+      "pct": 0.0
+    },
+    {
+      "id": "dbe62c761b80e4a3f512d240e72d782010a35235",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-28T17:44:17+01:00",
+      "all": 34,
+      "test": 34,
+      "testable": 34,
+      "pct": 100.0
+    },
+    {
+      "id": "f2f3594e5849ecd599873813b62da8e6c18b7ca0",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-28T17:44:03+01:00",
+      "all": 28,
+      "test": 0,
+      "testable": 28,
+      "pct": 0.0
+    },
+    {
+      "id": "ad52ad06ebedc0eb0ed53b39a934650f4d864f60",
+      "who": "mmbaden@gmail.com",
+      "when": "2015-10-28T17:04:24+01:00",
+      "all": 11,
+      "test": 0,
+      "testable": 11,
+      "pct": 0.0
+    },
+    {
+      "id": "cee980a84e153a0e64587c30c34105a77323b6ce",
+      "who": "mmbaden@gmail.com",
+      "when": "2015-10-28T16:01:14+01:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "37b430167f7c8ad0fe1fd900e2dc862aaae0781a",
+      "who": "mmbaden@gmail.com",
+      "when": "2015-10-28T15:58:23+01:00",
+      "all": 111,
+      "test": 0,
+      "testable": 111,
+      "pct": 0.0
+    },
+    {
+      "id": "b2854484a0f6076f623028376c9b0827ba6ee8fe",
+      "who": "business@johanneslink.net",
+      "when": "2015-10-28T15:58:00+01:00",
+      "all": 111,
+      "test": 0,
+      "testable": 111,
+      "pct": 0.0
+    },
+    {
+      "id": "a2cdb8c9807b7004ae0eefb56a8c8e082976ab17",
+      "who": "mmbaden@gmail.com",
+      "when": "2015-10-28T15:57:59+01:00",
+      "all": 19,
+      "test": 0,
+      "testable": 19,
+      "pct": 0.0
+    },
+    {
+      "id": "7692ab425fabe0cc241d61e0577cda0c4acfd244",
+      "who": "mmbaden@gmail.com",
+      "when": "2015-10-28T15:55:32+01:00",
+      "all": 14,
+      "test": 0,
+      "testable": 14,
+      "pct": 0.0
+    },
+    {
+      "id": "84ae47c4eab88ce4deb570edbcd5405e17c1fa77",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-28T15:54:53+01:00",
+      "all": 14,
+      "test": 0,
+      "testable": 14,
+      "pct": 0.0
+    },
+    {
+      "id": "4d0fc266e6678a8cd771bd2e5fc26aa86fe926fa",
+      "who": "mmbaden@gmail.com",
+      "when": "2015-10-28T15:47:34+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 3,
+      "pct": 0.0
+    },
+    {
+      "id": "7c81bd9f21cb41b5a2affc39e1cb9532b7372d47",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-28T15:28:58+01:00",
+      "all": 148,
+      "test": 0,
+      "testable": 148,
+      "pct": 0.0
+    },
+    {
+      "id": "5c52d3c13b9e4ca0e378f550a5bb1e691b4fb76e",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-28T15:09:38+01:00",
+      "all": 16,
+      "test": 0,
+      "testable": 16,
+      "pct": 0.0
+    },
+    {
+      "id": "e581b0c65ad75be906934bdc92e36fdfba62391b",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-28T15:09:19+01:00",
+      "all": 293,
+      "test": 0,
+      "testable": 293,
+      "pct": 0.0
+    },
+    {
+      "id": "a5a85a020486f7a29922aa6cdab70f1a0dc51118",
+      "who": "business@johanneslink.net",
+      "when": "2015-10-28T15:13:14+01:00",
+      "all": 24,
+      "test": 0,
+      "testable": 24,
+      "pct": 0.0
+    },
+    {
+      "id": "cdc709cdb2651a16725ba16eb9c2470d617b5b85",
+      "who": "business@johanneslink.net",
+      "when": "2015-10-28T15:09:14+01:00",
+      "all": 170,
+      "test": 0,
+      "testable": 170,
+      "pct": 0.0
+    },
+    {
+      "id": "8af7d2c4a2dfa5695ed76c4ca01e05596006432c",
+      "who": "matthias.merdes@heidelberg-mobil.com",
+      "when": "2015-10-28T14:37:02+01:00",
+      "all": 97,
+      "test": 25,
+      "testable": 97,
+      "pct": 25.8
+    },
+    {
+      "id": "a52d04ff1b9a42899242b1b9cc7a8147bb2f3776",
+      "who": "business@johanneslink.net",
+      "when": "2015-10-28T14:43:19+01:00",
+      "all": 68,
+      "test": 0,
+      "testable": 65,
+      "pct": 0.0
+    },
+    {
+      "id": "cdaf66815c7308c9d5a430f08c7bc0d790a80534",
+      "who": "business@johanneslink.net",
+      "when": "2015-10-28T14:24:59+01:00",
+      "all": 81,
+      "test": 0,
+      "testable": 81,
+      "pct": 0.0
+    },
+    {
+      "id": "2d563d6bf9ce0669d46ce5f6e51511f54e68aef6",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-28T12:21:04+01:00",
+      "all": 7,
+      "test": 7,
+      "testable": 7,
+      "pct": 100.0
+    },
+    {
+      "id": "62a0ab3e60e4a1c62c806934158444f901d8e22c",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-28T12:05:09+01:00",
+      "all": 304,
+      "test": 42,
+      "testable": 304,
+      "pct": 13.8
+    },
+    {
+      "id": "b56efab18d2fd1b5134eb9cbd18296e003dd19e4",
+      "who": "business@johanneslink.net",
+      "when": "2015-10-28T12:10:27+01:00",
+      "all": 68,
+      "test": 45,
+      "testable": 68,
+      "pct": 66.2
+    },
+    {
+      "id": "fcfd3cb3a07db5f2edc7372a816c3a9962913514",
+      "who": "business@johanneslink.net",
+      "when": "2015-10-28T12:06:53+01:00",
+      "all": 49,
+      "test": 0,
+      "testable": 49,
+      "pct": 0.0
+    },
+    {
+      "id": "0f960f597c4d3909797a94e92f03ab52d346d318",
+      "who": "business@johanneslink.net",
+      "when": "2015-10-28T11:58:21+01:00",
+      "all": 12,
+      "test": 0,
+      "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "bf8599060c9cd97791fe94b6f5a4ebc753742362",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-28T11:20:26+01:00",
+      "all": 4,
+      "test": 0,
+      "testable": 4,
+      "pct": 0.0
+    },
+    {
+      "id": "87be8ddfc0cd7c00945217138674c3e7803483b3",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-28T11:20:11+01:00",
+      "all": 7,
+      "test": 0,
+      "testable": 7,
+      "pct": 0.0
+    },
+    {
+      "id": "2b6822870499611487ac0bd14d6a34571202c448",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-28T11:19:57+01:00",
+      "all": 24,
+      "test": 0,
+      "testable": 24,
+      "pct": 0.0
+    },
+    {
+      "id": "5df75429412af6016f64bf67dcd018b8935ff67f",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-28T11:19:42+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 3,
+      "pct": 0.0
+    },
+    {
+      "id": "2e1ad2e7fc7fbc71b12027f9777bbbd2a7a8667a",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-28T11:19:02+01:00",
+      "all": 239,
+      "test": 60,
+      "testable": 239,
+      "pct": 25.1
+    },
+    {
+      "id": "db7c029008a0fab7fb6770078c1b54a175c35c6c",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-28T10:20:44+01:00",
+      "all": 44,
+      "test": 0,
+      "testable": 44,
+      "pct": 0.0
+    },
+    {
+      "id": "d10441a8f8130f3c71535c02f79e8135d4b64fc2",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-28T10:20:10+01:00",
+      "all": 4,
+      "test": 0,
+      "testable": 4,
+      "pct": 0.0
+    },
+    {
+      "id": "55a73e424d3418bbf14907880cd2885e23b3340f",
+      "who": "stefan.bechtold@namics.com",
+      "when": "2015-10-28T00:35:02+01:00",
+      "all": 45,
+      "test": 24,
+      "testable": 43,
+      "pct": 55.8
+    },
+    {
+      "id": "36f0d62665a55a1250823ea1b7a7d9148efb27a8",
+      "who": "stefan.bechtold@namics.com",
+      "when": "2015-10-28T00:10:07+01:00",
+      "all": 96,
+      "test": 0,
+      "testable": 88,
+      "pct": 0.0
+    },
+    {
+      "id": "cbf97077bae0db71dc3a7cade28c3b00587a8699",
+      "who": "stefan.bechtold@namics.com",
+      "when": "2015-10-27T23:46:24+01:00",
+      "all": 1464,
+      "test": 92,
+      "testable": 1452,
+      "pct": 6.3
+    },
+    {
+      "id": "4ed7da080632a120397988eb5adf898c2b7508bd",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-27T18:35:27+01:00",
+      "all": 15,
+      "test": 0,
+      "testable": 15,
+      "pct": 0.0
+    },
+    {
+      "id": "f6372b05546e29c74e6809f4e54a096f537bcd5d",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-27T18:00:04+01:00",
+      "all": 521,
+      "test": 68,
+      "testable": 517,
+      "pct": 13.2
+    },
+    {
+      "id": "226ecd8efc45e4540bba43f6c604e891b5a94689",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-27T17:09:55+01:00",
+      "all": 642,
+      "test": 140,
+      "testable": 625,
+      "pct": 22.4
+    },
+    {
+      "id": "75a91267a92e9fd4d171a3f18f2135e675687961",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-27T15:37:21+01:00",
+      "all": 263,
+      "test": 19,
+      "testable": 261,
+      "pct": 7.3
+    },
+    {
+      "id": "b7629e60839b9de823d24ab9631e196b9e2625bd",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-10-27T12:14:19+01:00",
+      "all": 538,
+      "test": 124,
+      "testable": 455,
+      "pct": 27.3
+    },
+    {
+      "id": "e6568950bf083a268d22946cbc24cac7f6435fb0",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-25T18:39:53+01:00",
+      "all": 18,
+      "test": 0,
+      "testable": 18,
+      "pct": 0.0
+    },
+    {
+      "id": "c24fb6b6274bbbde38368f74e3c1219ece2c2650",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-25T18:26:13+01:00",
+      "all": 2,
+      "test": 0,
+      "testable": 2,
+      "pct": 0.0
+    },
+    {
+      "id": "2d5829cb13fab18b57eb5d3db1043cea0e687f85",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-25T18:17:30+01:00",
+      "all": 10,
+      "test": 0,
+      "testable": 10,
+      "pct": 0.0
+    },
+    {
+      "id": "ad2b5fec1128112b7d68fdaa9b4212099f6d9092",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-25T18:07:15+01:00",
+      "all": 34,
+      "test": 0,
+      "testable": 34,
+      "pct": 0.0
+    },
+    {
+      "id": "405c6f1a6e608715405b2fba63b5db7a36a6658e",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-25T18:00:46+01:00",
+      "all": 200,
+      "test": 9,
+      "testable": 200,
+      "pct": 4.5
+    },
+    {
+      "id": "3512773cb8ea5cb3e4306fa21ae418d22968e9e1",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-25T00:44:46+02:00",
+      "all": 26,
+      "test": 7,
+      "testable": 26,
+      "pct": 26.9
+    },
+    {
+      "id": "6673e124cd5888bf395be91513326737e8433e4b",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-25T00:27:51+02:00",
+      "all": 40,
+      "test": 0,
+      "testable": 40,
+      "pct": 0.0
+    },
+    {
+      "id": "ad65117f90eaec3ce2eaa941973e59c1f5279557",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-25T00:27:30+02:00",
+      "all": 8,
+      "test": 0,
+      "testable": 8,
+      "pct": 0.0
+    },
+    {
+      "id": "dc74f93a5d890f5f43b890f71dde6c0535f21e4d",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-25T00:16:03+02:00",
+      "all": 175,
+      "test": 0,
+      "testable": 161,
+      "pct": 0.0
+    },
+    {
+      "id": "1413d2c5bfa45729586f763ca7ab075c3b467c15",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-24T16:52:06+02:00",
+      "all": 19,
+      "test": 0,
+      "testable": 19,
+      "pct": 0.0
+    },
+    {
+      "id": "6727335fb5ee731fdf5a56b0560d3525a1118704",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-24T16:47:46+02:00",
+      "all": 5,
+      "test": 0,
+      "testable": 5,
+      "pct": 0.0
+    },
+    {
+      "id": "2985b654efe0de4c9e5dadc8ca67f01f883327fe",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-24T16:17:01+02:00",
+      "all": 30,
+      "test": 11,
+      "testable": 14,
+      "pct": 78.6
+    },
+    {
+      "id": "1f88efc440cb26840a5fb238d24ec1c816309321",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-24T16:03:26+02:00",
+      "all": 47,
+      "test": 12,
+      "testable": 47,
+      "pct": 25.5
+    },
+    {
+      "id": "334e9105795c952b6ac40e89fc369fd8ae82e1d4",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-24T15:32:53+02:00",
+      "all": 224,
+      "test": 49,
+      "testable": 224,
+      "pct": 21.9
+    },
+    {
+      "id": "54bb66fb70fb1d19f6f19fb0223b9abe049e4d3b",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-24T15:31:14+02:00",
+      "all": 266,
+      "test": 73,
+      "testable": 266,
+      "pct": 27.4
+    },
+    {
+      "id": "9dc1132371f1b737133a891691534e5ef5bd759c",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-24T13:05:12+02:00",
+      "all": 199,
+      "test": 0,
+      "testable": 199,
+      "pct": 0.0
+    },
+    {
+      "id": "c0932f4faebebb1f43eb39a681780d8db0bc948c",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-24T13:05:41+02:00",
+      "all": 14,
+      "test": 0,
+      "testable": 14,
+      "pct": 0.0
+    },
+    {
+      "id": "4d64dbca1b23ba61e9b81ae718ea43aec0948e0e",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-24T13:06:52+02:00",
+      "all": 29,
+      "test": 0,
+      "testable": 29,
+      "pct": 0.0
+    },
+    {
+      "id": "c4c657f40b14108863e05d6ed09035cb3559506b",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-24T13:07:35+02:00",
+      "all": 25,
+      "test": 0,
+      "testable": 25,
+      "pct": 0.0
+    },
+    {
+      "id": "3adc812227cc6e77f25c6669d7731b6e178580af",
+      "who": "sam@sambrannen.com",
+      "when": "2015-10-23T14:31:31+02:00",
+      "all": 38,
+      "test": 0,
+      "testable": 5,
+      "pct": 0.0
+    },
+    {
+      "id": "92c14e9cec7862254d06019043d081d4e8c64789",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-06-04T15:33:07+02:00",
+      "all": 40,
+      "test": 0,
+      "testable": 5,
+      "pct": 0.0
+    }
+  ],
+  "description": "JUnit 5 (master branch)",
+  "baseURL": "https://github.com/junit-team/junit5/commit/"
+}

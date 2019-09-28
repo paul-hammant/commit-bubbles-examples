@@ -1,0 +1,24 @@
+{
+  "commits": [
+    {
+      "id": "b32c0b32a0dc628b9839ea0a7b1f9b64550f772e",
+      "who": "mail@stefan-birkner.de",
+      "when": "2014-04-26T02:33:51+02:00",
+      "all": 10,
+      "test": 10,
+      "testable": 10,
+      "pct": 100.0
+    },
+    {
+      "id": "fc7c72e5b40dcd52f6f6f9a9aaa6e1efe7dbcdbc",
+      "who": "mail@stefan-birkner.de",
+      "when": "2014-04-26T02:13:14+02:00",
+      "all": 90,
+      "test": 0,
+      "testable": 5,
+      "pct": 0.0
+    }
+  ],
+  "description": "JUnit 4 (master branch)",
+  "baseURL": "https://github.com/junit-team/junit4/commit/"
+}

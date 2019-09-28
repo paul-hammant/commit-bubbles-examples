@@ -1,0 +1,60 @@
+{
+  "commits": [
+    {
+      "id": "4001510a920553b02052a80ef98c17f40b1e68fb",
+      "who": "sam@sambrannen.com",
+      "when": "2016-03-01T19:46:21+01:00",
+      "all": 6,
+      "test": 6,
+      "testable": 6,
+      "pct": 100.0
+    },
+    {
+      "id": "698cdb537f6585adc201350c6b2245a242e05909",
+      "who": "business@johanneslink.net",
+      "when": "2016-03-01T12:05:36+01:00",
+      "all": 13,
+      "test": 4,
+      "testable": 4,
+      "pct": 100.0
+    },
+    {
+      "id": "0171e1811053df507a3feaf1eb228ebb38c16204",
+      "who": "business@johanneslink.net",
+      "when": "2016-03-01T11:54:06+01:00",
+      "all": 37,
+      "test": 15,
+      "testable": 37,
+      "pct": 40.5
+    },
+    {
+      "id": "e9813554aefd4f7285e98e03f62b4e46d1fee301",
+      "who": "business@johanneslink.net",
+      "when": "2016-03-01T11:45:55+01:00",
+      "all": 95,
+      "test": 95,
+      "testable": 95,
+      "pct": 100.0
+    },
+    {
+      "id": "6f43427de628e01ec294075979f4de4826e76059",
+      "who": "business@johanneslink.net",
+      "when": "2016-03-01T11:21:11+01:00",
+      "all": 68,
+      "test": 41,
+      "testable": 68,
+      "pct": 60.3
+    },
+    {
+      "id": "93c4c140935e7499a8ce9710ce004dc20078ea28",
+      "who": "business@johanneslink.net",
+      "when": "2016-03-01T10:03:45+01:00",
+      "all": 25,
+      "test": 16,
+      "testable": 22,
+      "pct": 72.7
+    }
+  ],
+  "description": "JUnit 5 (master branch)",
+  "baseURL": "https://github.com/junit-team/junit5/commit/"
+}

@@ -1,0 +1,654 @@
+{
+  "commits": [
+    {
+      "id": "989405899c756982f708e6c4cd7f965f0f2636d4",
+      "who": "bogdan.stirbat@gmail.com",
+      "when": "2017-09-23T19:18:05+03:00",
+      "all": 8,
+      "test": 4,
+      "testable": 8,
+      "pct": 50.0
+    },
+    {
+      "id": "10625f734b9b39f9c6fcc94336d386646eea4f30",
+      "who": "sormuras@gmail.com",
+      "when": "2017-09-29T09:03:28+02:00",
+      "all": 281,
+      "test": 37,
+      "testable": 225,
+      "pct": 16.4
+    },
+    {
+      "id": "ca81c0adf57b6250bda97cfe4a6c9167c6027a97",
+      "who": "mail@marcphilipp.de",
+      "when": "2017-09-29T23:52:27+02:00",
+      "all": 38,
+      "test": 3,
+      "testable": 38,
+      "pct": 7.9
+    },
+    {
+      "id": "1100aa7796676e7ad2e8d5961339b7d0c907d439",
+      "who": "mail@marcphilipp.de",
+      "when": "2017-09-29T23:47:36+02:00",
+      "all": 119,
+      "test": 47,
+      "testable": 119,
+      "pct": 39.5
+    },
+    {
+      "id": "4ddca10a24752b1eeae45065c13b97f69cf6048d",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-30T15:32:19+02:00",
+      "all": 37,
+      "test": 26,
+      "testable": 37,
+      "pct": 70.3
+    },
+    {
+      "id": "f922f8e2cf1a5574325c7777d7532704d8ccb774",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-30T15:08:28+02:00",
+      "all": 24,
+      "test": 15,
+      "testable": 20,
+      "pct": 75.0
+    },
+    {
+      "id": "d1a1009544e217c9b215267bbe3e892376df5309",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-30T14:59:50+02:00",
+      "all": 38,
+      "test": 36,
+      "testable": 36,
+      "pct": 100.0
+    },
+    {
+      "id": "b96d0abdb834dac497f94a96550a692cd00c4bd2",
+      "who": "mail@marcphilipp.de",
+      "when": "2017-09-29T22:16:48+02:00",
+      "all": 31,
+      "test": 31,
+      "testable": 31,
+      "pct": 100.0
+    },
+    {
+      "id": "3a5ef145dac5d0881e509f50e051e683b7efa7bf",
+      "who": "sormuras@gmail.com",
+      "when": "2017-09-28T23:07:39+02:00",
+      "all": 138,
+      "test": 30,
+      "testable": 138,
+      "pct": 21.7
+    },
+    {
+      "id": "c54f06b9e29949ea2d5fb561af1545ef46a2ad65",
+      "who": "sormuras@gmail.com",
+      "when": "2017-09-28T08:43:09+02:00",
+      "all": 135,
+      "test": 8,
+      "testable": 135,
+      "pct": 5.9
+    },
+    {
+      "id": "7b63d64021976d37b92f60cd6995fd7cda6588b3",
+      "who": "sormuras@gmail.com",
+      "when": "2017-09-27T20:26:24+02:00",
+      "all": 115,
+      "test": 67,
+      "testable": 115,
+      "pct": 58.3
+    },
+    {
+      "id": "213b1b535cb7daddacaa6b21967d1ae2f7dade10",
+      "who": "sormuras@gmail.com",
+      "when": "2017-09-27T20:25:34+02:00",
+      "all": 82,
+      "test": 0,
+      "testable": 82,
+      "pct": 0.0
+    },
+    {
+      "id": "c8869eab8d66411181dca9a74243cbdadb4d1ae7",
+      "who": "sormuras@gmail.com",
+      "when": "2017-09-28T12:03:04+02:00",
+      "all": 7,
+      "test": 0,
+      "testable": 3,
+      "pct": 0.0
+    },
+    {
+      "id": "07df3ef8d4e7dd54a66e6c8a685891693eb4b9eb",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-27T14:20:49+02:00",
+      "all": 7,
+      "test": 7,
+      "testable": 7,
+      "pct": 100.0
+    },
+    {
+      "id": "3586d9edb7cd0e167cdb88cfcd924a63251c6e1a",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-25T21:26:04+02:00",
+      "all": 3,
+      "test": 3,
+      "testable": 3,
+      "pct": 100.0
+    },
+    {
+      "id": "b44474a2318465e9635ea62d5163adf8a52634e4",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-25T15:33:10+02:00",
+      "all": 62,
+      "test": 62,
+      "testable": 62,
+      "pct": 100.0
+    },
+    {
+      "id": "cd94f9a77945594c28d1a3a6e9fefc3ff3981d22",
+      "who": "sormuras@gmail.com",
+      "when": "2017-09-21T06:47:59+02:00",
+      "all": 136,
+      "test": 27,
+      "testable": 131,
+      "pct": 20.6
+    },
+    {
+      "id": "8e86ba6e698191dad15591ce92a5d648ecaf8109",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-23T17:23:17+02:00",
+      "all": 62,
+      "test": 15,
+      "testable": 62,
+      "pct": 24.2
+    },
+    {
+      "id": "d9ec28d92f4d312029175ee258017ca5654899fc",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-23T17:15:14+02:00",
+      "all": 51,
+      "test": 18,
+      "testable": 51,
+      "pct": 35.3
+    },
+    {
+      "id": "5c18778a25a3df654523c66d2fd10a0ec2164a4f",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-23T17:07:29+02:00",
+      "all": 21,
+      "test": 21,
+      "testable": 21,
+      "pct": 100.0
+    },
+    {
+      "id": "94e5762fee80a2af35dc7e8e1508f95e2923b1dd",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-23T17:03:20+02:00",
+      "all": 405,
+      "test": 330,
+      "testable": 403,
+      "pct": 81.9
+    },
+    {
+      "id": "84081836788f7fa9b26b4006506a0386a34ed48e",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-23T15:55:47+02:00",
+      "all": 29,
+      "test": 0,
+      "testable": 29,
+      "pct": 0.0
+    },
+    {
+      "id": "e3959b46ebdfe423235f2cac59919d3343bb6ac4",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-23T15:21:45+02:00",
+      "all": 11,
+      "test": 11,
+      "testable": 11,
+      "pct": 100.0
+    },
+    {
+      "id": "663661154dd91092f46dc9c759b69657481c42af",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-23T15:11:35+02:00",
+      "all": 15,
+      "test": 15,
+      "testable": 15,
+      "pct": 100.0
+    },
+    {
+      "id": "a70b243797ee1b77c0179ea24b93886cf75ff1f1",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-23T15:07:18+02:00",
+      "all": 7,
+      "test": 7,
+      "testable": 7,
+      "pct": 100.0
+    },
+    {
+      "id": "ec047737085196c377d49d5bc00a9bfd42902254",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-23T15:07:56+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 3,
+      "pct": 0.0
+    },
+    {
+      "id": "1b3939d6daa22f64559980b2132cdfc687fc628f",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-22T23:17:49+02:00",
+      "all": 356,
+      "test": 272,
+      "testable": 356,
+      "pct": 76.4
+    },
+    {
+      "id": "403c821e95f6c66081ca11fd490867eb78aa2795",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-22T17:04:21+02:00",
+      "all": 6,
+      "test": 0,
+      "testable": 6,
+      "pct": 0.0
+    },
+    {
+      "id": "5810cf68d31371c7768d4649ef677fbdba751819",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-21T17:46:51+02:00",
+      "all": 40,
+      "test": 0,
+      "testable": 40,
+      "pct": 0.0
+    },
+    {
+      "id": "f0d19f1306f08255e1f238b9e293262b4e2e8aad",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-21T17:30:04+02:00",
+      "all": 24,
+      "test": 3,
+      "testable": 3,
+      "pct": 100.0
+    },
+    {
+      "id": "8a98e3e70c87f6a3aebf4ef645a046f2c4ea27b7",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-21T17:08:37+02:00",
+      "all": 74,
+      "test": 44,
+      "testable": 69,
+      "pct": 63.8
+    },
+    {
+      "id": "c723ffa9dea57ce7e8a4daab478065e4ef943008",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-20T22:12:11+02:00",
+      "all": 15,
+      "test": 0,
+      "testable": 15,
+      "pct": 0.0
+    },
+    {
+      "id": "9de01bafe6439260c5d38a049c253c031cd6f951",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-19T14:54:32+02:00",
+      "all": 405,
+      "test": 42,
+      "testable": 398,
+      "pct": 10.6
+    },
+    {
+      "id": "d6643b1b9826c197f7d204d8d7248b91ae966a73",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-18T23:49:30+02:00",
+      "all": 7,
+      "test": 5,
+      "testable": 7,
+      "pct": 71.4
+    },
+    {
+      "id": "25e0126f329f82cf10b093064005665b081a606f",
+      "who": "mail@marcphilipp.de",
+      "when": "2017-09-18T22:19:51+02:00",
+      "all": 204,
+      "test": 0,
+      "testable": 204,
+      "pct": 0.0
+    },
+    {
+      "id": "e996bce24b376b7bc2a8af007fcebf38fd825555",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-18T17:37:21+02:00",
+      "all": 61,
+      "test": 44,
+      "testable": 61,
+      "pct": 72.1
+    },
+    {
+      "id": "51caf6c7d43f3de8a6c4ae322f00bd137d40e1ca",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-14T22:17:02+02:00",
+      "all": 60,
+      "test": 60,
+      "testable": 60,
+      "pct": 100.0
+    },
+    {
+      "id": "0e0a3dbfb17568e3d9ce7e01552f304c78fb3354",
+      "who": "jbluettduncan@gmail.com",
+      "when": "2017-09-12T17:45:20+01:00",
+      "all": 76,
+      "test": 76,
+      "testable": 76,
+      "pct": 100.0
+    },
+    {
+      "id": "b080a22be609b72447ff5fca91a6d59f538eb8c9",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-10T16:17:09+02:00",
+      "all": 45,
+      "test": 0,
+      "testable": 45,
+      "pct": 0.0
+    },
+    {
+      "id": "e539cad6f657c85538940ef99713b44d659b04d5",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-10T16:15:13+02:00",
+      "all": 33,
+      "test": 0,
+      "testable": 16,
+      "pct": 0.0
+    },
+    {
+      "id": "f367d97a92731494d8909443f5d259bc9b57d2c1",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-10T15:49:22+02:00",
+      "all": 13,
+      "test": 0,
+      "testable": 11,
+      "pct": 0.0
+    },
+    {
+      "id": "28cbdf0c25d11aa7fc031889f7fd8406fd8d7e33",
+      "who": "sormuras@gmail.com",
+      "when": "2017-09-10T09:26:50+02:00",
+      "all": 30,
+      "test": 20,
+      "testable": 25,
+      "pct": 80.0
+    },
+    {
+      "id": "0da282dd71de748012f9be7c9fba549f924dc37c",
+      "who": "sormuras@gmail.com",
+      "when": "2017-09-10T07:00:55+02:00",
+      "all": 56,
+      "test": 45,
+      "testable": 56,
+      "pct": 80.4
+    },
+    {
+      "id": "391b0927b672fd65e7b7a081d79683e415692b12",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-09T23:13:15+02:00",
+      "all": 20,
+      "test": 17,
+      "testable": 20,
+      "pct": 85.0
+    },
+    {
+      "id": "3a56fdf16098235fa9624b6249b79e6ad371d8fb",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-09T21:56:41+02:00",
+      "all": 13,
+      "test": 13,
+      "testable": 13,
+      "pct": 100.0
+    },
+    {
+      "id": "059ee3fb5ae9e86311fb6e1c8aa4efe1bdcfb3b5",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-09T21:50:59+02:00",
+      "all": 4,
+      "test": 4,
+      "testable": 4,
+      "pct": 100.0
+    },
+    {
+      "id": "1f6c954919c7c00156f97c847f929bae83099095",
+      "who": "sormuras@gmail.com",
+      "when": "2017-09-09T21:28:52+02:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "371a51fc7c46c34402e41e61fa1a6c4b82184041",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-09T16:59:26+02:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "c73ee239bc374eb375951d9c1e49897886d64de2",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-09T16:36:06+02:00",
+      "all": 44,
+      "test": 11,
+      "testable": 41,
+      "pct": 26.8
+    },
+    {
+      "id": "65701b9bb36709fffc938a819add7a51aae63185",
+      "who": "team@junit.org",
+      "when": "2017-09-09T15:46:05+02:00",
+      "all": 1120,
+      "test": 14,
+      "testable": 1082,
+      "pct": 1.3
+    },
+    {
+      "id": "79ff0d38d7e20c0d3cb8a5db369ada83562dd263",
+      "who": "team@junit.org",
+      "when": "2017-09-09T15:21:28+02:00",
+      "all": 1236,
+      "test": 14,
+      "testable": 1201,
+      "pct": 1.2
+    },
+    {
+      "id": "3c37e59640deaf1f8d9761c655c80193f8d9226a",
+      "who": "team@junit.org",
+      "when": "2017-09-08T21:18:43+02:00",
+      "all": 3270,
+      "test": 1585,
+      "testable": 3225,
+      "pct": 49.1
+    },
+    {
+      "id": "2220f7ee708a2e63ff1caac26f425487281556ca",
+      "who": "mail@marcphilipp.de",
+      "when": "2017-09-08T21:15:53+02:00",
+      "all": 1110,
+      "test": 0,
+      "testable": 5,
+      "pct": 0.0
+    },
+    {
+      "id": "a1a607b96780e717124fb9b230772937888a28af",
+      "who": "team@junit.org",
+      "when": "2017-09-08T17:23:08+02:00",
+      "all": 682,
+      "test": 0,
+      "testable": 661,
+      "pct": 0.0
+    },
+    {
+      "id": "8d2704ab9c1bec65350214ca600b0364e5d847f1",
+      "who": "team@junit.org",
+      "when": "2017-09-08T16:23:53+02:00",
+      "all": 1170,
+      "test": 44,
+      "testable": 1135,
+      "pct": 3.9
+    },
+    {
+      "id": "5abe3d910ab3c401576f1980ddd27597c6e02562",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-08T16:20:03+02:00",
+      "all": 58,
+      "test": 0,
+      "testable": 58,
+      "pct": 0.0
+    },
+    {
+      "id": "c17571d63c47ae85eba0620b86e084bb9d305601",
+      "who": "mail@marcphilipp.de",
+      "when": "2017-09-08T15:48:30+02:00",
+      "all": 18,
+      "test": 10,
+      "testable": 18,
+      "pct": 55.6
+    },
+    {
+      "id": "88e747b2d7bf595bc011b0d3ca2bf5f25f3314f2",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-08T15:45:35+02:00",
+      "all": 96,
+      "test": 0,
+      "testable": 96,
+      "pct": 0.0
+    },
+    {
+      "id": "f9b85f5ce62a69f6828bf73c62a0673e8b6154c5",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-08T15:31:13+02:00",
+      "all": 6,
+      "test": 3,
+      "testable": 6,
+      "pct": 50.0
+    },
+    {
+      "id": "d5c0b1cca585ea7cef809db5377f5ee6b31cf630",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-05T15:32:43+02:00",
+      "all": 590,
+      "test": 109,
+      "testable": 590,
+      "pct": 18.5
+    },
+    {
+      "id": "a84575b8433bc02ac8e2ff018c904c780ae89d1f",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-07T16:51:22+02:00",
+      "all": 499,
+      "test": 248,
+      "testable": 483,
+      "pct": 51.3
+    },
+    {
+      "id": "8287077c0c52f72c6436c950ccd59508443dc8d2",
+      "who": "mail@marcphilipp.de",
+      "when": "2017-09-07T21:15:58+02:00",
+      "all": 5,
+      "test": 0,
+      "testable": 5,
+      "pct": 0.0
+    },
+    {
+      "id": "8f3b1d276b3f0b19be56e67d06a8974d35a016ae",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-07T15:51:11+02:00",
+      "all": 19,
+      "test": 0,
+      "testable": 14,
+      "pct": 0.0
+    },
+    {
+      "id": "b8c1ae510d024a96e237c9411c4c0c88fd860584",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-06T14:59:38+02:00",
+      "all": 6,
+      "test": 3,
+      "testable": 6,
+      "pct": 50.0
+    },
+    {
+      "id": "3bedaf529efc2f9d0c9d5807f29a492f9f2fcd08",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-05T17:35:52+02:00",
+      "all": 8,
+      "test": 3,
+      "testable": 8,
+      "pct": 37.5
+    },
+    {
+      "id": "371df45f6dea3d581f4577f64ce7139a1db72731",
+      "who": "mail@marcphilipp.de",
+      "when": "2017-09-04T20:56:33+02:00",
+      "all": 4,
+      "test": 0,
+      "testable": 4,
+      "pct": 0.0
+    },
+    {
+      "id": "d503f3262e7127fec90927ac1b657a5dc14a03a8",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-01T16:27:05+02:00",
+      "all": 26,
+      "test": 26,
+      "testable": 26,
+      "pct": 100.0
+    },
+    {
+      "id": "d82d7a413886dbebe81fd67dfc881c4f2e8f20e5",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-01T15:42:44+02:00",
+      "all": 120,
+      "test": 120,
+      "testable": 120,
+      "pct": 100.0
+    },
+    {
+      "id": "7eb4d5042396b6a31710c4577d28651dea90c3d1",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-01T15:21:15+02:00",
+      "all": 14,
+      "test": 14,
+      "testable": 14,
+      "pct": 100.0
+    },
+    {
+      "id": "255624966661d86e670102e81fae4ed7dcf2ad29",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-01T15:15:03+02:00",
+      "all": 51,
+      "test": 51,
+      "testable": 51,
+      "pct": 100.0
+    },
+    {
+      "id": "a1608abfcfb47f3d7ee0a13fa9d3062e1442d2c1",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-01T15:11:40+02:00",
+      "all": 152,
+      "test": 152,
+      "testable": 152,
+      "pct": 100.0
+    },
+    {
+      "id": "b6198c5f555eaf8e12d30c929228960124e059ab",
+      "who": "sam@sambrannen.com",
+      "when": "2017-09-01T14:55:09+02:00",
+      "all": 403,
+      "test": 403,
+      "testable": 403,
+      "pct": 100.0
+    }
+  ],
+  "description": "JUnit 5 (master branch)",
+  "baseURL": "https://github.com/junit-team/junit5/commit/"
+}

@@ -1,0 +1,33 @@
+{
+  "commits": [
+    {
+      "id": "5f2ecdacca8db679081ff6dede52cb0d8970d730",
+      "who": "jesse.glick@oracle.com",
+      "when": "2012-01-31T14:54:56-05:00",
+      "all": 4,
+      "test": 0,
+      "testable": 4,
+      "pct": 0.0
+    },
+    {
+      "id": "3920f3fe11dffc904e1ab41a9ff4fc9d36b1c25b",
+      "who": "jesse.glick@oracle.com",
+      "when": "2012-01-31T14:52:41-05:00",
+      "all": 13,
+      "test": 13,
+      "testable": 13,
+      "pct": 100.0
+    },
+    {
+      "id": "f0319c2af61edbf587b958e9aa2f0f75eed2b375",
+      "who": "jesse.glick@oracle.com",
+      "when": "2012-01-31T14:49:10-05:00",
+      "all": 1403,
+      "test": 804,
+      "testable": 1210,
+      "pct": 66.4
+    }
+  ],
+  "description": "JUnit 4 (master branch)",
+  "baseURL": "https://github.com/junit-team/junit4/commit/"
+}

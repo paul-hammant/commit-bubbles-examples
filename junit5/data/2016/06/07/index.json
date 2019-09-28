@@ -1,0 +1,33 @@
+{
+  "commits": [
+    {
+      "id": "4eee42a097050424aa95c0eaef08473e88d70e25",
+      "who": "sam@sambrannen.com",
+      "when": "2016-06-07T19:39:53+02:00",
+      "all": 6,
+      "test": 6,
+      "testable": 6,
+      "pct": 100.0
+    },
+    {
+      "id": "9e9ec83f7ab03b58bdf82c55415010a77cf1fa8b",
+      "who": "Matthias.Merdes@heidelberg-mobil.com",
+      "when": "2016-06-07T14:52:07+02:00",
+      "all": 63,
+      "test": 0,
+      "testable": 63,
+      "pct": 0.0
+    },
+    {
+      "id": "c1d579d483cc4f01a035663b11bc666bacd283c8",
+      "who": "Matthias.Merdes@heidelberg-mobil.com",
+      "when": "2016-06-07T14:44:37+02:00",
+      "all": 31,
+      "test": 31,
+      "testable": 31,
+      "pct": 100.0
+    }
+  ],
+  "description": "JUnit 5 (master branch)",
+  "baseURL": "https://github.com/junit-team/junit5/commit/"
+}

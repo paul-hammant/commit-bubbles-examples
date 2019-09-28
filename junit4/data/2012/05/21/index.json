@@ -1,0 +1,33 @@
+{
+  "commits": [
+    {
+      "id": "1e391af3840911fb8b3345afb58871debf0be3bc",
+      "who": "saff@google.com",
+      "when": "2012-05-21T13:02:17-07:00",
+      "all": 6,
+      "test": 0,
+      "testable": 6,
+      "pct": 0.0
+    },
+    {
+      "id": "24da9244b61f2dce4664a602e73ad060a4f68ce7",
+      "who": "kspillner@acm.org",
+      "when": "2012-05-21T14:27:03-05:00",
+      "all": 6,
+      "test": 0,
+      "testable": 6,
+      "pct": 0.0
+    },
+    {
+      "id": "4845736a4bc4c076cd676137407c55d63da8da4d",
+      "who": "pmahlen@shopzilla.com",
+      "when": "2012-05-21T13:31:54+02:00",
+      "all": 123,
+      "test": 73,
+      "testable": 123,
+      "pct": 59.3
+    }
+  ],
+  "description": "JUnit 4 (master branch)",
+  "baseURL": "https://github.com/junit-team/junit4/commit/"
+}

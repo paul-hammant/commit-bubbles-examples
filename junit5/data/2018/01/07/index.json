@@ -1,0 +1,60 @@
+{
+  "commits": [
+    {
+      "id": "6befdacb3abd44759bf3a3948d1b8a5c601e20c3",
+      "who": "mail@marcphilipp.de",
+      "when": "2018-01-07T10:48:08+01:00",
+      "all": 42,
+      "test": 42,
+      "testable": 42,
+      "pct": 100.0
+    },
+    {
+      "id": "1afeb91aeb663d945da8d5c377584aec703f9dbe",
+      "who": "sam@sambrannen.com",
+      "when": "2018-01-07T19:57:51+01:00",
+      "all": 522,
+      "test": 276,
+      "testable": 522,
+      "pct": 52.9
+    },
+    {
+      "id": "a94ef93a68edd481673a81db86b2f4d844a3e063",
+      "who": "sormuras@gmail.com",
+      "when": "2018-01-07T18:48:28+01:00",
+      "all": 23,
+      "test": 12,
+      "testable": 18,
+      "pct": 66.7
+    },
+    {
+      "id": "48b92162d1bf43a51c96500eb9f7ff11e6e1ea24",
+      "who": "sam@sambrannen.com",
+      "when": "2018-01-07T17:47:12+01:00",
+      "all": 9,
+      "test": 0,
+      "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "d7894f7f5540d03374dde6c1e2c93b321c8f0ae0",
+      "who": "sam@sambrannen.com",
+      "when": "2018-01-07T17:24:24+01:00",
+      "all": 15,
+      "test": 0,
+      "testable": 15,
+      "pct": 0.0
+    },
+    {
+      "id": "8fd44c668eb973ed85a1788763ea9a2904a4436a",
+      "who": "sam@sambrannen.com",
+      "when": "2018-01-07T17:00:11+01:00",
+      "all": 170,
+      "test": 71,
+      "testable": 116,
+      "pct": 61.2
+    }
+  ],
+  "description": "JUnit 5 (master branch)",
+  "baseURL": "https://github.com/junit-team/junit5/commit/"
+}

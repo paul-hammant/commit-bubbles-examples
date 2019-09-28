@@ -1,0 +1,51 @@
+{
+  "commits": [
+    {
+      "id": "4537bec58804c392a8bce296dced0337c8ec1a8d",
+      "who": "team@junit.org",
+      "when": "2016-06-19T19:22:33+02:00",
+      "all": 3623,
+      "test": 1337,
+      "testable": 3581,
+      "pct": 37.3
+    },
+    {
+      "id": "4dd821ac0cf681f17f14e1dcd383b10c99104e70",
+      "who": "sam@sambrannen.com",
+      "when": "2016-06-19T18:25:30+02:00",
+      "all": 11,
+      "test": 11,
+      "testable": 11,
+      "pct": 100.0
+    },
+    {
+      "id": "2ee614edd75e7e1b3f2dff4c4d84d85bd0e02efe",
+      "who": "sam@sambrannen.com",
+      "when": "2016-06-19T18:21:54+02:00",
+      "all": 75,
+      "test": 21,
+      "testable": 75,
+      "pct": 28.0
+    },
+    {
+      "id": "f4f99ada911752deeb30de9028f92cc214a05678",
+      "who": "sam@sambrannen.com",
+      "when": "2016-06-19T18:21:44+02:00",
+      "all": 3,
+      "test": 3,
+      "testable": 3,
+      "pct": 100.0
+    },
+    {
+      "id": "09b9358ec0ec741bccb79aad93eca9294ca18ab9",
+      "who": "mail@marcphilipp.de",
+      "when": "2016-06-19T15:28:34+02:00",
+      "all": 9,
+      "test": 9,
+      "testable": 9,
+      "pct": 100.0
+    }
+  ],
+  "description": "JUnit 5 (master branch)",
+  "baseURL": "https://github.com/junit-team/junit5/commit/"
+}

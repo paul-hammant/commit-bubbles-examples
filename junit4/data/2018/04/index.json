@@ -1,0 +1,33 @@
+{
+  "commits": [
+    {
+      "id": "cceaf19c554f9c0bcd51223ad99fc77f31f9e877",
+      "who": "l.fink@micromata.de",
+      "when": "2018-04-29T09:01:34+02:00",
+      "all": 5,
+      "test": 5,
+      "testable": 5,
+      "pct": 100.0
+    },
+    {
+      "id": "00f2f7635fdfa16f7091d84683b5a3b93059cd20",
+      "who": "mail@stefan-birkner.de",
+      "when": "2018-04-06T23:18:23+02:00",
+      "all": 30,
+      "test": 22,
+      "testable": 30,
+      "pct": 73.3
+    },
+    {
+      "id": "ed6813d3bbe2da4d67892f73e641fa80ab4d126e",
+      "who": "kcooney@users.noreply.github.com",
+      "when": "2018-04-03T19:57:23-07:00",
+      "all": 77,
+      "test": 13,
+      "testable": 77,
+      "pct": 16.9
+    }
+  ],
+  "description": "JUnit 4 (master branch)",
+  "baseURL": "https://github.com/junit-team/junit4/commit/"
+}

@@ -1,0 +1,51 @@
+{
+  "commits": [
+    {
+      "id": "0ffc637a33164dd219a6fbbb7210db84779c700a",
+      "who": "kcooney@google.com",
+      "when": "2014-06-23T13:52:43-07:00",
+      "all": 63,
+      "test": 50,
+      "testable": 63,
+      "pct": 79.4
+    },
+    {
+      "id": "7ae75535efbb7a95ac62cfa1d0ccb626cc23e8c7",
+      "who": "kcooney@google.com",
+      "when": "2014-06-23T13:51:52-07:00",
+      "all": 457,
+      "test": 342,
+      "testable": 457,
+      "pct": 74.8
+    },
+    {
+      "id": "2f86c6f600f5a953d02d00e0b12f621ceaa7d59d",
+      "who": "mail@stefan-birkner.de",
+      "when": "2014-06-23T21:47:32+02:00",
+      "all": 30,
+      "test": 24,
+      "testable": 30,
+      "pct": 80.0
+    },
+    {
+      "id": "a1f68c6d9ad0fd5ce0ca2946fa66a1a059b4633f",
+      "who": "kcooney@google.com",
+      "when": "2014-06-23T11:46:32-07:00",
+      "all": 30,
+      "test": 24,
+      "testable": 30,
+      "pct": 80.0
+    },
+    {
+      "id": "e1315c75a81d8131dd88dadbf5184892f0d9ce63",
+      "who": "mail@stefan-birkner.de",
+      "when": "2014-06-23T18:43:00+02:00",
+      "all": 82,
+      "test": 50,
+      "testable": 82,
+      "pct": 61.0
+    }
+  ],
+  "description": "JUnit 4 (master branch)",
+  "baseURL": "https://github.com/junit-team/junit4/commit/"
+}

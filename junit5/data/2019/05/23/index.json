@@ -1,0 +1,78 @@
+{
+  "commits": [
+    {
+      "id": "41f77ec2d0333893836d658837e5bbbb5bbc5704",
+      "who": "issam.elatif@gmail.com",
+      "when": "2019-05-23T18:44:10+02:00",
+      "all": 96,
+      "test": 14,
+      "testable": 96,
+      "pct": 14.6
+    },
+    {
+      "id": "6800fed81bc5061bb4abffaf3027c418afc0cdce",
+      "who": "mail@marcphilipp.de",
+      "when": "2019-05-23T21:13:36+02:00",
+      "all": 8,
+      "test": 8,
+      "testable": 8,
+      "pct": 100.0
+    },
+    {
+      "id": "04eb147d390cb693512830e3998f4bf9fc83e02a",
+      "who": "leonard.bruenings@1und1.de",
+      "when": "2019-05-23T21:06:54+02:00",
+      "all": 26,
+      "test": 9,
+      "testable": 24,
+      "pct": 37.5
+    },
+    {
+      "id": "85e13f7077a72bc5890f8a7c30f7f3b46011e2b6",
+      "who": "sbrannen@pivotal.io",
+      "when": "2019-05-23T18:14:52+02:00",
+      "all": 37,
+      "test": 37,
+      "testable": 37,
+      "pct": 100.0
+    },
+    {
+      "id": "4fe8b6356178b11c21ee6b3c0dce6268377ced1d",
+      "who": "sormuras@gmail.com",
+      "when": "2019-05-23T17:50:24+02:00",
+      "all": 55,
+      "test": 23,
+      "testable": 55,
+      "pct": 41.8
+    },
+    {
+      "id": "db333bf24c9b984cb8676332f2561c9f423f58e8",
+      "who": "sbrannen@pivotal.io",
+      "when": "2019-05-23T16:31:50+02:00",
+      "all": 34,
+      "test": 19,
+      "testable": 22,
+      "pct": 86.4
+    },
+    {
+      "id": "712352f49d95390f8095c8f03812708fdde83574",
+      "who": "sbrannen@pivotal.io",
+      "when": "2019-05-23T14:35:44+02:00",
+      "all": 4,
+      "test": 0,
+      "testable": 4,
+      "pct": 0.0
+    },
+    {
+      "id": "c4bc11a662506ae9d1633552155e8ffa02e3c930",
+      "who": "gopinathlangote11@gmail.com",
+      "when": "2019-05-23T09:50:27+02:00",
+      "all": 720,
+      "test": 520,
+      "testable": 679,
+      "pct": 76.6
+    }
+  ],
+  "description": "JUnit 5 (master branch)",
+  "baseURL": "https://github.com/junit-team/junit5/commit/"
+}

@@ -1,0 +1,33 @@
+{
+  "commits": [
+    {
+      "id": "ad5b5cf7c6ab7d3142973fce0636780b5d92ff84",
+      "who": "sam@sambrannen.com",
+      "when": "2018-03-02T20:38:02+00:00",
+      "all": 49,
+      "test": 49,
+      "testable": 49,
+      "pct": 100.0
+    },
+    {
+      "id": "78b284370d8d00e712a83ae4b73c7110d51b8db8",
+      "who": "sam@sambrannen.com",
+      "when": "2018-03-02T19:34:41+00:00",
+      "all": 15,
+      "test": 0,
+      "testable": 15,
+      "pct": 0.0
+    },
+    {
+      "id": "77eb6eafe1b2ba45b340cc86e7e7240b307bcb56",
+      "who": "sormuras@gmail.com",
+      "when": "2018-03-02T10:32:31+01:00",
+      "all": 52,
+      "test": 7,
+      "testable": 52,
+      "pct": 13.5
+    }
+  ],
+  "description": "JUnit 5 (master branch)",
+  "baseURL": "https://github.com/junit-team/junit5/commit/"
+}

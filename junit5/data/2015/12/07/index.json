@@ -1,0 +1,42 @@
+{
+  "commits": [
+    {
+      "id": "5eb46423110cacebed9ba92f80d87b7d42730934",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-07T15:45:23+01:00",
+      "all": 60,
+      "test": 60,
+      "testable": 60,
+      "pct": 100.0
+    },
+    {
+      "id": "e4c640078022076935caef8edd312ea547f3b9d1",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-07T15:01:16+01:00",
+      "all": 609,
+      "test": 123,
+      "testable": 609,
+      "pct": 20.2
+    },
+    {
+      "id": "830b6d5976b6db01dad3866cfb3d54c6216b1252",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-07T13:10:21+01:00",
+      "all": 481,
+      "test": 2,
+      "testable": 481,
+      "pct": 0.4
+    },
+    {
+      "id": "804ae15cdb3ea86311bad4c99a377e5104dd5de9",
+      "who": "mail@marcphilipp.de",
+      "when": "2015-12-07T21:37:51+01:00",
+      "all": 100,
+      "test": 27,
+      "testable": 27,
+      "pct": 100.0
+    }
+  ],
+  "description": "JUnit 5 (master branch)",
+  "baseURL": "https://github.com/junit-team/junit5/commit/"
+}

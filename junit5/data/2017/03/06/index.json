@@ -1,0 +1,78 @@
+{
+  "commits": [
+    {
+      "id": "4ddb1cc3c80c4ecbc1b1f39277d1a69398060d96",
+      "who": "mail@marcphilipp.de",
+      "when": "2017-03-06T22:17:38+01:00",
+      "all": 18,
+      "test": 11,
+      "testable": 18,
+      "pct": 61.1
+    },
+    {
+      "id": "9838fabf19e19b0e6cc80da85aeac94b427867d5",
+      "who": "mail@marcphilipp.de",
+      "when": "2017-03-06T20:32:42+01:00",
+      "all": 205,
+      "test": 98,
+      "testable": 205,
+      "pct": 47.8
+    },
+    {
+      "id": "a9c8c6822bc0110af9528b3d385373da70e347a7",
+      "who": "mail@marcphilipp.de",
+      "when": "2017-03-06T20:01:55+01:00",
+      "all": 33,
+      "test": 0,
+      "testable": 33,
+      "pct": 0.0
+    },
+    {
+      "id": "34a9836c862be7095055efaf2799f862033f8280",
+      "who": "sormuras@gmail.com",
+      "when": "2017-03-06T22:43:37+01:00",
+      "all": 106,
+      "test": 9,
+      "testable": 16,
+      "pct": 56.2
+    },
+    {
+      "id": "8481d5ebcf1dbae85747543089fae12cd3b93fc0",
+      "who": "sormuras@gmail.com",
+      "when": "2017-03-06T21:27:48+01:00",
+      "all": 576,
+      "test": 2,
+      "testable": 2,
+      "pct": 100.0
+    },
+    {
+      "id": "3d42c85d9816118449a1ab7bbafc0edbad1d8a7b",
+      "who": "sormuras@gmail.com",
+      "when": "2017-03-06T21:08:21+01:00",
+      "all": 90,
+      "test": 83,
+      "testable": 90,
+      "pct": 92.2
+    },
+    {
+      "id": "04422e32d6a615779d98b1a30db39bbda362951c",
+      "who": "sormuras@gmail.com",
+      "when": "2017-03-06T14:00:57+01:00",
+      "all": 130,
+      "test": 114,
+      "testable": 127,
+      "pct": 89.8
+    },
+    {
+      "id": "9704d7c35fa432f0d40d961e2bfea8d88617a69e",
+      "who": "sormuras@gmail.com",
+      "when": "2017-03-06T11:02:40+01:00",
+      "all": 1107,
+      "test": 283,
+      "testable": 283,
+      "pct": 100.0
+    }
+  ],
+  "description": "JUnit 5 (master branch)",
+  "baseURL": "https://github.com/junit-team/junit5/commit/"
+}

@@ -1,0 +1,33 @@
+{
+  "commits": [
+    {
+      "id": "9cf5b64d8dbbb064fed3d4ee88eced2b6a7d50fe",
+      "who": "ricky@dius.com.au",
+      "when": "2013-07-02T21:23:20+10:00",
+      "all": 70,
+      "test": 22,
+      "testable": 70,
+      "pct": 31.4
+    },
+    {
+      "id": "f6a3d7405b72966d3714355804e1b3c14b1425cb",
+      "who": "mail@stefan-birkner.de",
+      "when": "2013-07-02T00:23:02+02:00",
+      "all": 151,
+      "test": 97,
+      "testable": 151,
+      "pct": 64.2
+    },
+    {
+      "id": "334bd9ce923cf0293cbca49be4ae5947abf51897",
+      "who": "tibor17@lycos.com",
+      "when": "2013-07-02T22:13:09+02:00",
+      "all": 44,
+      "test": 0,
+      "testable": 44,
+      "pct": 0.0
+    }
+  ],
+  "description": "JUnit 4 (master branch)",
+  "baseURL": "https://github.com/junit-team/junit4/commit/"
+}

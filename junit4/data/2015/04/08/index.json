@@ -1,0 +1,33 @@
+{
+  "commits": [
+    {
+      "id": "f4a13cb4962280cd58a7c4bba7397f55ea829281",
+      "who": "charlie@yandex-team.ru",
+      "when": "2015-04-08T13:49:15+03:00",
+      "all": 160,
+      "test": 47,
+      "testable": 160,
+      "pct": 29.4
+    },
+    {
+      "id": "9f87b7819a63b53aae70e79fb72cc00e1837a3b6",
+      "who": "charlie@yandex-team.ru",
+      "when": "2015-04-08T16:04:14+03:00",
+      "all": 29,
+      "test": 0,
+      "testable": 29,
+      "pct": 0.0
+    },
+    {
+      "id": "2adef6f30c64c5e5e14e9261637d113f7adda884",
+      "who": "mail@stefan-birkner.de",
+      "when": "2015-04-08T01:33:35+02:00",
+      "all": 30,
+      "test": 0,
+      "testable": 30,
+      "pct": 0.0
+    }
+  ],
+  "description": "JUnit 4 (master branch)",
+  "baseURL": "https://github.com/junit-team/junit4/commit/"
+}
