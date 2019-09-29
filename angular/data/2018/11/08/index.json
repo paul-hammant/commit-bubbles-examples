@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "a6809e0e7dda65cf82054ca24efdc315f24bb2f3",
-      "who": "psreep@gmail.com",
+      "who": "Vani <psreep@gmail.com>",
       "when": "2018-11-08T10:43:39-08:00",
       "all": 73,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "395fb186a4daf86f550c88039b6794bb2c10a721",
-      "who": "sarunint@sarunint.com",
+      "who": "Sarun Intaralawan <sarunint@sarunint.com>",
       "when": "2018-11-08T04:34:13+07:00",
       "all": 5,
       "test": 0,
@@ -19,8 +19,17 @@
       "pct": 0.0
     },
     {
+      "id": "572fd7a79ac759ee3056987d98f59f342cacd976",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-11-08T18:50:49+01:00",
+      "all": 13,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "a752971bca0ab434971b61569545b55d4c883505",
-      "who": "sarunint@sarunint.com",
+      "who": "Sarun Intaralawan <sarunint@sarunint.com>",
       "when": "2018-11-08T04:18:08+07:00",
       "all": 99,
       "test": 87,
@@ -29,7 +38,7 @@
     },
     {
       "id": "78b6f88cb396748985eedc4847b3855707ac6140",
-      "who": "karakara@google.com",
+      "who": "Kara Erickson <karakara@google.com>",
       "when": "2018-11-08T15:57:17-08:00",
       "all": 86,
       "test": 86,
@@ -38,7 +47,7 @@
     },
     {
       "id": "552836ebf0de61797f00dc3c9206e09c74f9458b",
-      "who": "karakara@google.com",
+      "who": "Kara Erickson <karakara@google.com>",
       "when": "2018-11-08T11:46:33-08:00",
       "all": 101,
       "test": 99,
@@ -47,7 +56,7 @@
     },
     {
       "id": "2f36a9591d572c8f217014f88f7064b1501a21dc",
-      "who": "karakara@google.com",
+      "who": "Kara Erickson <karakara@google.com>",
       "when": "2018-11-08T11:26:28-08:00",
       "all": 186,
       "test": 98,
@@ -56,12 +65,30 @@
     },
     {
       "id": "499e303ea35c1ef03f762ad2bb654cf5cdd763a0",
-      "who": "igor@angular.io",
+      "who": "Igor Minar <igor@angular.io>",
       "when": "2018-11-08T18:25:33+01:00",
       "all": 75,
       "test": 3,
       "testable": 61,
       "pct": 4.9
+    },
+    {
+      "id": "b9eeb1c3836bf029bf49d1ad951f9ee1f8c7471e",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-11-08T16:30:58+01:00",
+      "all": 4,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "791d192e63e16afa6e61f7a20ff5ae539c9c8bd1",
+      "who": "Vito Meuli <vitomeuli@libero.it>",
+      "when": "2018-11-08T09:57:02+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

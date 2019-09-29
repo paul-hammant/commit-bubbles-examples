@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "68bc02c36c00fa0e1601a76c38c89a5d47a80105",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2014-12-23T19:26:34+01:00",
       "all": 95,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "5870e22423e069452e9f858b80ac40bfc455bfe6",
-      "who": "matt@genges.com",
+      "who": "Matt Stancliff <matt@genges.com>",
       "when": "2014-12-23T10:10:42-05:00",
       "all": 160,
       "test": 0,
@@ -20,16 +20,16 @@
     },
     {
       "id": "9e718a1f57a18d685fc63cff9ffdeef3af734969",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2014-12-23T14:54:56+01:00",
-      "all": 74,
+      "all": 0,
       "test": 0,
-      "testable": 6,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "840435ad0be252094b118af428590ba45ba1cec2",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2014-12-23T14:52:57+01:00",
       "all": 11,
       "test": 0,
@@ -37,12 +37,21 @@
       "pct": 0.0
     },
     {
-      "id": "3a1ee895fad8798666d609a1dd327671327d73c6",
-      "who": "antirez@gmail.com",
-      "when": "2014-12-23T10:58:43+01:00",
-      "all": 6,
+      "id": "f7bc1fcea9b5ffe2bf7924a2a5d10981761dab16",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
+      "when": "2014-12-23T11:00:00+01:00",
+      "all": 0,
       "test": 0,
-      "testable": 6,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "3a1ee895fad8798666d609a1dd327671327d73c6",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
+      "when": "2014-12-23T10:58:43+01:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     }
   ],

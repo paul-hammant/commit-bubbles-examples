@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "892f798b459e3ffa1666b6514f1682ba5dde2525",
-      "who": "twic@urchin.earth.li",
+      "who": "Tom Anderson <twic@urchin.earth.li>",
       "when": "2016-05-15T23:42:19+01:00",
       "all": 210,
       "test": 210,
@@ -11,12 +11,21 @@
     },
     {
       "id": "a688f6cecfe303b02087747226e5c376aebb0c44",
-      "who": "twic@urchin.earth.li",
+      "who": "Tom Anderson <twic@urchin.earth.li>",
       "when": "2016-05-15T23:35:58+01:00",
       "all": 101,
       "test": 44,
       "testable": 101,
       "pct": 43.6
+    },
+    {
+      "id": "2bf3509dfe58fcf768a5f3b624284df8cdb61e5c",
+      "who": "Alberto Scotto <scotto.alberto.86@gmail.com>",
+      "when": "2016-05-15T22:37:21+01:00",
+      "all": 18,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 4 (master branch)",

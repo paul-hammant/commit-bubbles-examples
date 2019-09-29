@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "5d05993602fc1e0ef384f3193790053ea706d0cd",
-      "who": "charlie@yandex-team.ru",
+      "who": "charlie <charlie@yandex-team.ru>",
       "when": "2014-05-03T21:09:47+04:00",
       "all": 112,
       "test": 109,
@@ -10,22 +10,40 @@
       "pct": 97.3
     },
     {
+      "id": "aea63f059d16607879e5710098fdab208d6d5cb0",
+      "who": "Stefan Birkner <mail@stefan-birkner.de>",
+      "when": "2014-05-03T15:16:55+02:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "5784c8ab4042079a2df939fc5473cbebde697912",
-      "who": "mail@stefan-birkner.de",
+      "who": "Stefan Birkner <mail@stefan-birkner.de>",
       "when": "2014-05-03T14:01:49+02:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "56a03468f394f23a95f3a0cd2e80f2671963941d",
+      "who": "ancosen <ancosen@gmail.com>",
+      "when": "2014-05-03T09:17:38+02:00",
       "all": 8,
       "test": 5,
       "testable": 8,
       "pct": 62.5
     },
     {
-      "id": "56a03468f394f23a95f3a0cd2e80f2671963941d",
-      "who": "ancosen@gmail.com",
-      "when": "2014-05-03T09:17:38+02:00",
-      "all": 8,
-      "test": 5,
-      "testable": 8,
-      "pct": 62.5
+      "id": "a6282ab95e1f4cf308899407b612a0664d6a776f",
+      "who": "Tibor Digana <tibor17@lycos.com>",
+      "when": "2014-05-03T00:02:44+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 4 (master branch)",

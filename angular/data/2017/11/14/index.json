@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "8ecda94899e6751960545a80339f16629e7673bb",
-      "who": "chuckj@google.com",
+      "who": "Chuck Jazdzewski <chuckj@google.com>",
       "when": "2017-11-14T17:49:47-08:00",
       "all": 1566,
       "test": 645,
@@ -11,7 +11,7 @@
     },
     {
       "id": "6e83204238952dca1092d0d87f110dbd680ee16e",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2017-11-14T11:29:16-08:00",
       "all": 51,
       "test": 0,
@@ -20,7 +20,7 @@
     },
     {
       "id": "de783079285223eb9e29cfd4d19b7786cc201c9b",
-      "who": "olivier.combe@gmail.com",
+      "who": "Olivier Combe <olivier.combe@gmail.com>",
       "when": "2017-11-14T10:22:19+01:00",
       "all": 14,
       "test": 0,
@@ -29,12 +29,21 @@
     },
     {
       "id": "437a0446e24d4b59436dfe178417dcdd04166c6b",
-      "who": "jasonaden@google.com",
+      "who": "Jason Aden <jasonaden@google.com>",
       "when": "2017-11-14T10:41:37-08:00",
       "all": 18,
       "test": 11,
       "testable": 18,
       "pct": 61.1
+    },
+    {
+      "id": "1adbcda12eb77e99a280ad10db74c8ef125a35f8",
+      "who": "Leo Globerman <ygloberman@protonmail.com>",
+      "when": "2017-11-14T16:42:05-05:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

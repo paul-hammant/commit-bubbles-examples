@@ -2,7 +2,7 @@
   "commits": [
     {
       "all": 12, 
-      "who": "james.mudd@gmail.com", 
+      "who": "James Mudd <james.mudd@gmail.com>", 
       "when": "2019-04-17T22:04:22+01:00", 
       "pct": 58.0, 
       "test": 7, 
@@ -11,12 +11,21 @@
     }, 
     {
       "all": 11, 
-      "who": "phoenix384@gmx.de", 
+      "who": "phoenix384 <phoenix384@gmx.de>", 
       "when": "2019-04-24T20:39:35+02:00", 
       "pct": 0.0, 
       "test": 0, 
       "testable": 11, 
       "id": "5f54700d857619358c6467dc0e41e8d96ab4c235"
+    }, 
+    {
+      "all": 6, 
+      "who": "Joe Schmetzer <joe@exubero.com>", 
+      "when": "2019-04-03T09:00:47+11:00", 
+      "pct": 0.0, 
+      "test": 0, 
+      "testable": 0, 
+      "id": "133ac3de682ef21f8a4c972a2c46f7316042e14c"
     }
   ], 
   "description": "Hamcrest Java (master branch)", 

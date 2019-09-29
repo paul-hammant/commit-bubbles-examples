@@ -1,8 +1,26 @@
 {
   "commits": [
     {
+      "id": "a9379e0ed2b823b1c6ff13a79287c346ece60c79",
+      "who": "Alex Eagle <alexeagle@angular.io>",
+      "when": "2019-04-22T18:33:58-07:00",
+      "all": 137,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "6da19599deba132491a15a1ede3df82c1cf2ea06",
+      "who": "Filipe Silva <filipematossilva@gmail.com>",
+      "when": "2019-04-22T12:13:15+01:00",
+      "all": 12,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "3a9cf3f2babd4939f34883bf8704bb76c759ea36",
-      "who": "jasonaden@google.com",
+      "who": "Jason Aden <jasonaden@google.com>",
       "when": "2019-04-22T15:48:27-07:00",
       "all": 70,
       "test": 50,
@@ -10,8 +28,26 @@
       "pct": 71.4
     },
     {
+      "id": "00ea3983e37ade9a37b962ee9ade522435ff1f05",
+      "who": "Dustin M. Eastway <dustin.eastway@gmail.com>",
+      "when": "2019-04-22T21:12:32-04:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d0ca7c792d38bc472a7fb67d6def48901a9a270a",
+      "who": "Andrew Kushnir <akushnir@google.com>",
+      "when": "2019-04-22T21:11:26-07:00",
+      "all": 8,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "aaf8145c480682238ea4f720c4509763173898ec",
-      "who": "akushnir@google.com",
+      "who": "Andrew Kushnir <akushnir@google.com>",
       "when": "2019-04-22T18:04:53-07:00",
       "all": 42,
       "test": 22,
@@ -20,7 +56,7 @@
     },
     {
       "id": "364250e7a6a29b4961d9c3cffd23f0a6fde22e48",
-      "who": "paulgschwendtner@gmail.com",
+      "who": "Paul Gschwendtner <paulgschwendtner@gmail.com>",
       "when": "2019-04-22T21:11:29+02:00",
       "all": 252,
       "test": 123,
@@ -29,7 +65,7 @@
     },
     {
       "id": "00ce9aab5b8d3295b8e570e3fdb5f25f9af5738f",
-      "who": "akushnir@google.com",
+      "who": "Andrew Kushnir <akushnir@google.com>",
       "when": "2019-04-22T15:42:53-07:00",
       "all": 13,
       "test": 13,
@@ -38,7 +74,7 @@
     },
     {
       "id": "8e73f9b0aaaa64f6321f3fa5cbeb3aa7c52b352e",
-      "who": "alx+alxhub@alxandria.net",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
       "when": "2019-04-22T15:22:52-07:00",
       "all": 54,
       "test": 37,
@@ -47,7 +83,7 @@
     },
     {
       "id": "19dfadb7177dd9c7face61e219e331ddca631f4a",
-      "who": "joost.koehoorn@gmail.com",
+      "who": "JoostK <joost.koehoorn@gmail.com>",
       "when": "2019-04-22T12:48:06+02:00",
       "all": 52,
       "test": 49,
@@ -56,7 +92,7 @@
     },
     {
       "id": "8c80b851c868a7440be7e6782e8c9c9ab00f6e32",
-      "who": "joost.koehoorn@gmail.com",
+      "who": "JoostK <joost.koehoorn@gmail.com>",
       "when": "2019-04-22T14:57:31+02:00",
       "all": 154,
       "test": 106,
@@ -65,7 +101,7 @@
     },
     {
       "id": "63523f79649a59e03576497916ce88a00661bc9f",
-      "who": "crisbeto@abv.bg",
+      "who": "Kristiyan Kostadinov <crisbeto@abv.bg>",
       "when": "2019-04-22T10:28:59+02:00",
       "all": 89,
       "test": 74,
@@ -74,7 +110,7 @@
     },
     {
       "id": "a9242c4fc22f526a3dc592113880d68d7499e91c",
-      "who": "paulgschwendtner@gmail.com",
+      "who": "Paul Gschwendtner <paulgschwendtner@gmail.com>",
       "when": "2019-04-22T13:19:23+02:00",
       "all": 216,
       "test": 50,
@@ -82,13 +118,31 @@
       "pct": 23.1
     },
     {
+      "id": "94aeeec1dc8efbf3802f7b7733b8e65ee0c24d9b",
+      "who": "Ben Lesh <ben@benlesh.com>",
+      "when": "2019-04-22T09:50:05-07:00",
+      "all": 23,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "8cba4e1f6b55d63aa36af576fcd4b963ca472a21",
-      "who": "joost.koehoorn@gmail.com",
+      "who": "JoostK <joost.koehoorn@gmail.com>",
       "when": "2019-04-22T00:57:55+02:00",
       "all": 33,
       "test": 22,
       "testable": 33,
       "pct": 66.7
+    },
+    {
+      "id": "5a07aa484d7878f9e95f8b5cb29d91734c1fea32",
+      "who": "Suguru Inatomi <suguru.inatomi@gmail.com>",
+      "when": "2019-04-22T10:23:31+09:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

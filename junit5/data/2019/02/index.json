@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "80a688865077ea7b99fcf0e720ed8a5b54c7423d",
-      "who": "sbrannen@pivotal.io",
+      "who": "Sam Brannen <sbrannen@pivotal.io>",
       "when": "2019-02-24T16:09:02+01:00",
       "all": 78,
       "test": 30,
@@ -10,8 +10,26 @@
       "pct": 42.9
     },
     {
+      "id": "7312743fbabeb1313726225ff49fd445c017ace2",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2019-02-10T13:25:46+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d840c22f2db421fa64429d853b7548f4e339e47b",
+      "who": "Marc Philipp <marc@gradle.com>",
+      "when": "2019-02-27T09:46:58+01:00",
+      "all": 24,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "4f4dd3177625e88dc31e55d19eb1ef37750dee43",
-      "who": "gopinathlangote11@gmail.com",
+      "who": "Gopinath Langote <gopinathlangote11@gmail.com>",
       "when": "2019-02-17T21:55:52+01:00",
       "all": 32,
       "test": 18,
@@ -20,7 +38,7 @@
     },
     {
       "id": "71ce558ed3c20eb47f22bf8027af08a3cbbad575",
-      "who": "s.schrottner@netconomy.net",
+      "who": "Simon Schrottner <s.schrottner@netconomy.net>",
       "when": "2019-02-17T22:27:29+01:00",
       "all": 57,
       "test": 37,
@@ -28,8 +46,17 @@
       "pct": 71.2
     },
     {
+      "id": "a4bcd32b49eb0495674e3e482f01f0b36aa13f81",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2019-02-08T17:44:46+01:00",
+      "all": 12,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "b07d64a0ff9463f74088ede5e5781815c68f37bd",
-      "who": "sormuras@gmail.com",
+      "who": "Christian Stein <sormuras@gmail.com>",
       "when": "2019-02-08T14:05:47+01:00",
       "all": 81,
       "test": 78,
@@ -38,7 +65,7 @@
     },
     {
       "id": "5e41ebe612fd67e905f96f1dd3184a071b65be17",
-      "who": "team@junit.org",
+      "who": "JUnit Team <team@junit.org>",
       "when": "2019-02-27T13:55:17+01:00",
       "all": 2835,
       "test": 1416,
@@ -46,8 +73,26 @@
       "pct": 50.5
     },
     {
+      "id": "10b8e85e4765d88a356ede12f5740f105306a43d",
+      "who": "Marc Philipp <marc@gradle.com>",
+      "when": "2019-02-27T09:46:58+01:00",
+      "all": 24,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "311bb71a793c07d7e3000a5d32204e0cf598f590",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2019-02-18T18:28:34+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "e2daea8c02060ba8945cda5d52d351cc79672f2d",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2019-02-15T13:43:24+01:00",
       "all": 54,
       "test": 54,
@@ -56,7 +101,7 @@
     },
     {
       "id": "c7c579633b8b1e61a4551f1c0530fe10999e7ac4",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2019-02-10T15:04:25+01:00",
       "all": 22,
       "test": 0,
@@ -64,8 +109,26 @@
       "pct": 0.0
     },
     {
+      "id": "499fd836c08a4fa79e4b61c175856a548ec382f3",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2019-02-10T13:25:46+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "06d7a26b2afe2850a8267a3f0b8b4af276c455f1",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2019-02-08T19:43:23+01:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "26754bd9dcd12b1f84d1aae53104468e6a70a70d",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2019-02-08T19:30:00+01:00",
       "all": 30,
       "test": 0,
@@ -74,7 +137,7 @@
     },
     {
       "id": "405277215a4a7d2440888aee43faf8330768d09e",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2019-02-08T19:23:27+01:00",
       "all": 17,
       "test": 0,
@@ -83,7 +146,7 @@
     },
     {
       "id": "207d6db445806ae70c5de35a01bf76ae7dd5d595",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2019-02-08T19:23:02+01:00",
       "all": 13,
       "test": 11,
@@ -91,8 +154,26 @@
       "pct": 84.6
     },
     {
+      "id": "e5f9cbfddc5a5a27a61bafe63dc134a00469fd39",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2019-02-08T19:18:25+01:00",
+      "all": 4,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "cc7cc19d5d186b268298ff9186d309ecb6228839",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2019-02-08T19:18:02+01:00",
+      "all": 317,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "8860b7fbfb2a6bc94b30388cb75f6773c9655f3f",
-      "who": "sormuras@gmail.com",
+      "who": "Christian Stein <sormuras@gmail.com>",
       "when": "2019-02-08T17:51:54+01:00",
       "all": 9,
       "test": 0,
@@ -100,8 +181,17 @@
       "pct": 0.0
     },
     {
+      "id": "20c62ad0dd97003e6693080fda503f697f1463fd",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2019-02-08T17:46:24+01:00",
+      "all": 61,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "1b041b14e1dfbcc2b4cd1080aed34e72f05fc42d",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2019-02-08T17:50:08+01:00",
       "all": 3,
       "test": 3,
@@ -109,8 +199,17 @@
       "pct": 100.0
     },
     {
+      "id": "c2ae582582120dbe45021e2f8cb075047c086f18",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2019-02-08T17:44:46+01:00",
+      "all": 12,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "132e6f44d698b2c7398fb0544369035b3746c163",
-      "who": "grossws@gmail.com",
+      "who": "Konstantin Gribov <grossws@gmail.com>",
       "when": "2019-02-08T19:23:59+03:00",
       "all": 134,
       "test": 69,
@@ -119,7 +218,7 @@
     },
     {
       "id": "f23b287543fcabbc60aaec0b8d441a16de7089d4",
-      "who": "sormuras@gmail.com",
+      "who": "Christian Stein <sormuras@gmail.com>",
       "when": "2019-02-08T14:05:47+01:00",
       "all": 81,
       "test": 78,
@@ -127,8 +226,35 @@
       "pct": 100.0
     },
     {
+      "id": "3be16fef47c74f02dc8673d50a33f0ea984808d9",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2019-02-08T13:43:57+01:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "ec327d0f3b5e9851e6b006ff666ee18666708f9a",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2019-02-07T21:37:26+01:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "b4e64d6ab2048e31c3b690751ed674172c729455",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2019-02-07T21:10:01+01:00",
+      "all": 26,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "4544de38863e2abd2c52d4b430e3915184d11939",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2019-02-07T20:54:02+01:00",
       "all": 117,
       "test": 0,
@@ -137,7 +263,7 @@
     },
     {
       "id": "29c7ad95cef97d4b13495de6a61ee5bbd06cc739",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2019-02-07T20:41:03+01:00",
       "all": 90,
       "test": 0,
@@ -145,8 +271,35 @@
       "pct": 0.0
     },
     {
+      "id": "29673c6dfafdddcad9830639fb87ae1e71186338",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2019-02-07T14:50:58+01:00",
+      "all": 33,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d26f14fb4beca19402620d44176c8d7e0ab8b533",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2019-02-07T14:50:12+01:00",
+      "all": 15,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "98b1c3cace90792fdf8fac5d3d99574de0612baf",
+      "who": "Dimitry Polivaev <dpolivaev@gmx.de>",
+      "when": "2019-02-07T14:43:23+01:00",
+      "all": 11,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "154ff89c8e62cf38118bb87018573acf8df3c182",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2019-02-07T14:27:43+01:00",
       "all": 17,
       "test": 0,
@@ -155,7 +308,7 @@
     },
     {
       "id": "f510e82e98fbe9150c29faf347b19ffeb3b98c8f",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2019-02-06T19:12:40+01:00",
       "all": 21,
       "test": 0,
@@ -164,7 +317,7 @@
     },
     {
       "id": "b89aa4827d1d96c51597364cdf350b13b48b6fc3",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2019-02-06T15:56:47+01:00",
       "all": 12,
       "test": 0,
@@ -172,8 +325,53 @@
       "pct": 0.0
     },
     {
+      "id": "fca28bd410a10128ee695627aec9b03729f51024",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2019-02-06T15:49:42+01:00",
+      "all": 63,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d06c603de9b648119d41bfc1f6cb132967f8cd4f",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2019-02-06T15:02:03+01:00",
+      "all": 40,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "e121693309ebd06b0dd27e9a38fe4aea87ff9ce4",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2019-02-05T18:52:25+01:00",
+      "all": 33,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "b5f3495fe6526469860b5e2a1592c58c33b761e8",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2019-02-05T18:45:49+01:00",
+      "all": 23,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "e2fec2b4b490fb5cd7529885fa273f3a0a4e708b",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2019-02-05T18:41:01+01:00",
+      "all": 48,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "50b1bfe53a83e76bc7874e3f61bcdfb178e09732",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2019-02-05T17:39:45+01:00",
       "all": 96,
       "test": 20,
@@ -181,8 +379,17 @@
       "pct": 100.0
     },
     {
+      "id": "842c93c46aefd608e58182edd6271b1b3d70ddd4",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2019-02-05T17:05:39+01:00",
+      "all": 13,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "a1fb439a79d2147af76eabe1e89a75e33ad5b99f",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2019-02-05T16:58:45+01:00",
       "all": 45,
       "test": 12,
@@ -190,8 +397,35 @@
       "pct": 100.0
     },
     {
+      "id": "3804182b1c26cb724aab86ccde155cc61cffc9b1",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2019-02-05T16:12:51+01:00",
+      "all": 36,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "6206a04a7d6c4d288da36051b3a882758d159734",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2019-02-05T10:09:36+01:00",
+      "all": 39,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "754f1eb0f106ab043d79de546d49769690a731b6",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2019-02-04T22:01:47+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "3744db0e69142c6cd52647c89ad734a4b2dcad41",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2019-02-04T21:30:38+01:00",
       "all": 16,
       "test": 16,
@@ -199,8 +433,26 @@
       "pct": 100.0
     },
     {
+      "id": "0e36d62a0d02c3de3c9f0a04a041c44fb2503c14",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2019-02-04T21:21:59+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "9beb8987b1e045ea73d951fe72a79bd32486b4e8",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2019-02-04T21:21:16+01:00",
+      "all": 10,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "98de5aeacab07bbd17322fddc27299f7b3c9df40",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2019-02-04T21:17:59+01:00",
       "all": 74,
       "test": 55,
@@ -208,8 +460,17 @@
       "pct": 78.6
     },
     {
+      "id": "72f6e496ab1cb31093cd925a126d5eae7ed2261a",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2019-02-04T20:53:15+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "c0199600306f6686616a7a8409812cfdd47f0616",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2019-02-04T20:17:08+01:00",
       "all": 38,
       "test": 38,
@@ -218,7 +479,7 @@
     },
     {
       "id": "6f63ed8df7e79b6d4619f77b33a5448c9899f906",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2019-02-04T20:16:46+01:00",
       "all": 3,
       "test": 0,
@@ -227,7 +488,7 @@
     },
     {
       "id": "21b0b0b650f91899a1fa42d01b4941607c270c51",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2019-02-04T20:18:01+01:00",
       "all": 12,
       "test": 0,
@@ -235,8 +496,71 @@
       "pct": 0.0
     },
     {
+      "id": "5ada6ce528b13d6ae5243ffb82f60b7e238f77fc",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2019-02-04T20:14:53+01:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "f681af72f8d4c97bc61d5643c6f43f1d313b629b",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2019-02-04T20:02:56+01:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "bec3c4fdee4d2af15a7d1b058b51a715cd97ccee",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2019-02-04T19:52:35+01:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "f3dcfe9fc02a47d27abe1f21d366ae01a96b8feb",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2019-02-04T19:40:06+01:00",
+      "all": 57,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "8ba5ba168225212ee46249e0719d0a8b9f01d728",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2019-02-04T19:35:03+01:00",
+      "all": 169,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "ef79a0c9367eff8f25642ebf5c3c720cc882762b",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2019-02-04T19:20:02+01:00",
+      "all": 247,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "dd275a028c0c139ea8b96f8c31485eea2a4f9ccd",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2019-02-04T16:30:23+01:00",
+      "all": 20,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "91e8cd6466d0ff05d5f63d74ce5b71a6cc6d3f60",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2019-02-02T17:34:28+01:00",
       "all": 22,
       "test": 0,
@@ -244,8 +568,17 @@
       "pct": 0.0
     },
     {
+      "id": "ac5f6573983318eede7d82c92e0d9b2a432346da",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2019-02-02T17:30:23+01:00",
+      "all": 65,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "635ea1a7dc2f7df009857ecbeebf0b907569b0d4",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2019-02-02T15:08:53+01:00",
       "all": 108,
       "test": 108,
@@ -254,7 +587,7 @@
     },
     {
       "id": "5fce6d0da71520a7ebe773e486adb1f455db8e4d",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2019-02-02T16:03:43+01:00",
       "all": 100,
       "test": 96,
@@ -263,7 +596,7 @@
     },
     {
       "id": "591e5c00ee4512d60c7a99ba07ad7b1d7918faff",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2019-02-02T14:00:13+01:00",
       "all": 188,
       "test": 188,
@@ -271,8 +604,44 @@
       "pct": 100.0
     },
     {
+      "id": "495e7caf4abb0e7d8e6611a0d9fbf067b6f7c2db",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2019-02-02T11:31:48+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "861259c7f417b74966e807bfc67a10669bd58585",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2019-02-01T15:38:55+01:00",
+      "all": 8,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "5b957f0433b53de9450044fce6216a4f8f3a9c02",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2019-02-01T13:17:06+01:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "99f38644d601166abd6ce80b42c1d25a2d67436c",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2019-02-01T12:38:53+01:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "3b3725a02b08d897c5e9bd431d4cde91275e57f3",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2019-02-01T11:07:58+01:00",
       "all": 7,
       "test": 0,

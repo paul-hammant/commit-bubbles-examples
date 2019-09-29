@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "6e828bba884daff3936cf7530c5a8eb3e4fa1796",
-      "who": "robwormald@gmail.com",
+      "who": "Rob Wormald <robwormald@gmail.com>",
       "when": "2018-07-11T15:57:27-07:00",
       "all": 199,
       "test": 169,
@@ -11,7 +11,7 @@
     },
     {
       "id": "169e9dd2c884b1ac23e2dbcfb4d18a89916bbfb6",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2018-07-11T10:58:18-07:00",
       "all": 1462,
       "test": 781,
@@ -20,7 +20,7 @@
     },
     {
       "id": "4d6f467feaed5a40128fbbb163c1ea25c6621822",
-      "who": "mytechde@outlook.com",
+      "who": "Daniel <mytechde@outlook.com>",
       "when": "2018-07-11T18:27:54+02:00",
       "all": 39,
       "test": 0,
@@ -29,7 +29,7 @@
     },
     {
       "id": "6eb6ac7c12c020ad027baf6fec3405e07de6a165",
-      "who": "alx+alxhub@alxandria.net",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
       "when": "2018-07-11T12:11:19-07:00",
       "all": 7,
       "test": 0,
@@ -38,7 +38,7 @@
     },
     {
       "id": "9be222f44824a3e28f5573e66728f0ebef5a4ee9",
-      "who": "jan.de.wilde87@gmail.com",
+      "who": "Jan De Wilde <jan.de.wilde87@gmail.com>",
       "when": "2018-07-11T16:34:56+02:00",
       "all": 39,
       "test": 0,
@@ -46,8 +46,17 @@
       "pct": 0.0
     },
     {
+      "id": "06a33984af3f875f7434375592e6fc3f6fff95bc",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2018-07-11T07:46:38-07:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "ba3eb8b654d77b504988f8f98eaa9e4b7c256b01",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2018-07-11T09:56:47-07:00",
       "all": 2676,
       "test": 1610,
@@ -55,13 +64,67 @@
       "pct": 62.7
     },
     {
+      "id": "97277bc9fb429a7122ffa2a1507418c9b76cc5f8",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2018-07-11T07:39:41-07:00",
+      "all": 17,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "ee50ee493d11d4810aa9d3ab2a778a3d469a3461",
+      "who": "Greg Magolan <gmagolan@gmail.com>",
+      "when": "2018-07-11T10:34:24-07:00",
+      "all": 24,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "0d6b74dd87414ca69e7f45925c76fa1359dfc460",
+      "who": "Arun Kumar <palerdot@users.noreply.github.com>",
+      "when": "2018-07-11T11:41:18+05:30",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "52d11f63cf18596d9fb7900de1f589ad77bd18ef",
+      "who": "Mi\u00c5\u00a1ko Hevery <misko@hevery.com>",
+      "when": "2018-07-11T14:34:14-07:00",
+      "all": 10,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "a14f25c33880739a722ba1d188f83ab783aa2051",
+      "who": "Mi\u00c5\u00a1ko Hevery <misko@hevery.com>",
+      "when": "2018-07-11T14:20:42-07:00",
+      "all": 36,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "0b4d85e9f19246af68a75140afc4db3d97f9ddfd",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2018-07-11T08:58:30-07:00",
       "all": 25,
       "test": 5,
       "testable": 25,
       "pct": 20.0
+    },
+    {
+      "id": "b9e095aa31f0706307fb4633ccd02b645b915d6b",
+      "who": "Mi\u00c5\u00a1ko Hevery <misko@hevery.com>",
+      "when": "2018-07-11T13:43:59-07:00",
+      "all": 22,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

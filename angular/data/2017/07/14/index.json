@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "5ba1cf10633d9eefb164229248e9074cac40e7d7",
-      "who": "jasonaden@google.com",
+      "who": "Jason Aden <jasonaden@google.com>",
       "when": "2017-07-14T14:10:37-07:00",
       "all": 43,
       "test": 6,
@@ -11,7 +11,7 @@
     },
     {
       "id": "b4c98305dae1ed508503ca064d1fb8ae021a7603",
-      "who": "william.koza@gmail.com",
+      "who": "WilliamKoza <william.koza@gmail.com>",
       "when": "2017-07-14T12:55:45+02:00",
       "all": 21,
       "test": 0,
@@ -19,8 +19,35 @@
       "pct": 0.0
     },
     {
+      "id": "256bc8acdd2574dbdb1c955e5dc8523b39eb834a",
+      "who": "Scotty Waggoner <ozzieorca@gmail.com>",
+      "when": "2017-07-14T16:02:02-07:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "3f331b53b2d13671c3585a57fd228cc263d4b8d1",
+      "who": "Jeremy Elbourn <jelbourn@google.com>",
+      "when": "2017-07-14T11:20:29-07:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "0bb8423df90fa711e995f3c530835d202a82ed42",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
+      "when": "2017-07-14T12:32:26+01:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "c649da9f0af7874648e0b10685431b3eeb5e67c1",
-      "who": "kalpakas.g@gmail.com",
+      "who": "Georgios Kalpakas <kalpakas.g@gmail.com>",
       "when": "2017-07-14T14:09:30+03:00",
       "all": 120,
       "test": 0,
@@ -28,8 +55,44 @@
       "pct": 0.0
     },
     {
+      "id": "0bf0c35bca71550dc750029100a750585c0634df",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
+      "when": "2017-07-14T21:43:30+01:00",
+      "all": 15,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "97e6901dedbc08915974bb5da84c71cd1059af22",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
+      "when": "2017-07-14T14:54:31-07:00",
+      "all": 16,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "a0b06befb6972e96ce5b724c14a65f5382bd4eee",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
+      "when": "2017-07-14T13:12:37-07:00",
+      "all": 4172,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "4fbb5b29ea6508fcbc13b993549103fa7c2f6c6b",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
+      "when": "2017-07-14T12:50:40-07:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "3ecc5e539830bd04d92165c88480c860f0943f3d",
-      "who": "alx+alxhub@alxandria.net",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
       "when": "2017-07-14T09:44:33-07:00",
       "all": 33,
       "test": 0,
@@ -38,12 +101,21 @@
     },
     {
       "id": "f7686d412498719bc06f5fa09e788f3563a596b2",
-      "who": "alx+alxhub@alxandria.net",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
       "when": "2017-07-14T11:00:29-07:00",
       "all": 111,
       "test": 56,
       "testable": 111,
       "pct": 50.5
+    },
+    {
+      "id": "8e56c3cb3037f4dd8ab61cd0cf870457f2c329bf",
+      "who": "cexbrayat <cedric@ninja-squad.com>",
+      "when": "2017-07-14T09:25:16+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

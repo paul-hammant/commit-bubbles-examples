@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "f4566f8128774538331d6cdd7c6f296746350f31",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2016-10-05T17:05:50-07:00",
       "all": 43,
       "test": 20,
@@ -11,7 +11,7 @@
     },
     {
       "id": "a67c06708d5c65dcff5cf9d85edf86fa2074c082",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2016-10-05T16:36:42-07:00",
       "all": 17,
       "test": 9,
@@ -20,7 +20,7 @@
     },
     {
       "id": "d9d57d71dd68f2969aa3ffbc924c876da9dc16af",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2016-10-05T16:36:11-07:00",
       "all": 27,
       "test": 27,
@@ -29,7 +29,7 @@
     },
     {
       "id": "40b92ddf21f655636b4cdc97dead97c6c92074a4",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-10-05T15:37:32-07:00",
       "all": 24,
       "test": 14,
@@ -38,7 +38,7 @@
     },
     {
       "id": "1681e4f57f4c4fa45a556502df0533131c2d64b4",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-10-05T14:43:26-07:00",
       "all": 22,
       "test": 18,
@@ -46,8 +46,44 @@
       "pct": 81.8
     },
     {
+      "id": "df9761951bd41a4f2cf3a849352bf2cc63272612",
+      "who": "Chuck Jazdzewski <chuckj@google.com>",
+      "when": "2016-10-05T16:48:22-07:00",
+      "all": 31,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "f786c560f12fae42a702dc4ab45675319341bcc7",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2016-10-05T14:41:00-07:00",
+      "all": 31,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c5557de3e7c917f3f08c426f28cbd2a08ade2974",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2016-10-05T14:40:01-07:00",
+      "all": 15,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "ec3a5b54dea3fa296fd782257dbc02ba46965ea1",
+      "who": "Igor Minar <iminar@google.com>",
+      "when": "2016-10-05T11:37:28-07:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "4a57dcfd8dcd32ae08daaea90e1e81d93f40e4f1",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2016-10-05T01:14:23+02:00",
       "all": 12,
       "test": 10,

@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "7dcdd281f529dea2389509f90b101c0471f7f2bd",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2012-03-20T17:53:47+01:00",
       "all": 6,
       "test": 3,
@@ -11,11 +11,20 @@
     },
     {
       "id": "f3fd419fc95e78818f9eeef15eb2d2e5a60bfbbb",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2012-03-20T17:32:48+01:00",
       "all": 108,
       "test": 0,
       "testable": 99,
+      "pct": 0.0
+    },
+    {
+      "id": "7a0c72f34550c3811324464661f1b463ccfd362b",
+      "who": "antirez <antirez@gmail.com>",
+      "when": "2012-03-20T13:06:50+01:00",
+      "all": 195,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     }
   ],

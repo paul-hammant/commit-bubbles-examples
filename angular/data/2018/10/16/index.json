@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "496372dd30cc7713388aa92e44394f9af6a03d0c",
-      "who": "jasonaden@google.com",
+      "who": "Jason Aden <jasonaden@google.com>",
       "when": "2018-10-16T15:54:07-07:00",
       "all": 5,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "2f30bbb495a44e320f9bb6006d013b42948d1a3f",
-      "who": "pete@bacondarwin.com",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
       "when": "2018-10-16T09:46:59+01:00",
       "all": 34,
       "test": 9,
@@ -20,7 +20,7 @@
     },
     {
       "id": "030d43b9f3a0a9a2a7e26ae03bad2f7ecd1e0528",
-      "who": "pete@bacondarwin.com",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
       "when": "2018-10-16T08:56:54+01:00",
       "all": 972,
       "test": 376,
@@ -29,7 +29,7 @@
     },
     {
       "id": "081f95c812ab194dadad8e549c93cbbe9cc945f8",
-      "who": "jasonaden@google.com",
+      "who": "Jason Aden <jasonaden@google.com>",
       "when": "2018-10-16T19:50:48-07:00",
       "all": 297,
       "test": 150,
@@ -37,8 +37,17 @@
       "pct": 50.5
     },
     {
+      "id": "62b4ff52503a6857a98611441f4cf9e4e0efe540",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-10-16T12:12:43-07:00",
+      "all": 98,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "2a869271f6d5efbf4543a37595c4553729142c6f",
-      "who": "akushnir@google.com",
+      "who": "Andrew Kushnir <akushnir@google.com>",
       "when": "2018-10-16T10:28:23-07:00",
       "all": 187,
       "test": 109,
@@ -47,7 +56,7 @@
     },
     {
       "id": "b647608c96057d49f2478cb54d3cf717006f4176",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2018-10-16T13:15:17+03:00",
       "all": 22,
       "test": 0,
@@ -56,7 +65,7 @@
     },
     {
       "id": "31c462ae3f5b80002b6ef364706ddd73c0ed6f82",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2018-10-16T13:07:04+03:00",
       "all": 77,
       "test": 0,
@@ -64,8 +73,35 @@
       "pct": 0.0
     },
     {
+      "id": "8d5e3e6981bf071532d4a1b7f498770adf58aeb4",
+      "who": "Greg Magolan <gmagolan@gmail.com>",
+      "when": "2018-10-16T15:27:47-07:00",
+      "all": 653,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "30f1dc002ae880a51af03006b23ee17e577e5f03",
+      "who": "Greg Magolan <gmagolan@gmail.com>",
+      "when": "2018-10-16T13:56:31-07:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "5da3b00222a22d98666268042a8a0204c9f234ec",
+      "who": "Greg Magolan <gmagolan@gmail.com>",
+      "when": "2018-10-16T13:52:32-07:00",
+      "all": 1274,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "631998b2dfbeaaf75d464a1a5a659d7c0994b311",
-      "who": "gmagolan@gmail.com",
+      "who": "Greg Magolan <gmagolan@gmail.com>",
       "when": "2018-10-16T13:20:00-07:00",
       "all": 7765,
       "test": 0,
@@ -74,7 +110,7 @@
     },
     {
       "id": "31022cbecfcab0b45b2add444603a548ca7f72be",
-      "who": "alx+alxhub@alxandria.net",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
       "when": "2018-10-16T15:07:46-07:00",
       "all": 108,
       "test": 33,
@@ -83,7 +119,7 @@
     },
     {
       "id": "ce8053103efa7498318a8c8c15216ea35a08a20f",
-      "who": "alx+alxhub@alxandria.net",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
       "when": "2018-10-16T14:47:08-07:00",
       "all": 370,
       "test": 0,
@@ -92,7 +128,7 @@
     },
     {
       "id": "0b885ecaf79d85231e67122dc992e8e55c2d60d0",
-      "who": "alx+alxhub@alxandria.net",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
       "when": "2018-10-16T11:33:47-07:00",
       "all": 19,
       "test": 0,
@@ -100,13 +136,76 @@
       "pct": 0.0
     },
     {
+      "id": "624433c51d8675212f215c08a53217b32fae956f",
+      "who": "null-reference <guyfrompei@gmail.com>",
+      "when": "2018-10-16T14:49:10-04:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "a43b80a4c95e8218717547ba1cb247cb7b346fca",
+      "who": "Olivier Combe <olivier.combe@gmail.com>",
+      "when": "2018-10-16T17:19:24+02:00",
+      "all": 21,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "beebf7fe14072234d82805f6eb484d3645d8e709",
+      "who": "jenniferfell <jenniferfell.sf@gmail.com>",
+      "when": "2018-10-16T14:20:56-06:00",
+      "all": 90,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "0ef1f7ef0d9790dc02f09999482625415dac61cd",
+      "who": "jenniferfell <jenniferfell.sf@gmail.com>",
+      "when": "2018-10-16T15:22:23-06:00",
+      "all": 49,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "3fa876c5e72f275f5d4c4d11889dc9223bc047a0",
+      "who": "Vladimir Erygin <furevor@gmail.com>",
+      "when": "2018-10-16T16:36:59+07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "9e5d440a0b81869c97a2734801f19514e539c3b7",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2018-10-16T11:09:04-07:00",
       "all": 40,
       "test": 24,
       "testable": 40,
       "pct": 60.0
+    },
+    {
+      "id": "0f7d2ca7a81b9951863944e173ea77c783e423c0",
+      "who": "Mi\u00c5\u00a1ko Hevery <misko@hevery.com>",
+      "when": "2018-10-16T14:29:41-07:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "b115374601830ebd38ca643fd8d8c11cc50c5fc0",
+      "who": "Greg Magolan <gmagolan@gmail.com>",
+      "when": "2018-10-16T11:39:57-07:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "680d40f13f719dc5e34d89bc94b6dec6e1bbe02d",
-      "who": "oskar.berggren@gmail.com",
+      "who": "Oskar Berggren <oskar.berggren@gmail.com>",
       "when": "2016-12-04T15:16:22+01:00",
       "all": 7,
       "test": 7,
@@ -11,7 +11,7 @@
     },
     {
       "id": "8527e5a524e4bb554f3758bf06f7d963c6ded36e",
-      "who": "oskar.berggren@gmail.com",
+      "who": "Oskar Berggren <oskar.berggren@gmail.com>",
       "when": "2016-12-04T23:42:52+01:00",
       "all": 210,
       "test": 0,
@@ -20,16 +20,16 @@
     },
     {
       "id": "39063564d267becb997188708d56396a46362162",
-      "who": "oskar.berggren@gmail.com",
+      "who": "Oskar Berggren <oskar.berggren@gmail.com>",
       "when": "2016-12-04T21:38:54+00:00",
-      "all": 351,
-      "test": 47,
-      "testable": 349,
-      "pct": 13.5
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "de0255da5cfd97c88c0957d50a8af4933bbc43a4",
-      "who": "oskar.berggren@gmail.com",
+      "who": "Oskar Berggren <oskar.berggren@gmail.com>",
       "when": "2016-12-04T21:34:15+01:00",
       "all": 19,
       "test": 19,
@@ -38,7 +38,7 @@
     },
     {
       "id": "56198a961baf2814892db6c652cacdddcf852555",
-      "who": "oskar.berggren@gmail.com",
+      "who": "Oskar Berggren <oskar.berggren@gmail.com>",
       "when": "2016-12-04T21:28:21+01:00",
       "all": 7,
       "test": 7,
@@ -46,8 +46,17 @@
       "pct": 100.0
     },
     {
+      "id": "806c41d8c0879ff3bb25a9a90c00ea5caab87b69",
+      "who": "Oskar Berggren <oskar.berggren@gmail.com>",
+      "when": "2016-12-04T14:20:10+00:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "a2e4891ee658ce8148e6554918a133e857acfb44",
-      "who": "oskar.berggren@gmail.com",
+      "who": "Oskar Berggren <oskar.berggren@gmail.com>",
       "when": "2016-12-04T15:16:22+01:00",
       "all": 7,
       "test": 7,
@@ -56,12 +65,21 @@
     },
     {
       "id": "8dcdbacf97cb51d37f35ad82759009a94fb6ccd0",
-      "who": "oskar.berggren@gmail.com",
+      "who": "Oskar Berggren <oskar.berggren@gmail.com>",
       "when": "2016-12-04T14:51:01+01:00",
       "all": 9,
       "test": 9,
       "testable": 9,
       "pct": 100.0
+    },
+    {
+      "id": "342c3ff2043e5610b6cfaf8d301901602338639f",
+      "who": "Oskar Berggren <oskar.berggren@gmail.com>",
+      "when": "2016-12-04T13:24:25+01:00",
+      "all": 44,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "NHibernate (master branch)",

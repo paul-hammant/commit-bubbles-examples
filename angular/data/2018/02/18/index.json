@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "a7ebf5aadd709f9fba3c664cfa39afb22eda9881",
-      "who": "trotyl@qq.com",
+      "who": "Trotyl <trotyl@qq.com>",
       "when": "2018-02-18T17:22:23+08:00",
       "all": 11,
       "test": 8,
@@ -10,8 +10,17 @@
       "pct": 72.7
     },
     {
+      "id": "28ac24444f8379a34c2b7dc2c4cd46f2e62e623b",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2018-02-18T15:38:00-08:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "8115edc82f28aeee73dd205f352b3cca494bb2d4",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2018-02-18T18:41:43-08:00",
       "all": 50,
       "test": 34,
@@ -20,7 +29,7 @@
     },
     {
       "id": "a8b5465e24af83c9817bff71db4063abe3bd2099",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2018-02-18T16:02:47-08:00",
       "all": 8,
       "test": 8,
@@ -29,12 +38,39 @@
     },
     {
       "id": "c30d329faa41e11277fd19df759290c99244bf70",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2018-02-18T14:18:11-08:00",
       "all": 8,
       "test": 8,
       "testable": 8,
       "pct": 100.0
+    },
+    {
+      "id": "7c45db3a195bfbf505e2070e36c1f0ef91365cb9",
+      "who": "Derk Snijders - i3anaan <i3anaan@gmail.com>",
+      "when": "2018-02-18T12:10:12+01:00",
+      "all": 17,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "4ec40c6ab2e7194ce52169a072055baaa2a7a09b",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2018-02-18T01:40:01+02:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "7fa2d4b503a6c082d7e9666d2326f925ad26bcd9",
+      "who": "Victor Berchet <victor@suumit.com>",
+      "when": "2018-02-18T13:07:43-08:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "420e83a396ed5aee0c95a09c5d0877b956568c0f",
-      "who": "a@antonmoiseev.com",
+      "who": "Anton Moiseev <a@antonmoiseev.com>",
       "when": "2015-12-06T22:21:53+03:00",
       "all": 65,
       "test": 50,
@@ -11,7 +11,7 @@
     },
     {
       "id": "72444c40a75dce2846f29c596b516f49bb78f53f",
-      "who": "me@michaelmrowetz.com",
+      "who": "Michael Mrowetz <me@michaelmrowetz.com>",
       "when": "2015-12-06T17:04:53+09:00",
       "all": 3,
       "test": 0,
@@ -19,8 +19,35 @@
       "pct": 0.0
     },
     {
+      "id": "11f98c58b3af8de8df0021ccbda1fb5117f69ed2",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2015-12-06T10:11:12-08:00",
+      "all": 18,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c1e3ea9f7f2d68f000a792f843a8aa8b654de043",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2015-12-06T10:10:11-08:00",
+      "all": 12,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "21542ed0696e7bf53211fc7de5883d61c4cc5695",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2015-12-06T00:42:40-08:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "47f1d127316c84d07061f7a5088d3c5964e2e2c4",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-12-06T13:12:41-08:00",
       "all": 13,
       "test": 8,
@@ -29,7 +56,7 @@
     },
     {
       "id": "aecf68117a7d5cebaaf77b0a170ce6820c274989",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-12-06T13:11:00-08:00",
       "all": 123,
       "test": 54,
@@ -38,7 +65,7 @@
     },
     {
       "id": "daaa8ee1cd35d45bbd52f6c79a9d6fe05be54e3f",
-      "who": "tero@teropa.info",
+      "who": "Tero Parviainen <tero@teropa.info>",
       "when": "2015-12-06T14:21:34+02:00",
       "all": 115,
       "test": 20,
@@ -47,11 +74,20 @@
     },
     {
       "id": "e6170e8ac32deedac0ebe7a42703b60ebe97222b",
-      "who": "cedric@ninja-squad.com",
+      "who": "cexbrayat <cedric@ninja-squad.com>",
       "when": "2015-12-06T10:35:39+01:00",
       "all": 15,
       "test": 0,
       "testable": 15,
+      "pct": 0.0
+    },
+    {
+      "id": "0a44fc69fe6545b1ef1ca0d1f9f289e66b585229",
+      "who": "Rob Wormald <robwormald@gmail.com>",
+      "when": "2015-12-06T01:16:50-08:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     }
   ],

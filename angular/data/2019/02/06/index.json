@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "b44b14368fa6291b2b33c97dca8266afe8ad663c",
-      "who": "jasonaden@google.com",
+      "who": "Jason Aden <jasonaden@google.com>",
       "when": "2019-02-06T14:42:57-08:00",
       "all": 97,
       "test": 64,
@@ -10,8 +10,53 @@
       "pct": 67.4
     },
     {
+      "id": "f01247f0a4211e24f131ce324e1375dc4382a330",
+      "who": "Filipe Silva <filipematossilva@gmail.com>",
+      "when": "2019-02-06T15:32:32+00:00",
+      "all": 183,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "980bb52d36ef75760d56412ff14defe0ae7181f2",
+      "who": "Sergej Grilborzer <sergej1995@gmail.com>",
+      "when": "2019-02-06T09:17:13+01:00",
+      "all": 14,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "cf6d63ca63a68f9d9752a9bbb9be581a0588cb17",
+      "who": "Paul Gschwendtner <paulgschwendtner@gmail.com>",
+      "when": "2019-02-06T14:35:36+01:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "1d20088291d54e9ad3d510f21745000432ed1c93",
+      "who": "Paul Gschwendtner <paulgschwendtner@gmail.com>",
+      "when": "2019-02-06T14:22:01+01:00",
+      "all": 13,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "7e895b91793c7b6d3f7401933a2ce5696c4ab6d5",
+      "who": "Paul Gschwendtner <paulgschwendtner@gmail.com>",
+      "when": "2019-02-06T12:33:17+01:00",
+      "all": 309,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "94b8aaeba8822b519af02a3aaf38a000b6c1bd5e",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2019-02-06T15:03:42+01:00",
       "all": 208,
       "test": 197,
@@ -20,7 +65,7 @@
     },
     {
       "id": "fcd1f6147614e9864f7dbfb98a474a07b0105087",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2019-02-06T14:24:25+01:00",
       "all": 17,
       "test": 2,
@@ -29,7 +74,7 @@
     },
     {
       "id": "e9bedc63bbdb7830c649555a1af6838a87e569ff",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2019-02-06T11:56:57+01:00",
       "all": 248,
       "test": 122,
@@ -38,7 +83,7 @@
     },
     {
       "id": "7115e7c4277d9dbe18341532d387345668444f9d",
-      "who": "paulgschwendtner@gmail.com",
+      "who": "Paul Gschwendtner <paulgschwendtner@gmail.com>",
       "when": "2019-02-06T18:06:58+01:00",
       "all": 83,
       "test": 0,
@@ -47,7 +92,7 @@
     },
     {
       "id": "aadc332be2a169191c9a5d6c37e32c62d9a8fb70",
-      "who": "paulgschwendtner@gmail.com",
+      "who": "Paul Gschwendtner <paulgschwendtner@gmail.com>",
       "when": "2019-02-06T18:03:58+01:00",
       "all": 554,
       "test": 238,
@@ -56,7 +101,7 @@
     },
     {
       "id": "c916b360bf354b97883862db477d286c3fbc6cfe",
-      "who": "paulgschwendtner@gmail.com",
+      "who": "Paul Gschwendtner <paulgschwendtner@gmail.com>",
       "when": "2019-02-06T18:02:07+01:00",
       "all": 585,
       "test": 0,
@@ -65,7 +110,7 @@
     },
     {
       "id": "fed8c1d160cc71f08c61ff60bc2e768a59229bc1",
-      "who": "paulgschwendtner@gmail.com",
+      "who": "Paul Gschwendtner <paulgschwendtner@gmail.com>",
       "when": "2019-02-06T17:52:35+01:00",
       "all": 5,
       "test": 0,
@@ -73,8 +118,17 @@
       "pct": 0.0
     },
     {
+      "id": "6e4ef91ceb50bd2b54ec4140c527b1a5c60bc053",
+      "who": "Alex Eagle <alexeagle@angular.io>",
+      "when": "2019-02-06T11:21:16-08:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "8d90142a0fadd29652b4bb14ea7c08141101f56f",
-      "who": "crisbeto@abv.bg",
+      "who": "Kristiyan Kostadinov <crisbeto@abv.bg>",
       "when": "2019-02-06T10:48:23+01:00",
       "all": 9,
       "test": 0,
@@ -83,7 +137,7 @@
     },
     {
       "id": "0e6f799aeccf3b0c0bb1d72e714822b0539bc60b",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2019-02-06T10:52:18+01:00",
       "all": 144,
       "test": 130,
@@ -92,11 +146,56 @@
     },
     {
       "id": "6709db967727ba4040c9e07370ba52b125772439",
-      "who": "alexeagle@angular.io",
+      "who": "Alex Eagle <alexeagle@angular.io>",
       "when": "2019-02-06T10:02:51-08:00",
       "all": 138,
       "test": 0,
       "testable": 138,
+      "pct": 0.0
+    },
+    {
+      "id": "e3032a0d171578b77be222a19795fdc59bc991bc",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2019-02-06T10:45:33+02:00",
+      "all": 8,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "01bb3c5820520f3a5c3fca3d0b8716b159bdad0a",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2019-02-06T10:26:36+02:00",
+      "all": 13,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "43467c95ab1d5325a31bf501de7c8efc09b5f7ab",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2019-02-06T10:21:26+02:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "69ecb9656993de447df65f4a91a3e35fab96cb32",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2019-02-06T10:19:51+02:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "e991d825f579e944ee7fabff3c3727bde2aed833",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2019-02-06T09:49:29+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     }
   ],

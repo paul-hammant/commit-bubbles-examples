@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "95830ee5843a64d60731a3d4ae0e0fc7dba3f4d6",
-      "who": "cedric@ninja-squad.com",
+      "who": "cexbrayat <cedric@ninja-squad.com>",
       "when": "2019-04-26T11:37:53+02:00",
       "all": 21,
       "test": 10,
@@ -11,7 +11,7 @@
     },
     {
       "id": "2f35dbfd3b9f6d633ed272b67f177278a0541f6f",
-      "who": "alan.agius4@gmail.com",
+      "who": "Alan Agius <alan.agius4@gmail.com>",
       "when": "2019-04-26T16:14:05+02:00",
       "all": 8,
       "test": 5,
@@ -20,7 +20,7 @@
     },
     {
       "id": "31df5139c5e4b75234690c84ddeb7cac1bcfa75b",
-      "who": "alan.agius4@gmail.com",
+      "who": "Alan Agius <alan.agius4@gmail.com>",
       "when": "2019-04-26T15:29:27+02:00",
       "all": 18,
       "test": 12,
@@ -29,7 +29,7 @@
     },
     {
       "id": "b40f6f3eaea39230b501516dc8559722b62b3f91",
-      "who": "jasonaden@google.com",
+      "who": "Jason Aden <jasonaden@google.com>",
       "when": "2019-04-26T11:39:38-07:00",
       "all": 33,
       "test": 29,
@@ -38,7 +38,7 @@
     },
     {
       "id": "3327bd8eab0cf5bfb9a6a21d6ee4a8e081aab630",
-      "who": "jasonaden@google.com",
+      "who": "Jason Aden <jasonaden@google.com>",
       "when": "2019-04-26T15:22:46-07:00",
       "all": 30,
       "test": 28,
@@ -47,7 +47,7 @@
     },
     {
       "id": "6dc884f2abefa86ebdbbc48c990bb26c34e39e68",
-      "who": "kyliau@umich.edu",
+      "who": "Keen Yee Liau <kyliau@umich.edu>",
       "when": "2019-04-26T11:31:21-07:00",
       "all": 8,
       "test": 2,
@@ -56,7 +56,7 @@
     },
     {
       "id": "67012509a8ce7f701fde50fa903c6b2785182db6",
-      "who": "alan.agius4@gmail.com",
+      "who": "Alan Agius <alan.agius4@gmail.com>",
       "when": "2019-04-26T10:15:17+02:00",
       "all": 28,
       "test": 25,
@@ -64,8 +64,17 @@
       "pct": 89.3
     },
     {
+      "id": "537502d6855bb184571b95d8f1ceb1484071ff94",
+      "who": "Andrew Kushnir <akushnir@google.com>",
+      "when": "2019-04-26T17:17:33-07:00",
+      "all": 37,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "e5c3695dbdab9bfaed9cf3d18a6d5163601aa7a6",
-      "who": "alexeagle@angular.io",
+      "who": "Alex Eagle <alexeagle@angular.io>",
       "when": "2019-04-26T16:49:50-07:00",
       "all": 57,
       "test": 0,
@@ -74,7 +83,7 @@
     },
     {
       "id": "3cf318b4985ade44fe909b9ff14cf5fdf4e83c0a",
-      "who": "cedric@ninja-squad.com",
+      "who": "cexbrayat <cedric@ninja-squad.com>",
       "when": "2019-04-26T22:29:13+02:00",
       "all": 321,
       "test": 321,
@@ -82,8 +91,17 @@
       "pct": 100.0
     },
     {
+      "id": "54d410526462231627f775d507629e91161de276",
+      "who": "Uday Vunnam <uday4vunnam@gmail.com>",
+      "when": "2019-04-26T09:33:20+05:30",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "10705684c8cda8cc7cec7a1ab63c8f0f0b574349",
-      "who": "alan.agius4@gmail.com",
+      "who": "Alan Agius <alan.agius4@gmail.com>",
       "when": "2019-04-26T10:08:04+02:00",
       "all": 7,
       "test": 7,
@@ -91,13 +109,49 @@
       "pct": 100.0
     },
     {
+      "id": "b945bc3a9ed2f46278a3d72812f56bd37996ac35",
+      "who": "Kara Erickson <karakara@google.com>",
+      "when": "2019-04-26T11:01:37-07:00",
+      "all": 14,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "4ae0ee86cbcfcd73e709096a584b97610241ed74",
+      "who": "Alex Eagle <alexeagle@angular.io>",
+      "when": "2019-04-26T12:10:17-07:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "6c86ae710aaffd760775c98f3e0f19b3bbb1dd6f",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2019-04-26T12:05:27+02:00",
       "all": 44,
       "test": 38,
       "testable": 44,
       "pct": 86.4
+    },
+    {
+      "id": "876ceb368812b73c636e02def457dc68c0bdb543",
+      "who": "Filipe Silva <filipematossilva@gmail.com>",
+      "when": "2019-04-26T18:45:59+01:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "ee12c4547358d75fb16982851834b3f9d05e46ea",
+      "who": "Alan Agius <alan.agius4@gmail.com>",
+      "when": "2019-04-26T09:17:32+02:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

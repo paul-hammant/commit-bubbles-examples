@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "20cef5078dc86bc5d9831fafec076d912ad3521f",
-      "who": "miginmrs@protonmail.com",
+      "who": "miginmrs <miginmrs@protonmail.com>",
       "when": "2018-10-05T19:22:06+01:00",
       "all": 24,
       "test": 15,
@@ -11,7 +11,7 @@
     },
     {
       "id": "bc68b592b17ab260c5b3cddddf7c62373983b644",
-      "who": "pete@bacondarwin.com",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
       "when": "2018-10-05T16:45:18+01:00",
       "all": 4395,
       "test": 21,
@@ -20,7 +20,7 @@
     },
     {
       "id": "152ca66ebaa61737b4ef0321570ad6b75235980d",
-      "who": "jasonaden@google.com",
+      "who": "Jason Aden <jasonaden@google.com>",
       "when": "2018-10-05T11:45:06-07:00",
       "all": 72,
       "test": 0,
@@ -28,8 +28,53 @@
       "pct": 0.0
     },
     {
+      "id": "6468711e165c658b32250c9ac30212b5b3f19173",
+      "who": "Greg Magolan <gmagolan@gmail.com>",
+      "when": "2018-10-05T17:57:18-07:00",
+      "all": 68,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d698b0eadff4e4adb076ba3fb98a72c8487cc6a2",
+      "who": "Greg Magolan <gmagolan@gmail.com>",
+      "when": "2018-10-05T07:16:47-07:00",
+      "all": 83,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "b9bd95b3b23c8ba416d5d297bbf01385166f00b6",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
+      "when": "2018-10-05T13:50:56+01:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "3f89aeb80a4bbea8326558c557a6c17996651abe",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
+      "when": "2018-10-05T13:50:29+01:00",
+      "all": 38,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "6c530d3a85ff13a1a91dc04c1afff62deb936257",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
+      "when": "2018-10-05T08:46:21+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "8024857d4cf0cba5bdadfc421c0ae24cbe20f1bd",
-      "who": "akushnir@google.com",
+      "who": "Andrew Kushnir <akushnir@google.com>",
       "when": "2018-10-05T14:12:13-07:00",
       "all": 139,
       "test": 139,
@@ -38,7 +83,7 @@
     },
     {
       "id": "39f42bad1cc11e2dd9297fd8a9aaaeefd2e9ff13",
-      "who": "akushnir@google.com",
+      "who": "Andrew Kushnir <akushnir@google.com>",
       "when": "2018-10-05T14:12:13-07:00",
       "all": 380,
       "test": 254,
@@ -47,7 +92,7 @@
     },
     {
       "id": "67435d456cecbe067bb2882f745595f0b9ada1d7",
-      "who": "robertsbt@gmail.com",
+      "who": "Brandon Roberts <robertsbt@gmail.com>",
       "when": "2018-10-05T14:30:35-05:00",
       "all": 184,
       "test": 0,
@@ -55,8 +100,26 @@
       "pct": 0.0
     },
     {
+      "id": "8e71ad602783a6d47f65840cdafd57ffefcb4204",
+      "who": "Wei Lun <weilun_95@hotmail.com>",
+      "when": "2018-10-05T11:14:26+08:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "25289664ea732e39ac017e2fd80e66fa125214b9",
+      "who": "Ashish Patel <ashish.tripleclicks@gmail.com>",
+      "when": "2018-10-05T16:27:12+05:30",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "e5644204dc8007434e3d18582d10cc0bbb91935a",
-      "who": "akushnir@google.com",
+      "who": "Andrew Kushnir <akushnir@google.com>",
       "when": "2018-10-05T17:46:58-07:00",
       "all": 86,
       "test": 84,
@@ -65,7 +128,7 @@
     },
     {
       "id": "b0879046b7e302bfc72880be1e0ff25ac1e3c6cc",
-      "who": "karakara@google.com",
+      "who": "Kara Erickson <karakara@google.com>",
       "when": "2018-10-05T21:23:41-07:00",
       "all": 117,
       "test": 104,
@@ -74,11 +137,20 @@
     },
     {
       "id": "9320ec0f43b612be78b3013f5f7fd85aa0f3ff26",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2018-10-05T11:06:28+03:00",
       "all": 145,
       "test": 0,
       "testable": 6,
+      "pct": 0.0
+    },
+    {
+      "id": "1b1c8ee5455f7fdb88aaa93179f65769ab13407d",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2018-10-05T11:05:47+03:00",
+      "all": 69,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     }
   ],

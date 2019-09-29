@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "cc6f36a9d7dd1fb2859a88796860ee77e83369aa",
-      "who": "pete@bacondarwin.com",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
       "when": "2018-05-10T13:56:07+01:00",
       "all": 5129,
       "test": 1913,
@@ -10,8 +10,35 @@
       "pct": 40.2
     },
     {
+      "id": "643766637ee6bd94b729ad8c38012e224a23c6c4",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
+      "when": "2018-05-10T13:42:58+01:00",
+      "all": 43,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "a800a5118a39a507cf3bd7ee2d190df80c1a4ee8",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
+      "when": "2018-05-10T13:38:45+01:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c438b5eedac9e177df43bfeabfed3ac35ea408f6",
+      "who": "Greg Magolan <gmagolan@gmail.com>",
+      "when": "2018-05-10T23:35:21-07:00",
+      "all": 484,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "0bdd30e34f87305085afc2825749ea2dc04a9409",
-      "who": "heo@mapiacompany.com",
+      "who": "Heo Sangmin <heo@mapiacompany.com>",
       "when": "2018-05-10T00:11:43+09:00",
       "all": 122,
       "test": 107,
@@ -20,7 +47,7 @@
     },
     {
       "id": "88ab1d0e553238f45e16fabd208134f836564a63",
-      "who": "collin.klopfenstein@gmail.com",
+      "who": "Collin Klopfenstein <collin.klopfenstein@gmail.com>",
       "when": "2018-05-10T16:57:59-05:00",
       "all": 16,
       "test": 0,
@@ -28,8 +55,17 @@
       "pct": 0.0
     },
     {
+      "id": "20d76374edd6ff2610043a80f341f8c0712c0f1a",
+      "who": "Brandon Roberts <robertsbt@gmail.com>",
+      "when": "2018-05-10T10:30:55-05:00",
+      "all": 84,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "d4b8b2440673049c58d51b0ae4afceb028d62cc0",
-      "who": "viks@google.com",
+      "who": "Vikram Subramanian <viks@google.com>",
       "when": "2018-05-10T19:35:19-07:00",
       "all": 5,
       "test": 0,
@@ -38,7 +74,7 @@
     },
     {
       "id": "cfde36da84b5de5248e1cdea932fc75c57ee078c",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2018-05-10T15:58:27-07:00",
       "all": 32,
       "test": 15,
@@ -47,7 +83,7 @@
     },
     {
       "id": "d2a86872a9c4dc17aad8068746cf55e880b7968c",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2018-05-10T15:57:58-07:00",
       "all": 16,
       "test": 8,
@@ -55,8 +91,53 @@
       "pct": 50.0
     },
     {
+      "id": "e129b18d17a5aeb2a7d0f7890930b738a49aac4c",
+      "who": "Cory Rylan <splintercode.cb@gmail.com>",
+      "when": "2018-05-10T19:27:05-05:00",
+      "all": 10,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "8a27a034c40f69072e6f6716f07097d681d4a5d3",
+      "who": "panakour <lefta4klik@gmail.com>",
+      "when": "2018-05-10T11:18:08+03:00",
+      "all": 94,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "4ecae6449e459e638215a193b6c20aa37587eeec",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-05-10T23:01:22-07:00",
+      "all": 26,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "5e307d5ba74fba6cc7b7a98c7654c07f5c30de50",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-05-10T22:22:49-07:00",
+      "all": 20,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "089fe83865976d1ad9f4ba39dc99c19643843294",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2018-05-10T13:12:30-07:00",
+      "all": 121,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "b1cda3639fa9c63a74b5bcf0106ed33b204269b5",
-      "who": "andrewjs@google.com",
+      "who": "Andrew Seguin <andrewjs@google.com>",
       "when": "2018-05-10T13:34:09-07:00",
       "all": 18,
       "test": 0,

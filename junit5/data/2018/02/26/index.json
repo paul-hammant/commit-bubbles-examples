@@ -2,12 +2,30 @@
   "commits": [
     {
       "id": "b3cec572c6334095f84ec009d5488370119e62c9",
-      "who": "sormuras@gmail.com",
+      "who": "Christian Stein <sormuras@gmail.com>",
       "when": "2018-02-26T13:11:26+01:00",
       "all": 34,
       "test": 6,
       "testable": 34,
       "pct": 17.6
+    },
+    {
+      "id": "be8ee579f792d6306451513c9386022fe5dc70a7",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2018-02-26T21:19:14+01:00",
+      "all": 93,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "8bb185077816ec00a6152b5fe4a3b9a7e81296dc",
+      "who": "MiniDigger <mini.digger@live.de>",
+      "when": "2018-02-26T13:54:21+01:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

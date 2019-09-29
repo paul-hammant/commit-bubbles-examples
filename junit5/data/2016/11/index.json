@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "39d5a1e6756f4c552345a8055ac5c23138f2213d",
-      "who": "stefan.bechtold@me.com",
+      "who": "Stefan Bechtold <stefan.bechtold@me.com>",
       "when": "2016-11-23T11:12:27+01:00",
       "all": 66,
       "test": 25,
@@ -10,8 +10,152 @@
       "pct": 40.3
     },
     {
+      "id": "8d51946ab7f00dc577c952e4bfc5fe5e0b294219",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2016-11-30T23:55:53+01:00",
+      "all": 28,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "a74d0745f3d95e4e2f484fd33e20f9affb74b8ec",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-11-30T10:48:21+01:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "8105df0b3d82ba938204b7713b361e96b96013c3",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-11-30T10:04:37+01:00",
+      "all": 18,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "f251602b4938f46d21465ad899c443f786f186ba",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-11-30T09:58:22+01:00",
+      "all": 10,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "211df2cf9df5733235f140232dfaac870159fa98",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-11-30T09:47:50+01:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "2518198fbf060aa42d6aa6165d33ffc710130b01",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-11-30T09:44:36+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "17324817c1cb8f0fad9c89b0e9b4eb5f766b7e6a",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-11-30T09:24:14+01:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "87fe2740eef2b05517fc9d425b08545bb3cfc9c8",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-11-30T09:17:15+01:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d6b6b1513bdbbac119738988e0167d3a362cd67c",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-11-30T09:16:51+01:00",
+      "all": 40,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "cd1c0da18bcba56d8ae19f804fe0d4066b2c3958",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-11-30T09:00:25+01:00",
+      "all": 28,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "99ecb560bb58434903b32ac8bf110b51ef111f05",
+      "who": "Matthias Merdes <Matthias.Merdes@heidelberg-mobil.com>",
+      "when": "2016-11-29T11:24:26+01:00",
+      "all": 4,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "646fb688d9a05ba7e509f4efa8645fddc33a8ca3",
+      "who": "Matthias Merdes <Matthias.Merdes@heidelberg-mobil.com>",
+      "when": "2016-11-29T10:58:25+01:00",
+      "all": 21,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "8710121780113accc96e872a927f32ee266a149a",
+      "who": "Matthias Merdes <Matthias.Merdes@heidelberg-mobil.com>",
+      "when": "2016-11-29T10:41:21+01:00",
+      "all": 14,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "54e2c2a0910fcbf8ee5ff52ea9f5dc8b853c9f16",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2016-11-29T02:07:31+01:00",
+      "all": 17,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "959820dfed3961ef9b87cf85acf09921ec2c142a",
+      "who": "Matthias Merdes <Matthias.Merdes@heidelberg-mobil.com>",
+      "when": "2016-11-28T17:15:59+01:00",
+      "all": 30,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "68c788af5908207633fda03a5cfe035f15692d73",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-11-27T11:04:08+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "c8903d779bc9b4d6e66dde2548b780eef81c6c85",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-11-25T17:33:33+01:00",
       "all": 2,
       "test": 0,
@@ -20,7 +164,7 @@
     },
     {
       "id": "fbd6d2a7eb11bcad1638cd396a73e98f1717255f",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-11-25T17:33:01+01:00",
       "all": 4,
       "test": 0,
@@ -29,7 +173,7 @@
     },
     {
       "id": "a5ea4895701c6d6c43ac97087a59e433a88c28de",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-11-25T17:29:18+01:00",
       "all": 2,
       "test": 0,
@@ -38,7 +182,7 @@
     },
     {
       "id": "6755694bf2325b194a509c80bcd4b6c3f47e0426",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-11-24T22:06:38+01:00",
       "all": 70,
       "test": 62,
@@ -47,7 +191,7 @@
     },
     {
       "id": "6f954b79a9a63ff3850a1b6a2fa4f2e7ba5384b2",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-11-24T21:48:54+01:00",
       "all": 32,
       "test": 19,
@@ -56,7 +200,7 @@
     },
     {
       "id": "7a8a151fe80abaf0ccfc8277cafc2ccc82ca302c",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-11-24T21:22:43+01:00",
       "all": 30,
       "test": 30,
@@ -65,7 +209,7 @@
     },
     {
       "id": "290db303dc5d82223e2d7402804f07420cf1475c",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-11-24T21:20:17+01:00",
       "all": 4,
       "test": 4,
@@ -74,7 +218,7 @@
     },
     {
       "id": "535eab2db9b9c50a91242ddc6309b8a022bd6503",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-11-24T21:17:41+01:00",
       "all": 21,
       "test": 6,
@@ -83,7 +227,7 @@
     },
     {
       "id": "2ed0e2c6ba87b1a78845f3b65c0f50f4ebac9fd4",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-11-19T15:53:33+01:00",
       "all": 276,
       "test": 106,
@@ -91,8 +235,17 @@
       "pct": 38.4
     },
     {
+      "id": "795e55d91d55972cf6b6678627b56d6b150c323e",
+      "who": "Matthias Merdes <Matthias.Merdes@heidelberg-mobil.com>",
+      "when": "2016-11-18T18:10:42+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "905e974613fa26000492a2525ea3fd5121142537",
-      "who": "Matthias.Merdes@heidelberg-mobil.com",
+      "who": "Matthias Merdes <Matthias.Merdes@heidelberg-mobil.com>",
       "when": "2016-11-18T17:06:41+01:00",
       "all": 34,
       "test": 7,
@@ -101,7 +254,7 @@
     },
     {
       "id": "4c19b69a397e0a4f1a533f900ce30741ab84e277",
-      "who": "Matthias.Merdes@heidelberg-mobil.com",
+      "who": "Matthias Merdes <Matthias.Merdes@heidelberg-mobil.com>",
       "when": "2016-11-18T16:50:06+01:00",
       "all": 89,
       "test": 57,
@@ -110,7 +263,7 @@
     },
     {
       "id": "c1ac42135d3b98c645f9795a7790cd95d3807d00",
-      "who": "Matthias.Merdes@heidelberg-mobil.com",
+      "who": "Matthias Merdes <Matthias.Merdes@heidelberg-mobil.com>",
       "when": "2016-11-11T16:36:42+01:00",
       "all": 338,
       "test": 271,
@@ -119,7 +272,7 @@
     },
     {
       "id": "160d25630a6886f800ee0a169890d27f0da19597",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-11-04T14:46:04+01:00",
       "all": 8,
       "test": 0,
@@ -128,7 +281,7 @@
     },
     {
       "id": "049dfc8231780c8f87bd949c8a0237fc19750fc7",
-      "who": "Matthias.Merdes@heidelberg-mobil.com",
+      "who": "Matthias Merdes <Matthias.Merdes@heidelberg-mobil.com>",
       "when": "2016-11-04T12:21:42+01:00",
       "all": 59,
       "test": 59,
@@ -137,7 +290,7 @@
     },
     {
       "id": "88e122eaf5edc7ccf9ced22f8acc8acee335dc5b",
-      "who": "Matthias.Merdes@heidelberg-mobil.com",
+      "who": "Matthias Merdes <Matthias.Merdes@heidelberg-mobil.com>",
       "when": "2016-11-04T11:41:51+01:00",
       "all": 115,
       "test": 72,
@@ -145,8 +298,17 @@
       "pct": 62.6
     },
     {
+      "id": "0d4a53fbc5246bc896f9c83cea0ba38bd047afc9",
+      "who": "Matthias Merdes <Matthias.Merdes@heidelberg-mobil.com>",
+      "when": "2016-11-03T17:34:37+01:00",
+      "all": 20,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "3ed81f0199b3311afa8213665f0e71f28038db80",
-      "who": "Matthias.Merdes@heidelberg-mobil.com",
+      "who": "Matthias Merdes <Matthias.Merdes@heidelberg-mobil.com>",
       "when": "2016-11-03T17:19:36+01:00",
       "all": 47,
       "test": 0,
@@ -155,7 +317,7 @@
     },
     {
       "id": "20598ff32fd2fc6ac904a4cb6cf67ce12afd62eb",
-      "who": "Matthias.Merdes@heidelberg-mobil.com",
+      "who": "Matthias Merdes <Matthias.Merdes@heidelberg-mobil.com>",
       "when": "2016-11-03T16:41:05+01:00",
       "all": 65,
       "test": 0,
@@ -164,7 +326,7 @@
     },
     {
       "id": "9fa741b31e8c53f0ec3028735b25947f576c3a77",
-      "who": "Matthias.Merdes@heidelberg-mobil.com",
+      "who": "Matthias Merdes <Matthias.Merdes@heidelberg-mobil.com>",
       "when": "2016-11-03T12:47:54+01:00",
       "all": 173,
       "test": 25,
@@ -172,17 +334,116 @@
       "pct": 22.5
     },
     {
+      "id": "68ca8c5ce55c55a6680deebca7e3cf56cfc9982e",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-11-25T17:06:58+01:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "882b4442882543eaa16c8dd63c499348110bcb19",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2016-11-23T19:26:41+00:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "a0bc7890b6e9927600a1e3c9c86c3d8576618892",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2016-11-23T19:23:01+00:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "88e829b239fbbb19d196c7699de635b4a4e998f3",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2016-11-23T19:17:54+00:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "701ae2866f78cefe91669b912510edcca695d741",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2016-11-23T19:14:39+00:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "7fd6f0038a9bd48ad70a7f2731a282d7f3cb75bc",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2016-11-23T19:13:12+00:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "8a217df98d64d4196dbde361457b8b4b5a01d8f1",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2016-11-23T19:08:02+00:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "ac69c7599528d947464c9c656f22dd64bb7c14a3",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2016-11-23T19:01:50+00:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "461f9e09994e92620fc739c55d9965bbe38b5eb8",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2016-11-23T19:00:40+00:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "68ee452238556e5ab33f568ca8be1849d51f12ad",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2016-11-23T18:56:30+00:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "e3f7c207f670cb0f345d8a4df705682749effd45",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2016-11-23T18:50:17+00:00",
+      "all": 20,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "a19a2f48e40e00746f0190aee044a50c21fc4540",
-      "who": "bechte@users.noreply.github.com",
+      "who": "Stefan Bechtold <bechte@users.noreply.github.com>",
       "when": "2016-11-22T15:26:34+01:00",
-      "all": 834,
-      "test": 302,
-      "testable": 753,
-      "pct": 40.1
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "d1657ae69d7c8c885aba8a6aad2152a5aa3e3ebb",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2016-11-19T03:00:44+01:00",
       "all": 70,
       "test": 65,
@@ -190,8 +451,44 @@
       "pct": 95.6
     },
     {
+      "id": "6608190061f3affab36e9dd007b02a71b4503048",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-11-16T11:26:39+01:00",
+      "all": 97,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "733fb57b6a6ef3f725d556008875b27119cd5a9d",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-11-16T11:22:10+01:00",
+      "all": 98,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "264f52bdd5714b9dccd393d45f46fb2cc35afc1f",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2016-11-15T18:39:39+01:00",
+      "all": 21,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "0aca04eb811607e0bc7cbad46483a7fabfa126a6",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2016-11-15T18:35:10+01:00",
+      "all": 8,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "d065ec688c2f442942215081eca780a2e5d384ca",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2016-11-15T18:16:08+01:00",
       "all": 10,
       "test": 0,
@@ -199,8 +496,17 @@
       "pct": 0.0
     },
     {
+      "id": "28bd324fd063481c1ce0c0053fbeec6debe3e0f6",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2016-11-15T18:01:03+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "deba58a7701fb314fa23cbb38f886419f7b07f3c",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-11-12T20:12:36+01:00",
       "all": 3,
       "test": 0,
@@ -209,7 +515,7 @@
     },
     {
       "id": "79f6b12cf2e83eeae69e7871987d4dd918d8f525",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-11-12T20:12:13+01:00",
       "all": 5,
       "test": 0,
@@ -218,7 +524,7 @@
     },
     {
       "id": "f8eec8a1972cec50abcc60d73fca9f1df0a1ee51",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-11-12T20:11:40+01:00",
       "all": 3,
       "test": 0,
@@ -227,7 +533,7 @@
     },
     {
       "id": "a4ada95b72c2fd02cdc413172edf32fa3bd15385",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-11-12T20:10:06+01:00",
       "all": 3,
       "test": 0,
@@ -236,7 +542,7 @@
     },
     {
       "id": "caa64bb8d41bfb1e64fc25f33ddacd3c2cf0b385",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-11-12T20:09:54+01:00",
       "all": 7,
       "test": 0,
@@ -245,7 +551,7 @@
     },
     {
       "id": "b5ca5ca08857a6a46816e6d529dc075839122ade",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-11-12T20:09:35+01:00",
       "all": 11,
       "test": 0,
@@ -254,7 +560,7 @@
     },
     {
       "id": "c138dd1d267c59cee5851d4e99c6e2ed596ce5ad",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-11-12T20:09:08+01:00",
       "all": 8,
       "test": 0,
@@ -263,7 +569,7 @@
     },
     {
       "id": "536acefeb28ee6a37853b4fccc3850f43e543861",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-11-12T19:31:37+01:00",
       "all": 17,
       "test": 0,
@@ -272,7 +578,7 @@
     },
     {
       "id": "adaf70d9d08a3ab2002e6365ea9ae52c5013c8d4",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-11-12T19:11:31+01:00",
       "all": 84,
       "test": 23,
@@ -281,7 +587,7 @@
     },
     {
       "id": "a872481f8392440acf9a1614d6b07d27fba520e2",
-      "who": "github@stefan-birkner.de",
+      "who": "Stefan Birkner <github@stefan-birkner.de>",
       "when": "2016-11-09T14:17:50+01:00",
       "all": 106,
       "test": 87,
@@ -290,7 +596,7 @@
     },
     {
       "id": "26a780900f56fc083602fa2fddb644640b772117",
-      "who": "thomas.heilbronner@gmail.com",
+      "who": "Why you want to know <thomas.heilbronner@gmail.com>",
       "when": "2016-11-09T14:16:02+01:00",
       "all": 2243,
       "test": 0,
@@ -298,8 +604,26 @@
       "pct": 0.0
     },
     {
+      "id": "e2afbeb573f42eb64c857f557f2e8926441760ca",
+      "who": "Steve Moyer <smoyer@psu.edu>",
+      "when": "2016-11-04T16:18:17-04:00",
+      "all": 14,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "f8c0e4ad9bb8612c48771514823e88f4b5f954b7",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2016-11-07T18:25:38+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "9636d8f9f6a16e1e48a2be2e421f6be26f1f10ec",
-      "who": "smoyer64@gmail.com",
+      "who": "Steve Moyer <smoyer64@gmail.com>",
       "when": "2016-11-07T11:54:10-05:00",
       "all": 3,
       "test": 0,
@@ -307,8 +631,17 @@
       "pct": 0.0
     },
     {
+      "id": "18ddae2eebc3908c836ceb511f511a982c63318b",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2016-11-06T22:47:00+01:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "ec793bf8cebcf2be55d9963c4f57b918f9353fb3",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-11-06T20:30:14+01:00",
       "all": 19,
       "test": 0,
@@ -317,7 +650,7 @@
     },
     {
       "id": "d224e93caad1517ed970dd9b442d54d5a0d93d58",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-11-06T20:06:28+01:00",
       "all": 137,
       "test": 59,
@@ -325,8 +658,26 @@
       "pct": 44.0
     },
     {
+      "id": "8e8890bc97c2a833ab565cc0a977aadf83e32d9d",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-11-06T19:47:53+01:00",
+      "all": 12,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "b87a7074492411ee3bfdbc7dc83ab82b5c7a5aa2",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-11-06T19:38:14+01:00",
+      "all": 47,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "36665aadaa829bc2bc003e245fa05e99f2bebfd8",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-11-06T19:38:04+01:00",
       "all": 37,
       "test": 15,
@@ -334,8 +685,44 @@
       "pct": 40.5
     },
     {
+      "id": "558c9df3c85e9fb7169a10af5e857b656e1e89bf",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-11-06T19:25:12+01:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "5ad36e905575fbbf85704c22f9974ea1ea90971a",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-11-05T12:06:13+01:00",
+      "all": 82,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "dcb2b58dd42857d16b31fe0f792e8ffda7d71a66",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-11-04T21:48:34+01:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "92ee063a2c79e2016a4ed7f23098e5d2ad46b239",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-11-04T21:11:50+01:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "6d11142ace5f4aab3d64090b8744892bb4bd9c62",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-11-04T21:05:26+01:00",
       "all": 10,
       "test": 0,
@@ -344,7 +731,7 @@
     },
     {
       "id": "c88a23b815a5836de7d921e2fd9b2eb21e2a37f8",
-      "who": "smoyer64@gmail.com",
+      "who": "Steve Moyer <smoyer64@gmail.com>",
       "when": "2016-11-04T13:39:53-04:00",
       "all": 5,
       "test": 0,
@@ -353,7 +740,7 @@
     },
     {
       "id": "8faba1b26dcc8da69049da16f37c87eeb491eef6",
-      "who": "smoyer64@gmail.com",
+      "who": "Steve Moyer <smoyer64@gmail.com>",
       "when": "2016-11-03T13:20:09-04:00",
       "all": 164,
       "test": 84,
@@ -361,8 +748,17 @@
       "pct": 51.2
     },
     {
+      "id": "5481a86f10d43e972bf46c6ad5a4bc16a2bdf837",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-11-03T17:56:57+01:00",
+      "all": 15,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "b1ce8faa6f1e61e71fb6fb69a7f5948217965eb7",
-      "who": "thomas.heilbronner@gmail.com",
+      "who": "Why you want to know <thomas.heilbronner@gmail.com>",
       "when": "2016-11-02T21:35:59+01:00",
       "all": 5219,
       "test": 5219,
@@ -370,8 +766,62 @@
       "pct": 100.0
     },
     {
+      "id": "277b19b5977a1b86ccf16556cade39f710496cf5",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-11-02T20:23:30+01:00",
+      "all": 40,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c3cd911c4ae5a6ec8aa5a0d96cf16e870528ba9e",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-11-02T19:58:21+01:00",
+      "all": 51,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c687ee1c9d3a8d27fabf3e2985d95a86b8711934",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-11-02T19:58:04+01:00",
+      "all": 33,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "56374ddfd764db6eb688d8431d4416ee8d2bacd2",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-11-02T19:39:58+01:00",
+      "all": 45,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "5b3485ef08344ed23848e4f3d6530f0fcc75d371",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-11-02T19:30:01+01:00",
+      "all": 93,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "b9fc93287c7ed7ff31ec2b075137d9a6924c24b3",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2016-11-02T17:39:11+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "e66aac1b45b1698430d3f31cf4bfb588c33d5a4d",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2016-11-02T17:22:26+01:00",
       "all": 14,
       "test": 8,
@@ -379,8 +829,26 @@
       "pct": 57.1
     },
     {
+      "id": "b4dc2d0926499fdb507690e619b5c3b7f4ab5e6a",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-11-02T15:25:26+01:00",
+      "all": 94,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "a5aa0c40acc756117efda9a9123cdf6de12ed632",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-11-02T13:23:06+01:00",
+      "all": 31,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "1243f3dfa6df67ec1fa45ea884d8f7993bf5bbe8",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-11-02T13:14:01+01:00",
       "all": 56,
       "test": 36,
@@ -388,8 +856,17 @@
       "pct": 64.3
     },
     {
+      "id": "bb17e3ffa42b083acf457bc9fe4ebdbc3c6e76c0",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-11-02T12:58:51+01:00",
+      "all": 83,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "8cf2a7b372be1436f73d2803891cc305275913a6",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-11-02T12:01:56+01:00",
       "all": 155,
       "test": 104,
@@ -397,8 +874,17 @@
       "pct": 67.1
     },
     {
+      "id": "8ce5b6514bcad1c065e57cc825f4ccaaf73de1e9",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-11-02T11:37:57+01:00",
+      "all": 63,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "862e93157164d37eaa1b087aaa9d3d449ac792c6",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-11-02T09:52:11+01:00",
       "all": 104,
       "test": 69,
@@ -407,7 +893,7 @@
     },
     {
       "id": "2ac8cb882292e5107de86eacea09f028a2b046e1",
-      "who": "gabriel.diegel@gmail.com",
+      "who": "Gabriel Diegel <gabriel.diegel@gmail.com>",
       "when": "2016-11-02T09:13:13+01:00",
       "all": 65,
       "test": 24,
@@ -415,8 +901,17 @@
       "pct": 36.9
     },
     {
+      "id": "8252e7467aa31fa9a9a670197fb5d67c211242fe",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-11-01T19:39:42+01:00",
+      "all": 97,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "884fee9f0e5c4dbfb5038f476fa43a05e59507c0",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-11-01T18:36:54+01:00",
       "all": 41,
       "test": 12,
@@ -425,7 +920,7 @@
     },
     {
       "id": "14dc25aaf77f1694aef55e1f593c6584b997769a",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-11-01T18:21:21+01:00",
       "all": 93,
       "test": 23,
@@ -434,12 +929,30 @@
     },
     {
       "id": "56bed13c12ed9a549a3cb904c94cbb29f292c6b3",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-11-01T10:37:42+01:00",
       "all": 134,
       "test": 60,
       "testable": 121,
       "pct": 49.6
+    },
+    {
+      "id": "a7a1d37bb07b9edb1f0e879b77e95b982f1d560a",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-11-01T10:18:20+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "0027f5c2afbe059e7259af08fc25bec7d4578089",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-11-01T10:11:56+01:00",
+      "all": 1042,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

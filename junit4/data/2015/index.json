@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "f4a13cb4962280cd58a7c4bba7397f55ea829281",
-      "who": "charlie@yandex-team.ru",
+      "who": "Dmitry Baev <charlie@yandex-team.ru>",
       "when": "2015-04-08T13:49:15+03:00",
       "all": 160,
       "test": 47,
@@ -10,17 +10,206 @@
       "pct": 29.4
     },
     {
-      "id": "33fa8a845223e7bae46609cacce8e5d65d29de4c",
-      "who": "mail@marcphilipp.de",
-      "when": "2015-10-02T13:50:12+02:00",
+      "id": "b2786a9bcdf12173e639b9a063527ce182e99eb5",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-12-03T14:06:18+01:00",
+      "all": 11,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "e8a73c823e14efe536cebd88e97d5d8084c66871",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-12-02T21:34:45+01:00",
+      "all": 38,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "e0df1de980436169f9612d61174811edbc3f1a5d",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-12-01T13:50:31+01:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "ce82fff2f47b42224223562fe6e42e287e9e5b1a",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-12-01T10:32:01+01:00",
+      "all": 116,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "06187f3e2740e6e6a207484f1fbd9ede1a2ba4da",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-11-20T14:58:37+01:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c2ba99e9d67bc6d4ad2b31f452be664b23d949d2",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-11-20T09:37:09+01:00",
+      "all": 13,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "b581c7635782f53273239842ca2bf61745579c4a",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-11-20T09:27:32+01:00",
+      "all": 178,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "4f2ed5d7a7bbe77f6c917c6ccc7de303896d1beb",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-11-20T08:21:02+01:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "0e242d7005927c9a7285c9ffe017997d5deed018",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-10-22T18:02:00+02:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d57c44614e0597e8cefeadeda60d32a77f634a23",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-10-19T20:59:09+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "55210021e442d25a319fb389bedc2a0c6ee6fa98",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-10-19T20:42:37+02:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d6279729fcf9d19716723f52c8d2484d451b2fb8",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-10-19T20:39:23+02:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c55a66413b6f164b694e2409ab97927d89b509f4",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-10-13T12:30:51+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "24661e0729d2112c03b887eac7131e49334dd671",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-10-07T19:32:42+02:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "8e05e94956c1820e7a72d55795c5198835afca0e",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-10-07T19:32:12+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d7e47e370e8db4d2a34dea3b75600a5c24fab942",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-10-05T19:51:20+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "383f1807be6a9b7e2ede634fe0907f8844169881",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-10-05T09:24:55+02:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "a7dcfb47ba61634acae5467b4e9559497bc43496",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-10-05T09:24:38+02:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c650a0fa1aaed24a4446e6a284de9c2c84274a96",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-10-03T15:27:24+02:00",
+      "all": 11,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "91c9ee567c1daae09eee84e35429598217d0701d",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-10-03T15:27:15+02:00",
       "all": 5,
       "test": 0,
-      "testable": 5,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "928fc1af5927b17173c5f89f7c6b8d7ec0982f94",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-10-03T15:26:39+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "33fa8a845223e7bae46609cacce8e5d65d29de4c",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-10-02T13:50:12+02:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "04c3f9955266bbb47542a17c486354b80cfe77e6",
-      "who": "xaerxess@gmail.com",
+      "who": "Grzegorz Ro\u00c5\u00bcniecki <xaerxess@gmail.com>",
       "when": "2015-10-02T13:15:05+02:00",
       "all": 5,
       "test": 0,
@@ -28,8 +217,719 @@
       "pct": 0.0
     },
     {
+      "id": "fb69e99301d33a452d06df47c3e9e43efe808c0f",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-09-30T22:15:30+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "e73b2b3bac527775baa7ca7ff3d1fffe97381de5",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-09-30T22:15:18+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "9e91ecc769a17f2a9674896f2aab236aa8ad0715",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-09-29T20:20:01+02:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c62e0a34a16449a0321c16fbe91d43ad5302c936",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-09-29T20:19:46+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d1c68a97108b5e46a9db3a57c97812e69cb2a8b9",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-09-28T20:54:58+02:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "9bad8ce0a56d056ec3b7166351b7405c8be7e834",
+      "who": "Allon Mureinik <mureinik@gmail.com>",
+      "when": "2015-09-28T00:05:24+03:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "5ae6473db8a9c61ccf4e53a3c529b03699ef816c",
+      "who": "Allon Mureinik <mureinik@gmail.com>",
+      "when": "2015-09-28T00:05:24+03:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "252e19cf05863443bc519186fc7fb237f1d81817",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-09-28T19:53:56+02:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c88cd1f76ceb98f5841e4c09c8dc6fccb0aa8709",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-09-24T08:51:54+02:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "b6ee6c138832b4eae4ca4fd58a4d1a67d6ee4431",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-09-24T08:47:53+02:00",
+      "all": 4,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "59baeed4cb3d24211960ad01fd3ee9e534b0e1da",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-09-24T08:43:32+02:00",
+      "all": 34,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "23871dbaba72278f6ae50f1e34cc40544ca247c9",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-09-24T08:30:46+02:00",
+      "all": 39,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "77f2c51273416e137402f6736be000745f7d299f",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-09-23T08:30:11+02:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "47f596c7dab54e30ded6cc01e859a813dc546c2d",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-09-22T20:37:36+02:00",
+      "all": 34,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "efbd2e8070edfc9886e8f76b73e5bbe800ddc18c",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-09-22T20:37:14+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "94dcf2dea41bc09a9c1e0e0fe29d7320b386c0b5",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-09-22T20:36:48+02:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "cf9aa29323020439a3f8895ec7dc13e8e3219324",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-09-22T11:23:11+02:00",
+      "all": 16,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "4cf6fb06592928f867de0a91e9b4b57297e35b36",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-09-22T11:15:11+02:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "fc16d540ae5401f852585346dc74ae1c8dd70605",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-09-19T19:37:59+02:00",
+      "all": 14,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "6ffe62ea11f8b4e710391ad3a831229954fc7401",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-09-19T12:23:58+02:00",
+      "all": 17,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "f537ba39d7e3952a74c9582e70c12bb836fef7cb",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-09-18T09:03:03+02:00",
+      "all": 22,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "625c5458b8df2d8b0be00c0eae1a790dfa07b3b5",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-09-18T08:32:16+02:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "2e2b962ca1aa3dcaaa4f08123d96e60918761889",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-09-18T08:26:37+02:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "01831e8f96e42c72e5abe5838e13554e9d48f3ee",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-09-17T15:29:50+02:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "581a3717a2654e9011ca7bb8c6ff4abca00f95c4",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-09-17T12:47:36+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "cbea22cfd38b3d2bc8c40d4ee28d4c4df1005c53",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-09-17T11:34:12+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "57952f879be14d0735ed43dab164839f4de57b55",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-09-17T09:58:51+02:00",
+      "all": 4,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "30c64f443d7feae46c163e743b3f879d5e9a8fd0",
+      "who": "Johannes Link <jl@johanneslink.net>",
+      "when": "2015-09-17T09:39:15+02:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "32f3458f1a7a618e28b1f32c77c1b3cd08c910bf",
+      "who": "Yusuke Yamamoto <yusuke@mac.com>",
+      "when": "2015-09-17T11:55:08+09:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "e65310f8b21474a8111a9c7311436e700804ca3f",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-09-08T22:15:04+02:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "a2ea00d745f2770ff3b443f77ef72572d37209df",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-09-14T19:28:15+02:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c7313b19a24165f4e6b39c3eb2c8165a02f1e108",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-09-11T09:17:14+02:00",
+      "all": 8,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "1079730d32227eaed5c69a908770572285ad6301",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-09-11T09:16:59+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d5428f3f195f3c89a3b548c7ed041346b4311084",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-09-10T20:50:30+02:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "277ccefbc64b7f39272204b68106e7e394975d78",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-09-10T09:32:48+02:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "2a5558e7ee31d7ec31959fa313373ab0c71d9215",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-09-10T08:57:44+02:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "60fac448f24f479b1536bb515c527ae8a24d161c",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-09-08T22:14:16+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "baf48c1acf9d5412bebc3da46e7907393b6ac328",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-09-08T20:27:32+02:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "588d82a7146a2076cc71d19d272c4070084bc03e",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-09-08T20:25:52+02:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "b978f680cfa3eb9b526cc8bd25c68a3eb6db3c45",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-09-07T22:05:26+02:00",
+      "all": 11,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d3a0ce2003c2ff70558a99c795359e4be882b7fe",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-09-07T22:05:01+02:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "bff043beba464d58b8497c98e62df54beb39b0f4",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-09-06T16:43:59+02:00",
+      "all": 11,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "75225f76d430e45adcf36cef8d6fdbeb7629de57",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-09-05T17:47:59+02:00",
+      "all": 4,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "388ae4ceb0c3f34b2ab339afafb22e6a6a032194",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-09-03T17:16:09+02:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "6f10321bfd1f183d42c19292a25520bed4545e38",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-09-03T12:15:15+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "ce7ce514aa79a7a3be067552359722626937fe8f",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-09-02T18:13:45+02:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "bc9618af9e995faaf74381abe417f080df47399c",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-09-02T07:49:25+02:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "e9e9da84e9b50e233eac79c3879e2e0862778eeb",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-09-01T14:23:00+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "38beb569a0bb1531609cd7ffcf119e39a322857d",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-09-01T14:13:20+02:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "44a09e71c211d961c9a1b31c22f0f890d0e8d418",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-09-01T13:03:02+02:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "f8f1c548788347e610bb87cfe474de08a3edf585",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-09-01T12:59:29+02:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "6e5d8fd17c63f322b1606ed456877c228d0565c4",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-09-01T10:39:57+02:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "94f6b6775780c6f58738ae768bae038683565b2c",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-09-01T10:15:27+02:00",
+      "all": 32,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "fd2c4fbbf74f01eecef1680fa1365052d0302d19",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-08-31T15:54:57+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "cab111add67ec6ba33f93f8611a73b565fb2786c",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-08-31T15:19:52+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d96d9db1208f45748623799b1756291488c55e8a",
+      "who": "Johannes Link <business@johanneslink.net>",
+      "when": "2015-08-31T14:55:08+02:00",
+      "all": 14,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "7a565edd49073c2ac6a555a35d2a5981189545fd",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-08-28T12:52:36+02:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "73f5e4d0f33b59f2b37abb90a8ff083c13bb6fb0",
+      "who": "Matthias Merdes <Matthias.Merdes@heidelberg-mobil.com>",
+      "when": "2015-08-28T11:49:06+02:00",
+      "all": 12,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "e331eb94e43dae8201d8f44bec834a3f89db29db",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-08-16T20:31:40+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "bd8a3f3bd0cf9e34174a9e48a5ae57569180ab0e",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-08-15T17:43:44+02:00",
+      "all": 49,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "bd30934c2e63614b957f16258a7771619e3e5c8d",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-08-12T08:45:07+02:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "32f3c6292808f793a50821dac3fec3bad3b661c9",
+      "who": "gk2go <gk@gk2go.com>",
+      "when": "2015-08-08T10:50:36+03:00",
+      "all": 13,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "3489500ca2f4b05bc91e5137a2b3faff273998f2",
+      "who": "gk2go <gk@gk2go.com>",
+      "when": "2015-08-07T20:23:19+03:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "9ea4f8cc6a1cfcf56689be4bd6ece908b87f9c6a",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-08-14T09:13:45+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "be6026923f1c20d1e3e9c27caa049c5f3950d3f7",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-08-12T07:39:27+02:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "97304493c95f97c111dbb957f81868e7015c79da",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-08-12T07:36:52+02:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "3e43555e1f4df95b0a239f453af6d3226a8fef6e",
+      "who": "David Saff <saff+aa@google.com>",
+      "when": "2015-08-10T11:04:38-04:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "3c3aa7c72cae8d5abab8f4a1facea2ea2aa6bb8c",
+      "who": "gk2go <gk@gk2go.com>",
+      "when": "2015-08-08T10:50:36+03:00",
+      "all": 13,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "8d9e2051c21ab4f5c50a1b77d9711a72a55f7896",
+      "who": "gk2go <gk@gk2go.com>",
+      "when": "2015-08-07T20:23:19+03:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d40d65bc32cd87f958e49625fb6ae1b9f0d084c4",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-08-06T22:15:59+02:00",
+      "all": 17,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "9371b5f5eb348717632d4d78e8a303d5f7302372",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-08-05T22:54:48+02:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "33d9df3d58c02d5a3aae45c8eb3e7982f6884df2",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-08-05T22:40:37+02:00",
+      "all": 30,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "fbbbcec0da67835b00421f9f1012412e4b31d3ec",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-08-05T09:27:40+02:00",
+      "all": 78,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d573af741a7077d0db032bdb7f331fd4f40439b2",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-08-02T14:02:03+02:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "ff922af0b64c704b9dad697f36c17a6bee34a758",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-07-30T20:36:29+02:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "83e72f27172d3ffd670d7ba5dff970a750077704",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-07-27T14:05:46+02:00",
+      "all": 43,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "52c36eac22b5f156944bbb6882c7c354cb00703d",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-07-26T20:15:26+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c52818e7e2195c1a5351dec6cbad682c9a9276d5",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-07-26T12:49:17+02:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "860c1142f76276b348aa4fb5fb5248c5cad6894b",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-03-12T22:36:13+01:00",
+      "all": 92,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "1d63100e6d69f448a3afb4571e9915cb9439fe1d",
-      "who": "chris.barrow@kaazing.com",
+      "who": "Chris Barrow <chris.barrow@kaazing.com>",
       "when": "2015-07-08T14:00:33-07:00",
       "all": 3,
       "test": 0,
@@ -38,7 +938,7 @@
     },
     {
       "id": "3289d9422b535666786aa3201ea0f31ad5e1f7e3",
-      "who": "kcooney@google.com",
+      "who": "Kevin Cooney <kcooney@google.com>",
       "when": "2015-05-26T21:07:51-07:00",
       "all": 42,
       "test": 0,
@@ -47,7 +947,7 @@
     },
     {
       "id": "bdb1799a6b58c4ab40c418111333f4e8e1816e7e",
-      "who": "rschmitt@pobox.com",
+      "who": "Ryan Schmitt <rschmitt@pobox.com>",
       "when": "2015-06-03T18:43:01-07:00",
       "all": 149,
       "test": 82,
@@ -55,8 +955,17 @@
       "pct": 55.0
     },
     {
+      "id": "bcbf43dcaa5efee1418685a9a523dc11dedc77c7",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-07-02T22:56:09+02:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "45f22658aca9059a1a3c1dbf0d07ca91118e5f1b",
-      "who": "cnauroth@apache.org",
+      "who": "cnauroth <cnauroth@apache.org>",
       "when": "2015-07-02T13:48:33-07:00",
       "all": 5,
       "test": 0,
@@ -64,8 +973,80 @@
       "pct": 0.0
     },
     {
+      "id": "fe1753703f4f20718b3479dd71e01e9e4d96cf1f",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-07-01T23:09:31+02:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "b8057bc33957a83086019fb5edca386add6d0b6c",
+      "who": "Arie van Deursen <arie.vandeursen@tudelft.nl>",
+      "when": "2015-07-01T21:44:01+02:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "00911b15329a3d329f1b241a45ca49d2cbbe8504",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-06-26T21:15:59+02:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "e848a97320851c8614cf9712fa5e2b5092d82925",
+      "who": "Jin Haifeng <jhfjhfj1@gmail.com>",
+      "when": "2015-06-27T01:53:16+08:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "e5c943ada7ad1b3b79570ff10b11d396927a337d",
+      "who": "Jin Haifeng <jhfjhfj1@gmail.com>",
+      "when": "2015-06-27T01:39:29+08:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "f53a3ada07fb07ece60eb20f571b6db2727d73b2",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-06-14T15:02:20+02:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "9b926838cecedd7933681cb176e59f059ae1f0ad",
+      "who": "Hans Joachim Desserud <github@desserud.org>",
+      "when": "2015-06-10T20:40:13+02:00",
+      "all": 17,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "40226c72383c689c02a5cd05271428e948365a01",
+      "who": "Hans Joachim Desserud <github@desserud.org>",
+      "when": "2015-06-10T20:33:31+02:00",
+      "all": 17,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "989be00be3baecb3e47bc95ba981d642bb9eca81",
-      "who": "rschmitt@pobox.com",
+      "who": "Ryan Schmitt <rschmitt@pobox.com>",
       "when": "2015-06-04T10:16:02-07:00",
       "all": 14,
       "test": 14,
@@ -74,7 +1055,7 @@
     },
     {
       "id": "eedd1f68fbd014beca60c979e8173c271ea5cf2d",
-      "who": "rschmitt@pobox.com",
+      "who": "Ryan Schmitt <rschmitt@pobox.com>",
       "when": "2015-06-04T10:21:13-07:00",
       "all": 3,
       "test": 0,
@@ -83,7 +1064,7 @@
     },
     {
       "id": "99da5691c6cf70af52c4793ffab717a9f3085753",
-      "who": "me@shadowfacts.net",
+      "who": "Shadowfacts <me@shadowfacts.net>",
       "when": "2015-05-31T13:34:37-04:00",
       "all": 3,
       "test": 0,
@@ -92,16 +1073,16 @@
     },
     {
       "id": "04353c59ed3ce7c795ee312fa8bf4d3f02d721a7",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2015-06-04T21:44:41+02:00",
-      "all": 3,
+      "all": 0,
       "test": 0,
-      "testable": 3,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "1ce094e73a673fefb7ef69c8734f19a51293b47d",
-      "who": "izeye@naver.com",
+      "who": "izeye <izeye@naver.com>",
       "when": "2015-06-05T01:12:52+09:00",
       "all": 3,
       "test": 0,
@@ -110,25 +1091,25 @@
     },
     {
       "id": "28a3a3b1bd84e4b438bea6fccc913f419003f879",
-      "who": "saff+aa@google.com",
+      "who": "David Saff <saff+aa@google.com>",
       "when": "2015-06-04T11:19:05-04:00",
-      "all": 224,
-      "test": 180,
-      "testable": 224,
-      "pct": 80.4
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "f56556f1f6fa3390efd7dcbc22123321c9a596ff",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2015-06-01T16:21:48+02:00",
-      "all": 148,
+      "all": 0,
       "test": 0,
-      "testable": 148,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "82118e728701b7b0f81a2dd4a69b2290de056b28",
-      "who": "charlie@yandex-team.ru",
+      "who": "Dmitry Baev <charlie@yandex-team.ru>",
       "when": "2015-05-12T18:39:55+03:00",
       "all": 148,
       "test": 0,
@@ -136,8 +1117,17 @@
       "pct": 0.0
     },
     {
+      "id": "4bef795fa872ae326bb3fd2ef0032f708d861082",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-05-20T23:21:04+02:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "03eff4b98a38d617a3d0cbc047221d7d337eeb86",
-      "who": "EarthCitizen@users.noreply.github.com",
+      "who": "EarthCitizen <EarthCitizen@users.noreply.github.com>",
       "when": "2015-05-13T15:23:48-07:00",
       "all": 17,
       "test": 0,
@@ -145,17 +1135,26 @@
       "pct": 0.0
     },
     {
-      "id": "387e8518435df62b557a59001b18109af88fb0dc",
-      "who": "mail@marcphilipp.de",
-      "when": "2015-04-21T04:24:10+02:00",
-      "all": 3,
+      "id": "b3f336f375f1c49f63d9058897d92edcc0ebb8a5",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-05-01T18:07:45+02:00",
+      "all": 11,
       "test": 0,
-      "testable": 3,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "387e8518435df62b557a59001b18109af88fb0dc",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-04-21T04:24:10+02:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "10f8f5ada174ee2b3480485980865b26db4bcdbc",
-      "who": "jonathanbeaudoin1996@hotmail.com",
+      "who": "Jonathan Beaudoin <jonathanbeaudoin1996@hotmail.com>",
       "when": "2015-04-19T17:53:49-04:00",
       "all": 3,
       "test": 0,
@@ -164,7 +1163,7 @@
     },
     {
       "id": "9f87b7819a63b53aae70e79fb72cc00e1837a3b6",
-      "who": "charlie@yandex-team.ru",
+      "who": "Dmitry Baev <charlie@yandex-team.ru>",
       "when": "2015-04-08T16:04:14+03:00",
       "all": 29,
       "test": 0,
@@ -173,7 +1172,7 @@
     },
     {
       "id": "2adef6f30c64c5e5e14e9261637d113f7adda884",
-      "who": "mail@stefan-birkner.de",
+      "who": "Stefan Birkner <mail@stefan-birkner.de>",
       "when": "2015-04-08T01:33:35+02:00",
       "all": 30,
       "test": 0,
@@ -182,16 +1181,16 @@
     },
     {
       "id": "414e31f00b97bdd1242063495b5db7ff0c22ee5a",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2015-04-13T18:17:30+02:00",
-      "all": 234,
-      "test": 164,
-      "testable": 234,
-      "pct": 70.1
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "97654ff38f976733fa4c6ae9b28e3fe10328183f",
-      "who": "mail@stefan-birkner.de",
+      "who": "Stefan Birkner <mail@stefan-birkner.de>",
       "when": "2015-03-06T01:11:36+01:00",
       "all": 187,
       "test": 117,
@@ -200,7 +1199,7 @@
     },
     {
       "id": "61994e0c0aa768b43fad1ac6e35b1e43ffc8b142",
-      "who": "mail@stefan-birkner.de",
+      "who": "Stefan Birkner <mail@stefan-birkner.de>",
       "when": "2015-03-06T01:05:18+01:00",
       "all": 24,
       "test": 24,
@@ -209,7 +1208,7 @@
     },
     {
       "id": "b403288c9bf67e4989b7f3af5b8360828dcb8e94",
-      "who": "mail@stefan-birkner.de",
+      "who": "Stefan Birkner <mail@stefan-birkner.de>",
       "when": "2015-03-06T00:54:13+01:00",
       "all": 27,
       "test": 27,
@@ -218,7 +1217,7 @@
     },
     {
       "id": "3a5772dab5ce8f3b2879a19009357d425e84400e",
-      "who": "tibor17@lycos.com",
+      "who": "Tibor17 <tibor17@lycos.com>",
       "when": "2015-04-04T20:30:47+02:00",
       "all": 3,
       "test": 0,
@@ -227,7 +1226,7 @@
     },
     {
       "id": "ad9972ba5d135d1c5673f0773cb7027f7823feb5",
-      "who": "github@desserud.org",
+      "who": "Hans Joachim Desserud <github@desserud.org>",
       "when": "2015-03-10T20:37:47+01:00",
       "all": 19,
       "test": 0,
@@ -236,7 +1235,7 @@
     },
     {
       "id": "5dd69355f371be15aee03875752f95e2b20e02c9",
-      "who": "github@desserud.org",
+      "who": "Hans Joachim Desserud <github@desserud.org>",
       "when": "2015-03-10T20:16:54+01:00",
       "all": 3,
       "test": 0,
@@ -245,7 +1244,7 @@
     },
     {
       "id": "a4699a1f3363728218cf0a269f78b4ced25dea38",
-      "who": "github@desserud.org",
+      "who": "Hans Joachim Desserud <github@desserud.org>",
       "when": "2015-03-10T20:14:11+01:00",
       "all": 5,
       "test": 0,
@@ -254,16 +1253,16 @@
     },
     {
       "id": "47707e8d86ad0927f6c67472615646949d313ab3",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2015-03-02T09:25:47+01:00",
-      "all": 3,
+      "all": 0,
       "test": 0,
-      "testable": 3,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "187c56489189d2a6e928fea3d0942e1a5346c517",
-      "who": "mustafau@sabanciuniv.edu",
+      "who": "Mustafa Ulu <mustafau@sabanciuniv.edu>",
       "when": "2015-03-01T20:36:02+02:00",
       "all": 3,
       "test": 0,
@@ -272,7 +1271,7 @@
     },
     {
       "id": "9c337dcbb8c71cfcbd283a4f481c2794c13465a6",
-      "who": "adrian.f.cole@gmail.com",
+      "who": "Adrian Cole <adrian.f.cole@gmail.com>",
       "when": "2015-02-28T07:52:17-08:00",
       "all": 6,
       "test": 0,
@@ -280,8 +1279,17 @@
       "pct": 0.0
     },
     {
+      "id": "dc90577ab174c020db4380a54e48276d69b3fc8c",
+      "who": "The Alchemist <kap4020@gmail.com>",
+      "when": "2015-02-26T13:48:22-05:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "38010188e5c5e34da29d063e6c002a173f56a539",
-      "who": "github@desserud.org",
+      "who": "Hans Joachim Desserud <github@desserud.org>",
       "when": "2015-02-28T15:22:57+01:00",
       "all": 18,
       "test": 18,
@@ -290,7 +1298,7 @@
     },
     {
       "id": "a90b496a6595856066504baf4f737fb853a6e45d",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2015-02-15T21:53:52+01:00",
       "all": 112,
       "test": 94,
@@ -299,7 +1307,7 @@
     },
     {
       "id": "0f0152a8cd6dcbdb9f9cbb6ec5ca1cf2629dc12a",
-      "who": "kcooney@google.com",
+      "who": "Kevin Cooney <kcooney@google.com>",
       "when": "2015-01-04T12:45:12-08:00",
       "all": 3,
       "test": 0,
@@ -308,7 +1316,7 @@
     },
     {
       "id": "0804ef4cd09b0e94783a9882c60914e22fca5108",
-      "who": "git@acanda.ch",
+      "who": "Philip Graf <git@acanda.ch>",
       "when": "2015-01-06T20:35:26+01:00",
       "all": 58,
       "test": 18,
@@ -317,7 +1325,7 @@
     },
     {
       "id": "c7300033b5622aa02a58d4570e598697e58b0b4d",
-      "who": "jorgeejgonzalez@gmail.com",
+      "who": "Jorge Gonzalez <jorgeejgonzalez@gmail.com>",
       "when": "2015-01-18T10:42:35-04:30",
       "all": 7,
       "test": 0,
@@ -325,8 +1333,26 @@
       "pct": 0.0
     },
     {
+      "id": "8f2a561045b432f9755e5226b8148fd70c20c984",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-01-14T21:39:36+01:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "5245ddd26f7e2a0d40e8b19fd0936afe2c0c9b86",
+      "who": "Hans Joachim Desserud <github@desserud.org>",
+      "when": "2015-01-14T19:17:48+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "54b7613484be714a769a8d62f1ac507912e61a01",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2015-01-04T22:20:25+01:00",
       "all": 3,
       "test": 0,

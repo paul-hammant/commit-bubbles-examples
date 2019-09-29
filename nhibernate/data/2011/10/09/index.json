@@ -1,8 +1,26 @@
 {
   "commits": [
     {
+      "id": "adbe4f4bbd39132b353cc25dda299b3cc4de7ea7",
+      "who": "Julian Maughan <julian.maughan@gmail.com>",
+      "when": "2011-10-09T22:34:36+08:00",
+      "all": 80,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "8c8558587acd373ea09cc2cafa18ecab2e9ebf84",
+      "who": "Julian Maughan <julian.maughan@gmail.com>",
+      "when": "2011-10-09T21:01:12+08:00",
+      "all": 33,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "5b4e79465c00c989372a2f27affe63ed10d6043b",
-      "who": "julian.maughan@gmail.com",
+      "who": "Julian Maughan <julian.maughan@gmail.com>",
       "when": "2011-10-09T01:25:25+08:00",
       "all": 115,
       "test": 110,
@@ -11,7 +29,7 @@
     },
     {
       "id": "57f681ac0b5d18e2eaa81e4dad910510404ae42b",
-      "who": "julian.maughan@gmail.com",
+      "who": "Julian Maughan <julian.maughan@gmail.com>",
       "when": "2011-10-09T01:23:26+08:00",
       "all": 78,
       "test": 74,
@@ -20,7 +38,7 @@
     },
     {
       "id": "6242b622a602f2a437e86ec9026080762a6d2c31",
-      "who": "julian.maughan@gmail.com",
+      "who": "Julian Maughan <julian.maughan@gmail.com>",
       "when": "2011-10-09T01:18:08+08:00",
       "all": 234,
       "test": 133,
@@ -29,7 +47,7 @@
     },
     {
       "id": "90cdaab644465390e363f9a6e7184f6dade46faa",
-      "who": "julian.maughan@gmail.com",
+      "who": "Julian Maughan <julian.maughan@gmail.com>",
       "when": "2011-10-09T01:13:30+08:00",
       "all": 132,
       "test": 3,
@@ -37,8 +55,17 @@
       "pct": 100.0
     },
     {
+      "id": "81a13a9c63d03c60a48b4554f2e136d81253d926",
+      "who": "Patrick Earl <patearl@patearl.net>",
+      "when": "2011-10-09T11:03:01-06:00",
+      "all": 11145,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "ad4e32e71f1003fefba716cf7539f3057dc63040",
-      "who": "patearl@patearl.net",
+      "who": "Patrick Earl <patearl@patearl.net>",
       "when": "2011-10-09T10:03:47-06:00",
       "all": 7,
       "test": 7,
@@ -47,12 +74,30 @@
     },
     {
       "id": "ea9780c400a6194acfaeaab189b0fcabd8dd1eaa",
-      "who": "patearl@patearl.net",
+      "who": "Patrick Earl <patearl@patearl.net>",
       "when": "2011-10-09T00:22:44-06:00",
       "all": 4,
       "test": 4,
       "testable": 4,
       "pct": 100.0
+    },
+    {
+      "id": "7ccef1feeb18ad0487026820095c8fe9ae12c522",
+      "who": "Patrick Earl <patearl@patearl.net>",
+      "when": "2011-10-09T00:14:43-06:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "b546bcbec3f3b334bf0793a3bf5fac0d5aee3571",
+      "who": "Patrick Earl <patearl@patearl.net>",
+      "when": "2011-10-09T00:13:24-06:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "NHibernate (master branch)",

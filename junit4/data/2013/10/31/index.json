@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "41092ce4e01cc57d8aa1911e2f1169e0f355b1ae",
-      "who": "mail@stefan-birkner.de",
+      "who": "Stefan Birkner <mail@stefan-birkner.de>",
       "when": "2013-10-31T23:54:25+01:00",
       "all": 9,
       "test": 9,
@@ -11,7 +11,7 @@
     },
     {
       "id": "13ff0f993803b7df6d155e95495410e7290da732",
-      "who": "adambeneschan@aol.com",
+      "who": "Adam Beneschan <adambeneschan@aol.com>",
       "when": "2013-10-31T13:24:26-07:00",
       "all": 18,
       "test": 0,
@@ -20,12 +20,30 @@
     },
     {
       "id": "1bb6d041ca237475ca600248b60654a74e437968",
-      "who": "saff+aa@google.com",
+      "who": "David Saff <saff+aa@google.com>",
       "when": "2013-10-31T12:11:28-07:00",
-      "all": 259,
-      "test": 109,
-      "testable": 259,
-      "pct": 42.1
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "6a756d53f90fe0765ce1adbf1203cc0acbc618b9",
+      "who": "Adam Beneschan <adambeneschan@aol.com>",
+      "when": "2013-10-31T11:45:56-07:00",
+      "all": 14,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d317f01b947cbef518aeae1bbb92c95aec918253",
+      "who": "Adam Beneschan <adambeneschan@aol.com>",
+      "when": "2013-10-31T09:24:49-07:00",
+      "all": 372,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 4 (master branch)",

@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "f6149a9236d9a2778bf2fd6db927fd9f498a79c8",
-      "who": "kcooney@google.com",
+      "who": "Kevin Cooney <kcooney@google.com>",
       "when": "2014-09-27T21:35:09-07:00",
       "all": 178,
       "test": 71,
@@ -10,17 +10,53 @@
       "pct": 39.9
     },
     {
+      "id": "6cf8f1fa2f4428f1e96f6cd2eded743b6879859e",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2014-09-28T07:36:40+02:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "5c885a7df5e557a271268dbd4f00f48b4184c064",
+      "who": "Kevin Cooney <kcooney@google.com>",
+      "when": "2014-09-27T15:19:23-07:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "597977ed1e15acfce0c7c67284d8cd1501911a53",
+      "who": "CloudBees DEV@Cloud <nobody@cloudbees.com>",
+      "when": "2014-09-25T01:50:50-04:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "8d63bc65ace8c36eb3b189528c06e201f2caa535",
+      "who": "CloudBees DEV@Cloud <nobody@cloudbees.com>",
+      "when": "2014-09-25T01:50:48-04:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "af83b6badeb37083a22bf7247111cbe0b5de0b86",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2014-09-24T23:14:15+02:00",
-      "all": 91,
-      "test": 31,
-      "testable": 91,
-      "pct": 34.1
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "d0b029f644e2f3217962f0de0cd4ffdfa641bd96",
-      "who": "kcooney@google.com",
+      "who": "Kevin Cooney <kcooney@google.com>",
       "when": "2014-09-10T09:48:47-07:00",
       "all": 91,
       "test": 31,
@@ -29,16 +65,16 @@
     },
     {
       "id": "c2f2a8c11487523569bf30f75d16cb747947d8dc",
-      "who": "saff+aa@google.com",
+      "who": "David Saff <saff+aa@google.com>",
       "when": "2014-09-24T12:57:25-04:00",
-      "all": 225,
+      "all": 0,
       "test": 0,
-      "testable": 225,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "86b9346e4c8fa263810dbd55a2775081194b1d6f",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2014-09-21T20:11:07+02:00",
       "all": 225,
       "test": 0,
@@ -46,17 +82,44 @@
       "pct": 0.0
     },
     {
+      "id": "a5727fce1819a01a7d7715320bc0cac3b91200be",
+      "who": "Kevin Cooney <kcooney+github@gmail.com>",
+      "when": "2014-09-16T11:53:26-07:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "3dbe046a967236bce5ede9bed258ebd9d0a45182",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2014-09-16T13:31:17+02:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "3d7dfb3f254df2e41e69a63ee85639567d09a70b",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2014-09-14T19:45:58+02:00",
-      "all": 221,
-      "test": 40,
-      "testable": 189,
-      "pct": 21.2
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "510d807929bdd2dea85726b5a12542758aa61420",
+      "who": "Kevin Cooney <kcooney@google.com>",
+      "when": "2014-09-13T09:27:51-07:00",
+      "all": 32,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "2a88771e9d523bff6f539c3db9e7def483a13f04",
-      "who": "kcooney@google.com",
+      "who": "Kevin Cooney <kcooney@google.com>",
       "when": "2014-09-06T17:45:44-07:00",
       "all": 5,
       "test": 0,
@@ -65,7 +128,7 @@
     },
     {
       "id": "755a82f05ea6cfb884d72041b404fc1c8129f92c",
-      "who": "kcooney@google.com",
+      "who": "Kevin Cooney <kcooney@google.com>",
       "when": "2014-09-06T17:24:07-07:00",
       "all": 184,
       "test": 40,
@@ -74,25 +137,25 @@
     },
     {
       "id": "7d07b8db30db7ee0d7220af40fff25f22aae2c9e",
-      "who": "kcooney+github@gmail.com",
+      "who": "Kevin Cooney <kcooney+github@gmail.com>",
       "when": "2014-09-12T16:05:03-07:00",
-      "all": 839,
-      "test": 145,
-      "testable": 833,
-      "pct": 17.4
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "008299efcf2bddf0f050735e80c61a70a5d6b35a",
-      "who": "kcooney+github@gmail.com",
+      "who": "Kevin Cooney <kcooney+github@gmail.com>",
       "when": "2014-09-12T15:56:57-07:00",
-      "all": 28,
-      "test": 10,
-      "testable": 28,
-      "pct": 35.7
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "34701f7aedd60ace43171a9c56c14c8ef1f7bd15",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2014-09-12T21:56:52+02:00",
       "all": 28,
       "test": 10,
@@ -100,35 +163,53 @@
       "pct": 35.7
     },
     {
-      "id": "c5a2e043f988c8fbafd57a453f77930720f55c2b",
-      "who": "saff+aa@google.com",
-      "when": "2014-09-11T10:32:33-04:00",
-      "all": 8,
+      "id": "e561590830f24e663c03fd604d39c51a47bfcc31",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2014-09-11T22:17:20+02:00",
+      "all": 0,
       "test": 0,
-      "testable": 8,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "890ba9770601156474939e26e5507efafb3bf2f0",
+      "who": "Kevin Cooney <kcooney@google.com>",
+      "when": "2014-09-11T09:01:17-07:00",
+      "all": 22,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c5a2e043f988c8fbafd57a453f77930720f55c2b",
+      "who": "David Saff <saff+aa@google.com>",
+      "when": "2014-09-11T10:32:33-04:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "afdbe56dcdc453608429643dcda516556ce00334",
-      "who": "kcooney+github@gmail.com",
+      "who": "Kevin Cooney <kcooney+github@gmail.com>",
       "when": "2014-09-10T08:27:02-07:00",
-      "all": 50,
-      "test": 42,
-      "testable": 50,
-      "pct": 84.0
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "71a322165f18c9b696d5ba5ecf2134f58e66f615",
-      "who": "kcooney+github@gmail.com",
+      "who": "Kevin Cooney <kcooney+github@gmail.com>",
       "when": "2014-09-09T09:04:30-07:00",
-      "all": 52,
-      "test": 24,
-      "testable": 52,
-      "pct": 46.2
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "daa46e409f29cd21f9b3a9036fd858c3c21e564f",
-      "who": "kcooney@google.com",
+      "who": "Kevin Cooney <kcooney@google.com>",
       "when": "2014-09-06T10:29:40-07:00",
       "all": 50,
       "test": 42,
@@ -137,7 +218,7 @@
     },
     {
       "id": "56a63f1607fadd83df240b1676d8a053348d868f",
-      "who": "petter@spotify.com",
+      "who": "Petter M\u00c3\u00a5hl\u00c3\u00a9n <petter@spotify.com>",
       "when": "2014-09-04T13:32:22+02:00",
       "all": 52,
       "test": 24,
@@ -146,16 +227,16 @@
     },
     {
       "id": "533dbb7b97dc25529b96c512e638a778d9ee0530",
-      "who": "kcooney+github@gmail.com",
+      "who": "Kevin Cooney <kcooney+github@gmail.com>",
       "when": "2014-09-07T09:25:57-07:00",
-      "all": 99,
+      "all": 0,
       "test": 0,
-      "testable": 99,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "07cf3c7fa446da330776502fb7cdc7329bfa2265",
-      "who": "kcooney@google.com",
+      "who": "Kevin Cooney <kcooney@google.com>",
       "when": "2014-09-06T09:27:19-07:00",
       "all": 65,
       "test": 0,
@@ -164,16 +245,16 @@
     },
     {
       "id": "5408162765635af9b42a47ea865b06865284a2ab",
-      "who": "kcooney+github@gmail.com",
+      "who": "Kevin Cooney <kcooney+github@gmail.com>",
       "when": "2014-09-06T08:54:35-07:00",
-      "all": 160,
-      "test": 23,
-      "testable": 160,
-      "pct": 14.4
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "1e55e32ba3dab864b20e9c162c5b421f99a11c6d",
-      "who": "kcooney@google.com",
+      "who": "Kevin Cooney <kcooney@google.com>",
       "when": "2014-09-02T22:39:15-07:00",
       "all": 9,
       "test": 0,
@@ -182,7 +263,7 @@
     },
     {
       "id": "d96a05f8d33ed781c701c58dd285bf6464112719",
-      "who": "kcooney@google.com",
+      "who": "Kevin Cooney <kcooney@google.com>",
       "when": "2014-09-02T22:23:15-07:00",
       "all": 151,
       "test": 23,

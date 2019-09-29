@@ -1,24 +1,24 @@
 {
   "commits": [
     {
-      "all": 0, 
-      "who": "catwell@archlinux.us", 
-      "when": "2011-05-27T16:01:29+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "45ec3243f8205ff8d356a5175026052070211d91"
-    }, 
+      "id": "45ec3243f8205ff8d356a5175026052070211d91",
+      "who": "Pierre Chapuis <catwell@archlinux.us>",
+      "when": "2011-05-27T16:01:29+02:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "catwell@archlinux.us", 
-      "when": "2011-05-27T15:27:07+02:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "6d0014cf588a4bf01ce663f3f951eb8b299795d0"
+      "id": "6d0014cf588a4bf01ce663f3f951eb8b299795d0",
+      "who": "Pierre Chapuis <catwell@archlinux.us>",
+      "when": "2011-05-27T15:27:07+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

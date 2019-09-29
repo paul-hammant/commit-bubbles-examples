@@ -1,8 +1,17 @@
 {
   "commits": [
     {
+      "id": "731d47c876df50f0b962ac1bf13fe5c2d9fdc9f5",
+      "who": "Will Holley <willholley@gmail.com>",
+      "when": "2012-12-10T11:13:10+00:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "1696c4da3d1792a32e4cf3a3be8e30d71868c8dc",
-      "who": "willholley@gmail.com",
+      "who": "Will Holley <willholley@gmail.com>",
       "when": "2012-12-10T16:39:07+00:00",
       "all": 4971,
       "test": 387,
@@ -11,16 +20,25 @@
     },
     {
       "id": "99aef836895a1750654e871cacc93c53d5c048d8",
-      "who": "oskar.berggren@gmail.com",
+      "who": "Oskar Berggren <oskar.berggren@gmail.com>",
       "when": "2012-12-10T08:12:29-08:00",
-      "all": 119,
+      "all": 0,
       "test": 0,
-      "testable": 101,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "64a734381fecd42350e72fdc334daa8c5fdec91b",
+      "who": "Will Holley <willholley@gmail.com>",
+      "when": "2012-12-10T16:04:51+00:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "587db0bf507312352c26a2c6cc679d6e9766d0c4",
-      "who": "hazzik@gmail.com",
+      "who": "Alexander I. Zaytsev <hazzik@gmail.com>",
       "when": "2012-12-10T23:36:11+13:00",
       "all": 28,
       "test": 2,
@@ -29,12 +47,12 @@
     },
     {
       "id": "fe39f12cf44089246bde3e59f77055ac6c75afc8",
-      "who": "hazzik@gmail.com",
+      "who": "Alexander I. Zaytsev <hazzik@gmail.com>",
       "when": "2012-12-10T21:42:23+13:00",
-      "all": 210,
-      "test": 180,
-      "testable": 210,
-      "pct": 85.7
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "NHibernate (master branch)",

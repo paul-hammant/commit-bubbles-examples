@@ -2,12 +2,21 @@
   "commits": [
     {
       "id": "c56b4ddc6f216ff751f9e8e94d345eee30d9997c",
-      "who": "oran@redislabs.com",
+      "who": "Oran Agra <oran@redislabs.com>",
       "when": "2019-07-16T11:00:34+03:00",
       "all": 324,
       "test": 118,
       "testable": 324,
       "pct": 36.4
+    },
+    {
+      "id": "5827b69861079ea8c88408525d526c94adab5e97",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
+      "when": "2019-07-16T18:33:55+02:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Redis (unstable branch)",

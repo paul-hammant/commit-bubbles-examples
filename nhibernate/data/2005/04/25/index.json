@@ -2,12 +2,21 @@
   "commits": [
     {
       "id": "17e5fa0d61bce53136743884ccc45cf02408988e",
-      "who": "justme84@users.sourceforge.net",
+      "who": "Sergey Koshcheyev <justme84@users.sourceforge.net>",
       "when": "2005-04-25T13:19:07+00:00",
       "all": 341,
       "test": 249,
       "testable": 317,
       "pct": 78.5
+    },
+    {
+      "id": "db48767f4210ebd63b0cf14cdcbce64a636d3b30",
+      "who": "Mike Doerfler <mikedoerfler@users.sourceforge.net>",
+      "when": "2005-04-25T03:26:59+00:00",
+      "all": 1323,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "NHibernate (master branch)",

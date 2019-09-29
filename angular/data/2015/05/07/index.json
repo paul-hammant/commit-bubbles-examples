@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "e11c20541a0678755061daa7cce89084d2a4b6e4",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-07T15:38:57+02:00",
       "all": 177,
       "test": 35,
@@ -11,7 +11,7 @@
     },
     {
       "id": "c75e216871f66866b12b007bb72045eb301c745a",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-07T09:24:59+02:00",
       "all": 310,
       "test": 114,
@@ -20,7 +20,7 @@
     },
     {
       "id": "ac80df09595644b5cc3fede854937cefdaaecf83",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-05-07T21:10:12-07:00",
       "all": 121,
       "test": 46,
@@ -29,7 +29,7 @@
     },
     {
       "id": "84dc6ae76b7a87f3d28f35a0148c060967b251e4",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-05-07T17:18:42-07:00",
       "all": 9,
       "test": 6,
@@ -37,8 +37,44 @@
       "pct": 100.0
     },
     {
+      "id": "401c9efad7e7809e14eff13051a70e23e762fa4c",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2015-05-07T14:14:34-07:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "900bf8e483ff278c71782fe6aac6b1383640cd35",
+      "who": "Alex Eagle <eagle@post.harvard.edu>",
+      "when": "2015-05-07T16:49:59-07:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "271ced8ac45256682b5a7fb0346dad52b0555d09",
+      "who": "Alex Eagle <eagle@post.harvard.edu>",
+      "when": "2015-05-07T16:47:47-07:00",
+      "all": 32,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c5bd3f0773788a9d83aae2880acf5af851e3fea4",
+      "who": "Alex Eagle <eagle@post.harvard.edu>",
+      "when": "2015-05-07T16:53:58-07:00",
+      "all": 29,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "ad239218140989ca28d26dc58ef4f7737a25e3d6",
-      "who": "jelbourn@google.com",
+      "who": "Jeremy Elbourn <jelbourn@google.com>",
       "when": "2015-05-07T09:10:41-07:00",
       "all": 173,
       "test": 0,
@@ -47,7 +83,7 @@
     },
     {
       "id": "31cbec08571f277e78127b65749ae2b4909b7e73",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-07T22:37:35-07:00",
       "all": 46,
       "test": 0,
@@ -55,8 +91,17 @@
       "pct": 0.0
     },
     {
+      "id": "72254166616e0c5603ea1a60474ce2c162ffd045",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2015-05-07T21:56:50-07:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "5e4fa5cf078db667a7b45dcf2e45b9a9f46b2690",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-07T21:55:21-07:00",
       "all": 714,
       "test": 0,
@@ -64,8 +109,17 @@
       "pct": 0.0
     },
     {
+      "id": "f0ef72d6cc95802ea62b233323e239f5dbbe8d9a",
+      "who": "Rado Kirov <radokirov@google.com>",
+      "when": "2015-05-07T16:04:06-07:00",
+      "all": 70,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "a58c9f83bd1a5be110a7982bab7023b209634c37",
-      "who": "caitpotter88@gmail.com",
+      "who": "Caitlin Potter <caitpotter88@gmail.com>",
       "when": "2015-05-07T18:15:15-04:00",
       "all": 9,
       "test": 0,
@@ -73,8 +127,26 @@
       "pct": 0.0
     },
     {
+      "id": "624a33f7f866acbc2830a787823d785c9edae211",
+      "who": "Rado Kirov <radokirov@google.com>",
+      "when": "2015-05-07T14:32:01-07:00",
+      "all": 4752,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "51c477925a8b00243feb6def9e74c729e5a8c673",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2015-05-07T14:17:12-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "1daa8aa3a1d09bdc7ae993a3d4cdff122f7c91c4",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2015-05-07T13:25:02-07:00",
       "all": 7710,
       "test": 0,
@@ -83,7 +155,7 @@
     },
     {
       "id": "62bf777ef135c13e69774c282ffaa8a014f841d2",
-      "who": "jelbourn@google.com",
+      "who": "Jeremy Elbourn <jelbourn@google.com>",
       "when": "2015-05-07T13:08:30-07:00",
       "all": 5,
       "test": 0,
@@ -92,7 +164,7 @@
     },
     {
       "id": "6bba289a3c87aae952ac7d3492152c2c427c0fa9",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2015-05-07T13:37:25-07:00",
       "all": 18,
       "test": 0,
@@ -101,7 +173,7 @@
     },
     {
       "id": "b0c735f72c72168e253dd2ada963b1fc417ba15b",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2015-05-07T12:30:18-07:00",
       "all": 9,
       "test": 0,
@@ -109,8 +181,17 @@
       "pct": 0.0
     },
     {
+      "id": "0e2047f9ca082e912d195338e7bae9753c908206",
+      "who": "Jacob MacDonald <jakemac@google.com>",
+      "when": "2015-05-07T10:36:04-07:00",
+      "all": 94,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "e30ad2ec2c7cf75c3bfc8823a305c967a1a507a4",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-05-07T10:26:23+01:00",
       "all": 9,
       "test": 0,
@@ -119,7 +200,7 @@
     },
     {
       "id": "c509057f65e991acbbe40040e3d571d72a330fa1",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-05-07T10:25:41+01:00",
       "all": 3,
       "test": 0,
@@ -128,7 +209,7 @@
     },
     {
       "id": "e138add584365c4a9ed1007abd9c79e10e51d2f7",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-05-07T10:25:02+01:00",
       "all": 2,
       "test": 0,

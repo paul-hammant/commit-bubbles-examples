@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "85fb127d2d2015388b2426e8316705d37e9255c2",
-      "who": "mail@stefan-birkner.de",
+      "who": "Stefan Birkner <mail@stefan-birkner.de>",
       "when": "2017-07-15T18:09:16+02:00",
       "all": 47,
       "test": 19,
@@ -11,7 +11,7 @@
     },
     {
       "id": "bcaf16e46dced03c329028f982e70cd9de95685c",
-      "who": "mail@stefan-birkner.de",
+      "who": "Stefan Birkner <mail@stefan-birkner.de>",
       "when": "2017-07-15T00:00:00+00:00",
       "all": 11,
       "test": 0,
@@ -20,7 +20,7 @@
     },
     {
       "id": "5f3fd3526c929b0e8c069d2bd19a9525f69e8385",
-      "who": "mail@stefan-birkner.de",
+      "who": "Stefan Birkner <mail@stefan-birkner.de>",
       "when": "2017-07-15T00:00:00+00:00",
       "all": 74,
       "test": 14,
@@ -29,7 +29,7 @@
     },
     {
       "id": "be3e132a1766a3af61c4373232fcf3d319689719",
-      "who": "sormuras@gmail.com",
+      "who": "Christian Stein <sormuras@gmail.com>",
       "when": "2017-07-15T23:07:43+02:00",
       "all": 12,
       "test": 12,
@@ -38,7 +38,7 @@
     },
     {
       "id": "379e6f4eb0de3cc88ad5f79491d4ba4e337e3a3f",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-07-15T16:19:04+02:00",
       "all": 56,
       "test": 0,
@@ -47,7 +47,7 @@
     },
     {
       "id": "acec8714407752a845f4507e7f605459fc363721",
-      "who": "github@stefan-birkner.de",
+      "who": "Stefan Birkner <github@stefan-birkner.de>",
       "when": "2017-07-15T15:20:24+02:00",
       "all": 11,
       "test": 0,
@@ -56,7 +56,7 @@
     },
     {
       "id": "b0bf48c8dc24e78174621285d6da509eb5d6aa8e",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-07-15T15:10:58+02:00",
       "all": 3,
       "test": 3,
@@ -65,12 +65,30 @@
     },
     {
       "id": "ecf38a9c407a96a4510ae3577a5f5dcec3866bc5",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-07-15T14:35:10+02:00",
       "all": 308,
       "test": 288,
       "testable": 308,
       "pct": 93.5
+    },
+    {
+      "id": "ba7b7f0e317ed007fae182211ccee66cee38a0d7",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2017-07-15T10:10:54+02:00",
+      "all": 12,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "79e812b152367b08507202ca26d1d67de3eaf364",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2017-07-15T09:54:36+02:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

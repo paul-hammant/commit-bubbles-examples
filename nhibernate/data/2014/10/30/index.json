@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "71937fd5c13ae1cc38c96f33fcb35591365a2634",
-      "who": "cremor@gmx.net",
+      "who": "cremor <cremor@gmx.net>",
       "when": "2014-10-30T12:39:44+01:00",
       "all": 137,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "19612c0b2244aa30b9a0c739a38dfdff03c79b62",
-      "who": "cremor@gmx.net",
+      "who": "cremor <cremor@gmx.net>",
       "when": "2014-10-30T12:38:32+01:00",
       "all": 87,
       "test": 87,
@@ -20,12 +20,30 @@
     },
     {
       "id": "80789aff28001177b28cd60fd613bda8fc643fde",
-      "who": "cremor@gmx.net",
+      "who": "cremor <cremor@gmx.net>",
       "when": "2014-10-30T10:04:21+01:00",
       "all": 149,
       "test": 146,
       "testable": 146,
       "pct": 100.0
+    },
+    {
+      "id": "2becb5bd2294c5f5f61b243cc3234d4da736788d",
+      "who": "Oskar Berggren <oskar.berggren@gmail.com>",
+      "when": "2014-10-30T13:18:59+01:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "b0c80b39d8ae7f990960e1f2ab04a28964407e7e",
+      "who": "cremor <cremor@gmx.net>",
+      "when": "2014-10-30T12:50:49+01:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "NHibernate (master branch)",

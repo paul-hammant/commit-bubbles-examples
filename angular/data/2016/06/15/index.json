@@ -1,8 +1,17 @@
 {
   "commits": [
     {
+      "id": "cf4a9236b900f43626f8599c1edf8f4541526464",
+      "who": "vsavkin <avix1000@gmail.com>",
+      "when": "2016-06-15T18:13:11-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "4450e7b24620ff2d6a02796217c11fb9aebed154",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-06-15T16:45:19-07:00",
       "all": 302,
       "test": 167,
@@ -11,7 +20,7 @@
     },
     {
       "id": "cdbf67ee0586f3bec54e4acab1978bd85a4437b3",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-06-15T15:45:42-07:00",
       "all": 48,
       "test": 37,
@@ -20,7 +29,7 @@
     },
     {
       "id": "25560ed04897b381e4841eb412bd27b1efe70788",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-06-15T09:01:05-07:00",
       "all": 308,
       "test": 175,
@@ -29,7 +38,7 @@
     },
     {
       "id": "2aa19fd078ac6ffbf06af88ac2496c18d0ae10e1",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-06-15T08:30:49-07:00",
       "all": 57,
       "test": 0,
@@ -37,8 +46,35 @@
       "pct": 0.0
     },
     {
+      "id": "cca9a58ded353fda3661a9533b53c57e750e5f23",
+      "who": "vsavkin <avix1000@gmail.com>",
+      "when": "2016-06-15T13:25:36-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d6a25325c7b59227d9afa485018ec9c28b695e37",
+      "who": "Rob Wormald <robwormald@gmail.com>",
+      "when": "2016-06-15T13:06:27-07:00",
+      "all": 11,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "a717da2d3e17d55fe8e47cc0adaf52dbb6bc8369",
+      "who": "vsavkin <avix1000@gmail.com>",
+      "when": "2016-06-15T10:28:13-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "b3e801ed9ed49e6717f5d45d0740a4e2dd3e8b8d",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-06-15T09:14:41-07:00",
       "all": 90,
       "test": 6,
@@ -47,7 +83,7 @@
     },
     {
       "id": "3683fb688693ae1df31e17bc26d80daf6dd7abb2",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-06-15T07:55:28-07:00",
       "all": 7,
       "test": 0,
@@ -56,7 +92,7 @@
     },
     {
       "id": "37b617dccfc7a4456043b71f78ed6dbc6defa26b",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2016-06-15T06:58:57-07:00",
       "all": 180,
       "test": 13,
@@ -65,7 +101,7 @@
     },
     {
       "id": "1eaa193c51b5d796e410ba04294d53bfd7b2bd34",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2016-06-15T14:56:56-07:00",
       "all": 29,
       "test": 0,
@@ -74,7 +110,7 @@
     },
     {
       "id": "b620f4f456f58ed7e00fec45844cfb28ef509020",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2016-06-15T09:57:58-07:00",
       "all": 18,
       "test": 11,
@@ -83,7 +119,7 @@
     },
     {
       "id": "e484c62a8d369c28ab1f4e8a256257620bf53a8b",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2016-06-15T09:45:19-07:00",
       "all": 12,
       "test": 9,
@@ -92,7 +128,7 @@
     },
     {
       "id": "9ba400d7d5f48f4d6e466f18ed2c034520674c77",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2016-06-15T09:37:33-07:00",
       "all": 129,
       "test": 52,
@@ -101,7 +137,7 @@
     },
     {
       "id": "9cbd8f7afcd91020bda6344b45165c9eba3d4869",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2016-06-15T08:50:41-07:00",
       "all": 37,
       "test": 34,
@@ -110,7 +146,7 @@
     },
     {
       "id": "8e6e90e7037f50695ba40a15ef6d9a4ec3def62d",
-      "who": "karakara@google.com",
+      "who": "Kara Erickson <karakara@google.com>",
       "when": "2016-06-15T17:46:45-07:00",
       "all": 3,
       "test": 0,
@@ -119,7 +155,7 @@
     },
     {
       "id": "26676c483368da9b37286fb5acf08b173b12d8f2",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2016-06-15T17:12:22-07:00",
       "all": 17,
       "test": 0,
@@ -128,7 +164,7 @@
     },
     {
       "id": "39e0b4903cd9a22237ea2b15c1f1396730f48b2f",
-      "who": "karakara@google.com",
+      "who": "Kara Erickson <karakara@google.com>",
       "when": "2016-06-15T15:15:41-07:00",
       "all": 208,
       "test": 136,
@@ -136,8 +172,26 @@
       "pct": 65.4
     },
     {
+      "id": "27024915e42b559e8b335581b9a668ef8c78c9a6",
+      "who": "Stephen Fluin <stephen.fluin@gmail.com>",
+      "when": "2016-06-15T13:17:45-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "80f3e7591e527586fc5df561b3d2058c413cd655",
+      "who": "Stephen Fluin <stephen.fluin@gmail.com>",
+      "when": "2016-06-15T12:49:39-07:00",
+      "all": 179,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "933f45ef31d40f7769a1e18cc2186ed900bd8093",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2016-06-15T08:41:41-07:00",
       "all": 64,
       "test": 0,
@@ -146,7 +200,7 @@
     },
     {
       "id": "4fc37aeabda1969a50da4f390b22f3c68a94baa2",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2016-06-15T08:25:31-07:00",
       "all": 118,
       "test": 0,
@@ -155,7 +209,7 @@
     },
     {
       "id": "2fd1e881992e70fb36ffb6f584831dd6905a10c8",
-      "who": "karakara@google.com",
+      "who": "Kara Erickson <karakara@google.com>",
       "when": "2016-06-15T08:49:33-07:00",
       "all": 32,
       "test": 0,

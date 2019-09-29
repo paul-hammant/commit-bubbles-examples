@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "d164bd6e9ae5071a233a68eee61ab94343909ff2",
-      "who": "janno.poldma@gmail.com",
+      "who": "Janno P\u00c3\u00b5ldma <janno.poldma@gmail.com>",
       "when": "2015-04-14T23:36:40+03:00",
       "all": 153,
       "test": 126,
@@ -11,7 +11,7 @@
     },
     {
       "id": "241e090f4a1ddf0de9c616500bc1090c490b7bc8",
-      "who": "janno.poldma@gmail.com",
+      "who": "Janno P\u00c3\u00b5ldma <janno.poldma@gmail.com>",
       "when": "2015-04-14T22:49:29+03:00",
       "all": 16,
       "test": 0,
@@ -20,12 +20,21 @@
     },
     {
       "id": "2393685dfca0cd34f608086e02ab2c918767f5d0",
-      "who": "janno.poldma@gmail.com",
+      "who": "Janno P\u00c3\u00b5ldma <janno.poldma@gmail.com>",
       "when": "2015-04-14T22:34:46+03:00",
       "all": 111,
       "test": 90,
       "testable": 90,
       "pct": 100.0
+    },
+    {
+      "id": "bcc669ee25f099735316b77843389c728d4f626e",
+      "who": "Alexander Zaytsev <hazzik@gmail.com>",
+      "when": "2015-04-14T14:36:39+12:00",
+      "all": 13122,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "NHibernate (master branch)",

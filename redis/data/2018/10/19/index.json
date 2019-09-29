@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "5ddd507624aad7d07558e684a962b7505214ae74",
-      "who": "zhaozhao.zz@alibaba-inc.com",
+      "who": "zhaozhao.zz <zhaozhao.zz@alibaba-inc.com>",
       "when": "2018-10-19T18:16:29+08:00",
       "all": 7,
       "test": 0,
@@ -11,11 +11,20 @@
     },
     {
       "id": "7ab9cba59bb8999d80d90571632fc37bac67c165",
-      "who": "zhaozhao.zz@alibaba-inc.com",
+      "who": "zhaozhao.zz <zhaozhao.zz@alibaba-inc.com>",
       "when": "2018-10-19T18:00:57+08:00",
       "all": 62,
       "test": 0,
       "testable": 62,
+      "pct": 0.0
+    },
+    {
+      "id": "f30b18f4de94e3235546b1dc8fe2be2028be2b80",
+      "who": "antirez <antirez@gmail.com>",
+      "when": "2018-10-19T10:39:57+02:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     }
   ],

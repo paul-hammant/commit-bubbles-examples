@@ -1,8 +1,17 @@
 {
   "commits": [
     {
+      "id": "a9008eecba387a27f125e50053a26edf5c41e3c9",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2015-05-19T11:37:17-07:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "8e3bf3907a09b6ab00fc34b92b42c4b7e1f9680d",
-      "who": "tjblasi@google.com",
+      "who": "Tim Blasi <tjblasi@google.com>",
       "when": "2015-05-29T16:34:51-07:00",
       "all": 337,
       "test": 6,
@@ -11,7 +20,7 @@
     },
     {
       "id": "2ccc65d7fdb4d34037422a855c668b483b0ca3fb",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2015-05-18T17:19:54-07:00",
       "all": 148,
       "test": 3,
@@ -20,7 +29,7 @@
     },
     {
       "id": "7501ad11ca20b92b589d24a46844b2c980944fa7",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2015-05-18T16:09:09-07:00",
       "all": 63,
       "test": 0,
@@ -29,7 +38,7 @@
     },
     {
       "id": "94272af45b5a2b8f28a7fabcf988ee849114642e",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-19T09:13:17+02:00",
       "all": 36,
       "test": 21,
@@ -38,7 +47,7 @@
     },
     {
       "id": "4530b93a6e48cb5ca51901b441a487753f5898c0",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-31T17:24:58-07:00",
       "all": 2,
       "test": 0,
@@ -47,7 +56,7 @@
     },
     {
       "id": "dc45559c1723d40c886801575e2a7a0b5722dd5e",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-31T17:24:21-07:00",
       "all": 337,
       "test": 0,
@@ -56,7 +65,7 @@
     },
     {
       "id": "cd95e078fe98e288feea54ed0fe849f77348ad4f",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-05-21T13:59:14-07:00",
       "all": 599,
       "test": 154,
@@ -65,7 +74,7 @@
     },
     {
       "id": "548f3dd5cc902179304ee7b3d50d793a46c646c2",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-05-29T14:19:10-07:00",
       "all": 7,
       "test": 0,
@@ -74,7 +83,7 @@
     },
     {
       "id": "a418397174eeaef869730d3c9270196cf5f0e28d",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2015-05-21T12:17:46-07:00",
       "all": 40,
       "test": 17,
@@ -83,7 +92,7 @@
     },
     {
       "id": "ab8eb4f652c40b90b794f9e44935fff16614d7eb",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2015-05-23T09:51:40-07:00",
       "all": 4,
       "test": 0,
@@ -92,7 +101,7 @@
     },
     {
       "id": "8d081ea7afe6c3439d32db6a3922315e7605ba06",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2015-05-23T09:27:12-07:00",
       "all": 6,
       "test": 3,
@@ -101,7 +110,7 @@
     },
     {
       "id": "d5c528ac2befe99cad203b80eaea6927a17679f4",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2015-05-29T16:19:32-07:00",
       "all": 721,
       "test": 0,
@@ -109,8 +118,26 @@
       "pct": 0.0
     },
     {
+      "id": "c593dfc26cdf81dcd9bb5a5f92776ad71ab6a538",
+      "who": "Caitlin Potter <caitpotter88@gmail.com>",
+      "when": "2015-05-30T17:27:58-04:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "6b31d82263990a16f6b5a469917b5e5930888258",
+      "who": "Caitlin Potter <caitpotter88@gmail.com>",
+      "when": "2015-05-30T17:27:14-04:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "4ee3fdaf7f047824d88cd71f64720bb7a34167ed",
-      "who": "caitpotter88@gmail.com",
+      "who": "Caitlin Potter <caitpotter88@gmail.com>",
       "when": "2015-05-21T12:07:52-04:00",
       "all": 144,
       "test": 0,
@@ -119,7 +146,7 @@
     },
     {
       "id": "41ae8e76f05108e2f0fcd6fcd168a6d454b2d99c",
-      "who": "caitpotter88@gmail.com",
+      "who": "Caitlin Potter <caitpotter88@gmail.com>",
       "when": "2015-05-21T12:07:23-04:00",
       "all": 42,
       "test": 0,
@@ -128,7 +155,7 @@
     },
     {
       "id": "53694eb64a120dc3c13623b99510241edece6ec0",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-29T08:20:48+02:00",
       "all": 37,
       "test": 5,
@@ -137,7 +164,7 @@
     },
     {
       "id": "31b6687894dbba26088c8af819436dcfb0c250e3",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-05-27T18:53:49-07:00",
       "all": 413,
       "test": 0,
@@ -146,7 +173,7 @@
     },
     {
       "id": "381d4cb30a73e16e270f0d1e90e6a6c7d6241512",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-05-19T16:51:57-07:00",
       "all": 59,
       "test": 0,
@@ -155,7 +182,7 @@
     },
     {
       "id": "559f54e92b6bec612c203809968ebb83f060314e",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-31T12:24:34-07:00",
       "all": 382,
       "test": 112,
@@ -164,7 +191,7 @@
     },
     {
       "id": "0a0b84a07d9d3bf8161d700c2e2ae9772d910d99",
-      "who": "radokirov@google.com",
+      "who": "Rado Kirov <radokirov@google.com>",
       "when": "2015-05-29T17:13:01-07:00",
       "all": 10,
       "test": 0,
@@ -173,7 +200,7 @@
     },
     {
       "id": "5035a42287e7b1ef988e9870244cf6f4f6bb6479",
-      "who": "ian.riley.915@gmail.com",
+      "who": "Ian Riley <ian.riley.915@gmail.com>",
       "when": "2015-05-29T14:33:54-07:00",
       "all": 216,
       "test": 151,
@@ -182,7 +209,7 @@
     },
     {
       "id": "0602f68ae3318822dcab8b9f520cb65a8efb64a6",
-      "who": "ian.riley.915@gmail.com",
+      "who": "Ian Riley <ian.riley.915@gmail.com>",
       "when": "2015-05-30T08:17:27-07:00",
       "all": 926,
       "test": 689,
@@ -191,7 +218,7 @@
     },
     {
       "id": "2b60d1bae165fb914fda95db29eb2174126bf9ac",
-      "who": "ian.riley.915@gmail.com",
+      "who": "Ian Riley <ian.riley.915@gmail.com>",
       "when": "2015-05-29T21:40:15-07:00",
       "all": 3365,
       "test": 565,
@@ -200,7 +227,7 @@
     },
     {
       "id": "ba07f39347e3f3609f015f32083f90f5cca5ec77",
-      "who": "middlefloor@gmail.com",
+      "who": "Jeff Cross <middlefloor@gmail.com>",
       "when": "2015-05-29T14:58:41-07:00",
       "all": 1918,
       "test": 1156,
@@ -209,7 +236,7 @@
     },
     {
       "id": "a504fa835e9cd5fb4dd0aa63d4ebfc73138d9cf6",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-05-19T22:29:34+01:00",
       "all": 501,
       "test": 0,
@@ -218,7 +245,7 @@
     },
     {
       "id": "8811337622b45c086fddb5f524abc8151545371f",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-29T15:37:37+02:00",
       "all": 98,
       "test": 0,
@@ -227,7 +254,7 @@
     },
     {
       "id": "921fb9f2ce550375c244fc91dec432cdaf6b5ebe",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-29T15:10:49+02:00",
       "all": 24,
       "test": 0,
@@ -236,7 +263,7 @@
     },
     {
       "id": "e93b5a1d5b10c8e7836857c245f9de5aa140e78a",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-29T15:04:42+02:00",
       "all": 48,
       "test": 0,
@@ -245,7 +272,7 @@
     },
     {
       "id": "db7a1f19ba17f0c5276f031f0070963f441a6a7c",
-      "who": "github@gdi2290.com",
+      "who": "gdi2290 <github@gdi2290.com>",
       "when": "2015-05-29T14:28:17-07:00",
       "all": 15,
       "test": 0,
@@ -254,7 +281,7 @@
     },
     {
       "id": "ef27919f7f641540b737014f8503a7d33e2a471a",
-      "who": "github@gdi2290.com",
+      "who": "gdi2290 <github@gdi2290.com>",
       "when": "2015-05-29T14:28:04-07:00",
       "all": 9,
       "test": 0,
@@ -263,7 +290,7 @@
     },
     {
       "id": "c571b2693ec87f44c8ad77f16ab3faf1ab014baa",
-      "who": "github@gdi2290.com",
+      "who": "gdi2290 <github@gdi2290.com>",
       "when": "2015-05-29T14:27:46-07:00",
       "all": 9,
       "test": 0,
@@ -272,7 +299,7 @@
     },
     {
       "id": "8bcfb2d46507e8c81e61a874d2c52d50134fa97d",
-      "who": "tjblasi@google.com",
+      "who": "Tim Blasi <tjblasi@google.com>",
       "when": "2015-05-29T17:32:43-07:00",
       "all": 3,
       "test": 0,
@@ -281,7 +308,7 @@
     },
     {
       "id": "93f464a1455831695858d1f2298727a33bc9ab27",
-      "who": "github@gdi2290.com",
+      "who": "PatrickJS <github@gdi2290.com>",
       "when": "2015-05-31T01:36:08-07:00",
       "all": 3,
       "test": 0,
@@ -289,8 +316,17 @@
       "pct": 0.0
     },
     {
+      "id": "c8d83dba7da9a23300e7b097f5bfb60a47c6f1d1",
+      "who": "PatrickJS <github@gdi2290.com>",
+      "when": "2015-05-29T12:31:11-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "22f59252029a983b8ff73f106091c2a907f8e652",
-      "who": "tjblasi@google.com",
+      "who": "Tim Blasi <tjblasi@google.com>",
       "when": "2015-05-29T17:09:59-07:00",
       "all": 58,
       "test": 45,
@@ -299,7 +335,7 @@
     },
     {
       "id": "cd52d8a3be32e5ae6b06fe0f0e7d4c9089ecb829",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-30T11:56:38-07:00",
       "all": 4,
       "test": 0,
@@ -308,7 +344,7 @@
     },
     {
       "id": "a9d6fd9afa04723aa29d69306413813040272530",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-30T11:56:00-07:00",
       "all": 1205,
       "test": 380,
@@ -317,7 +353,7 @@
     },
     {
       "id": "5c53cf64868342deb4bb6fc452658189a9f8b385",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-30T11:55:17-07:00",
       "all": 3,
       "test": 3,
@@ -325,8 +361,17 @@
       "pct": 100.0
     },
     {
+      "id": "74882c6c383817a068b23bbfc40b00fdc43c27e5",
+      "who": "vsavkin <vic.savkin@gmail.com>",
+      "when": "2015-05-30T11:54:10-07:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "c8947d77bf2125b44f8501788318e7eeb1043de7",
-      "who": "jelbourn@google.com",
+      "who": "Jeremy Elbourn <jelbourn@google.com>",
       "when": "2015-05-29T16:27:54-07:00",
       "all": 222,
       "test": 0,
@@ -334,8 +379,17 @@
       "pct": 0.0
     },
     {
+      "id": "4f3acdb004f744b09a379029ae9ff3b9f31b7214",
+      "who": "Brian Ford <btford@umich.edu>",
+      "when": "2015-05-29T17:00:20-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "6404dd8293d0f89f2be7d7c82154effbd88773da",
-      "who": "uber5001@gmail.com",
+      "who": "uber5001 <uber5001@gmail.com>",
       "when": "2015-05-29T16:30:39-07:00",
       "all": 515,
       "test": 0,
@@ -344,7 +398,7 @@
     },
     {
       "id": "f19970a481ed57ec02fc098a427e0c874ce2962e",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-28T17:28:53-07:00",
       "all": 106,
       "test": 25,
@@ -353,7 +407,7 @@
     },
     {
       "id": "6f0631c97856bfbf68f54a8cf2bedc4e74fc4703",
-      "who": "ivogabe@ivogabe.nl",
+      "who": "Ivo Gabe de Wolff <ivogabe@ivogabe.nl>",
       "when": "2015-05-28T22:00:41+02:00",
       "all": 37,
       "test": 0,
@@ -362,7 +416,7 @@
     },
     {
       "id": "e5d06e479ad4a33bb3f8a0806c03ad8969ec70d3",
-      "who": "caitpotter88@gmail.com",
+      "who": "Caitlin Potter <caitpotter88@gmail.com>",
       "when": "2015-05-28T18:54:54-04:00",
       "all": 93,
       "test": 0,
@@ -371,7 +425,7 @@
     },
     {
       "id": "d5236133297eab13ea70b5577d8aa4f7ae1be62c",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-21T16:56:02-07:00",
       "all": 121,
       "test": 105,
@@ -379,8 +433,26 @@
       "pct": 97.2
     },
     {
+      "id": "cfcae6b293a500092dc84bfa4728d01d37b397c0",
+      "who": "Naomi Black <naomiblack@users.noreply.github.com>",
+      "when": "2015-05-29T15:32:31-07:00",
+      "all": 25,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "000a8e25a2878625b7bb2986a0b5873480f0d5c0",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2015-05-29T14:19:22-07:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "8a3b0b366fe450fb780c38b907002b43e7ad1019",
-      "who": "tjblasi@google.com",
+      "who": "Tim Blasi <tjblasi@google.com>",
       "when": "2015-05-14T13:14:45-07:00",
       "all": 1355,
       "test": 260,
@@ -389,7 +461,7 @@
     },
     {
       "id": "383f0a1f30a71c6d57cae5caac386621c950396a",
-      "who": "middlefloor@gmail.com",
+      "who": "Jeff Cross <middlefloor@gmail.com>",
       "when": "2015-05-29T14:35:54-07:00",
       "all": 6,
       "test": 0,
@@ -398,7 +470,7 @@
     },
     {
       "id": "e323c07ab989824eb7a80eede95d09d4b6a4c81e",
-      "who": "middlefloor@gmail.com",
+      "who": "Jeff Cross <middlefloor@gmail.com>",
       "when": "2015-05-27T14:57:54-07:00",
       "all": 6429,
       "test": 3950,
@@ -407,7 +479,7 @@
     },
     {
       "id": "f9908cd436d724d8b409c7fc3c6162e7a64a82a3",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-05-28T15:02:20-07:00",
       "all": 1138,
       "test": 847,
@@ -416,7 +488,7 @@
     },
     {
       "id": "24bc4b66d0ecf20e48fad11d22b925e7a70969b7",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-05-28T15:02:05-07:00",
       "all": 48,
       "test": 0,
@@ -424,8 +496,26 @@
       "pct": 0.0
     },
     {
+      "id": "2351896cc0339eff4954600efd99eec1eed30f51",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
+      "when": "2015-05-28T14:58:52-07:00",
+      "all": 20,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "307011a96ca920e6149e0e9ae5955a96201d4553",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
+      "when": "2015-05-28T14:58:24-07:00",
+      "all": 10,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "6f3368ef16bf0d47c49ddf56177943d58343509f",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-05-28T14:56:40-07:00",
       "all": 81,
       "test": 0,
@@ -434,7 +524,7 @@
     },
     {
       "id": "cdf791f0c51d869af31d864e3550569f9d16ae33",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-05-28T14:55:10-07:00",
       "all": 30,
       "test": 0,
@@ -443,7 +533,7 @@
     },
     {
       "id": "75578f41e7fd817e095e564220be853c3e4c662b",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-05-28T14:54:26-07:00",
       "all": 77,
       "test": 36,
@@ -451,8 +541,17 @@
       "pct": 46.8
     },
     {
+      "id": "ffb219fb913137eaff51c295597d21f0c9470a8e",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2015-05-29T10:42:47-07:00",
+      "all": 378,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "eb2784eb815129ee8037c604f0eade2c6afa2c17",
-      "who": "sekib.omazic@gmail.com",
+      "who": "Sekib Omazic <sekib.omazic@gmail.com>",
       "when": "2015-05-19T21:42:31+02:00",
       "all": 3,
       "test": 0,
@@ -461,7 +560,7 @@
     },
     {
       "id": "28ee0612cb528fc42c01e8dc413005a745b3571a",
-      "who": "github@gdi2290.com",
+      "who": "gdi2290 <github@gdi2290.com>",
       "when": "2015-05-28T10:15:52-07:00",
       "all": 7,
       "test": 0,
@@ -470,7 +569,7 @@
     },
     {
       "id": "a80921b45dee0debb1dca15f11bbf27a26ed898d",
-      "who": "michael.loibl@gmail.com",
+      "who": "elimach <michael.loibl@gmail.com>",
       "when": "2015-05-28T17:53:13+02:00",
       "all": 5,
       "test": 0,
@@ -479,7 +578,7 @@
     },
     {
       "id": "0db88f34b8ee20c5b6f926d2c92481de74d3f030",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-29T11:36:42+02:00",
       "all": 9,
       "test": 0,
@@ -487,8 +586,17 @@
       "pct": 0.0
     },
     {
+      "id": "35f0ee510a9e09e2a448c772645688f86f9958d3",
+      "who": "Victor Berchet <victor@suumit.com>",
+      "when": "2015-05-29T10:40:37+02:00",
+      "all": 82,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "d7df853bde30ffe97045eff649240284ae6ffdf8",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-26T15:54:10+02:00",
       "all": 401,
       "test": 50,
@@ -497,7 +605,7 @@
     },
     {
       "id": "0387221da82c0c79cb834f13fd161dd37dd31098",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-22T18:50:24+02:00",
       "all": 3,
       "test": 0,
@@ -506,7 +614,7 @@
     },
     {
       "id": "c39c8ebcd056476728a5a56b8138a492850d7754",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-27T10:14:37-07:00",
       "all": 598,
       "test": 246,
@@ -514,8 +622,17 @@
       "pct": 44.8
     },
     {
+      "id": "5d2af54730d4dc782f78edb80260df24758c27d0",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2015-05-26T16:53:14-07:00",
+      "all": 207,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "a9be2ebf1bb9813aa754673dbe107eaba86c3547",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-26T10:19:47+02:00",
       "all": 182,
       "test": 59,
@@ -524,7 +641,7 @@
     },
     {
       "id": "ec2d8cc2c805fab6d1a68d61d50e92f14c3587a6",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-26T10:55:12+02:00",
       "all": 97,
       "test": 87,
@@ -533,7 +650,7 @@
     },
     {
       "id": "05d66bba3f40ab97c8c05ee5394c2ce279957dd1",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-05-28T13:30:45-07:00",
       "all": 4,
       "test": 0,
@@ -542,7 +659,7 @@
     },
     {
       "id": "b14417498a2d97c42737c6b4fa592bdc5161b947",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-27T18:30:04-07:00",
       "all": 63,
       "test": 0,
@@ -551,7 +668,7 @@
     },
     {
       "id": "05becf84311f982f99de191e14ad365fb9c6f893",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-27T18:26:54-07:00",
       "all": 5,
       "test": 0,
@@ -560,7 +677,7 @@
     },
     {
       "id": "160c38b5ca9308dfa565dafedea43f3e4f44edfb",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-27T18:26:28-07:00",
       "all": 17,
       "test": 0,
@@ -569,7 +686,7 @@
     },
     {
       "id": "9b0fa0dedccb7c60fdea084aac115ef1ece0aec1",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-27T15:57:19-07:00",
       "all": 38,
       "test": 0,
@@ -578,7 +695,7 @@
     },
     {
       "id": "533c64d4ea7c8c615103f398646be3bd22ec4336",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-27T18:00:56-07:00",
       "all": 8,
       "test": 0,
@@ -587,7 +704,7 @@
     },
     {
       "id": "c1157d62a8fffea00052533b95e9f5e8ba5f2264",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-27T18:00:35-07:00",
       "all": 7,
       "test": 0,
@@ -596,7 +713,7 @@
     },
     {
       "id": "7b1e9286d8e07e30c90e3b56403bf111ac08a1db",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-24T17:27:38-07:00",
       "all": 103,
       "test": 0,
@@ -605,7 +722,7 @@
     },
     {
       "id": "01fb8e6635ddb80eb9471647d8e2952fcd16cf4c",
-      "who": "middlefloor@gmail.com",
+      "who": "Jeff Cross <middlefloor@gmail.com>",
       "when": "2015-05-28T11:08:26-07:00",
       "all": 52,
       "test": 42,
@@ -614,7 +731,7 @@
     },
     {
       "id": "9d9012846350fa23eaae42cb6d613fca69c94666",
-      "who": "middlefloor@gmail.com",
+      "who": "Jeff Cross <middlefloor@gmail.com>",
       "when": "2015-05-26T17:12:38-07:00",
       "all": 4129,
       "test": 4083,
@@ -623,7 +740,7 @@
     },
     {
       "id": "34cfc9f474bbf66979e2b73ea415a641cd4c2819",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-27T16:43:22-07:00",
       "all": 39,
       "test": 18,
@@ -632,7 +749,7 @@
     },
     {
       "id": "ebe1e73b1a08d9fa3a4b6502475cd842ecd85bd8",
-      "who": "iri@google.com",
+      "who": "Ian Riley <iri@google.com>",
       "when": "2015-05-27T09:53:37-07:00",
       "all": 635,
       "test": 632,
@@ -641,7 +758,7 @@
     },
     {
       "id": "8ce0a67c8123e39ff0e72574d91fead401425c08",
-      "who": "iri@google.com",
+      "who": "Ian Riley <iri@google.com>",
       "when": "2015-05-27T13:48:24-07:00",
       "all": 278,
       "test": 275,
@@ -649,8 +766,17 @@
       "pct": 98.9
     },
     {
+      "id": "c065fb1422623ec8fbb0caf6ee965e8428326a68",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2015-05-22T14:15:18-07:00",
+      "all": 244,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "cda35101df8dbd705e7fc1e4c69d0ae465367386",
-      "who": "tjblasi@google.com",
+      "who": "Tim Blasi <tjblasi@google.com>",
       "when": "2015-05-27T18:16:02-07:00",
       "all": 16,
       "test": 13,
@@ -659,7 +785,7 @@
     },
     {
       "id": "c32dbad7478b2945e7fec98d5d440aaa9a0ac2a0",
-      "who": "ju.ralph@gmail.com",
+      "who": "Julie Ralph <ju.ralph@gmail.com>",
       "when": "2015-05-15T16:42:52-07:00",
       "all": 748,
       "test": 722,
@@ -668,7 +794,7 @@
     },
     {
       "id": "30b6542fc88ca06c1b652098f8da77c8cd7132bd",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-27T08:08:14-07:00",
       "all": 329,
       "test": 134,
@@ -677,7 +803,7 @@
     },
     {
       "id": "2b6a6530506bd80b88bf9c65b080a83eb3d3a9d2",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-27T08:07:37-07:00",
       "all": 11,
       "test": 0,
@@ -686,7 +812,7 @@
     },
     {
       "id": "34d75e89185cb08ccd125c4ced3eae5fd66da7ec",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-27T08:07:11-07:00",
       "all": 49,
       "test": 24,
@@ -695,7 +821,7 @@
     },
     {
       "id": "2c25055828c2593958b3480e12a72ed50ed8499e",
-      "who": "martin@probst.io",
+      "who": "Martin Probst <martin@probst.io>",
       "when": "2015-05-27T11:52:35-07:00",
       "all": 266,
       "test": 26,
@@ -703,8 +829,17 @@
       "pct": 9.8
     },
     {
+      "id": "96f629d441e2ce03873b9320b9bf30b36a74a2d0",
+      "who": "Martin Probst <martin@probst.io>",
+      "when": "2015-05-27T11:35:26-07:00",
+      "all": 10,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "a2770c8a5259aacc64f21170a93b5124f55511b8",
-      "who": "tjblasi@google.com",
+      "who": "Tim Blasi <tjblasi@google.com>",
       "when": "2015-05-27T11:03:20-07:00",
       "all": 612,
       "test": 0,
@@ -713,7 +848,7 @@
     },
     {
       "id": "4a3fd5e8559b75a776a3eff07234367d12af2df9",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-05-27T10:28:15-07:00",
       "all": 17,
       "test": 0,
@@ -721,8 +856,17 @@
       "pct": 0.0
     },
     {
+      "id": "608017776e50304117bd27643c77fc5a6db599fd",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
+      "when": "2015-05-27T09:15:52-07:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "0c7f05f56ac425fbf20013a55b749b572277427a",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-05-27T09:04:34-07:00",
       "all": 7,
       "test": 0,
@@ -731,7 +875,7 @@
     },
     {
       "id": "c6335c128ed5d7a213756985a7b79f19316903cb",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2015-05-22T17:47:13+02:00",
       "all": 119,
       "test": 99,
@@ -740,7 +884,7 @@
     },
     {
       "id": "fb42d5908e03b87189f0083beaac67acf0010364",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2015-05-27T10:22:30+02:00",
       "all": 81,
       "test": 81,
@@ -749,7 +893,7 @@
     },
     {
       "id": "8609543ad0fb2820d5b8ca77e03af65973fd0f6c",
-      "who": "iri@google.com",
+      "who": "Ian Riley <iri@google.com>",
       "when": "2015-05-26T17:00:31-07:00",
       "all": 459,
       "test": 459,
@@ -758,7 +902,7 @@
     },
     {
       "id": "f83f1ee0ce7a1df2389e2773e1ff40c7ec77daf8",
-      "who": "cedric@ninja-squad.com",
+      "who": "cexbrayat <cedric@ninja-squad.com>",
       "when": "2015-05-25T16:29:15+08:00",
       "all": 6,
       "test": 0,
@@ -767,7 +911,7 @@
     },
     {
       "id": "1db6870a811caa0d46a6e9bab7c770863bf0277c",
-      "who": "github@gdi2290.com",
+      "who": "gdi2290 <github@gdi2290.com>",
       "when": "2015-05-26T21:53:59-07:00",
       "all": 9,
       "test": 0,
@@ -776,7 +920,7 @@
     },
     {
       "id": "c19c69f336ddb3b64584f0ecb8d09b7417a3bce1",
-      "who": "github@gdi2290.com",
+      "who": "gdi2290 <github@gdi2290.com>",
       "when": "2015-05-26T21:59:09-07:00",
       "all": 54,
       "test": 0,
@@ -784,8 +928,17 @@
       "pct": 0.0
     },
     {
+      "id": "b390f441a1ae292aacb6a83fd37da64da6c0328b",
+      "who": "Hank Duan <duan.hank@gmail.com>",
+      "when": "2015-05-18T18:10:30-07:00",
+      "all": 206,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "79f564be461b4b57ed80d2ea7a6738c11fe50063",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-05-26T09:45:15-07:00",
       "all": 5438,
       "test": 5350,
@@ -794,7 +947,7 @@
     },
     {
       "id": "23d59df81a4705d65357c44279088d67fc9e3d0b",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-05-26T13:57:13-07:00",
       "all": 29,
       "test": 29,
@@ -803,7 +956,7 @@
     },
     {
       "id": "ef3e12e8033f54c71736a0a7c1928cf74437882d",
-      "who": "iri@google.com",
+      "who": "Ian Riley <iri@google.com>",
       "when": "2015-05-26T14:22:35-07:00",
       "all": 1675,
       "test": 1675,
@@ -811,8 +964,17 @@
       "pct": 100.0
     },
     {
+      "id": "5fe88d63efba0b9fd6d62feee419e3419dd6feba",
+      "who": "Kevin Moore <kevmoo@google.com>",
+      "when": "2015-05-26T13:51:54-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "0f3a8f369af447e52c686fe09435c8ca14e8e19c",
-      "who": "jelbourn@google.com",
+      "who": "Jeremy Elbourn <jelbourn@google.com>",
       "when": "2015-05-22T13:01:23-07:00",
       "all": 1103,
       "test": 0,
@@ -821,7 +983,7 @@
     },
     {
       "id": "26d5d17ebebdc7760e7c2b57999ea948359b0b55",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-26T09:18:06+02:00",
       "all": 22,
       "test": 0,
@@ -830,7 +992,7 @@
     },
     {
       "id": "bb7ffce7eb3c90feff872ef2304f87c2153394cf",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-26T12:30:06+02:00",
       "all": 15,
       "test": 15,
@@ -839,7 +1001,7 @@
     },
     {
       "id": "551586ced0bda68976c4149216aa06422f57f5b4",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-26T13:34:11+02:00",
       "all": 18,
       "test": 10,
@@ -848,7 +1010,7 @@
     },
     {
       "id": "1dc8ba69203d9041a6e36050232178a09e7b7620",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-05-26T09:25:39-07:00",
       "all": 3521,
       "test": 3521,
@@ -857,7 +1019,7 @@
     },
     {
       "id": "d773b6a00a2b5670600bbfd7f7d7312b760c2f83",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-05-26T09:25:16-07:00",
       "all": 12,
       "test": 4,
@@ -866,7 +1028,7 @@
     },
     {
       "id": "f6cd26b0a6dbcef6ddeb5dc0565dce1256ea157e",
-      "who": "naomitraveller@gmail.com",
+      "who": "Naomi Black <naomitraveller@gmail.com>",
       "when": "2015-05-22T13:28:09-07:00",
       "all": 5,
       "test": 0,
@@ -875,7 +1037,7 @@
     },
     {
       "id": "5a52c0b71da8d8a3a0ef53c85d8ae4969f1e1f5f",
-      "who": "naomitraveller@gmail.com",
+      "who": "Naomi Black <naomitraveller@gmail.com>",
       "when": "2015-05-22T13:16:36-07:00",
       "all": 3,
       "test": 0,
@@ -884,7 +1046,7 @@
     },
     {
       "id": "662da0d72802165e906c37269a5499c190e8c711",
-      "who": "github@gdi2290.com",
+      "who": "gdi2290 <github@gdi2290.com>",
       "when": "2015-05-22T16:06:38-07:00",
       "all": 23,
       "test": 0,
@@ -893,7 +1055,7 @@
     },
     {
       "id": "df59e969cf0312891d9c28d6221d9876a3f10f3d",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-22T15:39:28-07:00",
       "all": 741,
       "test": 736,
@@ -902,7 +1064,7 @@
     },
     {
       "id": "d27e5512c01bbd1c4eea94cb7c7f104097c6f4e5",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-22T16:20:46-07:00",
       "all": 127,
       "test": 107,
@@ -911,7 +1073,7 @@
     },
     {
       "id": "d48fae356666bd3c410fcffd962d61388b6f3a69",
-      "who": "yjbanov@google.com",
+      "who": "yjbanov <yjbanov@google.com>",
       "when": "2015-05-22T13:14:59-07:00",
       "all": 48,
       "test": 0,
@@ -920,7 +1082,7 @@
     },
     {
       "id": "3525c9c074b9a03cd67b830a3662c26c8669ef4a",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-22T12:32:49-07:00",
       "all": 1325,
       "test": 1325,
@@ -929,7 +1091,7 @@
     },
     {
       "id": "05774f6c8a7c271f4f7c5b150a9f84c463e06d97",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-05-22T12:50:58-07:00",
       "all": 40,
       "test": 0,
@@ -938,7 +1100,7 @@
     },
     {
       "id": "16447ce75cd07bda9738bcd34a713d82f07bec88",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2015-05-22T09:56:31-07:00",
       "all": 39,
       "test": 0,
@@ -947,7 +1109,7 @@
     },
     {
       "id": "15f1eb28a2c7c3af40aa8882c89e28014f2fa582",
-      "who": "martin@probst.io",
+      "who": "Martin Probst <martin@probst.io>",
       "when": "2015-05-21T16:42:19+02:00",
       "all": 1101,
       "test": 51,
@@ -956,7 +1118,7 @@
     },
     {
       "id": "e50f537667178925d37e3c19a708684f75d4b70d",
-      "who": "caitpotter88@gmail.com",
+      "who": "Caitlin Potter <caitpotter88@gmail.com>",
       "when": "2015-05-22T11:19:45-04:00",
       "all": 59,
       "test": 0,
@@ -965,7 +1127,7 @@
     },
     {
       "id": "ed8364741b2dbb23b0b18abfd7da75c10ca273bf",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-22T16:50:14+02:00",
       "all": 120,
       "test": 0,
@@ -974,7 +1136,7 @@
     },
     {
       "id": "6c1cb089b581d51d47a09d5ba7be971d1b5b938b",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-22T14:39:00+02:00",
       "all": 456,
       "test": 0,
@@ -983,7 +1145,7 @@
     },
     {
       "id": "4b98ed114e5f13e514647ed5299b9201ab8c3eec",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2015-05-22T12:43:48+02:00",
       "all": 24,
       "test": 0,
@@ -992,7 +1154,7 @@
     },
     {
       "id": "d308e55e127386ad789e0aad51bfaa203fee06cb",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2015-05-22T12:42:24+02:00",
       "all": 16,
       "test": 0,
@@ -1001,7 +1163,7 @@
     },
     {
       "id": "10bc7e948c1241f6e27190eb852557920d3ee3d5",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-20T08:51:31+02:00",
       "all": 24,
       "test": 6,
@@ -1010,7 +1172,7 @@
     },
     {
       "id": "9988471fb87ad800afb318ecb3610dd1bd823ab9",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-21T08:25:21+02:00",
       "all": 7,
       "test": 7,
@@ -1019,7 +1181,7 @@
     },
     {
       "id": "05fa9bc9fb7b548602888192d761eb894cf45ae6",
-      "who": "radokirov@google.com",
+      "who": "Rado Kirov <radokirov@google.com>",
       "when": "2015-05-21T18:55:48-07:00",
       "all": 3,
       "test": 0,
@@ -1028,7 +1190,7 @@
     },
     {
       "id": "57b88ec2d6abec8797f38a72c3d3e28da21d0b91",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2015-05-21T18:18:19+02:00",
       "all": 22,
       "test": 0,
@@ -1037,7 +1199,7 @@
     },
     {
       "id": "b1c9bf14b2baabbb50ae69f906f5186abb13b627",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-20T17:26:22+02:00",
       "all": 1635,
       "test": 913,
@@ -1046,7 +1208,7 @@
     },
     {
       "id": "588fbfd8486f80c795b76228613646a95cd7a94a",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2015-05-21T17:12:10+02:00",
       "all": 17,
       "test": 17,
@@ -1055,7 +1217,7 @@
     },
     {
       "id": "b2a24e021f405b095c491ebcb150d2ff50023ac0",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2015-05-21T17:09:48+02:00",
       "all": 5,
       "test": 0,
@@ -1064,7 +1226,7 @@
     },
     {
       "id": "661a04798e86038373e2c19e6ce3663f1d9328b4",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2015-05-21T11:54:31+02:00",
       "all": 71,
       "test": 53,
@@ -1073,7 +1235,7 @@
     },
     {
       "id": "665ccafd73ea8dda92afd96995b0d6746d19a651",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2015-05-21T11:51:48+02:00",
       "all": 7,
       "test": 0,
@@ -1082,7 +1244,7 @@
     },
     {
       "id": "f35dbb99b5e41fd3c84f238da8671ed4741b0cd0",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2015-05-21T11:50:04+02:00",
       "all": 7,
       "test": 0,
@@ -1091,7 +1253,7 @@
     },
     {
       "id": "a393f84fa417b02e20275ef3e374c61db3d95a81",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2015-05-21T11:48:51+02:00",
       "all": 4,
       "test": 0,
@@ -1100,7 +1262,7 @@
     },
     {
       "id": "92c2c33a8452033b1dc73ac087d0636ff4ca4dda",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2015-05-21T11:47:12+02:00",
       "all": 3,
       "test": 0,
@@ -1109,7 +1271,7 @@
     },
     {
       "id": "9802debf71ff68897c1be59e1763dd31bcbde8ed",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2015-05-21T11:35:53+02:00",
       "all": 11,
       "test": 11,
@@ -1118,7 +1280,7 @@
     },
     {
       "id": "2287938f5a09205701d2d73263b00a8e6d323243",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2015-05-21T11:32:29+02:00",
       "all": 27,
       "test": 5,
@@ -1127,7 +1289,7 @@
     },
     {
       "id": "5103f080e9f60330c5b259e06a4375d4df3b4d81",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2015-05-21T11:30:56+02:00",
       "all": 18,
       "test": 0,
@@ -1136,7 +1298,7 @@
     },
     {
       "id": "1f20ef978713f375dc6afe2793a9b5da28a9da65",
-      "who": "github@gdi2290.com",
+      "who": "gdi2290 <github@gdi2290.com>",
       "when": "2015-05-21T16:38:43-07:00",
       "all": 9,
       "test": 0,
@@ -1144,8 +1306,17 @@
       "pct": 0.0
     },
     {
+      "id": "1ad6558229ffbad0df6847e1ad3a27c87d79c982",
+      "who": "Adam Bradley <adamdbradley@users.noreply.github.com>",
+      "when": "2015-05-21T16:08:51-05:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "d61a0dfa2254d0e12b779b3eee9fb5e36debefc4",
-      "who": "github@gdi2290.com",
+      "who": "gdi2290 <github@gdi2290.com>",
       "when": "2015-05-18T15:20:40-07:00",
       "all": 3,
       "test": 3,
@@ -1153,8 +1324,17 @@
       "pct": 100.0
     },
     {
+      "id": "ac510b67cc32fc7ca32c26786e8ae32452cb7c52",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2015-05-21T23:11:10-07:00",
+      "all": 42,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "5ed091e2608e0852edcafef083dd01e7d4fe5f3c",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-21T23:33:49-07:00",
       "all": 16,
       "test": 0,
@@ -1163,7 +1343,7 @@
     },
     {
       "id": "cc2c8f6b00858d7a84f6399e82053abe2fa1ad81",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-05-21T16:30:07-07:00",
       "all": 3171,
       "test": 3158,
@@ -1171,8 +1351,17 @@
       "pct": 99.7
     },
     {
+      "id": "c28952c707ff15a522b8f80336da61038ce39a59",
+      "who": "yjbanov <yjbanov@google.com>",
+      "when": "2015-05-21T17:37:45-07:00",
+      "all": 32,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "30c3e5a84e339f2d18b3f2fcd81efb2d3daca09e",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-19T21:10:23-07:00",
       "all": 151,
       "test": 26,
@@ -1181,7 +1370,7 @@
     },
     {
       "id": "2ff3873881f01a1d0ef4eb2c5924ac4d22ed6c05",
-      "who": "yjbanov@google.com",
+      "who": "yjbanov <yjbanov@google.com>",
       "when": "2015-05-21T15:49:02-07:00",
       "all": 9,
       "test": 0,
@@ -1190,7 +1379,7 @@
     },
     {
       "id": "aec51d616b079308bc4480924e81be4f22ae4215",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-05-20T17:19:46-07:00",
       "all": 1326,
       "test": 574,
@@ -1198,8 +1387,17 @@
       "pct": 62.6
     },
     {
+      "id": "c5996529c3ed4be68565a02e1406ad8ccbe8c473",
+      "who": "yjbanov <yjbanov@google.com>",
+      "when": "2015-05-21T13:09:27-07:00",
+      "all": 54,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "00c3693daa52f418840195e606e1ea52f3565493",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-20T18:10:30-07:00",
       "all": 487,
       "test": 2,
@@ -1208,7 +1406,7 @@
     },
     {
       "id": "fed86fc8acc88eb29f0eb9ea9b97f50a1d06a843",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-20T13:46:55-07:00",
       "all": 22,
       "test": 9,
@@ -1217,7 +1415,7 @@
     },
     {
       "id": "705ee46f3188652a332a94e3d3830d74098aa647",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-21T08:35:32-07:00",
       "all": 73,
       "test": 19,
@@ -1226,7 +1424,7 @@
     },
     {
       "id": "f210c41c1fe00324f6962219a61f69ecb472b7da",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-21T08:34:48-07:00",
       "all": 23,
       "test": 15,
@@ -1235,7 +1433,7 @@
     },
     {
       "id": "863eb3c559e8c175885ceb0e2d5b4e5c535bf467",
-      "who": "ju.ralph@gmail.com",
+      "who": "Julie Ralph <ju.ralph@gmail.com>",
       "when": "2015-05-20T16:07:47-07:00",
       "all": 142,
       "test": 0,
@@ -1244,7 +1442,7 @@
     },
     {
       "id": "b6b52e62b20bf0f20512e36778ccecd1e057ffeb",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-20T15:36:36-07:00",
       "all": 29,
       "test": 11,
@@ -1253,7 +1451,7 @@
     },
     {
       "id": "dd9b08cce8b1e435f052184d8d46b8a5381ff0f3",
-      "who": "ju.ralph@gmail.com",
+      "who": "Julie Ralph <ju.ralph@gmail.com>",
       "when": "2015-05-20T14:17:09-07:00",
       "all": 1612,
       "test": 0,
@@ -1262,7 +1460,7 @@
     },
     {
       "id": "e61d82b9be973a2f8f0afcdce9399aa2557323a9",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-05-20T09:48:15-07:00",
       "all": 4125,
       "test": 67,
@@ -1270,8 +1468,26 @@
       "pct": 1.6
     },
     {
+      "id": "aabc898f3b91b64c9d39f5821959805509d525ff",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
+      "when": "2015-05-20T16:21:21-07:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "bdeac30a968f2c791da9e7ad38a2e82ae11ec7c2",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
+      "when": "2015-05-20T16:07:09-07:00",
+      "all": 13,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "4afd2b413858e3295b2cbe2e933cbe58dd080d06",
-      "who": "github@gdi2290.com",
+      "who": "gdi2290 <github@gdi2290.com>",
       "when": "2015-05-20T14:00:39-07:00",
       "all": 28,
       "test": 21,
@@ -1280,7 +1496,7 @@
     },
     {
       "id": "dee4ecbb3f813a79b01b04c45734a043e1255706",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-20T11:32:46-07:00",
       "all": 3,
       "test": 0,
@@ -1289,7 +1505,7 @@
     },
     {
       "id": "4210b0e66a3a65c0510d4e19a6d57f5a2f0df9e7",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-20T11:28:39-07:00",
       "all": 23,
       "test": 0,
@@ -1298,7 +1514,7 @@
     },
     {
       "id": "2d6c44b54a3a0fd42d54f29f56f00b8db6c01b56",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-20T11:26:58-07:00",
       "all": 55,
       "test": 0,
@@ -1307,7 +1523,7 @@
     },
     {
       "id": "c45283216fa132489c5a88c4f3ce4abf4f5bd510",
-      "who": "radokirov@google.com",
+      "who": "Rado Kirov <radokirov@google.com>",
       "when": "2015-05-19T23:14:10-07:00",
       "all": 105,
       "test": 87,
@@ -1315,8 +1531,17 @@
       "pct": 82.9
     },
     {
+      "id": "826af401a96985f24ed710a63d56d98319c92bae",
+      "who": "Rado Kirov <radokirov@google.com>",
+      "when": "2015-05-19T23:13:44-07:00",
+      "all": 4,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "28c2b8f43290d604503f3642cf55e52f6f82b0a2",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-20T10:02:25-07:00",
       "all": 73,
       "test": 12,
@@ -1325,7 +1550,7 @@
     },
     {
       "id": "c9ab8e4be838d2871e7d4eecb71da6d88b4e4618",
-      "who": "alx+alxhub@alxandria.net",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
       "when": "2015-05-18T15:24:00-07:00",
       "all": 14,
       "test": 0,
@@ -1334,7 +1559,7 @@
     },
     {
       "id": "1054f6a9ab27ecb25e9eb7909795ff13a24a3bab",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-20T09:33:13-07:00",
       "all": 16,
       "test": 0,
@@ -1343,7 +1568,7 @@
     },
     {
       "id": "f6eeb9aa668010fe757173426a7e650c934ef346",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-05-20T12:20:15+01:00",
       "all": 73,
       "test": 0,
@@ -1352,7 +1577,7 @@
     },
     {
       "id": "91ccc9af9846b2ce54abe2ca8fff149438c57798",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-19T19:27:03+02:00",
       "all": 76,
       "test": 44,
@@ -1361,7 +1586,7 @@
     },
     {
       "id": "ec90fcd29064d68a592641eb80ad3d7e08a9c5b4",
-      "who": "cedric@ninja-squad.com",
+      "who": "cexbrayat <cedric@ninja-squad.com>",
       "when": "2015-05-18T09:41:39+08:00",
       "all": 8,
       "test": 0,
@@ -1370,7 +1595,7 @@
     },
     {
       "id": "a664f5a6def513c2647a20f595895feb89788ae9",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2015-05-18T21:29:23-07:00",
       "all": 20,
       "test": 17,
@@ -1379,7 +1604,7 @@
     },
     {
       "id": "7643d979c743728752f76ca7c00a7bdba9bbc61a",
-      "who": "eggers@brandeis.edu",
+      "who": "eggers <eggers@brandeis.edu>",
       "when": "2015-05-15T23:02:53-07:00",
       "all": 11,
       "test": 0,
@@ -1388,7 +1613,7 @@
     },
     {
       "id": "d18463dcdc5624ac5eb8f0ceb79f64767d1cd759",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-19T23:14:20-07:00",
       "all": 45,
       "test": 0,
@@ -1397,7 +1622,7 @@
     },
     {
       "id": "f9f917bfa49ea841a2bb2e977ccc48181fdbb63f",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-19T21:58:36-07:00",
       "all": 14,
       "test": 0,
@@ -1406,7 +1631,7 @@
     },
     {
       "id": "e89bf01c2bdfd40bff190069d041145118a82aad",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-19T21:55:56-07:00",
       "all": 5,
       "test": 0,
@@ -1415,7 +1640,7 @@
     },
     {
       "id": "d04a515eb01352c94fc9260edda61610cca7cb33",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-19T21:53:06-07:00",
       "all": 29,
       "test": 0,
@@ -1424,7 +1649,7 @@
     },
     {
       "id": "0ae89ac096f6e5eaee026b578615c93c3ea2851b",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-19T12:02:40+02:00",
       "all": 24,
       "test": 10,
@@ -1433,7 +1658,7 @@
     },
     {
       "id": "6ec5d5daafff722eff08b313b70ce692e5b9386d",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-19T16:47:30+02:00",
       "all": 110,
       "test": 78,
@@ -1442,7 +1667,7 @@
     },
     {
       "id": "62b1a08f06fb0f395296722220fd76c1c38697a0",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-19T14:29:10-07:00",
       "all": 34,
       "test": 24,
@@ -1451,7 +1676,7 @@
     },
     {
       "id": "c54f5e0ba2116ebcb31f2c905d46508e0ec74fa0",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-14T10:35:01-07:00",
       "all": 76,
       "test": 0,
@@ -1460,7 +1685,7 @@
     },
     {
       "id": "37a8f1037eee17be88e1af0fa42b1834ab26b797",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-14T10:36:17-07:00",
       "all": 3,
       "test": 0,
@@ -1469,7 +1694,7 @@
     },
     {
       "id": "4ba81bf3ebcff6b84d9c72ae0dc3fe7f7ce07df7",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-19T17:40:50-07:00",
       "all": 6,
       "test": 0,
@@ -1478,7 +1703,7 @@
     },
     {
       "id": "c204835969903c765d4666f7161808beff29fc33",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-19T17:39:57-07:00",
       "all": 62,
       "test": 0,
@@ -1487,7 +1712,7 @@
     },
     {
       "id": "ac28ac324dfd282b2b083ffb2d37e95fd90188f9",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-05-18T17:48:41-07:00",
       "all": 30,
       "test": 0,
@@ -1496,7 +1721,7 @@
     },
     {
       "id": "8aa3fcfb638f1dfda7e55408090eb273865f49f7",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-05-19T15:05:02-07:00",
       "all": 366,
       "test": 0,
@@ -1505,7 +1730,7 @@
     },
     {
       "id": "1beadb86075d94197eb28c73c4811bce56421432",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-05-18T11:57:20-07:00",
       "all": 1927,
       "test": 80,
@@ -1513,8 +1738,35 @@
       "pct": 4.2
     },
     {
+      "id": "bd8724e652a71680fce5616fa3a108eccac351d1",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
+      "when": "2015-05-19T11:28:53-07:00",
+      "all": 13,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "73d15edef50e88bc7d6d59b8a9d8acc70024bf83",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
+      "when": "2015-05-18T11:46:19-07:00",
+      "all": 13,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "adaa157317da4305e659c41e44f664023aacc12d",
+      "who": "yjbanov <yjbanov@google.com>",
+      "when": "2015-05-19T14:47:59-07:00",
+      "all": 70,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "791caf003745e00460055c8a6a4c704a601931d8",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-05-19T10:35:28-07:00",
       "all": 102,
       "test": 79,
@@ -1523,7 +1775,7 @@
     },
     {
       "id": "8ab773538bffaa29966a7a4ba400799bf4513d9a",
-      "who": "yjbanov@google.com",
+      "who": "Yegor Jbanov <yjbanov@google.com>",
       "when": "2015-05-19T12:48:00-07:00",
       "all": 196,
       "test": 9,
@@ -1532,7 +1784,7 @@
     },
     {
       "id": "5c88f662cd322bd1b3e9b187978f6cfa2906e286",
-      "who": "yjbanov@google.com",
+      "who": "Yegor Jbanov <yjbanov@google.com>",
       "when": "2015-05-19T10:05:18-07:00",
       "all": 18,
       "test": 0,
@@ -1541,7 +1793,7 @@
     },
     {
       "id": "cd7aef2139e715c7a0a91983fc9203fc9471957a",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-05-19T13:52:02+01:00",
       "all": 9,
       "test": 0,
@@ -1549,8 +1801,17 @@
       "pct": 0.0
     },
     {
+      "id": "50c6efa187a211d7f7e05a1019fdaf9e454647cc",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
+      "when": "2015-05-19T13:11:20+01:00",
+      "all": 15,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "302c5d5005a481fce47d854ef22603ec1adcfb70",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-05-19T13:02:32+01:00",
       "all": 2,
       "test": 0,
@@ -1559,7 +1820,7 @@
     },
     {
       "id": "b6b9ede425c03064cfcf4cb6326e199965de4db7",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-05-19T12:54:01+01:00",
       "all": 7,
       "test": 0,
@@ -1568,7 +1829,7 @@
     },
     {
       "id": "118f0520a289787d7bbf1664da3370159cbbd773",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-05-19T12:53:37+01:00",
       "all": 170,
       "test": 0,
@@ -1577,7 +1838,7 @@
     },
     {
       "id": "ba80bd43ad9b1981262cff03954c86bed97094e7",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-05-19T11:31:04+01:00",
       "all": 3,
       "test": 0,
@@ -1586,7 +1847,7 @@
     },
     {
       "id": "ed6298c33fd0d930e7220a18ab93dc9c56428781",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-05-17T22:14:42+01:00",
       "all": 10,
       "test": 0,
@@ -1595,7 +1856,7 @@
     },
     {
       "id": "db5486a347e99cc39d774d39cc0f2276204fa285",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-05-17T22:13:06+01:00",
       "all": 3,
       "test": 0,
@@ -1604,7 +1865,7 @@
     },
     {
       "id": "b9b58f7ed93b0e87aa5ef8e318ce0df100519b36",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-05-17T22:09:33+01:00",
       "all": 15,
       "test": 0,
@@ -1613,7 +1874,7 @@
     },
     {
       "id": "33f5aafd6cef6e86694ff5664ddacd22e47552f7",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-05-17T22:01:03+01:00",
       "all": 3,
       "test": 0,
@@ -1622,7 +1883,7 @@
     },
     {
       "id": "4b34ef9036190cb7b2078fe373c7d97543cae23e",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-05-17T22:00:16+01:00",
       "all": 3,
       "test": 0,
@@ -1631,7 +1892,7 @@
     },
     {
       "id": "8c409e9251623665b97ea75d52fad51f6f98b7de",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-05-17T21:59:24+01:00",
       "all": 8,
       "test": 0,
@@ -1640,7 +1901,7 @@
     },
     {
       "id": "398e70ad3993741ade00b18b0241cb4b020f87fa",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-05-17T21:45:04+01:00",
       "all": 75,
       "test": 0,
@@ -1649,7 +1910,7 @@
     },
     {
       "id": "9407c12923c5dcf081b45bc46317513dc9d7855a",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-05-17T21:05:51+01:00",
       "all": 87,
       "test": 0,
@@ -1658,7 +1919,7 @@
     },
     {
       "id": "a4693ef67916efa97d05a13f01eae591dde6b293",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-05-16T19:07:32+01:00",
       "all": 8,
       "test": 0,
@@ -1667,7 +1928,7 @@
     },
     {
       "id": "9d5f760597679cd9d444fad276bdd1d6b71676fc",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-05-15T16:47:05+01:00",
       "all": 9,
       "test": 0,
@@ -1675,8 +1936,17 @@
       "pct": 0.0
     },
     {
+      "id": "8bebcfb844150e0485b2ad711ffa35f79d412569",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
+      "when": "2015-05-15T15:51:19+01:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "8a0eb08745dbb048d78b9ad8893ab75fd2a86f03",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-05-15T15:50:58+01:00",
       "all": 3,
       "test": 0,
@@ -1685,7 +1955,7 @@
     },
     {
       "id": "1dce4699de956642468b292ea990a8b9e5b9fef1",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-05-15T15:47:31+01:00",
       "all": 3,
       "test": 0,
@@ -1694,7 +1964,7 @@
     },
     {
       "id": "7bff919782db7c49e5dda31e31975bde3fd5683b",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-05-15T15:44:21+01:00",
       "all": 6,
       "test": 3,
@@ -1703,7 +1973,7 @@
     },
     {
       "id": "c6dc78183d6da6424605bfeb9acc7b86e1be8424",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-05-15T13:57:38+01:00",
       "all": 21,
       "test": 0,
@@ -1712,7 +1982,7 @@
     },
     {
       "id": "9a72f19b976708b0e230af8455192697a19db275",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-05-15T13:57:38+01:00",
       "all": 581,
       "test": 39,
@@ -1721,7 +1991,7 @@
     },
     {
       "id": "25a952755e96e8147c72d299cbdc84f16e653bab",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-05-15T13:57:38+01:00",
       "all": 812,
       "test": 0,
@@ -1730,7 +2000,7 @@
     },
     {
       "id": "b2da2978ee24023725e6a36048035d792a95ff43",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-05-15T13:57:38+01:00",
       "all": 8,
       "test": 0,
@@ -1739,7 +2009,7 @@
     },
     {
       "id": "8b9400ad92950c5e3cd39c31b354c2699b5e7fda",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-05-15T13:54:41+01:00",
       "all": 5,
       "test": 0,
@@ -1748,7 +2018,7 @@
     },
     {
       "id": "3571450b42a1d39dc03e624c9b0b1b28d26d639a",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-05-15T13:54:41+01:00",
       "all": 3,
       "test": 0,
@@ -1757,7 +2027,7 @@
     },
     {
       "id": "72bb5bdd5af6d51654d00729b9deabcca123c4f6",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-05-15T13:54:41+01:00",
       "all": 3,
       "test": 0,
@@ -1765,8 +2035,17 @@
       "pct": 0.0
     },
     {
+      "id": "04a9eb8820b83825867e94cac58ffa56725a86a4",
+      "who": "Martin Probst <martin@probst.io>",
+      "when": "2015-05-19T09:30:44+02:00",
+      "all": 172,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "0f002a5b18120d1f7bdfc7dca78f4e1c53794659",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-12T16:28:57+02:00",
       "all": 537,
       "test": 293,
@@ -1775,7 +2054,7 @@
     },
     {
       "id": "b066b8d15aa5dbeb4c096c5595d0eb69ab5525a6",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-16T11:01:02-07:00",
       "all": 1326,
       "test": 553,
@@ -1784,7 +2063,7 @@
     },
     {
       "id": "7b511462afcd5ea011715d624611ffa4260cec61",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-16T15:21:36-07:00",
       "all": 103,
       "test": 31,
@@ -1793,7 +2072,7 @@
     },
     {
       "id": "3a53f67911967f90200f16addb7758e58e4775f5",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-15T15:54:54-07:00",
       "all": 244,
       "test": 180,
@@ -1802,7 +2081,7 @@
     },
     {
       "id": "155b1e2b35da9b5b9ee09e2d0f633f0fb5b40d28",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-18T17:47:44-07:00",
       "all": 9,
       "test": 0,
@@ -1811,7 +2090,7 @@
     },
     {
       "id": "aad5795408bb32f48c3dc066dc7a60cf7fe71b44",
-      "who": "caitpotter88@gmail.com",
+      "who": "Caitlin Potter <caitpotter88@gmail.com>",
       "when": "2015-05-18T13:39:28-04:00",
       "all": 91,
       "test": 0,
@@ -1820,7 +2099,7 @@
     },
     {
       "id": "83b97c485ba3ed80d9155150e2300d0dad192187",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-05-15T15:55:26-07:00",
       "all": 42,
       "test": 0,
@@ -1829,7 +2108,7 @@
     },
     {
       "id": "5db89071d408c2e5b2e26b3d7b00e02e164c197f",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-05-15T02:05:57-07:00",
       "all": 372,
       "test": 110,
@@ -1838,7 +2117,7 @@
     },
     {
       "id": "c29ab86d857556f5549e46780694963574f8a322",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-05-14T13:01:48-07:00",
       "all": 228,
       "test": 11,
@@ -1847,7 +2126,7 @@
     },
     {
       "id": "6b02cb9b446f0f4b70061affb09c6c65434a040c",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-05-13T13:03:29-07:00",
       "all": 13,
       "test": 13,
@@ -1855,8 +2134,17 @@
       "pct": 100.0
     },
     {
+      "id": "88c607da039c8db85a8816d5e24b8678dcb92e47",
+      "who": "Misko Hevery <misko@hevery.com>",
+      "when": "2015-05-18T15:29:08-07:00",
+      "all": 10,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "f9fd4926ef9237a7d0ed08994cf79bf8d7182fd1",
-      "who": "github@gdi2290.com",
+      "who": "gdi2290 <github@gdi2290.com>",
       "when": "2015-05-18T02:58:13-07:00",
       "all": 18,
       "test": 0,
@@ -1865,7 +2153,7 @@
     },
     {
       "id": "986038242ac0f2b0092f4678a388126d8a568c21",
-      "who": "github@gdi2290.com",
+      "who": "gdi2290 <github@gdi2290.com>",
       "when": "2015-05-18T09:24:52-07:00",
       "all": 210,
       "test": 98,
@@ -1874,7 +2162,7 @@
     },
     {
       "id": "8e84f8a1c431d454c2f3213fc54e05b2e535f3ae",
-      "who": "jo.meier@gmx.de",
+      "who": "Josef Meier <jo.meier@gmx.de>",
       "when": "2015-05-18T08:11:13+02:00",
       "all": 14,
       "test": 0,
@@ -1883,7 +2171,7 @@
     },
     {
       "id": "edfbc2576864967e2d51b473fe9fb1a63d7e82e4",
-      "who": "tjblasi@google.com",
+      "who": "Tim Blasi <tjblasi@google.com>",
       "when": "2015-05-15T13:48:55-07:00",
       "all": 10,
       "test": 0,
@@ -1892,7 +2180,7 @@
     },
     {
       "id": "05a1c6c183780264d9d2aff0380d7f526ad56603",
-      "who": "tjblasi@google.com",
+      "who": "Tim Blasi <tjblasi@google.com>",
       "when": "2015-05-14T10:26:19-07:00",
       "all": 101,
       "test": 0,
@@ -1901,7 +2189,7 @@
     },
     {
       "id": "534cbb4bf58055bdfb4cee21c045f18e4d9113ca",
-      "who": "tjblasi@google.com",
+      "who": "Tim Blasi <tjblasi@google.com>",
       "when": "2015-05-12T11:03:14-07:00",
       "all": 182,
       "test": 0,
@@ -1910,7 +2198,7 @@
     },
     {
       "id": "d9ceb42bfeeacd8c5ec17a4c275c55b2c848b312",
-      "who": "caitpotter88@gmail.com",
+      "who": "Caitlin Potter <caitpotter88@gmail.com>",
       "when": "2015-05-14T02:39:04-04:00",
       "all": 37,
       "test": 0,
@@ -1918,8 +2206,17 @@
       "pct": 0.0
     },
     {
+      "id": "8d6943227d6646ae12ca365dd1bfd7ba1db95ee0",
+      "who": "Jeremy Elbourn <jelbourn@google.com>",
+      "when": "2015-05-12T08:54:47-07:00",
+      "all": 78,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "3011cd86bd2e061ac79a9f4e83e9a64fca757220",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2015-05-12T16:46:40+02:00",
       "all": 28,
       "test": 13,
@@ -1927,8 +2224,17 @@
       "pct": 46.4
     },
     {
+      "id": "cfba38b46236a3aacafe020318fef3383641c7a0",
+      "who": "Misko Hevery <misko@hevery.com>",
+      "when": "2015-05-18T14:05:04-07:00",
+      "all": 13,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "11e4385173c43ccd9d0b3000a326b16f7e8a687b",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-11T12:00:56-07:00",
       "all": 97,
       "test": 27,
@@ -1937,7 +2243,7 @@
     },
     {
       "id": "ad29b12cde92f9b1d6b9e851412328d342c5f6d6",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-16T08:43:07+02:00",
       "all": 5,
       "test": 0,
@@ -1945,8 +2251,17 @@
       "pct": 0.0
     },
     {
+      "id": "842459aa46c1387a6f599422321486a6abe0c7a7",
+      "who": "Victor Berchet <victor@suumit.com>",
+      "when": "2015-05-14T17:21:43+02:00",
+      "all": 99,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "b033416a4503420ab4530a6367f7ff5f5f37445c",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-14T14:28:47+02:00",
       "all": 7,
       "test": 0,
@@ -1955,7 +2270,7 @@
     },
     {
       "id": "7310b09a1a8e8d836b14514101c2e90075e6616f",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-13T09:28:42+02:00",
       "all": 26,
       "test": 0,
@@ -1964,7 +2279,7 @@
     },
     {
       "id": "bb2eda2d151092cdd318cbdbb6b22edc1dd39896",
-      "who": "jelbourn@google.com",
+      "who": "Jeremy Elbourn <jelbourn@google.com>",
       "when": "2015-05-15T16:10:16-07:00",
       "all": 19,
       "test": 14,
@@ -1973,7 +2288,7 @@
     },
     {
       "id": "0114cd97b69022368c5067f2c3ccdd148c179a27",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-14T15:38:16+02:00",
       "all": 26,
       "test": 0,
@@ -1982,7 +2297,7 @@
     },
     {
       "id": "fc13cdab3a41837789621cd06bdc5f2727e8fbc0",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-14T15:24:35+02:00",
       "all": 185,
       "test": 0,
@@ -1991,7 +2306,7 @@
     },
     {
       "id": "36440366930b51930f29319322ec1bb5890e22fd",
-      "who": "tjblasi@google.com",
+      "who": "Tim Blasi <tjblasi@google.com>",
       "when": "2015-05-14T12:43:56-07:00",
       "all": 408,
       "test": 5,
@@ -2000,7 +2315,7 @@
     },
     {
       "id": "c397297eefdf4bb6522287518496f77b13678b71",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2015-05-13T12:04:10+02:00",
       "all": 3,
       "test": 0,
@@ -2009,7 +2324,7 @@
     },
     {
       "id": "1eea2b254eed84d0447bf386e41a868b197fb379",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2015-05-13T15:54:46-07:00",
       "all": 252,
       "test": 48,
@@ -2018,7 +2333,7 @@
     },
     {
       "id": "0e04467b8a11aeadf91d2bbab8897f6a90341f44",
-      "who": "contact@m-goderbauer.de",
+      "who": "Michael Goderbauer <contact@m-goderbauer.de>",
       "when": "2015-05-15T11:43:35-07:00",
       "all": 7,
       "test": 0,
@@ -2026,8 +2341,26 @@
       "pct": 0.0
     },
     {
+      "id": "9fbb3adbe21faee9e6501385884e79a0f4232a4c",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2015-05-15T16:17:28-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "b6f29b4448e5865b71ad90ef1f4a719dc4b55d1b",
+      "who": "Yegor Jbanov <yjbanov@google.com>",
+      "when": "2015-05-15T11:46:34-07:00",
+      "all": 151,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "421d8916a6929b95b50a3beb5ce60a8d24198690",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-05-15T09:55:43-07:00",
       "all": 480,
       "test": 228,
@@ -2036,16 +2369,16 @@
     },
     {
       "id": "a38a0d6f875a1657ed64d67d84c6423551cc257d",
-      "who": "matanlurey@users.noreply.github.com",
+      "who": "Matan Lurey <matanlurey@users.noreply.github.com>",
       "when": "2015-05-15T12:32:22-07:00",
-      "all": 7,
+      "all": 0,
       "test": 0,
-      "testable": 7,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "7a4a6353998fe66e59f6630f1a722c6000ef4bba",
-      "who": "github@gdi2290.com",
+      "who": "gdi2290 <github@gdi2290.com>",
       "when": "2015-05-14T10:14:26-07:00",
       "all": 235,
       "test": 96,
@@ -2054,7 +2387,7 @@
     },
     {
       "id": "557d54b3deccd61bc199f11ffb231842a8f5c7a3",
-      "who": "github@gdi2290.com",
+      "who": "gdi2290 <github@gdi2290.com>",
       "when": "2015-05-14T09:17:44-07:00",
       "all": 42,
       "test": 28,
@@ -2063,7 +2396,7 @@
     },
     {
       "id": "c47902a47110baf817788c8e3eba4cd0485b0401",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-15T12:46:50+02:00",
       "all": 21,
       "test": 0,
@@ -2072,7 +2405,7 @@
     },
     {
       "id": "25cd6e4321ca263654294094332847c779d055ed",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-15T10:16:04+02:00",
       "all": 97,
       "test": 64,
@@ -2081,7 +2414,7 @@
     },
     {
       "id": "6ad5fa0d9d48cbaef033fbd45043855cb5f73d18",
-      "who": "matanlurey@users.noreply.github.com",
+      "who": "Matan Lurey <matanlurey@users.noreply.github.com>",
       "when": "2015-05-14T12:36:16-07:00",
       "all": 7,
       "test": 0,
@@ -2090,7 +2423,7 @@
     },
     {
       "id": "666336be1a45a8787e8a7e812d88a54edbdb9347",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-14T09:56:19-07:00",
       "all": 4,
       "test": 0,
@@ -2099,7 +2432,7 @@
     },
     {
       "id": "77bf90dff16afb31acc8d8fbd82884caf0d7bc80",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-14T10:00:53-07:00",
       "all": 7,
       "test": 0,
@@ -2108,7 +2441,7 @@
     },
     {
       "id": "8ad0205948de4d25b8d845cf5502854487765a13",
-      "who": "github@gdi2290.com",
+      "who": "PatrickJS <github@gdi2290.com>",
       "when": "2015-05-12T13:22:46-07:00",
       "all": 3,
       "test": 0,
@@ -2116,8 +2449,17 @@
       "pct": 0.0
     },
     {
+      "id": "7ff17db113fbc6d04eb8e826d60860594c932d07",
+      "who": "Derek Van Dyke <haoled@gmail.com>",
+      "when": "2015-05-13T10:33:58-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "1d11fdecdc8a3f56ef7ec46d75ae715dc92a43af",
-      "who": "github@gdi2290.com",
+      "who": "gdi2290 <github@gdi2290.com>",
       "when": "2015-05-14T08:13:54-07:00",
       "all": 3,
       "test": 0,
@@ -2126,7 +2468,7 @@
     },
     {
       "id": "b1ef30aa200152ef7ff42a9039ecad3433e83de3",
-      "who": "caitpotter88@gmail.com",
+      "who": "Caitlin Potter <caitpotter88@gmail.com>",
       "when": "2015-05-13T22:40:53-04:00",
       "all": 161,
       "test": 0,
@@ -2135,7 +2477,7 @@
     },
     {
       "id": "28659efa693d7cf7254cd7b4df58600fe21271ed",
-      "who": "caitpotter88@gmail.com",
+      "who": "Caitlin Potter <caitpotter88@gmail.com>",
       "when": "2015-05-13T22:40:04-04:00",
       "all": 32,
       "test": 0,
@@ -2143,8 +2485,17 @@
       "pct": 0.0
     },
     {
+      "id": "6c59894a2978658f483f7324ce334960582c0172",
+      "who": "Caitlin Potter <caitpotter88@gmail.com>",
+      "when": "2015-05-13T22:58:40-04:00",
+      "all": 16,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "47b8b48ee7f650156086cfb530c360b99aecc875",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-13T22:21:04-07:00",
       "all": 48,
       "test": 0,
@@ -2153,7 +2504,7 @@
     },
     {
       "id": "3969009fe74906a7a785dda08d8297a8b6aaacad",
-      "who": "caitpotter88@gmail.com",
+      "who": "Caitlin Potter <caitpotter88@gmail.com>",
       "when": "2015-05-08T12:46:38-05:00",
       "all": 78,
       "test": 0,
@@ -2162,7 +2513,7 @@
     },
     {
       "id": "ecb068019bd218d2cc466a8cf1de47ed3b99c1d3",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-05-11T17:59:39-07:00",
       "all": 1150,
       "test": 510,
@@ -2170,8 +2521,17 @@
       "pct": 44.3
     },
     {
+      "id": "511441174956c494ac9b8abad7b833a2424126c4",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2015-05-12T14:14:43-07:00",
+      "all": 10,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "08f21dbf51660d3a560a4a55033471b9c4582676",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-13T13:25:18-07:00",
       "all": 76,
       "test": 32,
@@ -2180,7 +2540,7 @@
     },
     {
       "id": "d8c7c274e43c0a20da7a43aa53abaa300ac97cb1",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-13T13:01:31-07:00",
       "all": 2121,
       "test": 1990,
@@ -2188,8 +2548,17 @@
       "pct": 93.8
     },
     {
+      "id": "fadabf79e3f64efd556993b6047596f5d4ac820a",
+      "who": "Caitlin Potter <caitpotter88@gmail.com>",
+      "when": "2015-05-13T11:29:30-04:00",
+      "all": 31,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "23cec1e8e247f8d7f36cad2306fe0b36eae4fc8d",
-      "who": "caitpotter88@gmail.com",
+      "who": "Caitlin Potter <caitpotter88@gmail.com>",
       "when": "2015-05-08T14:20:54-04:00",
       "all": 155,
       "test": 0,
@@ -2197,8 +2566,17 @@
       "pct": 0.0
     },
     {
+      "id": "c36ea0221eecee54c22732f17904c63fed37af21",
+      "who": "Caitlin Potter <caitpotter88@gmail.com>",
+      "when": "2015-05-12T18:15:49-04:00",
+      "all": 1145,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "685a6507b65a5a19bdd254af7afda14be40df422",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-13T15:28:03-07:00",
       "all": 110,
       "test": 56,
@@ -2206,8 +2584,17 @@
       "pct": 50.9
     },
     {
+      "id": "846354473d4c2150b10d81f7740dc28c0bb4be5e",
+      "who": "Jacob MacDonald <jakemac@google.com>",
+      "when": "2015-05-11T14:25:25-07:00",
+      "all": 201,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "390cfb793b2cd351d2db609d088a8fdda3df4f24",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-05-12T16:18:58-07:00",
       "all": 52,
       "test": 14,
@@ -2216,7 +2603,7 @@
     },
     {
       "id": "17392f663fc7d6ae0ddceaead9982696f4e838b1",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-05-12T14:53:13-07:00",
       "all": 117,
       "test": 24,
@@ -2225,7 +2612,7 @@
     },
     {
       "id": "8b6fa1cf193e2afd09e975dc037e8fce57cc3458",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-13T11:30:59+02:00",
       "all": 6,
       "test": 0,
@@ -2233,8 +2620,17 @@
       "pct": 0.0
     },
     {
+      "id": "909233f7247224e526fd82518e562f2d57287074",
+      "who": "Victor Berchet <victor@suumit.com>",
+      "when": "2015-05-13T11:28:55+02:00",
+      "all": 8,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "0e82970a29debcf6803f51ad6b0ab162d8d569f5",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-13T10:43:00+02:00",
       "all": 20,
       "test": 0,
@@ -2243,7 +2639,7 @@
     },
     {
       "id": "cdbb2473bb873b279b21314ee5c7230cb17fcf22",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-13T10:18:31+02:00",
       "all": 12,
       "test": 0,
@@ -2252,7 +2648,7 @@
     },
     {
       "id": "c20060d259241813f3673f78cb531289097e5f9d",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-13T10:11:33+02:00",
       "all": 12,
       "test": 12,
@@ -2261,7 +2657,7 @@
     },
     {
       "id": "38926f712349835d13a65941edd4f81651c2599c",
-      "who": "radokirov@google.com",
+      "who": "Rado Kirov <radokirov@google.com>",
       "when": "2015-05-12T18:31:38-07:00",
       "all": 11,
       "test": 0,
@@ -2269,8 +2665,17 @@
       "pct": 0.0
     },
     {
+      "id": "0efd89ae5d27131455a8a2104521575227ee2799",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2015-05-13T01:02:20-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "718d2ae2eeac546c9b8e897a621909e11bc8bcf7",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-12T21:19:59-07:00",
       "all": 6,
       "test": 0,
@@ -2279,7 +2684,7 @@
     },
     {
       "id": "af9dcad8e347a4c82874feab6f8f9c44df7da499",
-      "who": "chirayu@chirayuk.com",
+      "who": "Chirayu Krishnappa <chirayu@chirayuk.com>",
       "when": "2015-05-01T16:15:48-07:00",
       "all": 24,
       "test": 0,
@@ -2288,7 +2693,7 @@
     },
     {
       "id": "772b529a8ebc8644ea0f925469cc65fbeabf2668",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-12T16:05:38-07:00",
       "all": 3,
       "test": 0,
@@ -2297,7 +2702,7 @@
     },
     {
       "id": "111fa60a9352b2ccd064793494def9338b84d537",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2015-05-11T17:04:55-07:00",
       "all": 142,
       "test": 46,
@@ -2306,7 +2711,7 @@
     },
     {
       "id": "e9f236b70f7e6228a16d3d93bb1ab225c9682978",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2015-05-11T16:07:23-07:00",
       "all": 117,
       "test": 39,
@@ -2315,7 +2720,7 @@
     },
     {
       "id": "78d3f62b6a38b00f1ef3dec4c1d31e8ceebdedcb",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2015-05-11T16:00:53-07:00",
       "all": 25,
       "test": 11,
@@ -2324,7 +2729,7 @@
     },
     {
       "id": "d310a9c0b466407ddce0babdf36d7e4c2476cae3",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2015-05-11T15:58:59-07:00",
       "all": 125,
       "test": 65,
@@ -2333,7 +2738,7 @@
     },
     {
       "id": "7dc524ed5888c217ba40f721ccc1494193432d66",
-      "who": "yjbanov@google.com",
+      "who": "yjbanov <yjbanov@google.com>",
       "when": "2015-05-12T15:05:32-07:00",
       "all": 3,
       "test": 0,
@@ -2342,7 +2747,7 @@
     },
     {
       "id": "032f8b784008b249ff7112f5b2be6248625a4ce1",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-12T14:11:29-07:00",
       "all": 10,
       "test": 10,
@@ -2351,7 +2756,7 @@
     },
     {
       "id": "4f2b9a4c283225e4a1e85eea3e95bc4cbc1349b5",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2015-05-12T14:10:53-07:00",
       "all": 6,
       "test": 0,
@@ -2359,8 +2764,17 @@
       "pct": 0.0
     },
     {
+      "id": "1ac7bb3bb82c2417cebf625d18b97538c19a8a5e",
+      "who": "yjbanov <yjbanov@google.com>",
+      "when": "2015-05-12T13:48:54-07:00",
+      "all": 68,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "f302f70330b4327f1db2c19d34ceb48d62bdb4a8",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2015-05-12T11:19:47-07:00",
       "all": 1224,
       "test": 0,
@@ -2369,7 +2783,7 @@
     },
     {
       "id": "555dd93ed948aceb47aed3fd3ce4212fc73e87e8",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2015-05-11T12:14:45-07:00",
       "all": 5,
       "test": 0,
@@ -2378,7 +2792,7 @@
     },
     {
       "id": "96b0a1c75ef0194995dbe396dee47a8e7a6489b7",
-      "who": "middlefloor@gmail.com",
+      "who": "Jeff Cross <middlefloor@gmail.com>",
       "when": "2015-05-12T10:43:56-07:00",
       "all": 6,
       "test": 0,
@@ -2387,7 +2801,7 @@
     },
     {
       "id": "c8a0ed40bdb8e67b3da3246822fe34c360c2fd48",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-12T09:47:17+02:00",
       "all": 2163,
       "test": 0,
@@ -2396,7 +2810,7 @@
     },
     {
       "id": "e11c20541a0678755061daa7cce89084d2a4b6e4",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-07T15:38:57+02:00",
       "all": 177,
       "test": 35,
@@ -2405,7 +2819,7 @@
     },
     {
       "id": "c75e216871f66866b12b007bb72045eb301c745a",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-07T09:24:59+02:00",
       "all": 310,
       "test": 114,
@@ -2414,7 +2828,7 @@
     },
     {
       "id": "358a6750ede3e0a4b974d8249b70118da88bf666",
-      "who": "yjbanov@google.com",
+      "who": "yjbanov <yjbanov@google.com>",
       "when": "2015-05-08T17:57:03-07:00",
       "all": 164,
       "test": 0,
@@ -2423,7 +2837,7 @@
     },
     {
       "id": "4320859e1b03afe0e6e9becc4465e7cbed955e24",
-      "who": "tjblasi@google.com",
+      "who": "Tim Blasi <tjblasi@google.com>",
       "when": "2015-05-12T09:33:07-07:00",
       "all": 3,
       "test": 0,
@@ -2432,7 +2846,7 @@
     },
     {
       "id": "98e7a38e506f38d55800fc7bc7014c1b024ab505",
-      "who": "kevmoo@google.com",
+      "who": "Kevin Moore <kevmoo@google.com>",
       "when": "2015-05-08T19:23:49-07:00",
       "all": 24,
       "test": 0,
@@ -2441,7 +2855,7 @@
     },
     {
       "id": "229e770a1dacdde692a0157b38b8535015e49f60",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2015-05-11T15:20:04+02:00",
       "all": 40,
       "test": 0,
@@ -2450,7 +2864,7 @@
     },
     {
       "id": "5036086fb379dccdd09140d93f76df4840bef58c",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2015-05-11T14:52:39+02:00",
       "all": 7,
       "test": 0,
@@ -2458,8 +2872,17 @@
       "pct": 0.0
     },
     {
+      "id": "97d24563f492b5cea29e8da3e8e41c69d3d10c95",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2015-05-08T17:29:21-07:00",
+      "all": 330,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "655ed851f021d5faa6e1d56d19375c8e9ab0bae0",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2015-05-11T21:52:41+02:00",
       "all": 9,
       "test": 0,
@@ -2467,8 +2890,17 @@
       "pct": 0.0
     },
     {
+      "id": "f8f79dc76ce16b84b987ed3aef41480cca87cb7d",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
+      "when": "2015-05-11T22:09:33+02:00",
+      "all": 139,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "a5741541085a726d92868df2739344977485bea2",
-      "who": "radokirov@google.com",
+      "who": "Rado Kirov <radokirov@google.com>",
       "when": "2015-05-11T14:49:55-07:00",
       "all": 19,
       "test": 14,
@@ -2477,7 +2909,7 @@
     },
     {
       "id": "7f976381d5813e831eca580fe5ddbc57afa08b58",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-11T16:07:25-07:00",
       "all": 29,
       "test": 16,
@@ -2486,7 +2918,7 @@
     },
     {
       "id": "ac80df09595644b5cc3fede854937cefdaaecf83",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-05-07T21:10:12-07:00",
       "all": 121,
       "test": 46,
@@ -2495,7 +2927,7 @@
     },
     {
       "id": "aff85b5037f2530e68b419673d1f6fc76112e678",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-05-11T09:08:37-07:00",
       "all": 72,
       "test": 43,
@@ -2504,7 +2936,7 @@
     },
     {
       "id": "5691063ba0c8ebfea3cab43f567e0e5d04f4e0fa",
-      "who": "middlefloor@gmail.com",
+      "who": "Jeff Cross <middlefloor@gmail.com>",
       "when": "2015-05-11T14:25:27-07:00",
       "all": 23,
       "test": 7,
@@ -2513,7 +2945,7 @@
     },
     {
       "id": "92d6aa1f324577b9d239fc6ea7a4866c1ff6c48b",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-11T12:33:41-07:00",
       "all": 2,
       "test": 0,
@@ -2522,7 +2954,7 @@
     },
     {
       "id": "3256ff1c73672aaacf9df74367f81c28e94b4f5a",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-11T12:32:02-07:00",
       "all": 9,
       "test": 0,
@@ -2531,7 +2963,7 @@
     },
     {
       "id": "f9c1de46b3c7889607ecfa7e36cdeb69ccbb0aec",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-11T12:31:16-07:00",
       "all": 369,
       "test": 170,
@@ -2540,7 +2972,7 @@
     },
     {
       "id": "a9ce0f7afbf21bf3a3fce67e63ccd3fc85072098",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-11T10:28:07-07:00",
       "all": 60,
       "test": 0,
@@ -2549,7 +2981,7 @@
     },
     {
       "id": "1a4ab2c57acc8ce85e02ae6d088b91758685aebd",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-11T12:08:05-07:00",
       "all": 4,
       "test": 0,
@@ -2558,7 +2990,7 @@
     },
     {
       "id": "77d1fc149a0eb34bc872b8444c763bd05466f53c",
-      "who": "radokirov@google.com",
+      "who": "Rado Kirov <radokirov@google.com>",
       "when": "2015-05-06T18:30:37-07:00",
       "all": 87,
       "test": 46,
@@ -2567,7 +2999,7 @@
     },
     {
       "id": "c2a42d5d2bcfbe0c7ab48488f29014a44c4c8559",
-      "who": "radokirov@google.com",
+      "who": "Rado Kirov <radokirov@google.com>",
       "when": "2015-05-08T18:45:48-07:00",
       "all": 8,
       "test": 5,
@@ -2575,8 +3007,26 @@
       "pct": 62.5
     },
     {
+      "id": "01d5c2951376c9279e5913fb37d45341513b8ba0",
+      "who": "Jacob MacDonald <jakemac@google.com>",
+      "when": "2015-05-08T15:03:08-07:00",
+      "all": 470,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "7844e3a2752fdb7c72b8652c45a2c2e4f00309c8",
+      "who": "Kevin Moore <kevmoo@google.com>",
+      "when": "2015-05-08T19:51:19-07:00",
+      "all": 615,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "4665726f48bc6a9054838d05e4a554c5e3ca7939",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2015-05-10T13:26:33+02:00",
       "all": 17,
       "test": 11,
@@ -2584,8 +3034,26 @@
       "pct": 64.7
     },
     {
+      "id": "e8ad0d177669cd7177d2f6936097831a5467a3c8",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
+      "when": "2015-05-10T18:44:03+02:00",
+      "all": 209,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "28022f472d5dbc231bb5c60da696744da40cf322",
+      "who": "Sekib Omazic <sekib.omazic@gmail.com>",
+      "when": "2015-05-08T23:39:06+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "4f3433b5bd1f1cd33d77fb01d6a45abd19718330",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-05-08T17:58:08-07:00",
       "all": 242,
       "test": 191,
@@ -2594,7 +3062,7 @@
     },
     {
       "id": "2185e7cee92a1b290980e2b6f6c03097697d582c",
-      "who": "yjbanov@google.com",
+      "who": "yjbanov <yjbanov@google.com>",
       "when": "2015-05-08T16:24:17-07:00",
       "all": 13,
       "test": 7,
@@ -2602,8 +3070,17 @@
       "pct": 53.8
     },
     {
+      "id": "66f5e30d7cb048870621c65b86dcb4ed060e938f",
+      "who": "yjbanov <yjbanov@google.com>",
+      "when": "2015-05-08T16:13:53-07:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "1a0da11e55e2c5fb53fbc7d8e028a928178c03bb",
-      "who": "yjbanov@google.com",
+      "who": "yjbanov <yjbanov@google.com>",
       "when": "2015-05-08T16:13:00-07:00",
       "all": 459,
       "test": 342,
@@ -2611,8 +3088,26 @@
       "pct": 74.5
     },
     {
+      "id": "abc887854766f272123e00975774c398a3135c39",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2015-05-08T14:02:47-07:00",
+      "all": 258,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "248caefb7e2b3df054af40bb4bfec7322f896c7e",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2015-05-08T13:57:50-07:00",
+      "all": 12,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "853d1de6ecf2acb69e86ba4f39ad95a6a97c0ea7",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-05-06T18:28:24-07:00",
       "all": 174,
       "test": 86,
@@ -2621,7 +3116,7 @@
     },
     {
       "id": "84dc6ae76b7a87f3d28f35a0148c060967b251e4",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-05-07T17:18:42-07:00",
       "all": 9,
       "test": 6,
@@ -2630,7 +3125,7 @@
     },
     {
       "id": "05219a54cd496b155ab17a7c59151d2ad375d9b8",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-05-06T18:23:34-07:00",
       "all": 28,
       "test": 0,
@@ -2639,7 +3134,7 @@
     },
     {
       "id": "42f6baeaecaa8eca00dfb1c1dd6e1f2948d553d1",
-      "who": "kevinwestern@gmail.com",
+      "who": "Kevin Western <kevinwestern@gmail.com>",
       "when": "2015-05-03T16:14:32-07:00",
       "all": 5,
       "test": 0,
@@ -2648,7 +3143,7 @@
     },
     {
       "id": "8ef183b5930bc6a26822d688bcfd581c89fd26d2",
-      "who": "jelbourn@google.com",
+      "who": "Jeremy Elbourn <jelbourn@google.com>",
       "when": "2015-05-04T15:57:46-07:00",
       "all": 351,
       "test": 0,
@@ -2657,7 +3152,7 @@
     },
     {
       "id": "2cb066215ae6a3f7c35c6741914de1dbc824c04e",
-      "who": "matanlurey@users.noreply.github.com",
+      "who": "Matan Lurey <matanlurey@users.noreply.github.com>",
       "when": "2015-05-06T19:32:28-07:00",
       "all": 4,
       "test": 4,
@@ -2665,8 +3160,17 @@
       "pct": 100.0
     },
     {
+      "id": "200e190f70789f22cb753081cddb231761461fa5",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2015-05-08T09:35:44-07:00",
+      "all": 64,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "44f829dbc66326d305a5aa535c1060623828e12b",
-      "who": "tjblasi@google.com",
+      "who": "Tim Blasi <tjblasi@google.com>",
       "when": "2015-05-05T10:31:21-07:00",
       "all": 693,
       "test": 0,
@@ -2674,8 +3178,44 @@
       "pct": 0.0
     },
     {
+      "id": "401c9efad7e7809e14eff13051a70e23e762fa4c",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2015-05-07T14:14:34-07:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "900bf8e483ff278c71782fe6aac6b1383640cd35",
+      "who": "Alex Eagle <eagle@post.harvard.edu>",
+      "when": "2015-05-07T16:49:59-07:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "271ced8ac45256682b5a7fb0346dad52b0555d09",
+      "who": "Alex Eagle <eagle@post.harvard.edu>",
+      "when": "2015-05-07T16:47:47-07:00",
+      "all": 32,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c5bd3f0773788a9d83aae2880acf5af851e3fea4",
+      "who": "Alex Eagle <eagle@post.harvard.edu>",
+      "when": "2015-05-07T16:53:58-07:00",
+      "all": 29,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "ad239218140989ca28d26dc58ef4f7737a25e3d6",
-      "who": "jelbourn@google.com",
+      "who": "Jeremy Elbourn <jelbourn@google.com>",
       "when": "2015-05-07T09:10:41-07:00",
       "all": 173,
       "test": 0,
@@ -2684,7 +3224,7 @@
     },
     {
       "id": "31cbec08571f277e78127b65749ae2b4909b7e73",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-07T22:37:35-07:00",
       "all": 46,
       "test": 0,
@@ -2693,7 +3233,7 @@
     },
     {
       "id": "d717529e9a8648a602c98dd5df09f0165866d51d",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-08T08:32:02-07:00",
       "all": 66,
       "test": 18,
@@ -2702,7 +3242,7 @@
     },
     {
       "id": "c68fa274440d4a35f6267cd34ee7f408a890f690",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-05-06T10:49:42-07:00",
       "all": 3479,
       "test": 1891,
@@ -2711,7 +3251,7 @@
     },
     {
       "id": "4ce0d5e02402822f3feff5067770a553b617a42c",
-      "who": "martin@probst.io",
+      "who": "Martin Probst <martin@probst.io>",
       "when": "2015-05-08T15:15:41+02:00",
       "all": 6,
       "test": 3,
@@ -2720,7 +3260,7 @@
     },
     {
       "id": "5d9e573b3e3d8880238f412c1f886085c7d12a49",
-      "who": "matthewjh@users.noreply.github.com",
+      "who": "Matthew Hill <matthewjh@users.noreply.github.com>",
       "when": "2015-05-04T16:50:50+01:00",
       "all": 7,
       "test": 0,
@@ -2729,7 +3269,7 @@
     },
     {
       "id": "51839ca6772ed5e033c71118ce1dc78cc990246d",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2015-05-01T13:41:56+02:00",
       "all": 120,
       "test": 53,
@@ -2737,8 +3277,17 @@
       "pct": 51.0
     },
     {
+      "id": "72254166616e0c5603ea1a60474ce2c162ffd045",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2015-05-07T21:56:50-07:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "5e4fa5cf078db667a7b45dcf2e45b9a9f46b2690",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-07T21:55:21-07:00",
       "all": 714,
       "test": 0,
@@ -2747,7 +3296,7 @@
     },
     {
       "id": "fa28b28d0aec63dd721d2b0821b889c4d73a63db",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-01T14:05:19-07:00",
       "all": 4966,
       "test": 31,
@@ -2755,8 +3304,17 @@
       "pct": 0.6
     },
     {
+      "id": "f0ef72d6cc95802ea62b233323e239f5dbbe8d9a",
+      "who": "Rado Kirov <radokirov@google.com>",
+      "when": "2015-05-07T16:04:06-07:00",
+      "all": 70,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "a58c9f83bd1a5be110a7982bab7023b209634c37",
-      "who": "caitpotter88@gmail.com",
+      "who": "Caitlin Potter <caitpotter88@gmail.com>",
       "when": "2015-05-07T18:15:15-04:00",
       "all": 9,
       "test": 0,
@@ -2764,8 +3322,17 @@
       "pct": 0.0
     },
     {
+      "id": "624a33f7f866acbc2830a787823d785c9edae211",
+      "who": "Rado Kirov <radokirov@google.com>",
+      "when": "2015-05-07T14:32:01-07:00",
+      "all": 4752,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "20a033e4c9474b5c6d382eb57b2affba32f6d543",
-      "who": "jelbourn@google.com",
+      "who": "Jeremy Elbourn <jelbourn@google.com>",
       "when": "2015-05-04T18:34:06-07:00",
       "all": 225,
       "test": 0,
@@ -2773,8 +3340,26 @@
       "pct": 0.0
     },
     {
+      "id": "93c331d10337d31ba38110434f326bf9e7bba3c4",
+      "who": "PatrickJS <github@gdi2290.com>",
+      "when": "2015-05-05T15:16:20-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "51c477925a8b00243feb6def9e74c729e5a8c673",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2015-05-07T14:17:12-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "1daa8aa3a1d09bdc7ae993a3d4cdff122f7c91c4",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2015-05-07T13:25:02-07:00",
       "all": 7710,
       "test": 0,
@@ -2783,7 +3368,7 @@
     },
     {
       "id": "62bf777ef135c13e69774c282ffaa8a014f841d2",
-      "who": "jelbourn@google.com",
+      "who": "Jeremy Elbourn <jelbourn@google.com>",
       "when": "2015-05-07T13:08:30-07:00",
       "all": 5,
       "test": 0,
@@ -2792,7 +3377,7 @@
     },
     {
       "id": "aaf3edd1313b8a7a45b8c6cc0260c7140d000b18",
-      "who": "caitpotter88@gmail.com",
+      "who": "Caitlin Potter <caitpotter88@gmail.com>",
       "when": "2015-05-06T19:24:10-04:00",
       "all": 207,
       "test": 0,
@@ -2801,7 +3386,7 @@
     },
     {
       "id": "6bba289a3c87aae952ac7d3492152c2c427c0fa9",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2015-05-07T13:37:25-07:00",
       "all": 18,
       "test": 0,
@@ -2810,7 +3395,7 @@
     },
     {
       "id": "b0c735f72c72168e253dd2ada963b1fc417ba15b",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2015-05-07T12:30:18-07:00",
       "all": 9,
       "test": 0,
@@ -2818,8 +3403,17 @@
       "pct": 0.0
     },
     {
+      "id": "0e2047f9ca082e912d195338e7bae9753c908206",
+      "who": "Jacob MacDonald <jakemac@google.com>",
+      "when": "2015-05-07T10:36:04-07:00",
+      "all": 94,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "e30ad2ec2c7cf75c3bfc8823a305c967a1a507a4",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-05-07T10:26:23+01:00",
       "all": 9,
       "test": 0,
@@ -2828,7 +3422,7 @@
     },
     {
       "id": "c509057f65e991acbbe40040e3d571d72a330fa1",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-05-07T10:25:41+01:00",
       "all": 3,
       "test": 0,
@@ -2837,7 +3431,7 @@
     },
     {
       "id": "e138add584365c4a9ed1007abd9c79e10e51d2f7",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-05-07T10:25:02+01:00",
       "all": 2,
       "test": 0,
@@ -2846,7 +3440,7 @@
     },
     {
       "id": "49777648b34a5ec17d2e97e5f2ec8debb0b13194",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-06T21:08:55-07:00",
       "all": 5,
       "test": 0,
@@ -2854,8 +3448,26 @@
       "pct": 0.0
     },
     {
+      "id": "649e27661036b26564abdd158a970e9324982812",
+      "who": "Kevin Moore <kevmoo@google.com>",
+      "when": "2015-05-06T18:21:46-07:00",
+      "all": 15,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "5ef11774c22c649d4891073a3cad3ea84994e611",
+      "who": "Kevin Moore <kevmoo@google.com>",
+      "when": "2015-05-05T10:33:34-07:00",
+      "all": 39,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "75db2c52411c801afa138800fe20cec3b731184e",
-      "who": "kevmoo@google.com",
+      "who": "Kevin Moore <kevmoo@google.com>",
       "when": "2015-05-05T12:59:54-07:00",
       "all": 63,
       "test": 18,
@@ -2863,8 +3475,26 @@
       "pct": 60.0
     },
     {
+      "id": "c8ebd11d633d3f85675ee8ca4f102e69a6090013",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2015-05-06T10:00:25-07:00",
+      "all": 336,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "6651aa1e1dd3e7a13a969848ca3e661d2bcb2649",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2015-05-06T13:48:35-07:00",
+      "all": 21,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "3f28d087787998e097d109e2896699ddd57ec654",
-      "who": "thewolfe@gmail.com",
+      "who": "Alex Wolfe <thewolfe@gmail.com>",
       "when": "2015-05-06T15:53:58-07:00",
       "all": 8,
       "test": 0,
@@ -2873,7 +3503,7 @@
     },
     {
       "id": "ab28676d0260772b477b6382cfa4f367b67fee60",
-      "who": "thewolfe@gmail.com",
+      "who": "Alex Wolfe <thewolfe@gmail.com>",
       "when": "2015-05-06T15:36:02-07:00",
       "all": 12,
       "test": 0,
@@ -2882,7 +3512,7 @@
     },
     {
       "id": "577a80371ff415979f3c0a4a482e9b802e4da803",
-      "who": "thewolfe@gmail.com",
+      "who": "Alex Wolfe <thewolfe@gmail.com>",
       "when": "2015-05-06T15:27:25-07:00",
       "all": 5,
       "test": 0,
@@ -2891,7 +3521,7 @@
     },
     {
       "id": "01fdb4afc65e4413edb2481189081c42bc13d7e1",
-      "who": "ju.ralph@gmail.com",
+      "who": "Julie Ralph <ju.ralph@gmail.com>",
       "when": "2015-05-06T10:29:32-07:00",
       "all": 106,
       "test": 0,
@@ -2900,7 +3530,7 @@
     },
     {
       "id": "be7504d4514e135ccf2dc780e6fad72d142083cb",
-      "who": "radokirov@google.com",
+      "who": "Rado Kirov <radokirov@google.com>",
       "when": "2015-05-06T10:06:30-07:00",
       "all": 53,
       "test": 50,
@@ -2908,8 +3538,17 @@
       "pct": 94.3
     },
     {
+      "id": "169e4e862d6f829cb8f8af96a8fd6d709a0595d0",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2015-05-01T17:29:58-07:00",
+      "all": 194,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "abc3de7efe8aaa9cbd62c00c8f1d5e2178854df2",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-05-06T11:22:28-07:00",
       "all": 172,
       "test": 51,
@@ -2917,8 +3556,17 @@
       "pct": 29.7
     },
     {
+      "id": "0b1bb172c9dfdf00dec2e02cb08933a4f9006f18",
+      "who": "keertip <keertip@google.com>",
+      "when": "2015-05-04T09:20:27-07:00",
+      "all": 656,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "0856516ae9ce7b9d3efb7208fa070b61368af745",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-05-06T10:17:38-07:00",
       "all": 170,
       "test": 68,
@@ -2927,7 +3575,7 @@
     },
     {
       "id": "705d3aacff4005483f8ecbff5fc2d484b3e38cf5",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-06T08:45:28-07:00",
       "all": 80,
       "test": 0,
@@ -2936,7 +3584,7 @@
     },
     {
       "id": "1d0078415fdd5c5e634b99dc31f0ac71bc954cb4",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-04T08:27:14-07:00",
       "all": 300,
       "test": 0,
@@ -2945,7 +3593,7 @@
     },
     {
       "id": "9d1df21d915f28316de398c0c7fda0d27a90bbc1",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-05T16:09:09-07:00",
       "all": 18,
       "test": 0,
@@ -2954,7 +3602,7 @@
     },
     {
       "id": "3f36a3c1198ee143d2186fe4d112c4e10199c0f2",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-05T16:13:07-07:00",
       "all": 10,
       "test": 0,
@@ -2963,7 +3611,7 @@
     },
     {
       "id": "8c15ccecd1c78c10f90e9c1f0fe87215eaffb973",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-04T08:19:25-07:00",
       "all": 313,
       "test": 0,
@@ -2972,7 +3620,7 @@
     },
     {
       "id": "e9668697447c05c23d423dd41f14c2635345d272",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-04T08:24:33-07:00",
       "all": 8,
       "test": 0,
@@ -2981,7 +3629,7 @@
     },
     {
       "id": "6b017fb3885063a5c7b76950e6fca92c409a8911",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-04T08:32:58-07:00",
       "all": 24,
       "test": 0,
@@ -2990,7 +3638,7 @@
     },
     {
       "id": "bb6f59e423a80055256eb4a847e6d4a8db243022",
-      "who": "ju.ralph@gmail.com",
+      "who": "Julie Ralph <ju.ralph@gmail.com>",
       "when": "2015-05-04T15:38:08-07:00",
       "all": 100,
       "test": 0,
@@ -2999,7 +3647,7 @@
     },
     {
       "id": "c9cec6000737d89ffacfe3c6678cd65d34d2d8fc",
-      "who": "radokirov@google.com",
+      "who": "Rado Kirov <radokirov@google.com>",
       "when": "2015-05-05T15:19:06-07:00",
       "all": 15,
       "test": 12,
@@ -3008,7 +3656,7 @@
     },
     {
       "id": "f356d033625c25cfa169e0b0943620c2bb5a44d8",
-      "who": "radokirov@google.com",
+      "who": "Rado Kirov <radokirov@google.com>",
       "when": "2015-05-05T14:50:53-07:00",
       "all": 44,
       "test": 0,
@@ -3016,8 +3664,17 @@
       "pct": 0.0
     },
     {
+      "id": "0520ca68b4798c2f4cc1036e57d9b8f8957005a6",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2015-05-01T13:57:44-07:00",
+      "all": 314,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "8e1d53b5e9ac2e3e080efb46c29d6ed28eafca9c",
-      "who": "radokirov@google.com",
+      "who": "Rado Kirov <radokirov@google.com>",
       "when": "2015-05-04T17:57:28-07:00",
       "all": 39,
       "test": 0,
@@ -3026,7 +3683,7 @@
     },
     {
       "id": "f5b56c627baa65bd164824a5cc7534cc6517fdba",
-      "who": "kevmoo@google.com",
+      "who": "Kevin Moore <kevmoo@google.com>",
       "when": "2015-05-04T12:18:06-07:00",
       "all": 81,
       "test": 0,
@@ -3034,8 +3691,26 @@
       "pct": 0.0
     },
     {
+      "id": "740d85cad8638801f92ad99dea6894986ce4f107",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2015-05-04T14:17:01-07:00",
+      "all": 22,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "33bba094d24fd405ac30c2619b863c380fbfb86c",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2015-05-04T15:44:19-07:00",
+      "all": 21,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "75da6e4c4a2d641695e4436a50e1d314dce6bc83",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-05-04T15:39:14-07:00",
       "all": 23,
       "test": 7,
@@ -3044,7 +3719,7 @@
     },
     {
       "id": "457c15cd6c941c996d79feb8256829cded9b2fc4",
-      "who": "radokirov@google.com",
+      "who": "Rado Kirov <radokirov@google.com>",
       "when": "2015-05-04T11:11:22-07:00",
       "all": 245,
       "test": 23,
@@ -3053,7 +3728,7 @@
     },
     {
       "id": "28feac9411c79091bfc344566fbcc6ea9db7b01b",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-05-03T20:36:36-07:00",
       "all": 6,
       "test": 3,
@@ -3062,7 +3737,7 @@
     },
     {
       "id": "9153331303253a8ad71cf4ce581795686c401694",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-05-03T20:25:26-07:00",
       "all": 32,
       "test": 15,
@@ -3071,7 +3746,7 @@
     },
     {
       "id": "9d5c33f9dd66f08e372d1ec051f61f7526562515",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-05-03T20:25:04-07:00",
       "all": 47,
       "test": 37,
@@ -3080,7 +3755,7 @@
     },
     {
       "id": "2713b7877b2ef95e2ad20a1a2611cf9ec73b2593",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-05-03T20:22:41-07:00",
       "all": 3,
       "test": 0,
@@ -3089,7 +3764,7 @@
     },
     {
       "id": "2f0fef8ee1d969cd70c80e6ce401ae6dc7ed6026",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-05-01T16:39:38-07:00",
       "all": 16,
       "test": 0,
@@ -3098,7 +3773,7 @@
     },
     {
       "id": "259f872ceabc7d4754a4ee3a14f2d807db57d4cf",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-05-01T15:50:12-07:00",
       "all": 10,
       "test": 0,
@@ -3107,7 +3782,7 @@
     },
     {
       "id": "68ed8f1b6bb34125f3f25a50d2f1fac7233e6827",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-05-01T15:43:54-07:00",
       "all": 13,
       "test": 10,
@@ -3116,7 +3791,7 @@
     },
     {
       "id": "ef7014fe19e5046b33676acc3d73c874812a6301",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-05-01T05:53:58-07:00",
       "all": 17,
       "test": 0,
@@ -3125,7 +3800,7 @@
     },
     {
       "id": "46ad3552c761b15dadacd2ef20eb691a00c2e58f",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-05-01T05:53:38-07:00",
       "all": 143,
       "test": 86,
@@ -3134,7 +3809,7 @@
     },
     {
       "id": "cf3221307914920b3c594a9041698902eafa94c2",
-      "who": "radokirov@google.com",
+      "who": "Rado Kirov <radokirov@google.com>",
       "when": "2015-05-01T12:03:11-07:00",
       "all": 3,
       "test": 0,

@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "8c7e93bebeb4a25c44f4239fec211d1c061b4aaf",
-      "who": "alfa.project@gmail.com",
+      "who": "Joao Dias <alfa.project@gmail.com>",
       "when": "2016-10-27T20:28:11+02:00",
       "all": 773,
       "test": 5,
@@ -11,7 +11,7 @@
     },
     {
       "id": "e86573bac8a87787e415d1615b09f7e3d30ecb30",
-      "who": "alfa.project@gmail.com",
+      "who": "Joao Dias <alfa.project@gmail.com>",
       "when": "2016-10-27T20:57:10+02:00",
       "all": 73,
       "test": 3,
@@ -20,7 +20,7 @@
     },
     {
       "id": "0a948454351d9e4b657acd644abee28ebc09415f",
-      "who": "alfa.project@gmail.com",
+      "who": "Joao Dias <alfa.project@gmail.com>",
       "when": "2016-10-27T20:48:47+02:00",
       "all": 73,
       "test": 0,
@@ -28,8 +28,17 @@
       "pct": 0.0
     },
     {
+      "id": "262bd23b84273e48b1bb5114d334c2d16ae948c4",
+      "who": "Joao Dias <alfa.project@gmail.com>",
+      "when": "2016-10-27T20:46:50+02:00",
+      "all": 7452,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "a318b5725709fd5d84baffde8bf4bc31c65aad60",
-      "who": "tshafer@google.com",
+      "who": "Thomas Shafer <tshafer@google.com>",
       "when": "2016-10-27T09:29:10-07:00",
       "all": 22,
       "test": 22,
@@ -38,12 +47,39 @@
     },
     {
       "id": "d520fae70e85a5c8c04eb2876396c48c2eb812f6",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2016-10-27T10:40:02-07:00",
       "all": 101,
       "test": 101,
       "testable": 101,
       "pct": 100.0
+    },
+    {
+      "id": "f4be2f907d7005a90faab9f2d3bc1167a171abcb",
+      "who": "Igor Minar <iminar@google.com>",
+      "when": "2016-10-27T20:38:56+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "2ea27a76d391b29a1f456cd207c8164fa6a24b0a",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2016-10-27T20:28:00+02:00",
+      "all": 13,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "ec0acf9a1b15303d8368393dce36ad393cd16de1",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2016-10-27T18:28:07+02:00",
+      "all": 42,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

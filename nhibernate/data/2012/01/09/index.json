@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "52dc57ce998d302afd0dad35c14a6ac559ada807",
-      "who": "oskar.berggren@gmail.com",
+      "who": "Oskar Berggren <oskar.berggren@gmail.com>",
       "when": "2012-01-09T23:36:20+01:00",
       "all": 590,
       "test": 590,
@@ -11,7 +11,7 @@
     },
     {
       "id": "47931df4f46b0b286778d5a892fa1c47951401b2",
-      "who": "oskar.berggren@gmail.com",
+      "who": "Oskar Berggren <oskar.berggren@gmail.com>",
       "when": "2012-01-09T23:32:31+01:00",
       "all": 59,
       "test": 48,
@@ -20,7 +20,7 @@
     },
     {
       "id": "499c77e0141d136dba0b47dc8eabe5923f25ec3c",
-      "who": "hazzik@gmail.com",
+      "who": "hazzik <hazzik@gmail.com>",
       "when": "2012-01-09T14:01:11+06:00",
       "all": 49,
       "test": 0,
@@ -29,7 +29,7 @@
     },
     {
       "id": "35fbc3a13728d1541e45e3160ab70979a60673d3",
-      "who": "oskar.berggren@gmail.com",
+      "who": "Oskar Berggren <oskar.berggren@gmail.com>",
       "when": "2012-01-09T19:36:26+01:00",
       "all": 481,
       "test": 0,
@@ -38,21 +38,30 @@
     },
     {
       "id": "9a3670e4d217bccd282abecba5a66de2c6ed8e19",
-      "who": "oskar.berggren@gmail.com",
+      "who": "Oskar Berggren <oskar.berggren@gmail.com>",
       "when": "2012-01-09T04:44:40-08:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "425c48e2c0ad013dacb642caca985658961e03a4",
+      "who": "hazzik <hazzik@gmail.com>",
+      "when": "2012-01-09T17:25:30+06:00",
       "all": 23,
       "test": 17,
       "testable": 23,
       "pct": 73.9
     },
     {
-      "id": "425c48e2c0ad013dacb642caca985658961e03a4",
-      "who": "hazzik@gmail.com",
-      "when": "2012-01-09T17:25:30+06:00",
-      "all": 23,
-      "test": 17,
-      "testable": 23,
-      "pct": 73.9
+      "id": "091c801dfe07d57c1f34c824f793cd6eef82550e",
+      "who": "Eamon Hetherton <eamonhetherton@gmail.com>",
+      "when": "2012-01-09T08:30:35+10:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "NHibernate (master branch)",

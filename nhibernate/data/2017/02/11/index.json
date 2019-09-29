@@ -2,16 +2,16 @@
   "commits": [
     {
       "id": "99038973c78a9f372f20400665ff25f4f67b31d0",
-      "who": "hazzik@gmail.com",
+      "who": "Alexander Zaytsev <hazzik@gmail.com>",
       "when": "2017-02-11T22:51:35+13:00",
-      "all": 18166,
-      "test": 638,
-      "testable": 638,
-      "pct": 100.0
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "468188f493638bfc4c7ba3f03e59a5177c5f3a14",
-      "who": "hazzik@gmail.com",
+      "who": "Alexander Zaytsev <hazzik@gmail.com>",
       "when": "2017-02-11T22:23:29+13:00",
       "all": 97,
       "test": 72,
@@ -19,13 +19,40 @@
       "pct": 100.0
     },
     {
+      "id": "7ea341740a8981d21c72d94ea9570031ded3564d",
+      "who": "Alexander Zaytsev <hazzik@gmail.com>",
+      "when": "2017-02-11T15:12:20+13:00",
+      "all": 17438,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "57803f692fab0ae289f9dd72a56e0f6cea6d56d8",
+      "who": "Alexander Zaytsev <hazzik@gmail.com>",
+      "when": "2017-02-11T14:10:15+13:00",
+      "all": 17,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "adcd0c95376075a0b4f18f4844e1c596fd36816a",
-      "who": "hazzik@gmail.com",
+      "who": "Alexander Zaytsev <hazzik@gmail.com>",
       "when": "2017-02-11T13:42:52+13:00",
       "all": 10,
       "test": 10,
       "testable": 10,
       "pct": 100.0
+    },
+    {
+      "id": "4452b841ea376cafd991ba15eb9a70fe728b1d02",
+      "who": "Alexander Zaytsev <hazzik@gmail.com>",
+      "when": "2017-02-11T14:41:23+13:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "NHibernate (master branch)",

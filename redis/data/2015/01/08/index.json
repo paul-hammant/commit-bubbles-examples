@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "eb7d67a3ab1e9a41e406f582676526194575f958",
-      "who": "matt@genges.com",
+      "who": "Matt Stancliff <matt@genges.com>",
       "when": "2015-01-08T16:23:48-05:00",
       "all": 5,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "36a3b75355bd5aea9e34889918c5b78fb79586e4",
-      "who": "matt@genges.com",
+      "who": "Matt Stancliff <matt@genges.com>",
       "when": "2015-01-08T15:22:33-05:00",
       "all": 146,
       "test": 0,
@@ -19,8 +19,71 @@
       "pct": 0.0
     },
     {
+      "id": "1019c72930c7d82aac91f4570736de35cc46f29f",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
+      "when": "2015-01-08T19:43:14+01:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "bf58f8b513b95134e6122f97884046afe41de7d4",
+      "who": "Matt Stancliff <matt@genges.com>",
+      "when": "2015-01-08T13:31:03-05:00",
+      "all": 13,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "1c477f62bc34cc6c5ea42f48aac40148cd778441",
+      "who": "Matt Stancliff <matt@genges.com>",
+      "when": "2015-01-08T13:28:35-05:00",
+      "all": 14,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "622c69e93db2b7b03bb3a547f6573654819cc29b",
+      "who": "antirez <antirez@gmail.com>",
+      "when": "2015-01-08T16:35:05+01:00",
+      "all": 23,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "b45e16e7ee07bdef4c2f6287d95a3c82d6c0867e",
+      "who": "antirez <antirez@gmail.com>",
+      "when": "2015-01-08T16:30:04+01:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "161ff775721c87b816b750d91a9a16fe26868007",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
+      "when": "2015-01-08T16:29:29+01:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "42357668e8fb569c30ae37f990309f0593410973",
+      "who": "antirez <antirez@gmail.com>",
+      "when": "2015-01-08T14:41:26+01:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "a7722dc31b3a10c6b6bd0fb388f5cbc424d35f33",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-01-08T12:06:17+01:00",
       "all": 3,
       "test": 0,
@@ -29,7 +92,7 @@
     },
     {
       "id": "4c0e8923a6cb376c7b2a53fa76ae95f74610285c",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-01-08T09:08:55+01:00",
       "all": 6,
       "test": 0,
@@ -38,7 +101,7 @@
     },
     {
       "id": "206cd219b63c2255c0238cb9c602b65f05e98120",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-01-08T08:56:35+01:00",
       "all": 57,
       "test": 0,
@@ -47,12 +110,12 @@
     },
     {
       "id": "05ba119fbb9b0e05b7cca83bee8b01041e8877f2",
-      "who": "antirez@gmail.com",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
       "when": "2015-01-08T09:51:55+01:00",
-      "all": 4535,
-      "test": 216,
-      "testable": 4487,
-      "pct": 4.8
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Redis (unstable branch)",

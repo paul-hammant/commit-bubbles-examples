@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "86b2b2504f336e9ae69dfbc46c6731468781b944",
-      "who": "chuckj@google.com",
+      "who": "Chuck Jazdzewski <chuckj@google.com>",
       "when": "2017-01-25T13:45:06-08:00",
       "all": 268,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "1079b9381cf15b409739488290da517a4d834e47",
-      "who": "chuckj@google.com",
+      "who": "Chuck Jazdzewski <chuckj@google.com>",
       "when": "2017-01-25T13:40:55-08:00",
       "all": 41,
       "test": 32,
@@ -20,7 +20,7 @@
     },
     {
       "id": "5f2b3173d70e4f112893e7a71f2d40a75c61f512",
-      "who": "cedric@ninja-squad.com",
+      "who": "cexbrayat <cedric@ninja-squad.com>",
       "when": "2017-01-25T16:42:30+01:00",
       "all": 18,
       "test": 16,
@@ -29,7 +29,7 @@
     },
     {
       "id": "c87c3bec93b7d5de7251bf182ae76c83e38d8329",
-      "who": "krystalnumber@gmail.com",
+      "who": "evan Liu <krystalnumber@gmail.com>",
       "when": "2017-01-25T17:33:13+08:00",
       "all": 147,
       "test": 45,
@@ -38,7 +38,7 @@
     },
     {
       "id": "2ffa1a71aad5b7261e9bf210b1712f3007fdc2fd",
-      "who": "DmitryShilovich@gmail.com",
+      "who": "Dzmitry Shylovich <DmitryShilovich@gmail.com>",
       "when": "2017-01-25T10:52:41+03:00",
       "all": 5,
       "test": 0,
@@ -47,7 +47,7 @@
     },
     {
       "id": "4165fddfc421c491ffc93f7ec11053a6a2a7c7e8",
-      "who": "kalpakas.g@gmail.com",
+      "who": "Georgios Kalpakas <kalpakas.g@gmail.com>",
       "when": "2017-01-25T19:39:01+02:00",
       "all": 967,
       "test": 0,
@@ -56,7 +56,7 @@
     },
     {
       "id": "c37af2af5adadc9469522103d32514de35fdfab1",
-      "who": "jasonaden@google.com",
+      "who": "Jason Aden <jasonaden@google.com>",
       "when": "2017-01-25T17:21:54-08:00",
       "all": 1263,
       "test": 715,
@@ -65,7 +65,7 @@
     },
     {
       "id": "d339d8b81d8b7480b288410eccdab0e7b61d8783",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2017-01-25T22:32:32-08:00",
       "all": 116,
       "test": 0,
@@ -74,7 +74,7 @@
     },
     {
       "id": "827c3fe199310b548dc860868b0777d888d8234b",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2017-01-25T23:26:49-08:00",
       "all": 258,
       "test": 62,
@@ -83,7 +83,7 @@
     },
     {
       "id": "f802194c18a4986aa034fa167b8811f24f050010",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2017-01-25T13:45:07-08:00",
       "all": 1239,
       "test": 307,
@@ -92,7 +92,7 @@
     },
     {
       "id": "670b680b0a510267142c38fe1f487a180da74eba",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2017-01-25T22:36:38-08:00",
       "all": 36,
       "test": 0,
@@ -101,7 +101,7 @@
     },
     {
       "id": "f7fba74c586cb0b9d7960bd42db080a4cd959fd1",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2017-01-25T15:55:17-08:00",
       "all": 51,
       "test": 22,
@@ -109,8 +109,26 @@
       "pct": 43.1
     },
     {
+      "id": "b141a227fb5f0c26d1fd94e6389b6d0665be4a63",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
+      "when": "2017-01-25T22:27:05+00:00",
+      "all": 24,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d1d0ce7613c5be0b8f6a127ffcfd630c25e00b94",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
+      "when": "2017-01-25T22:15:51+00:00",
+      "all": 8155,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "05b2b49711f2d1624be362c42b60fff20c238f7d",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2017-01-25T17:43:19-08:00",
       "all": 61,
       "test": 55,
@@ -119,7 +137,7 @@
     },
     {
       "id": "3ef73c2b1945340ca6bd21f1790260c88698ae26",
-      "who": "jasonaden@users.noreply.github.com",
+      "who": "Jason Aden <jasonaden@users.noreply.github.com>",
       "when": "2017-01-25T17:41:08-08:00",
       "all": 234,
       "test": 114,
@@ -127,8 +145,26 @@
       "pct": 48.7
     },
     {
+      "id": "4106d181724567decde3a0a5288d09db34378f35",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2017-01-25T03:04:30-08:00",
+      "all": 1798,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "1ce7fd78273250bdb4d8c4b2551231504ab85997",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2017-01-25T02:43:20-08:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "c4ecaeda64d030a4e1bd9adc1fad653764a1cee6",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2017-01-25T09:38:52-08:00",
       "all": 17,
       "test": 0,
@@ -136,8 +172,44 @@
       "pct": 0.0
     },
     {
+      "id": "b28f01bb7f75b51091efdace70e9ea1ec7f5b680",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2017-01-25T02:42:42-08:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c4e7c083e2a5dca2467e4b2ccaabd5df4f531fa4",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
+      "when": "2017-01-25T15:49:23-08:00",
+      "all": 65,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "28bdc5af47fa30a65879399d4cbee942bfd864b7",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
+      "when": "2017-01-25T15:38:19-08:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "b88714bcdfde0cf7c5802f370d84d4c7181fc0e4",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
+      "when": "2017-01-25T13:40:10-08:00",
+      "all": 14,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "d2859cdd71b32b5036788ba3a1eb4b95ddbbf986",
-      "who": "alx+alxhub@alxandria.net",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
       "when": "2017-01-25T13:17:18-08:00",
       "all": 7,
       "test": 0,
@@ -146,7 +218,7 @@
     },
     {
       "id": "4931a615bf9c868f7260171113342735542e6977",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2017-01-25T11:46:15-08:00",
       "all": 24,
       "test": 0,
@@ -155,7 +227,7 @@
     },
     {
       "id": "a733444d0e854057d1b1c3de853b14cb401370aa",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2017-01-25T10:27:18-08:00",
       "all": 2,
       "test": 0,

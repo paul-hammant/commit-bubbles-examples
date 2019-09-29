@@ -1,8 +1,26 @@
 {
   "commits": [
     {
+      "id": "87a4a30a953992eb8b6e09eabeff6934c195d9c3",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2017-09-08T22:09:26+02:00",
+      "all": 17,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "dfd2d8e456ff9d8d51e41dd44b0e3fa3cf476547",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2017-09-08T21:42:51+02:00",
+      "all": 30,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "3c37e59640deaf1f8d9761c655c80193f8d9226a",
-      "who": "team@junit.org",
+      "who": "JUnit Team <team@junit.org>",
       "when": "2017-09-08T21:18:43+02:00",
       "all": 3270,
       "test": 1585,
@@ -11,7 +29,7 @@
     },
     {
       "id": "2220f7ee708a2e63ff1caac26f425487281556ca",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-09-08T21:15:53+02:00",
       "all": 1110,
       "test": 0,
@@ -20,7 +38,7 @@
     },
     {
       "id": "a1a607b96780e717124fb9b230772937888a28af",
-      "who": "team@junit.org",
+      "who": "JUnit Team <team@junit.org>",
       "when": "2017-09-08T17:23:08+02:00",
       "all": 682,
       "test": 0,
@@ -28,8 +46,17 @@
       "pct": 0.0
     },
     {
+      "id": "475e7fa6ce3397487abca038d0e1688fa37e8de1",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2017-09-08T16:28:33+02:00",
+      "all": 25,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "8d2704ab9c1bec65350214ca600b0364e5d847f1",
-      "who": "team@junit.org",
+      "who": "JUnit Team <team@junit.org>",
       "when": "2017-09-08T16:23:53+02:00",
       "all": 1170,
       "test": 44,
@@ -38,7 +65,7 @@
     },
     {
       "id": "5abe3d910ab3c401576f1980ddd27597c6e02562",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-09-08T16:20:03+02:00",
       "all": 58,
       "test": 0,
@@ -46,8 +73,17 @@
       "pct": 0.0
     },
     {
+      "id": "b8f2e6402aae1df98dd7ca7c11d619a2c932ee13",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2017-09-08T15:51:39+02:00",
+      "all": 4,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "c17571d63c47ae85eba0620b86e084bb9d305601",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-09-08T15:48:30+02:00",
       "all": 18,
       "test": 10,
@@ -56,7 +92,7 @@
     },
     {
       "id": "88e747b2d7bf595bc011b0d3ca2bf5f25f3314f2",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-09-08T15:45:35+02:00",
       "all": 96,
       "test": 0,
@@ -65,12 +101,21 @@
     },
     {
       "id": "f9b85f5ce62a69f6828bf73c62a0673e8b6154c5",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-09-08T15:31:13+02:00",
       "all": 6,
       "test": 3,
       "testable": 6,
       "pct": 50.0
+    },
+    {
+      "id": "85ca7fc5802f2a2b1dade468e36eaf321a4e4d67",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2017-09-08T13:09:58+02:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

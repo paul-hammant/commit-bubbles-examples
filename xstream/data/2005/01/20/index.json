@@ -2,12 +2,21 @@
   "commits": [
     {
       "id": "2a772e6428c97688a550114ff4b3b8aa459916d8",
-      "who": "joe@truemesh.com",
+      "who": "Joe Walnes <joe@truemesh.com>",
       "when": "2005-01-20T19:28:00+00:00",
       "all": 182,
       "test": 161,
       "testable": 182,
       "pct": 88.5
+    },
+    {
+      "id": "9e0314887f39f8b6e04547fbdc1fb9bf5c2d6e2b",
+      "who": "Joe Walnes <joe@truemesh.com>",
+      "when": "2005-01-20T06:33:42+00:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "XStream (master branch)",

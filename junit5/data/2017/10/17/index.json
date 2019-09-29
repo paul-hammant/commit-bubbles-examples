@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "fc052d50f0c7838ee8359986589b9a2c043ac8dc",
-      "who": "sormuras@gmail.com",
+      "who": "Christian Stein <sormuras@gmail.com>",
       "when": "2017-10-17T23:26:25+02:00",
       "all": 18,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "47e87157b85c8ee90e58fe54fbeb9a092f4e0790",
-      "who": "sormuras@gmail.com",
+      "who": "Christian Stein <sormuras@gmail.com>",
       "when": "2017-10-17T23:11:25+02:00",
       "all": 8,
       "test": 5,
@@ -20,7 +20,7 @@
     },
     {
       "id": "115d9edbfd2abec0ea43c296376ff347e64b071d",
-      "who": "sormuras@gmail.com",
+      "who": "Christian Stein <sormuras@gmail.com>",
       "when": "2017-10-17T16:23:25+02:00",
       "all": 201,
       "test": 65,
@@ -29,12 +29,21 @@
     },
     {
       "id": "5f0605b91f767a7c84f2157893647268df27308a",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-10-17T20:04:49+02:00",
       "all": 103,
       "test": 11,
       "testable": 103,
       "pct": 10.7
+    },
+    {
+      "id": "415f86a3c95458c3e68009aa086e62c657c981e0",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2017-10-17T14:33:35+02:00",
+      "all": 4,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

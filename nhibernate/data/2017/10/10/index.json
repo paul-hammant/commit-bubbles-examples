@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "877136c0f4d3a7c976099fdf77b4089a03264c67",
-      "who": "nathan@nkbrown.us",
+      "who": "Nathan Brown <nathan@nkbrown.us>",
       "when": "2017-10-10T13:21:43-07:00",
       "all": 5,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "fd3e997574a11df4503707d17e45acab810b00f8",
-      "who": "nathan@nkbrown.us",
+      "who": "Nathan Brown <nathan@nkbrown.us>",
       "when": "2017-10-10T20:21:01-07:00",
       "all": 106,
       "test": 11,
@@ -19,8 +19,17 @@
       "pct": 10.4
     },
     {
+      "id": "4713cce668d9132a1c7765aedc4d130c82c49bd1",
+      "who": "Fr\u00c3\u00a9d\u00c3\u00a9ric Delaporte <fredericdelaporte@free.fr>",
+      "when": "2017-10-10T19:13:02+02:00",
+      "all": 11,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "c2c93d979611463b5a3fb12c4d27bb78d86de9d4",
-      "who": "fredericDelaporte@users.noreply.github.com",
+      "who": "Fr\u00c3\u00a9d\u00c3\u00a9ric Delaporte <fredericDelaporte@users.noreply.github.com>",
       "when": "2017-10-10T11:09:46+02:00",
       "all": 399,
       "test": 0,
@@ -29,12 +38,12 @@
     },
     {
       "id": "a33d88efa252e22ad364c9ae5020f671241d7992",
-      "who": "hazzik@gmail.com",
+      "who": "Alexander Zaytsev <hazzik@gmail.com>",
       "when": "2017-10-10T21:45:12+13:00",
-      "all": 44,
-      "test": 28,
-      "testable": 44,
-      "pct": 63.6
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "NHibernate (master branch)",

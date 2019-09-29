@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "1b796cec4d1c9f7a40ad56bc102f9773044c8875",
-      "who": "karlchu@users.sourceforge.net",
+      "who": "Karl Chu <karlchu@users.sourceforge.net>",
       "when": "2008-03-04T17:50:47+00:00",
       "all": 175,
       "test": 146,
@@ -11,7 +11,7 @@
     },
     {
       "id": "d6ce472aa652e16b7e6b4909fc6a918fc71401c3",
-      "who": "karlchu@users.sourceforge.net",
+      "who": "Karl Chu <karlchu@users.sourceforge.net>",
       "when": "2008-03-04T17:10:49+00:00",
       "all": 37,
       "test": 29,
@@ -20,7 +20,7 @@
     },
     {
       "id": "ceacb446108d82257166466d5e9dc81a14cd8379",
-      "who": "fabiomaulo@gmail.com",
+      "who": "Fabio Maulo <fabiomaulo@gmail.com>",
       "when": "2008-03-04T03:34:40+00:00",
       "all": 151,
       "test": 66,
@@ -29,12 +29,21 @@
     },
     {
       "id": "a921bab2508b53fd2a41305713693713749dcbe9",
-      "who": "fabiomaulo@gmail.com",
+      "who": "Fabio Maulo <fabiomaulo@gmail.com>",
       "when": "2008-03-04T01:52:43+00:00",
       "all": 1779,
       "test": 11,
       "testable": 1772,
       "pct": 0.6
+    },
+    {
+      "id": "95f2ea65c4d666973ba0058451f02edaeb8df2bc",
+      "who": "Karl Chu <karlchu@users.sourceforge.net>",
+      "when": "2008-03-04T01:32:38+00:00",
+      "all": 45,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "NHibernate (master branch)",

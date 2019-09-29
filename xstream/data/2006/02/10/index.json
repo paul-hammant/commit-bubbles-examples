@@ -2,12 +2,30 @@
   "commits": [
     {
       "id": "6f0dacfbef19381de0298f6b7967ba6ef663abde",
-      "who": "joerg.schaible@gmx.de",
+      "who": "J\u00c3\u00b6rg Schaible <joerg.schaible@gmx.de>",
       "when": "2006-02-10T20:35:09+00:00",
       "all": 3,
       "test": 3,
       "testable": 3,
       "pct": 100.0
+    },
+    {
+      "id": "2e2053c5bb37088b423170e8e13263ee23c91a23",
+      "who": "Mauro Talevi <mauro.talevi@aquilonia.org>",
+      "when": "2006-02-10T18:13:42+00:00",
+      "all": 378,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "e6dcf55299c1da07f390cbe0b8535939cd81ec00",
+      "who": "Mauro Talevi <mauro.talevi@aquilonia.org>",
+      "when": "2006-02-10T16:51:38+00:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "XStream (master branch)",

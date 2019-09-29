@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "cc87f655c2fe666d0f4e3322f37c570449ded9ff",
-      "who": "coreyjv@gmail.com",
+      "who": "Corey Vaillancourt <coreyjv@gmail.com>",
       "when": "2012-11-14T16:52:18-05:00",
       "all": 3,
       "test": 0,
@@ -10,13 +10,31 @@
       "pct": 0.0
     },
     {
+      "id": "6bb5f09fcc165853a505ffa451c56a5e9aca56fa",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2012-11-14T22:08:25+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "6d6d7a587cf2bbdf4542a4b6cedd7170e26a525f",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2012-11-14T22:08:00+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "ba7e1ce168f884e2cf32817edb5a4f07b1e3bdca",
-      "who": "saff+aa@google.com",
+      "who": "David Saff <saff+aa@google.com>",
       "when": "2012-11-14T12:56:36-08:00",
-      "all": 50,
-      "test": 16,
-      "testable": 46,
-      "pct": 34.8
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 4 (master branch)",

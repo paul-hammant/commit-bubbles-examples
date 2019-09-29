@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "16c8167886d63f5b4cf03d420478b64640e45654",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2017-04-26T10:44:28-07:00",
       "all": 9970,
       "test": 4332,
@@ -11,7 +11,7 @@
     },
     {
       "id": "547c3634733d8fb49ff88730cc3d6f13a2ac9fb8",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2017-04-26T09:24:42-07:00",
       "all": 1412,
       "test": 876,
@@ -19,8 +19,17 @@
       "pct": 62.1
     },
     {
+      "id": "00dce1698a0f301509f25bd17482cfa21bd281c4",
+      "who": "Souvik Basu <souvikbasu@gmail.com>",
+      "when": "2017-04-26T18:14:20+05:30",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "c946a929b7d58e7694787a2dab3cf79a4fd9ab46",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2017-04-26T09:24:42-07:00",
       "all": 661,
       "test": 661,
@@ -29,7 +38,7 @@
     },
     {
       "id": "6d9da73090aa465b3591296614dab586fa17a34d",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2017-04-26T17:58:57+01:00",
       "all": 17,
       "test": 0,
@@ -38,7 +47,7 @@
     },
     {
       "id": "c889fb1ef57a0b366d5f1313a87db0ab37345066",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2017-04-26T19:02:28+01:00",
       "all": 8,
       "test": 0,
@@ -46,12 +55,93 @@
       "pct": 0.0
     },
     {
+      "id": "de36a9b718b7f250eec37d9821e3f6d2b1c3df1f",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
+      "when": "2017-04-26T22:33:35+01:00",
+      "all": 70,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "883a3250e415738af5934c31749c56f58b965ef8",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
+      "when": "2017-04-26T21:51:21+01:00",
+      "all": 19,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "cd5b1f306a930745ac76eaec56cffb0191db44c4",
+      "who": "Georgios Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2017-04-26T15:26:56+03:00",
+      "all": 12,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "96648ba98a36b9898143d6dd92af156e48f6adf9",
+      "who": "Georgios Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2017-04-26T15:12:22+03:00",
+      "all": 38,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "6561d463492da7d1f690e2fde5d48669d82d702c",
-      "who": "kalpakas.g@gmail.com",
+      "who": "Georgios Kalpakas <kalpakas.g@gmail.com>",
       "when": "2017-04-26T15:11:02+03:00",
       "all": 1561,
       "test": 0,
       "testable": 6,
+      "pct": 0.0
+    },
+    {
+      "id": "6bac4e65ce63b3d6f2c4deeea5345b6600e279ba",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
+      "when": "2017-04-26T22:53:33+01:00",
+      "all": 10,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "a28f5eeed3bba62a481753345dc7f0faf7b7af3e",
+      "who": "Mi\u00c5\u00a1ko Hevery <misko@hevery.com>",
+      "when": "2017-04-26T12:11:45-07:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c0c50133e324915676255f2d0267401fec0d085a",
+      "who": "Mi\u00c5\u00a1ko Hevery <misko@hevery.com>",
+      "when": "2017-04-26T12:11:03-07:00",
+      "all": 27,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "b9723f9765c15dfb3f7fc797bb5cdf4a7a9e2c9a",
+      "who": "Mi\u00c5\u00a1ko Hevery <misko@hevery.com>",
+      "when": "2017-04-26T10:52:42-05:00",
+      "all": 36,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "cb35c26d70315547d54d3d0fbaa10cdbc11b141b",
+      "who": "Mi\u00c5\u00a1ko Hevery <misko@hevery.com>",
+      "when": "2017-04-26T10:49:19-05:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     }
   ],

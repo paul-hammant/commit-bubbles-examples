@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "406d926848b71078634ccde7ab34ba050b0feb03",
-      "who": "sbrannen@pivotal.io",
+      "who": "Sam Brannen <sbrannen@pivotal.io>",
       "when": "2019-09-07T18:03:42+02:00",
       "all": 3,
       "test": 3,
@@ -11,7 +11,7 @@
     },
     {
       "id": "cc139509a37801768fe57939456f723b918a202d",
-      "who": "sbrannen@pivotal.io",
+      "who": "Sam Brannen <sbrannen@pivotal.io>",
       "when": "2019-09-07T18:02:18+02:00",
       "all": 3,
       "test": 3,
@@ -19,8 +19,17 @@
       "pct": 100.0
     },
     {
+      "id": "a96290936470b72f3cdee14d18e49e12936d83e6",
+      "who": "Sam Brannen <sbrannen@pivotal.io>",
+      "when": "2019-09-07T17:30:51+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "835d8001f2a4170e80587c3557b7e8d5cc7d27ae",
-      "who": "sbrannen@pivotal.io",
+      "who": "Sam Brannen <sbrannen@pivotal.io>",
       "when": "2019-09-07T15:50:48+02:00",
       "all": 104,
       "test": 81,
@@ -28,13 +37,49 @@
       "pct": 83.5
     },
     {
+      "id": "e9baa524d9a44de298baa3c4bc375444aca43a10",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2019-09-07T08:38:08+02:00",
+      "all": 11,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "83bf31002d88040090d5e986c99f987456f99411",
+      "who": "Sam Brannen <sbrannen@pivotal.io>",
+      "when": "2019-09-07T17:08:01+02:00",
+      "all": 34,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "5ba90b2e53ef3e3aab89e242797efad4e04059df",
-      "who": "sbrannen@pivotal.io",
+      "who": "Sam Brannen <sbrannen@pivotal.io>",
       "when": "2019-09-07T15:50:48+02:00",
       "all": 104,
       "test": 81,
       "testable": 97,
       "pct": 83.5
+    },
+    {
+      "id": "3f491f3148d2c745808fc75b0a802b60243e104e",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2019-09-07T14:44:44+02:00",
+      "all": 18,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "bf46ff1074c31265d1f636ad2e9f23bffe3164ef",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2019-09-07T08:38:08+02:00",
+      "all": 11,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

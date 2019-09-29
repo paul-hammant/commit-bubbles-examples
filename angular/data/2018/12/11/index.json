@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "63013f1aebfc2bc468fd2ef3f4b4f6d0fa04f8bb",
-      "who": "pete@bacondarwin.com",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
       "when": "2018-12-11T13:55:45+00:00",
       "all": 190,
       "test": 50,
@@ -11,7 +11,7 @@
     },
     {
       "id": "4b70a4e905b7a38b64f235412150cafd30d9559e",
-      "who": "pete@bacondarwin.com",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
       "when": "2018-12-11T12:14:21+00:00",
       "all": 76,
       "test": 34,
@@ -20,7 +20,7 @@
     },
     {
       "id": "e94975d109a8b91d8b91e35fc54508a1cb17eb4f",
-      "who": "misko@hevery.com",
+      "who": "Mi\u00c5\u00a1ko Hevery <misko@hevery.com>",
       "when": "2018-12-11T10:43:02-08:00",
       "all": 1042,
       "test": 665,
@@ -29,7 +29,7 @@
     },
     {
       "id": "5d34657198900fde38bd9dbeeffed0536548e6dd",
-      "who": "crisbeto@abv.bg",
+      "who": "Kristiyan Kostadinov <crisbeto@abv.bg>",
       "when": "2018-12-11T20:48:19+01:00",
       "all": 25,
       "test": 15,
@@ -37,8 +37,26 @@
       "pct": 60.0
     },
     {
+      "id": "d32939d51a03a120b6f9da177c80d9e1fd14757a",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2018-12-11T16:53:42-08:00",
+      "all": 100,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "8313ffc38deae8706255056f4f51992f3325a4c8",
+      "who": "Keen Yee Liau <kyliau@umich.edu>",
+      "when": "2018-12-11T16:44:17-08:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "ffe1b4d819a2832c1732d535f00b27282e820ea7",
-      "who": "igor@angular.io",
+      "who": "Igor Minar <igor@angular.io>",
       "when": "2018-12-11T22:49:14-08:00",
       "all": 36,
       "test": 0,
@@ -46,8 +64,17 @@
       "pct": 0.0
     },
     {
+      "id": "2380b975c6bbca6a0a22dce83b175e8c2931f518",
+      "who": "Greg Magolan <gmagolan@gmail.com>",
+      "when": "2018-12-11T17:02:09-08:00",
+      "all": 33,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "042463fffb35a52ad340089278a3b628920ef5c9",
-      "who": "gmagolan@gmail.com",
+      "who": "Greg Magolan <gmagolan@gmail.com>",
       "when": "2018-12-11T16:52:03-08:00",
       "all": 7,
       "test": 0,
@@ -55,8 +82,44 @@
       "pct": 0.0
     },
     {
+      "id": "cabf1c71059140a2f7855790a9e8ea79b6745f3a",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-12-11T15:41:28-08:00",
+      "all": 56,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "93820b493c41d8907fb660d837419ac5a4fd16e5",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-12-11T07:08:23-08:00",
+      "all": 14,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "b69ec48d7759fda9a06c8da96c15f7293d711160",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
+      "when": "2018-12-11T13:49:49-08:00",
+      "all": 17,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "098a7871610e24a6afbe2e24500bdfb29fd84034",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
+      "when": "2018-12-11T13:46:36-08:00",
+      "all": 11,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "053b43d3085d6caff19dc2361dd9994d64a23392",
-      "who": "karakara@google.com",
+      "who": "Kara Erickson <karakara@google.com>",
       "when": "2018-12-11T11:58:34-08:00",
       "all": 5,
       "test": 5,
@@ -65,7 +128,7 @@
     },
     {
       "id": "69806316316c634a12a1c4cc1199baff39d41f8a",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2018-12-11T16:53:59+01:00",
       "all": 354,
       "test": 354,
@@ -74,7 +137,7 @@
     },
     {
       "id": "3290fc3365819bb5069332ae280a2cc5b2a71a67",
-      "who": "pete@bacondarwin.com",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
       "when": "2018-12-11T14:24:23+00:00",
       "all": 12,
       "test": 0,

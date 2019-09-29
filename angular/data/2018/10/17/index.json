@@ -1,8 +1,17 @@
 {
   "commits": [
     {
+      "id": "8ed13a37f09559a643ac909a794b40eb62f87cef",
+      "who": "Brandon Roberts <robertsbt@gmail.com>",
+      "when": "2018-10-17T22:46:06-05:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "4e9f2e58957b65d08ff97bbc6374673597c65fa5",
-      "who": "jasonaden@google.com",
+      "who": "Jason Aden <jasonaden@google.com>",
       "when": "2018-10-17T09:30:45-07:00",
       "all": 147,
       "test": 70,
@@ -11,7 +20,7 @@
     },
     {
       "id": "ede65dbede75b89ef759df780fadb6c2769d1133",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2018-10-17T11:01:35+02:00",
       "all": 199,
       "test": 86,
@@ -19,8 +28,53 @@
       "pct": 56.6
     },
     {
+      "id": "3b24e0edb66be511acf147b4e0a60cc13376ebc9",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2018-10-17T19:19:15+03:00",
+      "all": 227,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "74ea4e9b5dbe4180d3947918ab7ae84ccc35f591",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2018-10-17T13:48:17-07:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "4481571999cacc8bca8ed348ec6fffdaf961dae2",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2018-10-17T11:33:34-07:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "2132c8f461f6c2aeaa8e9315f7e144268f2ee509",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2018-10-17T11:25:22-07:00",
+      "all": 29,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "2b3cac5b31fd14c29a2cdf2b9ce620befd8e9cd7",
+      "who": "Greg Magolan <gmagolan@gmail.com>",
+      "when": "2018-10-17T10:24:27-07:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "5b4cf381664ad4b051367bbbbceca29cb5f29e75",
-      "who": "eagle@post.harvard.edu",
+      "who": "Alex Eagle <eagle@post.harvard.edu>",
       "when": "2018-10-17T08:37:14-07:00",
       "all": 8,
       "test": 0,
@@ -29,7 +83,7 @@
     },
     {
       "id": "4c0ad5238edf4c58c2a3f06a9a17b754dd7c09d2",
-      "who": "pete@bacondarwin.com",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
       "when": "2018-10-17T15:45:47+01:00",
       "all": 115,
       "test": 0,
@@ -37,8 +91,26 @@
       "pct": 0.0
     },
     {
+      "id": "9e8903ada1ff8bf74460ed2444f6215bc6dda56b",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
+      "when": "2018-10-17T13:49:28+01:00",
+      "all": 12,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "03bf0d6b4166110c700de1a5ec32b3df50976a67",
+      "who": "Olivier Combe <olivier.combe@gmail.com>",
+      "when": "2018-10-17T10:26:25+02:00",
+      "all": 13,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "d4cee514f60fbf99d863ee8e7a4b8410bda151c6",
-      "who": "alx+alxhub@alxandria.net",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
       "when": "2018-10-17T15:44:44-07:00",
       "all": 988,
       "test": 83,
@@ -47,7 +119,7 @@
     },
     {
       "id": "0add00a74340c239c941cc9d1a6167453d9d5e90",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2018-10-17T17:35:20+03:00",
       "all": 109,
       "test": 0,
@@ -55,13 +127,103 @@
       "pct": 0.0
     },
     {
+      "id": "665627e254396b052cd4a726729c47dbc3061086",
+      "who": "Siddharth Ajmera <siddharthajmeracs@hotmail.com>",
+      "when": "2018-10-17T16:02:47+05:30",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "a609bf50ed305d6a9b3a31d906f286f3530afdf5",
+      "who": "Rob Phoenix <rob@robphoenix.com>",
+      "when": "2018-10-17T15:17:03+01:00",
+      "all": 31,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "f8195e5e3def0b3c088ca87de933704ce2d45c20",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2018-10-17T13:46:05+02:00",
       "all": 25,
       "test": 25,
       "testable": 25,
       "pct": 100.0
+    },
+    {
+      "id": "65b209359ac65bf6c1bb7b5812b7f150246a7d55",
+      "who": "Alan Agius <alan.agius4@gmail.com>",
+      "when": "2018-10-17T16:57:07+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "3a65c9ad4e38c2c36c8e4121d52dd5c4b232714e",
+      "who": "Rob Phoenix <rob@robphoenix.com>",
+      "when": "2018-10-17T14:48:01+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "77e58c6179561ea5ab41d5fd1ce036fd18f3ee50",
+      "who": "Alan <alan.agius4@gmail.com>",
+      "when": "2018-10-17T15:40:24+02:00",
+      "all": 14,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "23d625172aa0e98dced194f28b3b815ac5f1de87",
+      "who": "Alan <alan.agius4@gmail.com>",
+      "when": "2018-10-17T15:39:53+02:00",
+      "all": 45,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c3643615fcef0ce978af062e6b06cc9f2978221a",
+      "who": "Alan <alan.agius4@gmail.com>",
+      "when": "2018-10-17T14:58:11+02:00",
+      "all": 28,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "638aaecc7da54767680ee1660ac45f686c9815fe",
+      "who": "Alan <alan.agius4@gmail.com>",
+      "when": "2018-10-17T14:57:37+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "5a79decba427e196096df713431fa9ba7bae8f52",
+      "who": "Alan Agius <alan.agius4@gmail.com>",
+      "when": "2018-10-17T18:59:36+02:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "516515d9e3604bf1ec65f8efdc60bfb57acdde8f",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
+      "when": "2018-10-17T12:24:16+01:00",
+      "all": 226,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

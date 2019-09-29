@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "c5ab3e8fd284e5a769b94037f2e2fbe377707afe",
-      "who": "akushnir@google.com",
+      "who": "Andrew Kushnir <akushnir@google.com>",
       "when": "2019-01-07T16:35:06-08:00",
       "all": 142,
       "test": 90,
@@ -10,8 +10,26 @@
       "pct": 63.4
     },
     {
+      "id": "b541c4868812be611db825d6b457fcb148f3ce5c",
+      "who": "Kara Erickson <karakara@google.com>",
+      "when": "2019-01-07T19:44:22-08:00",
+      "all": 101,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "cc5fb914bcbe9b66326fb5c9d7a6d93fe54f0574",
+      "who": "Alex Eagle <alexeagle@angular.io>",
+      "when": "2019-01-07T17:46:56-08:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "f5471107d94a5a2ec9d024e076cc4f1a4882013f",
-      "who": "akushnir@google.com",
+      "who": "Andrew Kushnir <akushnir@google.com>",
       "when": "2019-01-07T17:26:23-08:00",
       "all": 60,
       "test": 60,
@@ -19,8 +37,26 @@
       "pct": 100.0
     },
     {
+      "id": "7db05c408c1f71524e7567b001fe6a54b443b636",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2019-01-07T15:37:53-08:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "483f8250bf35c6cbc9a0abeac66ab4d7636dde02",
+      "who": "Paul Gschwendtner <paulgschwendtner@gmail.com>",
+      "when": "2019-01-07T19:29:25+01:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "e7753131880479f8c084c4233040b1af97e1e5fd",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2019-01-07T17:07:39+01:00",
       "all": 187,
       "test": 167,
@@ -29,7 +65,7 @@
     },
     {
       "id": "996435b79a1e43bd79aaab9ada014366e6b03ddd",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2019-01-07T10:38:55+01:00",
       "all": 32,
       "test": 0,
@@ -38,12 +74,30 @@
     },
     {
       "id": "45880532bffb5012a9b5da6da95e18688f4da10b",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2019-01-07T17:29:24+01:00",
       "all": 171,
       "test": 171,
       "testable": 171,
       "pct": 100.0
+    },
+    {
+      "id": "e94e7eef4c20472bfa4bd76dbab69cc51c216f9e",
+      "who": "Enmanuel <8032887+Enlcxx@users.noreply.github.com>",
+      "when": "2019-01-07T03:11:33-05:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "0efbb3738127eb73369679353073eaec952f3dc0",
+      "who": "Kara Erickson <karakara@google.com>",
+      "when": "2019-01-07T07:37:59-08:00",
+      "all": 16,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

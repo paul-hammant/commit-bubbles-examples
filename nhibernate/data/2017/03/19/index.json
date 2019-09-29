@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "fb7dd792d3665207d5cc42661ff7e152c4bb1dcc",
-      "who": "fredericdelaporte@free.fr",
+      "who": "Fr\u00c3\u00a9d\u00c3\u00a9ric Delaporte <fredericdelaporte@free.fr>",
       "when": "2017-03-19T23:56:08+01:00",
       "all": 120,
       "test": 71,
@@ -11,7 +11,7 @@
     },
     {
       "id": "e20eff15d9440c3deef4c69c9c1e23287feddad6",
-      "who": "fredericdelaporte@free.fr",
+      "who": "Fr\u00c3\u00a9d\u00c3\u00a9ric Delaporte <fredericdelaporte@free.fr>",
       "when": "2017-03-19T02:35:39+01:00",
       "all": 55,
       "test": 19,
@@ -20,7 +20,7 @@
     },
     {
       "id": "a412e39dcb7adba86bc06b52e68dda90f667b786",
-      "who": "fredericdelaporte@free.fr",
+      "who": "Fr\u00c3\u00a9d\u00c3\u00a9ric Delaporte <fredericdelaporte@free.fr>",
       "when": "2017-03-19T02:35:09+01:00",
       "all": 80,
       "test": 0,
@@ -29,7 +29,7 @@
     },
     {
       "id": "078f5f36206c9b90867eb2b571ed9cb90f86cf99",
-      "who": "fredericdelaporte@free.fr",
+      "who": "Fr\u00c3\u00a9d\u00c3\u00a9ric Delaporte <fredericdelaporte@free.fr>",
       "when": "2017-03-19T01:07:02+01:00",
       "all": 69,
       "test": 0,
@@ -38,21 +38,30 @@
     },
     {
       "id": "0f88aa1fa81d4c6cf69716c8d9995d85db62008e",
-      "who": "hazzik@gmail.com",
+      "who": "Alexander Zaytsev <hazzik@gmail.com>",
       "when": "2017-03-19T21:38:04+13:00",
-      "all": 57,
+      "all": 0,
       "test": 0,
-      "testable": 21,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "c1db2d13c92c62a3ac91c271aec497a66ca2ba21",
-      "who": "hazzik@gmail.com",
+      "who": "Alexander Zaytsev <hazzik@gmail.com>",
       "when": "2017-03-19T21:14:27+13:00",
-      "all": 447,
-      "test": 388,
-      "testable": 398,
-      "pct": 97.5
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "e5cf3e4d3163093c35b7608dbb27c01736f46dbc",
+      "who": "Alexander Zaytsev <hazzik@gmail.com>",
+      "when": "2017-03-19T11:07:46+13:00",
+      "all": 21,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "NHibernate (master branch)",

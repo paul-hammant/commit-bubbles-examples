@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "3e561a260fb8237aa3a619fe5069ed8eb5a68b2e",
-      "who": "flukefan@googlemail.com",
+      "who": "Richard Brown <flukefan@googlemail.com>",
       "when": "2011-11-01T22:43:12+00:00",
       "all": 96,
       "test": 0,
@@ -11,12 +11,21 @@
     },
     {
       "id": "bd44448a93c1b91e6ca8ac9a0e714f58f605b75b",
-      "who": "flukefan@googlemail.com",
+      "who": "Richard Brown <flukefan@googlemail.com>",
       "when": "2011-11-01T21:58:27+00:00",
       "all": 9,
       "test": 9,
       "testable": 9,
       "pct": 100.0
+    },
+    {
+      "id": "0a755c0cec887743165625d74fdeb9f032dc330c",
+      "who": "Richard Brown <flukefan@googlemail.com>",
+      "when": "2011-11-01T12:36:58+00:00",
+      "all": 18863,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "NHibernate (master branch)",

@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "19368085aad53ad97b96e675b3e7ac9fc1fd6b8d",
-      "who": "andrewjs@google.com",
+      "who": "Andrew Seguin <andrewjs@google.com>",
       "when": "2018-03-01T22:34:21-08:00",
       "all": 189,
       "test": 33,
@@ -11,7 +11,7 @@
     },
     {
       "id": "d2be675acc284cd7df981b5819c15c528e457f3a",
-      "who": "andrewjs@google.com",
+      "who": "Andrew Seguin <andrewjs@google.com>",
       "when": "2018-03-01T11:26:29-08:00",
       "all": 243,
       "test": 228,
@@ -20,7 +20,7 @@
     },
     {
       "id": "cd2ebd22fd4c9fa4c557b7a132ebbbac900a7a6e",
-      "who": "caerus.karu@gmail.com",
+      "who": "Adam Plumer <caerus.karu@gmail.com>",
       "when": "2018-03-01T10:25:34-05:00",
       "all": 51,
       "test": 10,
@@ -29,7 +29,7 @@
     },
     {
       "id": "6d1367d29707c2c449fda1adfa8a7177693f680b",
-      "who": "misko@hevery.com",
+      "who": "Mis\u00cc\u008cko Hevery <misko@hevery.com>",
       "when": "2018-03-01T17:14:01-08:00",
       "all": 684,
       "test": 328,
@@ -38,7 +38,7 @@
     },
     {
       "id": "538f1d980f62a2f01ddc87c56c4ddb63a5c4298f",
-      "who": "misko@hevery.com",
+      "who": "Mis\u00cc\u008cko Hevery <misko@hevery.com>",
       "when": "2018-03-01T13:16:13-08:00",
       "all": 205,
       "test": 42,
@@ -47,7 +47,7 @@
     },
     {
       "id": "2c2b62f45f29e7658028d85be5a26db812c0525d",
-      "who": "karakara@google.com",
+      "who": "Kara Erickson <karakara@google.com>",
       "when": "2018-03-01T09:46:39-08:00",
       "all": 183,
       "test": 151,
@@ -55,8 +55,26 @@
       "pct": 82.5
     },
     {
+      "id": "b64139650ca3a7a44d4998ab6401f8685b505a35",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
+      "when": "2018-03-01T20:19:23+00:00",
+      "all": 38,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "1d2bdcb4d0f817a4024d90d0385cb71e6a227e80",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
+      "when": "2018-03-01T20:19:18+00:00",
+      "all": 38,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "12be311618e2ae32df15a523782237907725d51a",
-      "who": "pete@bacondarwin.com",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
       "when": "2018-03-01T10:56:32+00:00",
       "all": 54,
       "test": 0,
@@ -65,12 +83,39 @@
     },
     {
       "id": "4f609687044a5b7cd15f796bce948e9385b70f7a",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2018-03-01T10:41:35-08:00",
       "all": 2862,
       "test": 157,
       "testable": 283,
       "pct": 55.5
+    },
+    {
+      "id": "d7e5d45f43ada7060047bc693b109e3011c29f95",
+      "who": "Hans Larsen <hans@hansl.ca>",
+      "when": "2018-03-01T14:31:10-08:00",
+      "all": 13,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "ec445b5c73c05080b15a2fd9a07b5dae413a478b",
+      "who": "Alex Eagle <eagle@post.harvard.edu>",
+      "when": "2018-03-01T07:15:30-08:00",
+      "all": 15,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "2f0ab7ee98270fa6f87a9af261a19002b6b98742",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2018-03-01T06:05:24-08:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

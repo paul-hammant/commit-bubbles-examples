@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "857bef9e4fadefc1529797bb287f3502d13d83e9",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-09-29T18:06:55-07:00",
       "all": 98,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "ef23fe66a0c67cc395a4cb62a86cbd63b4bfe32c",
-      "who": "alx+alxhub@alxandria.net",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
       "when": "2015-09-29T12:59:56-07:00",
       "all": 283,
       "test": 0,
@@ -20,7 +20,7 @@
     },
     {
       "id": "e3c939771722cb1e4c65bbfbdfcc16606d73a97c",
-      "who": "mgechev@gmail.com",
+      "who": "mgechev <mgechev@gmail.com>",
       "when": "2015-09-29T22:53:04+03:00",
       "all": 5,
       "test": 0,
@@ -28,8 +28,17 @@
       "pct": 0.0
     },
     {
+      "id": "cd219b92a24866a5ea46b95148de1f13ccaa91a0",
+      "who": "Kathy Walrath <kathyw@google.com>",
+      "when": "2015-09-29T17:54:32-07:00",
+      "all": 123,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "a31b2175dcf913153aaff48ba7f9d51f85295210",
-      "who": "Foxandxss@gmail.com",
+      "who": "Jes\u00c3\u00bas Rodr\u00c3\u00adguez Rodr\u00c3\u00adguez <Foxandxss@gmail.com>",
       "when": "2015-09-29T12:37:07+02:00",
       "all": 3,
       "test": 0,
@@ -37,8 +46,17 @@
       "pct": 0.0
     },
     {
+      "id": "eb2c15786e86abe5660e116808f4b1babd9492c4",
+      "who": "Sam Rawlins <srawlins@google.com>",
+      "when": "2015-09-29T10:34:47-07:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "6ae9686a0dd8bee9060ce4ec14d3e2cd590bc309",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-09-29T14:27:03-07:00",
       "all": 21,
       "test": 0,
@@ -47,7 +65,7 @@
     },
     {
       "id": "841f8789fd40f8549a3ae1aa1fed2fec01dd33dc",
-      "who": "yjbanov@google.com",
+      "who": "Yegor Jbanov <yjbanov@google.com>",
       "when": "2015-09-29T17:27:44-07:00",
       "all": 798,
       "test": 12,
@@ -56,7 +74,7 @@
     },
     {
       "id": "7b2d8fce0746c0ff45bcf1f4f6935d5411d38fd2",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2015-09-29T11:19:06-07:00",
       "all": 136,
       "test": 0,
@@ -65,7 +83,7 @@
     },
     {
       "id": "5557a5716d6f592e35575dabd577a2e1ee81933d",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2015-09-29T15:09:02+02:00",
       "all": 12,
       "test": 0,
@@ -74,7 +92,7 @@
     },
     {
       "id": "eafa48205244fc3627421e07fc57351f36d870cd",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2015-09-29T14:22:52+02:00",
       "all": 19,
       "test": 4,
@@ -83,12 +101,21 @@
     },
     {
       "id": "9b7378d132f3071860520ccdb81c2be2f1f6f4bf",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2015-09-29T11:11:06-07:00",
       "all": 461,
       "test": 85,
       "testable": 440,
       "pct": 19.3
+    },
+    {
+      "id": "fb9796130dfe1888f649bc2fd176d11cc2272538",
+      "who": "Victor Berchet <victor@suumit.com>",
+      "when": "2015-09-29T11:31:55-07:00",
+      "all": 15,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

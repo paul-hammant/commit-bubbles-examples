@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "3c06a5dc256b19c7061c4c8a829bbf6cbb177870",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2016-11-17T20:11:55-08:00",
       "all": 181,
       "test": 22,
@@ -11,7 +11,7 @@
     },
     {
       "id": "adeea5d86a8068540a81d29fe2e56374e86acd0d",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2016-11-17T12:24:33-08:00",
       "all": 193,
       "test": 70,
@@ -20,7 +20,7 @@
     },
     {
       "id": "dddbb1c1cb08115f339e34487774c85a3c6493f3",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2016-11-17T09:52:38-08:00",
       "all": 270,
       "test": 143,
@@ -28,8 +28,26 @@
       "pct": 53.0
     },
     {
+      "id": "bccf0e69dc36006a1910002b7cff07801ece3907",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
+      "when": "2016-11-17T09:48:56-08:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "a3884db87c7bd3e50c178d64e0f7c7995cdcd850",
+      "who": "Alex Eagle <eagle@post.harvard.edu>",
+      "when": "2016-11-17T17:27:51-08:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "fc5ac1ebc4a9c963b57414f4d592b8c9cb002b33",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2016-11-17T15:18:10-08:00",
       "all": 41,
       "test": 0,
@@ -38,12 +56,21 @@
     },
     {
       "id": "ad20d7d260845d16cae2969c3cda968e3615397e",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-11-17T11:58:12-08:00",
       "all": 32,
       "test": 22,
       "testable": 32,
       "pct": 68.8
+    },
+    {
+      "id": "4e047302f2b8e617e0a40a4b9ab159077c87eb2d",
+      "who": "Chuck Jazdzewski <chuckj@google.com>",
+      "when": "2016-11-17T11:59:03-08:00",
+      "all": 26,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

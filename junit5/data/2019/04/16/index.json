@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "92442f3c66c8855942e128e25ed25708a72ad781",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2019-04-16T21:29:23+02:00",
       "all": 39,
       "test": 33,
@@ -11,7 +11,7 @@
     },
     {
       "id": "05eaf74a761698880eb3d6ce158d029b54dcff87",
-      "who": "sormuras@gmail.com",
+      "who": "Christian Stein <sormuras@gmail.com>",
       "when": "2019-04-16T20:51:17+02:00",
       "all": 215,
       "test": 215,
@@ -20,7 +20,7 @@
     },
     {
       "id": "b7897dbf9c70158f3fee76c56b9c1508b416968c",
-      "who": "sbrannen@pivotal.io",
+      "who": "Sam Brannen <sbrannen@pivotal.io>",
       "when": "2019-04-16T19:38:22+02:00",
       "all": 33,
       "test": 0,
@@ -28,13 +28,31 @@
       "pct": 0.0
     },
     {
+      "id": "aafa20f32af71c528b99eb8a800134fdb94f76ae",
+      "who": "Sam Brannen <sbrannen@pivotal.io>",
+      "when": "2019-04-16T19:28:47+02:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "156cd36c07adfe922fdace238bd81e8ae0c698cc",
-      "who": "sbrannen@pivotal.io",
+      "who": "Sam Brannen <sbrannen@pivotal.io>",
       "when": "2019-04-16T18:22:54+02:00",
       "all": 74,
       "test": 47,
       "testable": 67,
       "pct": 70.1
+    },
+    {
+      "id": "49844d13758a9ba005ec888c2f25287882216f99",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2019-04-16T08:31:51+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

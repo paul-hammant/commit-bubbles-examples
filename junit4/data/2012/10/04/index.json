@@ -2,12 +2,21 @@
   "commits": [
     {
       "id": "30f2b16525dabb477373be9ed3e76bb98b200806",
-      "who": "awulder@xebia.com",
+      "who": "Arjan Wulder <awulder@xebia.com>",
       "when": "2012-10-04T22:16:45+02:00",
       "all": 44914,
       "test": 24659,
       "testable": 44914,
       "pct": 54.9
+    },
+    {
+      "id": "68cc61e2b6ae43f3ab6ef9a54e16b9318d3d038f",
+      "who": "David Saff <saff+aa@google.com>",
+      "when": "2012-10-04T07:52:47-07:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 4 (master branch)",

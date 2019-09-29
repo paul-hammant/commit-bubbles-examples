@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "4586fccae449a8e20c5555e82683ea7419fb7e8a",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2017-09-13T15:54:52+03:00",
       "all": 16,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "473a577e341357c8cc6467f6582dcb9c3a51bfea",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2017-09-13T14:59:09-07:00",
       "all": 11,
       "test": 0,
@@ -20,7 +20,7 @@
     },
     {
       "id": "17eaef0311990e1a06c028f19bc6c63dcd775f31",
-      "who": "tinagao@google.com",
+      "who": "Yuan Gao <tinagao@google.com>",
       "when": "2017-09-13T14:00:10-07:00",
       "all": 166,
       "test": 6,
@@ -28,8 +28,17 @@
       "pct": 3.6
     },
     {
+      "id": "23f2bea353731092d10651ff0a5d108a2a7f0404",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2017-09-13T17:21:20+03:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "15e8d5031358fe8469fc746157e4aefeb1e3d274",
-      "who": "jasonaden@google.com",
+      "who": "Jason Aden <jasonaden@google.com>",
       "when": "2017-09-13T16:20:29-07:00",
       "all": 511,
       "test": 36,
@@ -37,13 +46,40 @@
       "pct": 24.7
     },
     {
+      "id": "554fe656905bebae41907d125abcc2a88a87b475",
+      "who": "Stephen Fluin <stephen.fluin@gmail.com>",
+      "when": "2017-09-13T11:51:02-07:00",
+      "all": 18,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "4695c69cf115b5713cfa6237d3f6e93b9dd90d4c",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2017-09-13T16:55:42-07:00",
       "all": 5910,
       "test": 3027,
       "testable": 5904,
       "pct": 51.3
+    },
+    {
+      "id": "42c69d3ba6576c8a2244ac7958f4a1c7dfc19add",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
+      "when": "2017-09-13T13:35:54-07:00",
+      "all": 40,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "0fb2ba577ec7c6fed8a47e043ddff79dd4cb9a79",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
+      "when": "2017-09-13T13:28:42-07:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

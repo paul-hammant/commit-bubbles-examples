@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "22c71b69ceb0fcbcd2cb4381a599fab7482ddcfa",
-      "who": "jbogart@gmail.com",
+      "who": "Judy Bogart <jbogart@gmail.com>",
       "when": "2018-05-29T12:25:26-07:00",
       "all": 563,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "f91b0455c0a46ae68e87a07fc4c1237192a3df16",
-      "who": "psreep@gmail.com",
+      "who": "Vani <psreep@gmail.com>",
       "when": "2018-05-29T22:17:59-07:00",
       "all": 3604,
       "test": 0,
@@ -19,8 +19,17 @@
       "pct": 0.0
     },
     {
+      "id": "5840a86f98da200ce657573c2ad6c1c7ae1fc990",
+      "who": "Rapha\u00c3\u00abl Jamet <rjamet@google.com>",
+      "when": "2018-05-29T15:03:48+02:00",
+      "all": 15,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "5cbcb5680b950ece39521579da6f6a2734e27e5c",
-      "who": "gmagolan@gmail.com",
+      "who": "Greg Magolan <gmagolan@gmail.com>",
       "when": "2018-05-29T15:35:48-07:00",
       "all": 1093,
       "test": 13,
@@ -29,7 +38,7 @@
     },
     {
       "id": "6948ef125ceec340d60cafc4a2b45c56cf2fefe3",
-      "who": "gmagolan@gmail.com",
+      "who": "Greg Magolan <gmagolan@gmail.com>",
       "when": "2018-05-29T15:33:12-07:00",
       "all": 8,
       "test": 0,
@@ -38,7 +47,7 @@
     },
     {
       "id": "b492b9e12bf5df09a729354d6c53ecd62a71a44f",
-      "who": "viks@google.com",
+      "who": "Vikram Subramanian <viks@google.com>",
       "when": "2018-05-29T13:34:10-07:00",
       "all": 12,
       "test": 0,
@@ -47,12 +56,21 @@
     },
     {
       "id": "e53179ef8c14f98b3cda01c553934f5e90516803",
-      "who": "karakara@google.com",
+      "who": "Kara Erickson <karakara@google.com>",
       "when": "2018-05-29T15:08:30-07:00",
       "all": 184,
       "test": 5,
       "testable": 176,
       "pct": 2.8
+    },
+    {
+      "id": "e43d3fa4b7c4cb07d51d8c79c0e5e3afa4a92e2f",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2018-05-29T11:55:59-07:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

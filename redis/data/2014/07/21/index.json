@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "87815ab5ba305770c0e6de7995b1688e55602589",
-      "who": "matt@genges.com",
+      "who": "Matt Stancliff <matt@genges.com>",
       "when": "2014-07-21T17:31:21-04:00",
       "all": 15,
       "test": 9,
@@ -11,7 +11,7 @@
     },
     {
       "id": "10088d5087e46342f836e0d16f3eaae134f666b9",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2014-07-21T16:29:49+02:00",
       "all": 3,
       "test": 3,
@@ -20,12 +20,21 @@
     },
     {
       "id": "54f1c682e6fdeefc4cc711258d2f7ab66e59d46c",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2014-07-21T16:26:05+02:00",
       "all": 91,
       "test": 91,
       "testable": 91,
       "pct": 100.0
+    },
+    {
+      "id": "15336ffe867d5028447486dab02ebece3b9c37e1",
+      "who": "antirez <antirez@gmail.com>",
+      "when": "2014-07-21T15:30:25+02:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Redis (unstable branch)",

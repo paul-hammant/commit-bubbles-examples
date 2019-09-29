@@ -1,13 +1,40 @@
 {
   "commits": [
     {
+      "id": "99949a0f7a59d8840a6ca547e0b6a59fd3bbdd84",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2019-08-28T20:33:53+02:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "228d6ab279deb6a42dbef6697dad321b1bd6914d",
-      "who": "sormuras@gmail.com",
+      "who": "Christian Stein <sormuras@gmail.com>",
       "when": "2019-08-28T17:06:01+02:00",
       "all": 75,
       "test": 68,
       "testable": 73,
       "pct": 93.2
+    },
+    {
+      "id": "4a940d778e48a8921b83ad19d379111958d87874",
+      "who": "Sam Brannen <sbrannen@pivotal.io>",
+      "when": "2019-08-28T15:19:13+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "9156c09a3228cc92295314e1e3a4c1df38ad9b7f",
+      "who": "Sam Brannen <sbrannen@pivotal.io>",
+      "when": "2019-08-28T14:27:26+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

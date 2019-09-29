@@ -1,8 +1,17 @@
 {
   "commits": [
     {
+      "id": "4bb5f638bcce3ec1a5a0f594a050daf421030101",
+      "who": "Ashinze Ekene <ashinzekene@gmail.com>",
+      "when": "2018-12-12T04:58:59+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "dfbf6d72b059258493826ded51481563a37d6e69",
-      "who": "akushnir@google.com",
+      "who": "Andrew Kushnir <akushnir@google.com>",
       "when": "2018-12-12T15:23:12-08:00",
       "all": 722,
       "test": 637,
@@ -11,7 +20,7 @@
     },
     {
       "id": "d528e30cefbfbc32838396abf167ddda73a5e672",
-      "who": "igor@angular.io",
+      "who": "Igor Minar <igor@angular.io>",
       "when": "2018-12-12T22:16:02-08:00",
       "all": 22,
       "test": 22,
@@ -20,7 +29,7 @@
     },
     {
       "id": "8f8c5ba12e596a82f4e1a06518ecbc0b5ea8c7d7",
-      "who": "igor@angular.io",
+      "who": "Igor Minar <igor@angular.io>",
       "when": "2018-12-12T21:38:31-08:00",
       "all": 20,
       "test": 20,
@@ -29,7 +38,7 @@
     },
     {
       "id": "cba92db6bf095bb8bf3e54f1529f7db5933bc5f2",
-      "who": "igor@angular.io",
+      "who": "Igor Minar <igor@angular.io>",
       "when": "2018-12-12T21:21:52-08:00",
       "all": 23,
       "test": 23,
@@ -38,7 +47,7 @@
     },
     {
       "id": "3680aef801b38e7fef3f084c9580cde1b3960557",
-      "who": "kyliau@umich.edu",
+      "who": "Keen Yee Liau <kyliau@umich.edu>",
       "when": "2018-12-12T15:39:14-08:00",
       "all": 2410,
       "test": 0,
@@ -46,8 +55,26 @@
       "pct": 0.0
     },
     {
+      "id": "3970d00eddb8f279d9f5f621f9f313fe3101f982",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-12-12T20:17:40-08:00",
+      "all": 4,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "e5c10c3d91c389d23dad9133ce93fbfcccd0a8dd",
+      "who": "Stephen Fluin <stephen.fluin@gmail.com>",
+      "when": "2018-12-12T19:27:12+00:00",
+      "all": 16,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "e3a2ca5ad97583218f843438d75498a71ec331e0",
-      "who": "estebanmarin@gmx.ch",
+      "who": "Esteban Marin <estebanmarin@gmx.ch>",
       "when": "2018-12-12T07:51:50+01:00",
       "all": 23,
       "test": 0,
@@ -56,7 +83,7 @@
     },
     {
       "id": "1cc08b4a4aca69e98f209ca7e3530001940be4af",
-      "who": "gmagolan@gmail.com",
+      "who": "Greg Magolan <gmagolan@gmail.com>",
       "when": "2018-12-12T13:37:11-08:00",
       "all": 4,
       "test": 0,
@@ -64,8 +91,17 @@
       "pct": 0.0
     },
     {
+      "id": "e3180818b0b4bc40b793f8404bd817e60a8cbde6",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-12-12T23:35:46-08:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "5256a91fb2944d90cdb925963a8c523ceaba5d40",
-      "who": "paulgschwendtner@gmail.com",
+      "who": "Paul Gschwendtner <paulgschwendtner@gmail.com>",
       "when": "2018-12-12T23:07:21+01:00",
       "all": 48,
       "test": 0,
@@ -74,12 +110,21 @@
     },
     {
       "id": "28ceca01630936783129e1159da712b086070322",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2018-12-12T16:21:58+01:00",
       "all": 451,
       "test": 451,
       "testable": 451,
       "pct": 100.0
+    },
+    {
+      "id": "fc6dc78fe940c77c15cf93635e68794044817555",
+      "who": "Esteban Marin <estebanmarin@gmx.ch>",
+      "when": "2018-12-12T07:51:50+01:00",
+      "all": 8,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

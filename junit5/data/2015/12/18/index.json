@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "b2f64779aee87021348c8b8465be89675b700b16",
-      "who": "business@johanneslink.net",
+      "who": "Johannes Link <business@johanneslink.net>",
       "when": "2015-12-18T17:24:52+01:00",
       "all": 123,
       "test": 110,
@@ -11,7 +11,7 @@
     },
     {
       "id": "6c5dbe63d4bcaedcb32f0d8e4e0d21589556b2c4",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2015-12-18T17:04:23+01:00",
       "all": 20,
       "test": 10,
@@ -20,7 +20,7 @@
     },
     {
       "id": "e56fcfc20e3c100cf9e4ed4b142a6a3863c29353",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2015-12-18T16:56:57+01:00",
       "all": 277,
       "test": 144,
@@ -29,7 +29,7 @@
     },
     {
       "id": "9f7d082872c4b4109729a3a480f1dedad3083bad",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2015-12-18T09:28:22+01:00",
       "all": 42,
       "test": 0,
@@ -38,7 +38,7 @@
     },
     {
       "id": "12bbe5afc72f457e5bba4bbcf68c49d6e4b77a4e",
-      "who": "business@johanneslink.net",
+      "who": "Johannes Link <business@johanneslink.net>",
       "when": "2015-12-18T15:47:48+01:00",
       "all": 301,
       "test": 243,
@@ -47,7 +47,7 @@
     },
     {
       "id": "9d2f703e0718f063bd1c9fb625451b425e874aa2",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2015-12-18T14:24:13+01:00",
       "all": 36,
       "test": 0,
@@ -56,7 +56,7 @@
     },
     {
       "id": "fb8f1ed90866cc6b75bb5102d9c5b99428f38653",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2015-12-18T12:28:40+01:00",
       "all": 25,
       "test": 0,
@@ -65,7 +65,7 @@
     },
     {
       "id": "08d1cdd322b80812c7210eb3e1a960d6d7443680",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2015-12-18T11:47:33+01:00",
       "all": 85,
       "test": 46,
@@ -74,21 +74,30 @@
     },
     {
       "id": "3e6edc2dc68d95052afc1302df93be3f0958a35f",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2015-12-18T11:06:19+01:00",
-      "all": 273,
-      "test": 159,
-      "testable": 273,
-      "pct": 58.2
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "be3ece25dba3738b5c146797c15ebf161867757a",
-      "who": "business@johanneslink.net",
+      "who": "Johannes Link <business@johanneslink.net>",
       "when": "2015-12-18T09:06:04+01:00",
       "all": 108,
       "test": 55,
       "testable": 108,
       "pct": 50.9
+    },
+    {
+      "id": "c12dde20514516b8be4d997f9928cafd09c85ce9",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-12-18T08:16:29+01:00",
+      "all": 31,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "b0cb134815d2f6f7cbb5a6eaa3561fb6d1b0e986",
-      "who": "pete@bacondarwin.com",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
       "when": "2018-08-17T22:00:00+01:00",
       "all": 145,
       "test": 80,
@@ -10,8 +10,17 @@
       "pct": 60.2
     },
     {
+      "id": "e84da1981d9b1061a0314e89dd5b1b65759bc1c5",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
+      "when": "2018-08-17T22:00:27+01:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "26cd9f543376349e3d9b680977609cc862d471b0",
-      "who": "pete@bacondarwin.com",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
       "when": "2018-08-17T07:50:45+01:00",
       "all": 68,
       "test": 47,
@@ -20,7 +29,7 @@
     },
     {
       "id": "73047483a129bd7da78003318e4fc633964dd200",
-      "who": "pete@bacondarwin.com",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
       "when": "2018-08-17T07:35:01+01:00",
       "all": 161,
       "test": 161,
@@ -29,7 +38,7 @@
     },
     {
       "id": "6f168b7a0f60e559e8269e4c1963e460831d8cfb",
-      "who": "pete@bacondarwin.com",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
       "when": "2018-08-17T07:50:55+01:00",
       "all": 126,
       "test": 65,
@@ -38,12 +47,48 @@
     },
     {
       "id": "f54f3856cbe082ef1468906c68de88dc4d842a66",
-      "who": "ben@benlesh.com",
+      "who": "Ben Lesh <ben@benlesh.com>",
       "when": "2018-08-17T12:49:02-07:00",
       "all": 171,
       "test": 119,
       "testable": 171,
       "pct": 69.6
+    },
+    {
+      "id": "9ed3bd6b4fea14b513aa16c98bc772cb85e46b3d",
+      "who": "Vikram Subramanian <viks@google.com>",
+      "when": "2018-08-17T15:07:39-07:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "469d5e04482893008f36cf2e6623521b265346bf",
+      "who": "JinBeom Hong <jinbeomhong@gmail.com>",
+      "when": "2018-08-17T20:46:42+09:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "21d22ce4ad4b64d8579c0d1f084c3af877f0526a",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
+      "when": "2018-08-17T09:14:26+01:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "e9026a520196c8d6e639cc6435c6ccc4e41ca486",
+      "who": "Jason Aden <jasonaden@google.com>",
+      "when": "2018-08-17T10:18:35-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

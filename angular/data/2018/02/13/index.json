@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "ad9ce5cb4117243f5f018e9da9db37d32c314050",
-      "who": "smdunn@google.com",
+      "who": "Shannon Dunn <smdunn@google.com>",
       "when": "2018-02-13T17:13:47-05:00",
       "all": 53,
       "test": 48,
@@ -11,7 +11,7 @@
     },
     {
       "id": "363dfa5437bd096ae1c0891f534ff542ef51ddeb",
-      "who": "misko@hevery.com",
+      "who": "Mi\u00c5\u00a1ko Hevery <misko@hevery.com>",
       "when": "2018-02-13T14:25:13-08:00",
       "all": 218,
       "test": 218,
@@ -20,7 +20,7 @@
     },
     {
       "id": "0451fd93df954e9a6ecedb15997bfab9e74b2b22",
-      "who": "chuckj@google.com",
+      "who": "Chuck Jazdzewski <chuckj@google.com>",
       "when": "2018-02-13T10:48:22-08:00",
       "all": 317,
       "test": 128,
@@ -29,7 +29,7 @@
     },
     {
       "id": "b43b164a61a76b9531b9f6a8b217ecb48d6d2deb",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2018-02-13T11:26:06-08:00",
       "all": 1185,
       "test": 279,
@@ -37,8 +37,17 @@
       "pct": 65.8
     },
     {
+      "id": "28b23f954cf6663b92e7806d49f7682465c7b8f9",
+      "who": "Johannes Hoppe <johannes.hoppe@haushoppe-its.de>",
+      "when": "2018-02-13T09:30:41+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "5c320b4c2aecb661984b7aaa107f00dfe817f0e7",
-      "who": "karakara@google.com",
+      "who": "Kara Erickson <karakara@google.com>",
       "when": "2018-02-13T18:22:11-08:00",
       "all": 87,
       "test": 87,
@@ -46,8 +55,17 @@
       "pct": 100.0
     },
     {
+      "id": "2654357c728db257d0b13ee3a0243c82032226c2",
+      "who": "Mis\u00cc\u008cko Hevery <misko@hevery.com>",
+      "when": "2018-02-13T15:12:40-08:00",
+      "all": 4,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "a73d5308e0d2ddcd92ffbffbbab70a3966b33c2b",
-      "who": "karakara@google.com",
+      "who": "Kara Erickson <karakara@google.com>",
       "when": "2018-02-13T18:56:52-08:00",
       "all": 350,
       "test": 182,
@@ -56,7 +74,7 @@
     },
     {
       "id": "f755db78dcdf461dc42e709b3ab728ceba353d1d",
-      "who": "alx+alxhub@alxandria.net",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
       "when": "2018-02-13T12:51:21-08:00",
       "all": 68,
       "test": 41,
@@ -65,7 +83,7 @@
     },
     {
       "id": "029dbf0e18a0e432086c509aa59fe04caf6376c4",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2018-02-13T11:26:06-08:00",
       "all": 248,
       "test": 71,
@@ -73,8 +91,17 @@
       "pct": 60.7
     },
     {
+      "id": "bba65e0f416ec89bd88c98ecd4d72d7818b54a7b",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2018-02-13T08:20:35-08:00",
+      "all": 103,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "a069e083541fa14e847acd69de811437d82dca50",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2018-02-13T08:19:33-08:00",
       "all": 134,
       "test": 4,
@@ -82,8 +109,35 @@
       "pct": 100.0
     },
     {
+      "id": "fa7d8907d0d0150128461c086225dfcb50cdedeb",
+      "who": "Misko Hevery <misko@hevery.com>",
+      "when": "2018-02-13T21:35:43-08:00",
+      "all": 34,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "0220ce70025739afe4a6c01390a72a75a8ee9cd5",
+      "who": "Misko Hevery <misko@hevery.com>",
+      "when": "2018-02-13T21:07:53-08:00",
+      "all": 21,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "3bd0b2ab28376d3ab82c95f3dd9d6b13d92a26d2",
+      "who": "Misko Hevery <misko@hevery.com>",
+      "when": "2018-02-13T21:31:14-08:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "5e4af7c550b0726a29528a295a0df14e1f48aaeb",
-      "who": "kara@users.noreply.github.com",
+      "who": "Kara <kara@users.noreply.github.com>",
       "when": "2018-02-13T10:24:41-08:00",
       "all": 779,
       "test": 380,

@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "7c7888de4f617a4656617480c53472b4e9c4ab08",
-      "who": "tjblasi@google.com",
+      "who": "Tim Blasi <tjblasi@google.com>",
       "when": "2015-08-19T16:56:46-07:00",
       "all": 48,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "8536df16d97fccfbbaf23c9badf54d40eb9720ad",
-      "who": "yjbanov@google.com",
+      "who": "yjbanov <yjbanov@google.com>",
       "when": "2015-08-19T15:29:36-07:00",
       "all": 18,
       "test": 0,
@@ -20,7 +20,7 @@
     },
     {
       "id": "9262727ae122ec893c20e0b5bf3f8bc05905f4f9",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-08-19T16:04:43-07:00",
       "all": 17,
       "test": 0,
@@ -29,7 +29,7 @@
     },
     {
       "id": "88a5b8da0fbb81acfa347b788f6479081998c960",
-      "who": "middlefloor@gmail.com",
+      "who": "Jeff Cross <middlefloor@gmail.com>",
       "when": "2015-08-19T10:36:52-07:00",
       "all": 20,
       "test": 0,
@@ -38,7 +38,7 @@
     },
     {
       "id": "d2d0715568421b169dd0ecc4ffa5876849d4da9e",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2015-08-19T11:26:45-07:00",
       "all": 739,
       "test": 120,
@@ -47,7 +47,7 @@
     },
     {
       "id": "8336881a852fb16afaa48fd67ae4f8f48cec9769",
-      "who": "yjbanov@google.com",
+      "who": "yjbanov <yjbanov@google.com>",
       "when": "2015-08-19T14:07:30-07:00",
       "all": 63,
       "test": 24,
@@ -56,7 +56,7 @@
     },
     {
       "id": "1c9be9b5aabcf27a45f1528c7e47d028eff0a85e",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2015-08-19T16:47:18+02:00",
       "all": 20,
       "test": 17,
@@ -65,7 +65,7 @@
     },
     {
       "id": "49997ca9324cb5383c759beaf6776bba80e426a0",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2015-08-19T11:01:00+02:00",
       "all": 3,
       "test": 0,
@@ -74,7 +74,7 @@
     },
     {
       "id": "195c5c21d434e8ab7c668dbb75dc2745f7be48ee",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2015-08-19T10:48:53-07:00",
       "all": 114,
       "test": 62,
@@ -82,8 +82,44 @@
       "pct": 61.4
     },
     {
+      "id": "a0b240884bd31a31e5142d654342ac14e8d29ba9",
+      "who": "Misko Hevery <misko@hevery.com>",
+      "when": "2015-08-19T20:36:57-07:00",
+      "all": 8,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "9afcb002162ce38907dc0f260e5f9392a1995b16",
+      "who": "Misko Hevery <misko@hevery.com>",
+      "when": "2015-08-19T15:33:59-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "94733069a44f7b57a71bfc087b9ecab90568dcef",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2015-08-19T10:11:27-07:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "cba388bb653400bae262aa89483e4a8aaa74aecf",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2015-08-19T10:09:55-07:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "efbd8fca4c62fa67c74b0c21e249e9d89723d894",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-08-19T10:08:27-07:00",
       "all": 3,
       "test": 0,
@@ -92,7 +128,7 @@
     },
     {
       "id": "6b38d249c5ab2af9fe83e83edc20a437b7c03fc7",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2015-08-19T10:59:28+02:00",
       "all": 3,
       "test": 0,
@@ -101,7 +137,7 @@
     },
     {
       "id": "abb0e279a5bbf61b7b4399aa99f323f2c50ebe91",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2015-08-19T11:42:59+02:00",
       "all": 9,
       "test": 0,

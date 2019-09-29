@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "37a8aaba8a817b4bebbeebcd645d304601a0c8f0",
-      "who": "mail@stefan-birkner.de",
+      "who": "Stefan Birkner <mail@stefan-birkner.de>",
       "when": "2014-07-29T22:18:47+02:00",
       "all": 224,
       "test": 180,
@@ -11,7 +11,7 @@
     },
     {
       "id": "7216e4bd9eceea0be4813da6520a6fa4ed2e3a2a",
-      "who": "mail@stefan-birkner.de",
+      "who": "Stefan Birkner <mail@stefan-birkner.de>",
       "when": "2014-07-30T00:20:36+02:00",
       "all": 10,
       "test": 0,
@@ -20,25 +20,25 @@
     },
     {
       "id": "be4cdb2564e0cf039defb09d983925b7e00e71f0",
-      "who": "kcooney+github@gmail.com",
+      "who": "Kevin Cooney <kcooney+github@gmail.com>",
       "when": "2014-07-29T11:50:57-07:00",
-      "all": 13,
+      "all": 0,
       "test": 0,
-      "testable": 13,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "e8b655828694b2b3bf8b35e82e94be937607c898",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2014-07-28T23:07:57+02:00",
-      "all": 14,
-      "test": 14,
-      "testable": 14,
-      "pct": 100.0
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "1ef449139923a22333f262dc8c75fa057903040c",
-      "who": "mail@stefan-birkner.de",
+      "who": "Stefan Birkner <mail@stefan-birkner.de>",
       "when": "2014-07-28T22:33:48+02:00",
       "all": 14,
       "test": 14,
@@ -46,8 +46,116 @@
       "pct": 100.0
     },
     {
+      "id": "ab5d85e79260ef10d09328c8af68080ff84dc53c",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2014-07-28T21:43:35+02:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "bc235a478eafb3136942f1e70c23b82e9194f12c",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2014-07-28T21:42:04+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "8aea9bc66441e5dd727b7d0a6478b4adb93b63f9",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2014-07-28T21:41:40+02:00",
+      "all": 581,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d621a8387a7ce820821c9a378013f4ea187ff166",
+      "who": "Stefan Birkner <mail@stefan-birkner.de>",
+      "when": "2014-07-28T21:16:10+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "87f64ab3d8aeabda7800dc12dfcf4f55b636392c",
+      "who": "CloudBees DEV@Cloud <nobody@cloudbees.com>",
+      "when": "2014-07-28T13:38:58-04:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "9b864b9c8f74cb03211b300987cd045f016e7a75",
+      "who": "CloudBees DEV@Cloud <nobody@cloudbees.com>",
+      "when": "2014-07-28T13:38:57-04:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "08a610b2fc25bc7e1053d9156f41c41b9382863b",
+      "who": "CloudBees DEV@Cloud <nobody@cloudbees.com>",
+      "when": "2014-07-27T16:37:29-04:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "0550afa689cc5c7860d4378b27ecd38d35c05570",
+      "who": "CloudBees DEV@Cloud <nobody@cloudbees.com>",
+      "when": "2014-07-27T16:37:26-04:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "eb374efefdf47d5f7383532bd8befc6ef3777133",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2014-07-27T22:30:00+02:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "cf2fe3a3abef29c252e1dc62bd6118af5ddaef58",
+      "who": "CloudBees DEV@Cloud <nobody@cloudbees.com>",
+      "when": "2014-07-27T16:29:07-04:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d611a84f38cf9966a894dc17ce392b99d5ebe011",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2014-07-27T21:56:42+02:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "e9b8b4478b71c272ef270335326d7789d4364112",
+      "who": "CloudBees DEV@Cloud <nobody@cloudbees.com>",
+      "when": "2014-07-27T15:44:54-04:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "aa5ed2e5e65239f3485eda786db2a466f86a092f",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2014-07-27T21:36:39+02:00",
       "all": 4,
       "test": 4,
@@ -55,17 +163,35 @@
       "pct": 100.0
     },
     {
+      "id": "364eaa2d2c8c1ef1d3cad6597ab28471fd7dcb8a",
+      "who": "CloudBees DEV@Cloud <nobody@cloudbees.com>",
+      "when": "2014-07-27T15:24:03-04:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c14fe1727dee5ae5d0424394a73243279caa771d",
+      "who": "CloudBees DEV@Cloud <nobody@cloudbees.com>",
+      "when": "2014-07-27T15:24:01-04:00",
+      "all": 13,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "c7d04da7490c17435ba0dcdf796259827a8d994d",
-      "who": "kcooney+github@gmail.com",
+      "who": "Kevin Cooney <kcooney+github@gmail.com>",
       "when": "2014-07-24T23:50:47-07:00",
-      "all": 298,
-      "test": 170,
-      "testable": 298,
-      "pct": 57.0
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "f17e06715488e2814b6f9b3b4e329961ce224f07",
-      "who": "mr.chrisvest@gmail.com",
+      "who": "Chris Vest <mr.chrisvest@gmail.com>",
       "when": "2014-07-25T08:09:29+02:00",
       "all": 13,
       "test": 0,
@@ -74,7 +200,7 @@
     },
     {
       "id": "0d84dce24d6125048f22e2bf9e2e8b208ade53c8",
-      "who": "doug@neverfear.org",
+      "who": "Doug Lawrie <doug@neverfear.org>",
       "when": "2014-07-15T20:20:32+01:00",
       "all": 298,
       "test": 170,
@@ -83,16 +209,16 @@
     },
     {
       "id": "74b11e0c206faf9ca78ec14c0c16ec44152d6268",
-      "who": "kcooney+github@gmail.com",
+      "who": "Kevin Cooney <kcooney+github@gmail.com>",
       "when": "2014-07-24T02:20:48-07:00",
-      "all": 27,
+      "all": 0,
       "test": 0,
-      "testable": 27,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "ef7b30f2a31e02690c32abb1c412e097726cb8f5",
-      "who": "mail@stefan-birkner.de",
+      "who": "Stefan Birkner <mail@stefan-birkner.de>",
       "when": "2014-07-24T09:38:11+02:00",
       "all": 27,
       "test": 0,
@@ -101,16 +227,16 @@
     },
     {
       "id": "817ea24f69a040d4161525e600b73d7037a3222f",
-      "who": "kcooney+github@gmail.com",
+      "who": "Kevin Cooney <kcooney+github@gmail.com>",
       "when": "2014-07-17T17:29:38-04:00",
-      "all": 5,
+      "all": 0,
       "test": 0,
-      "testable": 5,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "9274f00a1c3ee90355dba0d09213d513aba787c0",
-      "who": "ben@benmccann.com",
+      "who": "Ben McCann <ben@benmccann.com>",
       "when": "2014-07-17T13:57:45-07:00",
       "all": 5,
       "test": 0,
@@ -119,16 +245,16 @@
     },
     {
       "id": "127f1bb2a137d611e98277a0d1e9184efc47bc05",
-      "who": "kcooney+github@gmail.com",
+      "who": "Kevin Cooney <kcooney+github@gmail.com>",
       "when": "2014-07-02T10:56:16-07:00",
-      "all": 243,
-      "test": 112,
-      "testable": 243,
-      "pct": 46.1
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "a75370887a71a09b3e5a12dec252513e80228e6b",
-      "who": "kcooney@google.com",
+      "who": "Kevin Cooney <kcooney@google.com>",
       "when": "2014-07-02T10:45:24-07:00",
       "all": 243,
       "test": 112,

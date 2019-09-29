@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "391b0927b672fd65e7b7a081d79683e415692b12",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-09-09T23:13:15+02:00",
       "all": 20,
       "test": 17,
@@ -11,7 +11,7 @@
     },
     {
       "id": "3a56fdf16098235fa9624b6249b79e6ad371d8fb",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-09-09T21:56:41+02:00",
       "all": 13,
       "test": 13,
@@ -20,7 +20,7 @@
     },
     {
       "id": "059ee3fb5ae9e86311fb6e1c8aa4efe1bdcfb3b5",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-09-09T21:50:59+02:00",
       "all": 4,
       "test": 4,
@@ -29,7 +29,7 @@
     },
     {
       "id": "1f6c954919c7c00156f97c847f929bae83099095",
-      "who": "sormuras@gmail.com",
+      "who": "Christian Stein <sormuras@gmail.com>",
       "when": "2017-09-09T21:28:52+02:00",
       "all": 9,
       "test": 0,
@@ -38,7 +38,7 @@
     },
     {
       "id": "371a51fc7c46c34402e41e61fa1a6c4b82184041",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-09-09T16:59:26+02:00",
       "all": 9,
       "test": 0,
@@ -46,8 +46,17 @@
       "pct": 0.0
     },
     {
+      "id": "93c3b0bc1228b3cefb02b25c3a0e9b59f91aed80",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2017-09-09T16:47:17+02:00",
+      "all": 35,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "c73ee239bc374eb375951d9c1e49897886d64de2",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-09-09T16:36:06+02:00",
       "all": 44,
       "test": 11,
@@ -55,8 +64,17 @@
       "pct": 26.8
     },
     {
+      "id": "1f499c407cc15629826e63aa3fdffde142eb6139",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2017-09-09T15:53:33+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "65701b9bb36709fffc938a819add7a51aae63185",
-      "who": "team@junit.org",
+      "who": "JUnit Team <team@junit.org>",
       "when": "2017-09-09T15:46:05+02:00",
       "all": 1120,
       "test": 14,
@@ -64,13 +82,31 @@
       "pct": 1.3
     },
     {
+      "id": "172355b116e1d12df4737cbf47b227ea70552714",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2017-09-09T15:24:07+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "79ff0d38d7e20c0d3cb8a5db369ada83562dd263",
-      "who": "team@junit.org",
+      "who": "JUnit Team <team@junit.org>",
       "when": "2017-09-09T15:21:28+02:00",
       "all": 1236,
       "test": 14,
       "testable": 1201,
       "pct": 1.2
+    },
+    {
+      "id": "77c0f9a5002c52ca0f9d363a77a674137f5ae66e",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2017-09-09T15:10:10+02:00",
+      "all": 27,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

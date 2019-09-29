@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "90d2518d9aafb7d741d34c95a4a1bef58d352358",
-      "who": "chuckj@google.com",
+      "who": "Chuck Jazdzewski <chuckj@google.com>",
       "when": "2017-03-20T16:31:11-07:00",
       "all": 347,
       "test": 250,
@@ -11,7 +11,7 @@
     },
     {
       "id": "7354949763d30aee56772d02be14831714338c83",
-      "who": "chuckj@google.com",
+      "who": "Chuck Jazdzewski <chuckj@google.com>",
       "when": "2017-03-20T16:30:50-07:00",
       "all": 31,
       "test": 17,
@@ -20,7 +20,7 @@
     },
     {
       "id": "5efc86069ff92d980bb460c15deccb1e0fff9363",
-      "who": "karakara@google.com",
+      "who": "Kara Erickson <karakara@google.com>",
       "when": "2017-03-20T17:38:33-07:00",
       "all": 310,
       "test": 212,
@@ -28,8 +28,26 @@
       "pct": 70.9
     },
     {
+      "id": "c9710d4fb5ff7acd2fe81b68e40186eb8c865def",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2017-03-20T21:32:50-07:00",
+      "all": 41,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "cf16f3b0ddf1fe620ea347cda21be7456266d88d",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2017-03-20T21:29:48-07:00",
+      "all": 64,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "2eb027a793ae8e67dbc1ed148ac99f50881c8268",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2017-03-20T07:03:17+00:00",
       "all": 22,
       "test": 0,
@@ -38,7 +56,7 @@
     },
     {
       "id": "4e10faf1eb94778112434a84b06a86194e1aed35",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2017-03-20T22:23:20+00:00",
       "all": 197,
       "test": 0,
@@ -47,7 +65,7 @@
     },
     {
       "id": "fbccd5cd38bb76971211a0bd833e94188d9f75ff",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2017-03-20T16:31:55-07:00",
       "all": 181,
       "test": 76,
@@ -56,7 +74,7 @@
     },
     {
       "id": "1d7693c1e1ada9a26163324d10ea50cea4e5bf88",
-      "who": "olivier.combe@gmail.com",
+      "who": "Olivier Combe <olivier.combe@gmail.com>",
       "when": "2017-03-20T14:52:24+01:00",
       "all": 24,
       "test": 6,
@@ -65,7 +83,7 @@
     },
     {
       "id": "16e042308594d53f437a44e01d29c7b39906011a",
-      "who": "chuckj@google.com",
+      "who": "Chuck Jazdzewski <chuckj@google.com>",
       "when": "2017-03-20T19:43:39-07:00",
       "all": 17,
       "test": 10,
@@ -73,8 +91,26 @@
       "pct": 58.8
     },
     {
+      "id": "c2ffb6bfcd47bd8ccb6b02610da4f2fd82c2690b",
+      "who": "Chuck Jazdzewski <chuckj@google.com>",
+      "when": "2017-03-20T19:17:29-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "2489e4ba1b3387d0c7fd39a6dc5f11641b1df224",
+      "who": "Stanimira Vlaeva <stanimira.vlaeva@gmail.com>",
+      "when": "2017-03-20T12:22:22+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "94da80148ef324ee00c7b734448f6d6c4d634e5b",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2017-03-20T10:35:02-07:00",
       "all": 61,
       "test": 41,
@@ -83,7 +119,7 @@
     },
     {
       "id": "764e90f9bb0dfdec164bb5db515891f8470c07fa",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2017-03-20T15:26:06-07:00",
       "all": 52,
       "test": 30,
@@ -92,7 +128,7 @@
     },
     {
       "id": "9bf2fb4a74eec11c7f1c35530f4fc1f858e6a008",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2017-03-20T14:28:10-07:00",
       "all": 170,
       "test": 146,
@@ -101,7 +137,7 @@
     },
     {
       "id": "61135bc84243ce090d674422cb3913a04424b5ca",
-      "who": "misko@hevery.com",
+      "who": "Mi\u00c5\u00a1ko Hevery <misko@hevery.com>",
       "when": "2017-03-20T10:07:08-07:00",
       "all": 2,
       "test": 0,
@@ -110,7 +146,7 @@
     },
     {
       "id": "fa36ffda14509ba053c9538f1d442a482df16d9a",
-      "who": "misko@hevery.com",
+      "who": "Mis\u00cc\u008cko Hevery <misko@hevery.com>",
       "when": "2017-03-20T15:04:20-07:00",
       "all": 43,
       "test": 28,
@@ -119,7 +155,7 @@
     },
     {
       "id": "d3eda7a5b5662e4bb01ea5ec5dd981eea3fbef04",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2017-03-20T09:19:25-07:00",
       "all": 25,
       "test": 6,

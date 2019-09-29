@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "5a405011de532480bcd2da8ab40a36955346d45d",
-      "who": "middlefloor@gmail.com",
+      "who": "Jeff Cross <middlefloor@gmail.com>",
       "when": "2015-07-28T13:10:25-07:00",
       "all": 477,
       "test": 65,
@@ -11,7 +11,7 @@
     },
     {
       "id": "c20a5d65d86c57227a1f3d3cc0b0ca2b085eac48",
-      "who": "jelbourn@google.com",
+      "who": "Jeremy Elbourn <jelbourn@google.com>",
       "when": "2015-07-28T11:38:40-07:00",
       "all": 93,
       "test": 53,
@@ -20,7 +20,7 @@
     },
     {
       "id": "7bf7ec6d9c8296a206864bbb7310cebe8e4d7259",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2015-07-28T01:46:09-04:00",
       "all": 118,
       "test": 91,
@@ -29,7 +29,7 @@
     },
     {
       "id": "60f38eab78267ea6996db511af5a2fe5eb9413a0",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2015-07-28T23:19:56-04:00",
       "all": 32,
       "test": 23,
@@ -38,7 +38,7 @@
     },
     {
       "id": "dad9338c8277e9acc080820e399846e689fa6446",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2015-07-28T14:41:36-07:00",
       "all": 51,
       "test": 0,
@@ -47,7 +47,7 @@
     },
     {
       "id": "c5cb7009ca5d06830345cf0ce8982d2ff5ef7ee2",
-      "who": "jteplitz602@gmail.com",
+      "who": "Jason Teplitz <jteplitz602@gmail.com>",
       "when": "2015-07-28T16:38:55-07:00",
       "all": 975,
       "test": 30,
@@ -56,7 +56,7 @@
     },
     {
       "id": "d44827a4c5d06d605c705bf262257901c16e0e5a",
-      "who": "jteplitz602@gmail.com",
+      "who": "Jason Teplitz <jteplitz602@gmail.com>",
       "when": "2015-07-28T16:38:55-07:00",
       "all": 975,
       "test": 30,
@@ -65,7 +65,7 @@
     },
     {
       "id": "0a400249958a7ce2263bdf37b8524ac84fe68964",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2015-07-28T15:56:18+02:00",
       "all": 23,
       "test": 23,
@@ -74,7 +74,7 @@
     },
     {
       "id": "d4ded1a60d5164836fc6384c257eccbec4d3d7b6",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2015-07-28T16:25:33-07:00",
       "all": 7,
       "test": 0,
@@ -83,7 +83,7 @@
     },
     {
       "id": "c1ee9435330ba1e24eea25fcdeacd81b8bf4f0fb",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2015-07-28T15:57:05-07:00",
       "all": 384,
       "test": 154,
@@ -92,7 +92,7 @@
     },
     {
       "id": "f7d778991513738f82124e2a01c89327ac80848a",
-      "who": "jelbourn@google.com",
+      "who": "Jeremy Elbourn <jelbourn@google.com>",
       "when": "2015-07-28T17:27:33-07:00",
       "all": 31,
       "test": 28,
@@ -101,7 +101,7 @@
     },
     {
       "id": "73b7d99dc495aafe19cd2a091e5114e19e50026a",
-      "who": "yjbanov@google.com",
+      "who": "yjbanov <yjbanov@google.com>",
       "when": "2015-07-28T18:38:35-07:00",
       "all": 48,
       "test": 31,
@@ -110,7 +110,7 @@
     },
     {
       "id": "192cf9ddf5e214225019584ae143981e3d60422a",
-      "who": "tjblasi@google.com",
+      "who": "Tim Blasi <tjblasi@google.com>",
       "when": "2015-07-28T12:43:41-07:00",
       "all": 437,
       "test": 0,
@@ -119,7 +119,7 @@
     },
     {
       "id": "aae5a4cece5a5185cbde63bb49f53ea5281815be",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2015-07-28T11:13:00+02:00",
       "all": 8,
       "test": 0,
@@ -127,8 +127,17 @@
       "pct": 0.0
     },
     {
+      "id": "2faa89852b7ef3635c7f66660925a1bbc2dade5a",
+      "who": "Jacob MacDonald <jakemac@google.com>",
+      "when": "2015-07-28T14:37:53-07:00",
+      "all": 17,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "448ca384ccf6268a95f534f06ec58b673ac762a0",
-      "who": "naomitraveller@gmail.com",
+      "who": "Naomi Black <naomitraveller@gmail.com>",
       "when": "2015-07-28T13:47:31-07:00",
       "all": 3,
       "test": 0,
@@ -137,7 +146,7 @@
     },
     {
       "id": "d426af741c666aa2fe39dd990c80def84bf0e7e9",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-07-28T12:00:18+01:00",
       "all": 37,
       "test": 0,
@@ -145,8 +154,17 @@
       "pct": 0.0
     },
     {
+      "id": "6ab2a871ce053bba96741177fb19ad299a7c471e",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
+      "when": "2015-07-28T11:58:56+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "74b311a472dadd32e6acb732271ce1502e732d82",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-07-28T14:13:31+01:00",
       "all": 8,
       "test": 0,
@@ -155,7 +173,7 @@
     },
     {
       "id": "81d298dc6beeff68151ba6ff38cbd9caedacfdb9",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-07-28T12:45:51+01:00",
       "all": 3,
       "test": 0,
@@ -164,7 +182,7 @@
     },
     {
       "id": "35597a8349795255c23113e4e7fc24fb9eafa9f4",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-07-28T11:23:48+01:00",
       "all": 8,
       "test": 0,
@@ -173,7 +191,7 @@
     },
     {
       "id": "45cbc430e83ae92e679225e51b7d9445ed7e309c",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-07-28T11:23:01+01:00",
       "all": 42,
       "test": 0,

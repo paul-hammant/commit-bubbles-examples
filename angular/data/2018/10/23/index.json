@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "72f3d999208e747156c8e65981d7db57c5cee045",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2018-10-23T21:34:57+03:00",
       "all": 7,
       "test": 7,
@@ -10,8 +10,17 @@
       "pct": 100.0
     },
     {
+      "id": "07509da78d50402549a0e0103605335663155203",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
+      "when": "2018-10-23T11:10:59+01:00",
+      "all": 18,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "9ff8155cd95d58fd223bb69496a265c816d1e58c",
-      "who": "pete@bacondarwin.com",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
       "when": "2018-10-23T11:02:29+01:00",
       "all": 13,
       "test": 0,
@@ -19,8 +28,26 @@
       "pct": 0.0
     },
     {
+      "id": "9cd8327051e593210bda9ed606dcc19da26650b9",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2018-10-23T16:34:45+03:00",
+      "all": 146,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "1d8f939c960f13067c43ef38905932a9b5148952",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2018-10-23T15:03:55+03:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "7c730fe5b39edd8aabdf6aea89d91a4d1f36917e",
-      "who": "pete@bacondarwin.com",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
       "when": "2018-10-23T11:48:49+01:00",
       "all": 54,
       "test": 0,
@@ -29,7 +56,7 @@
     },
     {
       "id": "f2331319743204daab7959956605d6b93aea1d1c",
-      "who": "pete@bacondarwin.com",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
       "when": "2018-10-23T11:35:18+01:00",
       "all": 85,
       "test": 0,
@@ -38,7 +65,7 @@
     },
     {
       "id": "2c7386c9613160c911544c1c626a6f4afdde707d",
-      "who": "karakara@google.com",
+      "who": "Kara Erickson <karakara@google.com>",
       "when": "2018-10-23T14:28:15-07:00",
       "all": 553,
       "test": 66,
@@ -47,7 +74,7 @@
     },
     {
       "id": "9dc52d9d04b8e91c1f251391cbc3cae1f44cb19c",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2018-10-23T15:33:01-07:00",
       "all": 120,
       "test": 44,
@@ -55,12 +82,84 @@
       "pct": 36.7
     },
     {
+      "id": "13a803d4f7c1d4c0678b1ae47b7bd7b7f689802b",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
+      "when": "2018-10-23T18:20:10+01:00",
+      "all": 14,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "7f39f37003ae2a7e84abace3e78680852e622534",
-      "who": "gmagolan@gmail.com",
+      "who": "Greg Magolan <gmagolan@gmail.com>",
       "when": "2018-10-23T18:02:43-07:00",
       "all": 57,
       "test": 0,
       "testable": 8,
+      "pct": 0.0
+    },
+    {
+      "id": "07b89902d5178afefeedeb18d316f4a1c77c6025",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-10-23T14:43:17-07:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "ee0b857172355cbc4285731406ef5e6be50c72a9",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-10-23T09:54:12-07:00",
+      "all": 154,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "e0d6782d269add547b3b366348fd0f6d9db714fa",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-10-23T09:52:41-07:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "2f9e9575233f444b78406db7e31e5d811a8dcf33",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2018-10-23T13:08:56-07:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "38dbae9ca0a7f834893610d28062601d896cf71b",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
+      "when": "2018-10-23T12:29:26-07:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "5a3077f46ca69123a580defdeae345229065e048",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-10-23T12:26:38-07:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d0cc019c1ae03555c61b47152ff4ce4616ebd21e",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2018-10-23T11:50:15-07:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     }
   ],

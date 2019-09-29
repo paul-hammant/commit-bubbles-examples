@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "a66cdb469f56f8ebab2e5f2e44d59b53effd0489",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2016-04-28T17:50:03-07:00",
       "all": 13727,
       "test": 5050,
@@ -11,7 +11,7 @@
     },
     {
       "id": "505da6c0a8a852898475410918f06cce15d5b1e2",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2016-04-28T08:02:15-07:00",
       "all": 60,
       "test": 2,
@@ -20,7 +20,7 @@
     },
     {
       "id": "365be6a3099623210af43cae87dca36f7931a5c1",
-      "who": "martin@probst.io",
+      "who": "Martin Probst <martin@probst.io>",
       "when": "2016-04-28T23:28:13-07:00",
       "all": 397,
       "test": 276,
@@ -29,7 +29,7 @@
     },
     {
       "id": "713e6d4affd9a39e48245ede000c967b465746ce",
-      "who": "martin@probst.io",
+      "who": "Martin Probst <martin@probst.io>",
       "when": "2016-04-28T23:12:52-07:00",
       "all": 9,
       "test": 0,
@@ -38,7 +38,7 @@
     },
     {
       "id": "cacdead96dcfbb80dff899b5f5143b7c28c4d6dd",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2016-04-28T14:00:31-07:00",
       "all": 551,
       "test": 233,
@@ -47,7 +47,7 @@
     },
     {
       "id": "96ae348648a2b19cd4018c858d780731e463ea40",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2016-04-28T21:58:51-07:00",
       "all": 53,
       "test": 18,
@@ -56,7 +56,7 @@
     },
     {
       "id": "78946fe9fae0dca554a759a41b9fcfa32dc64de9",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2016-04-28T21:57:16-07:00",
       "all": 783,
       "test": 49,
@@ -64,8 +64,17 @@
       "pct": 7.5
     },
     {
+      "id": "33e53c9a597e16d2e723507741ef4f079ac86c2c",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2016-04-28T21:55:18-07:00",
+      "all": 46,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "c493d88405f6b37349a5708092b98b2b8ebe6b79",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2016-04-28T21:54:02-07:00",
       "all": 648,
       "test": 411,
@@ -74,7 +83,7 @@
     },
     {
       "id": "30de2db3496cc51407fde1c55dee6a2ba8ce610d",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-04-28T18:33:48-07:00",
       "all": 837,
       "test": 115,
@@ -83,7 +92,7 @@
     },
     {
       "id": "602641dffd6ec74de9ade7ecf6ab66609d0ca86b",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-04-28T17:45:12-07:00",
       "all": 2427,
       "test": 0,
@@ -92,7 +101,7 @@
     },
     {
       "id": "560cc14d97ca618ebf89b10e9b8de7a390425df5",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-04-28T08:01:27-07:00",
       "all": 611,
       "test": 30,
@@ -100,13 +109,40 @@
       "pct": 4.9
     },
     {
+      "id": "073ec0a7eb581fb40e925ad8487d50b2e70ad029",
+      "who": "Naomi Black <naomiblack@users.noreply.github.com>",
+      "when": "2016-04-28T19:03:54-07:00",
+      "all": 21,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "ac55e1e27bdebbafda7bee60d4651d57636ce80a",
-      "who": "viks@google.com",
+      "who": "Vikram Subramanian <viks@google.com>",
       "when": "2016-04-28T12:03:13-07:00",
       "all": 33,
       "test": 26,
       "testable": 26,
       "pct": 100.0
+    },
+    {
+      "id": "0700c8a2527e542c726bcc9c0d724505720f4908",
+      "who": "Martin Probst <martin@probst.io>",
+      "when": "2016-04-28T11:47:32-07:00",
+      "all": 29,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c79e657fcddef5657e99bf6b3183dc9928a55fe7",
+      "who": "Martin Probst <martin@probst.io>",
+      "when": "2016-04-28T11:39:20-07:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

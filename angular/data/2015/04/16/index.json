@@ -1,8 +1,35 @@
 {
   "commits": [
     {
+      "id": "75e9d3f6344f2fd44a7d5897dc2d58ba21448f5a",
+      "who": "Julie Ralph <ju.ralph@gmail.com>",
+      "when": "2015-04-16T14:07:43-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "b1bc792b56ef7a34b218d49729fcae01b80feef1",
+      "who": "hdngr <h@graphalchemist.com>",
+      "when": "2015-04-16T14:57:39-07:00",
+      "all": 4,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "817c79ca7749fe80208f028827d49de696e2e6b5",
+      "who": "Julie Ralph <ju.ralph@gmail.com>",
+      "when": "2015-04-16T11:00:13-07:00",
+      "all": 18,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "883e1c1541faf1fe9433b5110392caf7134b6fc8",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2015-04-16T18:03:15+02:00",
       "all": 75,
       "test": 42,
@@ -11,7 +38,7 @@
     },
     {
       "id": "aabe83cf6324cf404c94d8d9fc02e9ddc7c28ff9",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2015-04-16T18:44:34+02:00",
       "all": 27,
       "test": 0,
@@ -20,7 +47,7 @@
     },
     {
       "id": "a00cb1de5019447a34d1b9f6e174ef2214c67cc9",
-      "who": "scheglov@google.com",
+      "who": "Konstantin Shcheglov <scheglov@google.com>",
       "when": "2015-04-16T10:23:46-07:00",
       "all": 5,
       "test": 0,
@@ -29,7 +56,7 @@
     },
     {
       "id": "3dc4df2ffa1ed0bc15112463f70f84ce7a735112",
-      "who": "yjbanov@google.com",
+      "who": "Yegor Jbanov <yjbanov@google.com>",
       "when": "2015-04-16T16:29:46-07:00",
       "all": 222,
       "test": 0,
@@ -38,12 +65,39 @@
     },
     {
       "id": "f830cfca12d7b90c44a4a9bbe8884b0dafb8b00a",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-04-16T15:38:28-07:00",
       "all": 703,
       "test": 368,
       "testable": 703,
       "pct": 52.3
+    },
+    {
+      "id": "8906cdbab8ba9df567cfd20c45b24f28340da2ae",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2015-04-16T16:35:38-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "8b28e99373d3032eef89cad97a87d7d594037a10",
+      "who": "Julie Ralph <ju.ralph@gmail.com>",
+      "when": "2015-04-16T09:43:22-07:00",
+      "all": 20,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "e927342e58923b568ebddbdf3459e1865e347561",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2015-04-16T08:54:44-07:00",
+      "all": 72,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

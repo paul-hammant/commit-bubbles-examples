@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "33340dbbd156d45e50b886f05095551f41c38600",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2016-09-23T16:23:28-07:00",
       "all": 1714,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "9be895b6da3b6442b03eac7845904e86ed63c26d",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2016-09-23T15:05:43-07:00",
       "all": 33,
       "test": 0,
@@ -19,8 +19,17 @@
       "pct": 0.0
     },
     {
+      "id": "9f1c82537ea46781df443bf10251333d55ab6d65",
+      "who": "Igor Minar <iminar@google.com>",
+      "when": "2016-09-23T14:04:29-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "5ab5cc77bb22654a91124d6941c04db0565d9aed",
-      "who": "florian.lestic@orange.fr",
+      "who": "Flounn <florian.lestic@orange.fr>",
       "when": "2016-09-23T22:44:01+02:00",
       "all": 24,
       "test": 18,
@@ -29,7 +38,7 @@
     },
     {
       "id": "f1b6c6efa1f25b725a8da6a3b91865698a7cafb4",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2016-09-23T16:37:04-04:00",
       "all": 745,
       "test": 114,
@@ -37,13 +46,49 @@
       "pct": 15.3
     },
     {
+      "id": "45ad13560b564d5aa15d45b5e49670dc94809231",
+      "who": "Igor Minar <iminar@google.com>",
+      "when": "2016-09-23T12:02:56-07:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "2045268cec02336db06b7dcf109497388c8427c6",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2016-09-23T11:41:35-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "fb1076b44aaefee2b686d0b99ce01ff46bcd977e",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2016-09-23T11:36:39-07:00",
+      "all": 36,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "6fc46526aefce57e49e305e0c88fce1639d06c43",
-      "who": "misko@hevery.com",
+      "who": "Mi\u00c5\u00a1ko Hevery <misko@hevery.com>",
       "when": "2016-09-23T10:47:16-07:00",
       "all": 38,
       "test": 28,
       "testable": 38,
       "pct": 73.7
+    },
+    {
+      "id": "bc337659130280f2c10eda8fcdf9e702de63deb8",
+      "who": "Suguru Inatomi <laco0416@gmail.com>",
+      "when": "2016-09-23T02:29:12+09:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

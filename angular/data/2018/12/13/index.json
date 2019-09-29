@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "0b9094ec63ea64a1cddc105453d09aa9e1fe1209",
-      "who": "alx+alxhub@alxandria.net",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
       "when": "2018-12-13T11:52:20-08:00",
       "all": 685,
       "test": 226,
@@ -11,7 +11,7 @@
     },
     {
       "id": "ac157170c802afd983636d4943491169f80d5614",
-      "who": "alx+alxhub@alxandria.net",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
       "when": "2018-12-13T11:11:15-08:00",
       "all": 31,
       "test": 0,
@@ -20,7 +20,7 @@
     },
     {
       "id": "13eb57a59fd4db27e88edb188947297b6637177f",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2018-12-13T15:51:47-08:00",
       "all": 5046,
       "test": 2404,
@@ -29,7 +29,7 @@
     },
     {
       "id": "8f8572fd3e3c988ef38e1293cbe7b1403188742e",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2018-12-13T11:14:33+01:00",
       "all": 432,
       "test": 301,
@@ -38,7 +38,7 @@
     },
     {
       "id": "8042140742708951f118501dc75a51b029513b1f",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2018-12-13T18:16:03+01:00",
       "all": 207,
       "test": 201,
@@ -47,7 +47,7 @@
     },
     {
       "id": "c986d3dcf4ba33cec6a448d17d1d344e8641bde3",
-      "who": "pete@bacondarwin.com",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
       "when": "2018-12-13T18:07:24+00:00",
       "all": 2289,
       "test": 2263,
@@ -56,7 +56,7 @@
     },
     {
       "id": "4df82bdbc1a3ec7b63912282b1337383ea105fb6",
-      "who": "olivier.combe@gmail.com",
+      "who": "Olivier Combe <olivier.combe@gmail.com>",
       "when": "2018-12-13T11:02:59+01:00",
       "all": 368,
       "test": 315,
@@ -64,8 +64,35 @@
       "pct": 100.0
     },
     {
+      "id": "f9545d1b1a3b090c9b5d0240bc87e0e25edf6964",
+      "who": "zackarychapple <zackarychapple30@gmail.com>",
+      "when": "2018-12-13T21:54:10-05:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c6ae72987b035b31d478c0e406ce1caa641b50e3",
+      "who": "Paul Gschwendtner <paulgschwendtner@gmail.com>",
+      "when": "2018-12-13T20:13:24+01:00",
+      "all": 21,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "31006f734e60ca4406af7cf8530227c127818ea3",
+      "who": "Paul Gschwendtner <paulgschwendtner@gmail.com>",
+      "when": "2018-12-13T19:42:39+01:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "10c7b89f1437a01c670ab4470786a5cbe41d3f7d",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2018-12-13T14:31:53+01:00",
       "all": 182,
       "test": 182,
@@ -74,7 +101,7 @@
     },
     {
       "id": "0397e08153e0b3c3ed96f3f5859b7ec7c61a80bd",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2018-12-13T15:18:51+01:00",
       "all": 43,
       "test": 43,
@@ -83,12 +110,21 @@
     },
     {
       "id": "6b9693157654bc148955f5b8eba29db2d829aabc",
-      "who": "alx+alxhub@alxandria.net",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
       "when": "2018-12-13T09:07:26-08:00",
       "all": 13,
       "test": 7,
       "testable": 7,
       "pct": 100.0
+    },
+    {
+      "id": "f00af3ea083da0904a59549251c77501cfc8ba88",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-12-13T06:48:36-08:00",
+      "all": 17,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "ad4a9bf03f49454ff8cf6cc6d39b31a5552ca505",
-      "who": "kyliau@google.com",
+      "who": "Keen Yee Liau <kyliau@google.com>",
       "when": "2019-01-30T10:34:36-08:00",
       "all": 39,
       "test": 33,
@@ -11,7 +11,7 @@
     },
     {
       "id": "f358188ec165e6dc716cca9291b1a797e0e2af9d",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2019-01-30T11:47:53+02:00",
       "all": 18,
       "test": 0,
@@ -20,7 +20,7 @@
     },
     {
       "id": "5db3a6b198521b92a5abc934752adf69b3ced68e",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2019-01-30T11:50:38+02:00",
       "all": 8,
       "test": 0,
@@ -28,8 +28,17 @@
       "pct": 0.0
     },
     {
+      "id": "264ef7280084566f39d0202cfb74da715835f20f",
+      "who": "Filipe Silva <filipematossilva@gmail.com>",
+      "when": "2019-01-30T14:02:53+00:00",
+      "all": 11,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "62a13e795a7b0d7a627d354aed722cbe823beefb",
-      "who": "misko@hevery.com",
+      "who": "Mi\u00c5\u00a1ko Hevery <misko@hevery.com>",
       "when": "2019-01-30T23:42:26+00:00",
       "all": 163,
       "test": 10,
@@ -38,7 +47,7 @@
     },
     {
       "id": "5ebc0da640f9e654b3111a0e33ce7844fe884605",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2019-01-30T12:18:27+01:00",
       "all": 51,
       "test": 24,
@@ -47,7 +56,7 @@
     },
     {
       "id": "7219639ff3bedf8c9bbe616811e6865a89f2ea6b",
-      "who": "alexeagle@angular.io",
+      "who": "Alex Eagle <alexeagle@angular.io>",
       "when": "2019-01-30T08:30:53-08:00",
       "all": 35,
       "test": 0,
@@ -56,7 +65,7 @@
     },
     {
       "id": "fc88a79b3217307b302407e915b52f390291ed45",
-      "who": "crisbeto@abv.bg",
+      "who": "Kristiyan Kostadinov <crisbeto@abv.bg>",
       "when": "2019-01-30T15:23:23+01:00",
       "all": 227,
       "test": 158,
@@ -65,7 +74,7 @@
     },
     {
       "id": "71b9d5539ba0bc307477bf5f0e9a31f5792fab85",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2019-01-30T12:18:27+01:00",
       "all": 53,
       "test": 24,
@@ -74,7 +83,7 @@
     },
     {
       "id": "5c4d95541e498b0ffe78e3fd5182d2242abfc542",
-      "who": "karakara@google.com",
+      "who": "Kara Erickson <karakara@google.com>",
       "when": "2019-01-30T21:54:44-08:00",
       "all": 482,
       "test": 394,
@@ -83,7 +92,7 @@
     },
     {
       "id": "36902e2f0eb45852fff345133f6fbe31cd4d2145",
-      "who": "kyliau@google.com",
+      "who": "Keen Yee Liau <kyliau@google.com>",
       "when": "2019-01-30T17:11:03-08:00",
       "all": 59,
       "test": 0,
@@ -92,7 +101,7 @@
     },
     {
       "id": "c0b383590e5f812c9c10a716fad56ec75d7eaedc",
-      "who": "karakara@google.com",
+      "who": "Kara Erickson <karakara@google.com>",
       "when": "2019-01-30T15:29:09-08:00",
       "all": 32,
       "test": 0,
@@ -101,11 +110,38 @@
     },
     {
       "id": "b35ef184a7b3caadb4fd5c85b7b87aa96f681036",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2019-01-30T16:38:59+01:00",
       "all": 87,
       "test": 0,
       "testable": 57,
+      "pct": 0.0
+    },
+    {
+      "id": "b1e099b657fef6d73533464fd0d75cf13b190344",
+      "who": "Keen Yee Liau <kyliau@google.com>",
+      "when": "2019-01-30T15:20:24-08:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "a9c881e243fee5c35d382755b1d381b932b6782a",
+      "who": "Jason Aden <jasonaden@google.com>",
+      "when": "2019-01-30T12:10:51-08:00",
+      "all": 27,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "038303eed1fd76ba0b2e24c6f251cc270c91a193",
+      "who": "Jason Aden <jasonaden@google.com>",
+      "when": "2019-01-30T12:07:52-08:00",
+      "all": 19,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     }
   ],

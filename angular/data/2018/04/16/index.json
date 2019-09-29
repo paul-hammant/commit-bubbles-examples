@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "fe3679a356275156e9d5fe03ded0068f9db3d58d",
-      "who": "swseverance@gmail.com",
+      "who": "swseverance <swseverance@gmail.com>",
       "when": "2018-04-16T21:27:16-04:00",
       "all": 143,
       "test": 6,
@@ -10,8 +10,17 @@
       "pct": 4.2
     },
     {
+      "id": "b4c252bcc5490a3208468e6cf16b565b6f85968b",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2018-04-16T14:55:47-07:00",
+      "all": 251,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "84f024309a5c98966ce8faef4a8d842407bbbed7",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2018-04-16T11:49:11-07:00",
       "all": 41,
       "test": 0,
@@ -20,7 +29,7 @@
     },
     {
       "id": "c6b206ee4b5520f828884838a57e7b4836a04038",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2018-04-16T00:15:12-06:00",
       "all": 44,
       "test": 44,
@@ -28,8 +37,17 @@
       "pct": 100.0
     },
     {
+      "id": "fd48e53986722f27e5160c28c215964954247790",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-04-16T00:15:12-06:00",
+      "all": 10,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "fe312ccb4c3491d5c245d19d525ee580d62d9e05",
-      "who": "robertsbt@gmail.com",
+      "who": "Brandon Roberts <robertsbt@gmail.com>",
       "when": "2018-04-16T07:14:31-05:00",
       "all": 22,
       "test": 0,
@@ -38,7 +56,7 @@
     },
     {
       "id": "7be7abdebd6b8582642bf16e5102a32b30750e99",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2018-04-16T13:28:51-07:00",
       "all": 29,
       "test": 0,
@@ -47,7 +65,7 @@
     },
     {
       "id": "99f8e108094e8dd2b023b9e02f8b672ea8308ff6",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2018-04-16T00:02:28+03:00",
       "all": 210,
       "test": 199,
@@ -56,12 +74,48 @@
     },
     {
       "id": "7f612fc8284b99193adad43602a66c7ec4da5879",
-      "who": "karakara@google.com",
+      "who": "Kara Erickson <karakara@google.com>",
       "when": "2018-04-16T15:29:42-07:00",
       "all": 94,
       "test": 91,
       "testable": 94,
       "pct": 96.8
+    },
+    {
+      "id": "c3280b2c2ffdafaf025522e0e6d01199b1ffb275",
+      "who": "Eyal Cherevatzki <eyal.3555@protonmail.com>",
+      "when": "2018-04-16T18:15:38+03:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d11b249d3653ccf2c75f757531ba59d61c116e4b",
+      "who": "Eyal Cherevatzki <eyal.3555@protonmail.com>",
+      "when": "2018-04-16T18:13:58+03:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "43615604d1bc5578b88831861280a096e38b4eea",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-04-16T03:09:48-06:00",
+      "all": 11,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d9792309eca30363e5a3a69e030b3a3aa55f9bba",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-04-16T01:43:44-06:00",
+      "all": 34,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

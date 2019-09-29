@@ -2,12 +2,39 @@
   "commits": [
     {
       "id": "914fa98d28e2380ac06b401d3d259b636f91a881",
-      "who": "julian.maughan@gmail.com",
+      "who": "Julian Maughan <julian.maughan@gmail.com>",
       "when": "2012-01-28T11:19:46+08:00",
       "all": 467,
       "test": 228,
       "testable": 440,
       "pct": 51.8
+    },
+    {
+      "id": "c7803e0ddf59570eede7407f762ed361bb27a452",
+      "who": "Marcin Miko\u00c5\u0082ajczak <marcin.mikolajczak@symbolsource.org>",
+      "when": "2012-01-28T15:33:26+01:00",
+      "all": 4,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "19f37fe5f693ba2c9d533f669c0c3aa1d40814f8",
+      "who": "Marcin Miko\u00c5\u0082ajczak <marcin.mikolajczak@symbolsource.org>",
+      "when": "2012-01-28T15:31:25+01:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "a4e2dfd7ec4d565dee070f866fa75bc59585011d",
+      "who": "Marcin Miko\u00c5\u0082ajczak <marcin.mikolajczak@symbolsource.org>",
+      "when": "2012-01-28T15:30:47+01:00",
+      "all": 11,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "NHibernate (master branch)",

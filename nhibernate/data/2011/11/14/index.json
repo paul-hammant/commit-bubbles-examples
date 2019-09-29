@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "08aeab432865ec7633eefb751b91cd6b061d575d",
-      "who": "julian.maughan@gmail.com",
+      "who": "Julian Maughan <julian.maughan@gmail.com>",
       "when": "2011-11-14T22:16:19+08:00",
       "all": 85,
       "test": 75,
@@ -11,12 +11,21 @@
     },
     {
       "id": "3b1e68895d53d93ced5a1c3ada19da9e0ec5c79a",
-      "who": "julian.maughan@gmail.com",
+      "who": "Julian Maughan <julian.maughan@gmail.com>",
       "when": "2011-11-14T00:12:28+08:00",
       "all": 444,
       "test": 66,
       "testable": 425,
       "pct": 15.5
+    },
+    {
+      "id": "0fed4dc1d3a0dda50a5ea49725c539bff0c251f0",
+      "who": "Morten Brix Pedersen <morten@wtf.dk>",
+      "when": "2011-11-14T11:30:35+01:00",
+      "all": 11,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "NHibernate (master branch)",

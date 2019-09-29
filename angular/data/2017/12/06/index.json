@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "619b8ab8220a7bc87a512d597c19a063d0ca5fa2",
-      "who": "i@jhuang.me",
+      "who": "Hu\u00c3\u00a1ng J\u00c3\u00b9nli\u00c3\u00a0ng <i@jhuang.me>",
       "when": "2017-12-06T22:30:00+08:00",
       "all": 9,
       "test": 9,
@@ -11,7 +11,7 @@
     },
     {
       "id": "dde1d672326c9d69731247c0e582a4bb88622093",
-      "who": "i@jhuang.me",
+      "who": "Hu\u00c3\u00a1ng J\u00c3\u00b9nli\u00c3\u00a0ng <i@jhuang.me>",
       "when": "2017-12-06T22:29:20+08:00",
       "all": 3,
       "test": 3,
@@ -20,7 +20,7 @@
     },
     {
       "id": "3c34b8b4f1ad32aef1b2e5213b6236c54ad93416",
-      "who": "i@jhuang.me",
+      "who": "Hu\u00c3\u00a1ng J\u00c3\u00b9nli\u00c3\u00a0ng <i@jhuang.me>",
       "when": "2017-12-06T18:45:51+08:00",
       "all": 13,
       "test": 0,
@@ -29,7 +29,7 @@
     },
     {
       "id": "f593552cfe44ced74a3ec7e95a9ae847094fb632",
-      "who": "psreep@gmail.com",
+      "who": "chembu <psreep@gmail.com>",
       "when": "2017-12-06T18:12:19-08:00",
       "all": 287,
       "test": 0,
@@ -37,8 +37,26 @@
       "pct": 0.0
     },
     {
+      "id": "b3eb1db6dd57a0820cfc94af5460ceb3fea20610",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2017-12-06T09:23:05-08:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "ee0dab025b2264f9fb93b8f40cda208b7a4fe4c2",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2017-12-06T09:22:45-08:00",
+      "all": 25,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "b7738e1fe5364d8e051db7355ac122a17562c9ad",
-      "who": "olivier.combe@gmail.com",
+      "who": "Olivier Combe <olivier.combe@gmail.com>",
       "when": "2017-12-06T10:13:50+01:00",
       "all": 151,
       "test": 68,
@@ -47,7 +65,7 @@
     },
     {
       "id": "70cd124ededef29b8846145116795faf29ad037e",
-      "who": "chuckj@google.com",
+      "who": "Chuck Jazdzewski <chuckj@google.com>",
       "when": "2017-12-06T10:32:39-08:00",
       "all": 129,
       "test": 119,
@@ -56,7 +74,7 @@
     },
     {
       "id": "3ce3b4d2afdc5198a9a5a9432db1f88e2e5d1972",
-      "who": "olivier.combe@gmail.com",
+      "who": "Olivier Combe <olivier.combe@gmail.com>",
       "when": "2017-12-06T15:34:42+01:00",
       "all": 2778,
       "test": 0,
@@ -65,7 +83,7 @@
     },
     {
       "id": "c9ad529afcd88efa3f0c4e8460db307abed2246c",
-      "who": "350002947@qq.com",
+      "who": "luffySAMA <350002947@qq.com>",
       "when": "2017-12-06T12:05:24+08:00",
       "all": 9,
       "test": 0,
@@ -73,8 +91,17 @@
       "pct": 0.0
     },
     {
+      "id": "75e468494c5b40b140e77b8bef204ca14478caac",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2017-12-06T14:03:16-08:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "4efc32dabfb5f1b096751887de849fc81d314dba",
-      "who": "martin@probst.io",
+      "who": "Martin Probst <martin@probst.io>",
       "when": "2017-12-06T14:35:54+01:00",
       "all": 5,
       "test": 0,
@@ -83,7 +110,7 @@
     },
     {
       "id": "ef534c0cc16b4fd3a4c721f814e5530d63cd6642",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2017-12-06T06:56:49-08:00",
       "all": 947,
       "test": 46,
@@ -92,12 +119,30 @@
     },
     {
       "id": "073f485c7240206e8d8836c1c52aba29f15bd275",
-      "who": "kyliau@google.com",
+      "who": "Keen Yee Liau <kyliau@google.com>",
       "when": "2017-12-06T15:27:23-08:00",
       "all": 63,
       "test": 30,
       "testable": 63,
       "pct": 47.6
+    },
+    {
+      "id": "c2dbc55f115eb259a6d90e2b45ed61c329258c22",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2017-12-06T12:08:51-08:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "9ee270382449327022132e91f0f3aabfe6a49a0b",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2017-12-06T12:13:52-08:00",
+      "all": 13,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

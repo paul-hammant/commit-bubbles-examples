@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "3637f328439c9c8ab2d165cbf328fb131f8716a2",
-      "who": "aslak.hellesoy@gmail.com",
+      "who": "Aslak Helles\u00c3\u00b8y <aslak.hellesoy@gmail.com>",
       "when": "2012-04-23T21:58:19+01:00",
       "all": 7,
       "test": 0,
@@ -10,22 +10,40 @@
       "pct": 0.0
     },
     {
+      "id": "fe3d33854a9e46771161fea08f8cce4b5f62c733",
+      "who": "David Saff <saff@google.com>",
+      "when": "2012-04-23T11:42:54-07:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "834dcd7b89a57436c7aa2cb68dbc041fa03a89e1",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2012-04-23T20:37:44+02:00",
+      "all": 11,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "7439e56cc7c2261d231ec46e048c7ac762e7a8cc",
-      "who": "saff@google.com",
+      "who": "David Saff <saff@google.com>",
       "when": "2012-04-23T11:28:32-07:00",
-      "all": 44,
-      "test": 38,
-      "testable": 44,
-      "pct": 86.4
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "b30f66d9ba6c3bbc06073e6c32ef222fe7aa6a18",
-      "who": "saff@google.com",
+      "who": "David Saff <saff@google.com>",
       "when": "2012-04-23T11:08:25-07:00",
-      "all": 33,
-      "test": 21,
-      "testable": 33,
-      "pct": 63.6
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 4 (master branch)",

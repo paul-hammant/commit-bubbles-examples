@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "e5a22064cce137cb4897779050966a719dd4bdce",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-01-29T15:40:08+01:00",
       "all": 29,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "1efacfe53d27913f640c886633340c37f76eafda",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-01-29T15:01:26+01:00",
       "all": 13,
       "test": 0,
@@ -20,11 +20,20 @@
     },
     {
       "id": "3fd43062c8127857f98c09a06bf70710b2dc2f68",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-01-29T14:17:45+01:00",
       "all": 60,
       "test": 0,
       "testable": 60,
+      "pct": 0.0
+    },
+    {
+      "id": "d59ad97d76eeb7cf39809e598bb3a34c57c81978",
+      "who": "antirez <antirez@gmail.com>",
+      "when": "2015-01-29T13:21:42+01:00",
+      "all": 4,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     }
   ],

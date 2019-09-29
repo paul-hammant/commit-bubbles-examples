@@ -1,8 +1,35 @@
 {
   "commits": [
     {
+      "id": "516af6c53186b928d5052db17e84156c424cff96",
+      "who": "Judy Bogart <jbogart@gmail.com>",
+      "when": "2018-10-22T09:04:30-07:00",
+      "all": 11,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "66be3c9f51324e905e9a11cd0a5b810c870a7c38",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2018-10-22T14:26:52-07:00",
+      "all": 118,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "ef6f1605db3bda74223a0dc143cb1982dea98fb9",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2018-10-22T16:56:31+03:00",
+      "all": 8,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "f6991dec3b3fbb42548fe4134a52eaeb9a534382",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2018-10-22T15:34:59+03:00",
       "all": 6,
       "test": 3,
@@ -11,7 +38,7 @@
     },
     {
       "id": "0367d14044b019439df836dd7561ab25c1bf0e69",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2018-10-22T15:33:40+03:00",
       "all": 36,
       "test": 33,
@@ -20,7 +47,7 @@
     },
     {
       "id": "4f250726aa7b8ba72e0353fc06b4216e5c5ebae4",
-      "who": "igor@angular.io",
+      "who": "Igor Minar <igor@angular.io>",
       "when": "2018-10-22T13:52:28-07:00",
       "all": 3,
       "test": 0,
@@ -29,7 +56,7 @@
     },
     {
       "id": "86d30991410be6c7e8a8c8fa29777cef5b39c7eb",
-      "who": "igor@angular.io",
+      "who": "Igor Minar <igor@angular.io>",
       "when": "2018-10-22T13:58:49-07:00",
       "all": 633,
       "test": 45,
@@ -38,7 +65,7 @@
     },
     {
       "id": "95993e1dd523cff96ebc2b42beb1e75dc95ca049",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2018-10-22T15:16:03-07:00",
       "all": 82,
       "test": 58,
@@ -46,13 +73,76 @@
       "pct": 70.7
     },
     {
+      "id": "b876356527a7b05ab34d7b867bea811daf77cb09",
+      "who": "Luis Reinoso <lomejordejr@gmail.com>",
+      "when": "2018-10-22T10:06:54-05:00",
+      "all": 12,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "2e28d9f0124ddfc0c15fd8ae84507278e6238358",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2018-10-22T13:06:20+03:00",
+      "all": 45,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "83dc3c0ee0d497a0bcd2db8f4fd35074310dc5ca",
+      "who": "Greg Magolan <gmagolan@gmail.com>",
+      "when": "2018-10-22T13:04:01-07:00",
+      "all": 8,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "5952775a03ca36cbb7bc63ab04b12496b1b389c1",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-10-22T19:43:13-07:00",
+      "all": 17,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "57531737e51ac26bf5065c900fa8c9c78eacf57d",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-10-22T18:02:42-07:00",
+      "all": 8,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "3fd50f07fdb107483c4d25099d018dbbcc789aaa",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-10-22T14:59:50-07:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "ff767dd153742fd44c0253f7489eea89d27cee7a",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2018-10-22T14:10:42+02:00",
       "all": 121,
       "test": 111,
       "testable": 121,
       "pct": 91.7
+    },
+    {
+      "id": "34c6ce6b080e0667854b7ebc6487da0bc4ee7972",
+      "who": "jenniferfell <jenniferfell.sf@gmail.com>",
+      "when": "2018-10-22T14:24:03-06:00",
+      "all": 61,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

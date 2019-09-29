@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "400f866074e206a597dd7f685d0bc3bb5fde4705",
-      "who": "fredericdelaporte@free.fr",
+      "who": "Fr\u00c3\u00a9d\u00c3\u00a9ric Delaporte <fredericdelaporte@free.fr>",
       "when": "2017-03-24T01:32:29+01:00",
       "all": 538,
       "test": 418,
@@ -11,7 +11,7 @@
     },
     {
       "id": "acd305de16016fe97bc1d078b6daeaf36117b560",
-      "who": "hazzik@gmail.com",
+      "who": "Alexander Zaytsev <hazzik@gmail.com>",
       "when": "2017-03-24T17:36:19+13:00",
       "all": 335,
       "test": 0,
@@ -19,8 +19,17 @@
       "pct": 0.0
     },
     {
+      "id": "cd02df414aeb4ad6100bee0fbdfb3266daf3106e",
+      "who": "Alexander Zaytsev <hazzik@gmail.com>",
+      "when": "2017-03-24T17:32:43+13:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "0dbacba4d5be657edded8c20c8ed0fe118169ecd",
-      "who": "hazzik@gmail.com",
+      "who": "Alexander Zaytsev <hazzik@gmail.com>",
       "when": "2017-03-24T01:48:47+13:00",
       "all": 505,
       "test": 0,
@@ -29,7 +38,7 @@
     },
     {
       "id": "fd1b81abef030de011e8f3198b677d716f1e1602",
-      "who": "hazzik@gmail.com",
+      "who": "Alexander Zaytsev <hazzik@gmail.com>",
       "when": "2017-03-24T01:22:39+13:00",
       "all": 112,
       "test": 0,
@@ -38,7 +47,7 @@
     },
     {
       "id": "fba9c79a63aa02fdb3c24639025b42f21fbe31c7",
-      "who": "hazzik@gmail.com",
+      "who": "Alexander Zaytsev <hazzik@gmail.com>",
       "when": "2017-03-24T01:09:37+13:00",
       "all": 141,
       "test": 19,
@@ -46,13 +55,31 @@
       "pct": 13.7
     },
     {
+      "id": "50bafb3a66c6f0da4becf9efb5949ba2c8fcef5f",
+      "who": "Alexander Zaytsev <hazzik@gmail.com>",
+      "when": "2017-03-24T00:28:22+13:00",
+      "all": 28,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c608d78b98c087ad194c49d0f75a4f83d0da19f9",
+      "who": "Fr\u00c3\u00a9d\u00c3\u00a9ric Delaporte <fredericdelaporte@free.fr>",
+      "when": "2017-03-24T15:30:11+01:00",
+      "all": 505,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "cb672393e86100fed86b685bf5e34e94e54e4e83",
-      "who": "hazzik@gmail.com",
+      "who": "Alexander Zaytsev <hazzik@gmail.com>",
       "when": "2017-03-24T12:18:31+13:00",
-      "all": 335,
-      "test": 19,
-      "testable": 333,
-      "pct": 5.7
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "NHibernate (master branch)",

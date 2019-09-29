@@ -1,8 +1,71 @@
 {
   "commits": [
     {
+      "id": "e47a77f941a7667735dc8d4042a82317b7d40449",
+      "who": "Prashant Andani <prashant.andani@gmail.com>",
+      "when": "2017-02-24T23:48:27+05:30",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "f32f4de95cfdfca94889b12a245830c69495576b",
+      "who": "Igor Minar <iminar@google.com>",
+      "when": "2017-02-24T18:24:18-08:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "26ed2621a3a5bd48880ec6e9cc497939bab69131",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2017-02-24T18:22:30-08:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c7d1b3664b04541ecbe88f213eba9cad70dcc6f1",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2017-02-24T18:08:28-08:00",
+      "all": 10,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "da79ad3cecee73f98d7a33ea350841cdd96d464b",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2017-02-24T14:45:50-08:00",
+      "all": 14,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "7b02eae0e87fecc79b08267f3a65f948ab526a1f",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2017-02-24T17:39:18-08:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "0c01d990bf14104b7de77d663d989c2299af9814",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2017-02-24T14:45:30-08:00",
+      "all": 145,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "2602b039b4bbb4d1a77a576c67dda6c7f22cfd39",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2017-02-24T16:28:14-08:00",
       "all": 21,
       "test": 7,
@@ -11,7 +74,7 @@
     },
     {
       "id": "9186068df1ad2e39664442ee549b170988ff836f",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2017-02-24T15:15:18-08:00",
       "all": 17,
       "test": 0,
@@ -20,7 +83,7 @@
     },
     {
       "id": "8824e393259d286c7d2de440f57cffe13b9e6a5d",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2017-02-24T14:47:36-08:00",
       "all": 122,
       "test": 6,
@@ -28,8 +91,17 @@
       "pct": 4.9
     },
     {
+      "id": "932a02f1c58d66fa3df4542347357f5571884701",
+      "who": "Jason Aden <jasonaden@users.noreply.github.com>",
+      "when": "2017-02-24T15:16:24-08:00",
+      "all": 30,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "3c9a46c231e8bc4193a7ae7e2baf1a5bac0a9b53",
-      "who": "iminar@google.com",
+      "who": "Igor Minar <iminar@google.com>",
       "when": "2017-02-24T13:03:55-08:00",
       "all": 3,
       "test": 0,
@@ -38,7 +110,7 @@
     },
     {
       "id": "436a17955289430f8bd8724c75d63ff68cb370b2",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2017-02-24T12:10:19-08:00",
       "all": 110,
       "test": 22,
@@ -47,7 +119,7 @@
     },
     {
       "id": "5094aef8fd4aa3a84c3e40505174d3738a8e0301",
-      "who": "chuckj@google.com",
+      "who": "Chuck Jazdzewski <chuckj@google.com>",
       "when": "2017-02-24T11:52:18-08:00",
       "all": 4,
       "test": 0,
@@ -56,7 +128,7 @@
     },
     {
       "id": "93ddd381076f43e60092b40b6ad24df7d067343e",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2017-02-24T09:36:58-08:00",
       "all": 35,
       "test": 19,
@@ -65,7 +137,7 @@
     },
     {
       "id": "32c2fd5c9fec8dc8e6b73ac930a48c2de389ddfc",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2017-02-24T00:32:19-08:00",
       "all": 56,
       "test": 20,
@@ -74,7 +146,7 @@
     },
     {
       "id": "ee747f7d0cf99c15c9c59187f9253331b13c85b6",
-      "who": "DzmitryShylovich@users.noreply.github.com",
+      "who": "Dzmitry Shylovich <DzmitryShylovich@users.noreply.github.com>",
       "when": "2017-02-24T05:04:51+03:00",
       "all": 50,
       "test": 0,

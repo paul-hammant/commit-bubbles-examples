@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "998d09ea1d7fe5de73a967a87a079f6aabd4963b",
-      "who": "hazzik@gmail.com",
+      "who": "hazzik <hazzik@gmail.com>",
       "when": "2012-06-25T14:00:30+06:00",
       "all": 6,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "01c87c23c7d1c0b9dcfaef820517b0b945b232fa",
-      "who": "hazzik@gmail.com",
+      "who": "hazzik <hazzik@gmail.com>",
       "when": "2012-06-25T12:19:07+06:00",
       "all": 31,
       "test": 31,
@@ -20,7 +20,7 @@
     },
     {
       "id": "5fa1411a1ccbfb6cbe6ec6def0f74ab1381009a5",
-      "who": "hazzik@gmail.com",
+      "who": "hazzik <hazzik@gmail.com>",
       "when": "2012-06-25T12:17:47+06:00",
       "all": 3,
       "test": 0,
@@ -29,7 +29,7 @@
     },
     {
       "id": "2fcd861a25e655bb3d256ed8180a97a01c687d87",
-      "who": "hazzik@gmail.com",
+      "who": "hazzik <hazzik@gmail.com>",
       "when": "2012-06-25T11:51:40+06:00",
       "all": 43,
       "test": 43,
@@ -38,7 +38,7 @@
     },
     {
       "id": "bd4c0018c18f9694335ff87bf12922793aa4306f",
-      "who": "oskar.berggren@gmail.com",
+      "who": "Oskar Berggren <oskar.berggren@gmail.com>",
       "when": "2012-06-25T00:25:14+02:00",
       "all": 11,
       "test": 0,
@@ -46,8 +46,17 @@
       "pct": 0.0
     },
     {
+      "id": "b72c5cc3bc170c6f6c9569b18633e7bf42036d25",
+      "who": "hazzik <hazzik@gmail.com>",
+      "when": "2012-06-25T16:17:00+06:00",
+      "all": 228,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "a7b208002cc33066bf777a927b35cd843169b9a0",
-      "who": "hazzik@gmail.com",
+      "who": "hazzik <hazzik@gmail.com>",
       "when": "2012-06-25T14:00:30+06:00",
       "all": 6,
       "test": 0,
@@ -56,7 +65,7 @@
     },
     {
       "id": "6f2b370ba4d19c8d6fd05aa1838ea5d6ba0f2a2b",
-      "who": "hazzik@gmail.com",
+      "who": "hazzik <hazzik@gmail.com>",
       "when": "2012-06-25T12:19:07+06:00",
       "all": 31,
       "test": 31,
@@ -65,7 +74,7 @@
     },
     {
       "id": "5d8a59cf41e98ab152ee0ae56694d3c9b1978554",
-      "who": "hazzik@gmail.com",
+      "who": "hazzik <hazzik@gmail.com>",
       "when": "2012-06-25T12:17:47+06:00",
       "all": 3,
       "test": 0,
@@ -74,7 +83,7 @@
     },
     {
       "id": "da37be0cf0076e874f2589e449c16f44d28b26d3",
-      "who": "hazzik@gmail.com",
+      "who": "hazzik <hazzik@gmail.com>",
       "when": "2012-06-25T11:51:40+06:00",
       "all": 43,
       "test": 43,
@@ -82,13 +91,22 @@
       "pct": 100.0
     },
     {
+      "id": "576cf5dd836da521d2d5c70c548593ea084b7300",
+      "who": "hazzik <hazzik@gmail.com>",
+      "when": "2012-06-25T11:10:45+06:00",
+      "all": 2411,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "dd3713b223af9ee02e97d87be019475f926b3828",
-      "who": "oskar.berggren@gmail.com",
+      "who": "Oskar Berggren <oskar.berggren@gmail.com>",
       "when": "2012-06-25T00:28:58+02:00",
-      "all": 1670,
-      "test": 1663,
-      "testable": 1663,
-      "pct": 100.0
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "NHibernate (master branch)",

@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "b1ba2d6f4eb088c288f8a8c6f0b3fbb1092b1752",
-      "who": "misko@hevery.com",
+      "who": "Mis\u00cc\u008cko Hevery <misko@hevery.com>",
       "when": "2019-04-04T15:03:40-07:00",
       "all": 1784,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "42262e4e8cdf62d4d9b61c5cfae7bd7844049c01",
-      "who": "alx+alxhub@alxandria.net",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
       "when": "2019-04-04T15:53:43-07:00",
       "all": 17,
       "test": 7,
@@ -20,7 +20,7 @@
     },
     {
       "id": "bea85ffe9c41e589d2a3602f28ccc0a4df71e16f",
-      "who": "alx+alxhub@alxandria.net",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
       "when": "2019-04-04T13:19:38-07:00",
       "all": 45,
       "test": 23,
@@ -29,7 +29,7 @@
     },
     {
       "id": "e57589277447a8729313bc3f03b0e33e16d871d4",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2019-04-04T19:13:53+03:00",
       "all": 3,
       "test": 0,
@@ -38,7 +38,7 @@
     },
     {
       "id": "b507d076be3d50a2a4c071266daabb45a7cc68f5",
-      "who": "paulgschwendtner@gmail.com",
+      "who": "Paul Gschwendtner <paulgschwendtner@gmail.com>",
       "when": "2019-04-04T14:04:31+02:00",
       "all": 20,
       "test": 0,
@@ -47,7 +47,7 @@
     },
     {
       "id": "138ca5a246e4d6ffca88264803828491d9014a2a",
-      "who": "ben@benlesh.com",
+      "who": "Ben Lesh <ben@benlesh.com>",
       "when": "2019-04-04T11:41:52-07:00",
       "all": 16029,
       "test": 13312,
@@ -55,8 +55,17 @@
       "pct": 85.2
     },
     {
+      "id": "f24fd56ed1f576a1cdf443f157a8829091d68fbd",
+      "who": "jenniferfell <jenniferfell.sf@gmail.com>",
+      "when": "2019-04-04T12:14:57-06:00",
+      "all": 13,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "6d35c5094ab2f9c04b20519602c647aa4867cdb6",
-      "who": "paulgschwendtner@gmail.com",
+      "who": "Paul Gschwendtner <paulgschwendtner@gmail.com>",
       "when": "2019-04-04T12:54:17+02:00",
       "all": 19,
       "test": 19,
@@ -65,12 +74,39 @@
     },
     {
       "id": "4a2fb86b1ea05376d428d594d9ab738579e9bec0",
-      "who": "paulgschwendtner@gmail.com",
+      "who": "Paul Gschwendtner <paulgschwendtner@gmail.com>",
       "when": "2019-04-04T12:52:29+02:00",
       "all": 85,
       "test": 36,
       "testable": 57,
       "pct": 63.2
+    },
+    {
+      "id": "9c056b974a09b85011be2119bae1d16e961e4715",
+      "who": "Greg Magolan <gmagolan@gmail.com>",
+      "when": "2019-04-04T08:57:05-07:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "96b76dc3f13e250b7cc425c9c92ead2bdc8be236",
+      "who": "Filipe Silva <filipematossilva@gmail.com>",
+      "when": "2019-04-04T10:18:28+01:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "afd2417ecdf9cf6bcb9a48db49fe0d0b8b24e0bc",
+      "who": "zverbeta <shutko.yaroslav@gmail.com>",
+      "when": "2019-04-04T13:36:01+03:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

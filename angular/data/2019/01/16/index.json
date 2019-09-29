@@ -1,8 +1,26 @@
 {
   "commits": [
     {
+      "id": "ce68b4d839aa232022948cf80fa86bc5cb70df6d",
+      "who": "Wassim Chegham <github@wassim.app>",
+      "when": "2019-01-16T10:19:01+01:00",
+      "all": 766,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d4ecffe475efdc7acf0dd93ad00afcd342ba90be",
+      "who": "Daniel Ruf <daniel.ruf@ueberbit.de>",
+      "when": "2019-01-16T08:41:13+01:00",
+      "all": 61,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "cbd626413c13266c8acdd8400d38c516c47faaa2",
-      "who": "olivier.combe@gmail.com",
+      "who": "Olivier Combe <olivier.combe@gmail.com>",
       "when": "2019-01-16T15:42:13+01:00",
       "all": 144,
       "test": 121,
@@ -11,7 +29,7 @@
     },
     {
       "id": "a95e81978b14f6081ed3a8b4ceff358276b4d085",
-      "who": "ben@benlesh.com",
+      "who": "Ben Lesh <ben@benlesh.com>",
       "when": "2019-01-16T09:35:35-08:00",
       "all": 1943,
       "test": 1597,
@@ -20,7 +38,7 @@
     },
     {
       "id": "030350f53e4dafafbbe83f67e9d10bc01af5a520",
-      "who": "akushnir@google.com",
+      "who": "Andrew Kushnir <akushnir@google.com>",
       "when": "2019-01-16T17:13:23-08:00",
       "all": 21,
       "test": 21,
@@ -29,7 +47,7 @@
     },
     {
       "id": "522e4ea898568288999cbd517287c7dc3f881fb7",
-      "who": "jbogart@gmail.com",
+      "who": "Judy Bogart <jbogart@gmail.com>",
       "when": "2019-01-16T14:40:03-08:00",
       "all": 5,
       "test": 0,
@@ -38,7 +56,7 @@
     },
     {
       "id": "b6819fe9bb1b43e8bbbc4265bb25b4a689596091",
-      "who": "jbogart@gmail.com",
+      "who": "Judy Bogart <jbogart@gmail.com>",
       "when": "2019-01-16T14:25:28-08:00",
       "all": 25,
       "test": 0,
@@ -46,8 +64,17 @@
       "pct": 0.0
     },
     {
+      "id": "7439b46c5a20b78f4c58ccd823b4707a591c9087",
+      "who": "Stepan Suvorov <stevermeister@gmail.com>",
+      "when": "2019-01-16T15:11:48+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "351ef2a6dece8d0d66dc64cfc6184f77f57ea282",
-      "who": "william.koza@gmail.com",
+      "who": "WilliamKoza <william.koza@gmail.com>",
       "when": "2019-01-16T20:21:40+01:00",
       "all": 12,
       "test": 0,
@@ -56,7 +83,7 @@
     },
     {
       "id": "73dcd72afbd782161c1674f1e647a1b357a78a67",
-      "who": "pete@bacondarwin.com",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
       "when": "2019-01-16T17:22:53+00:00",
       "all": 297,
       "test": 6,
@@ -65,7 +92,7 @@
     },
     {
       "id": "ab2bf8339890ce3a4bef5bfbcee4c735cd57aac2",
-      "who": "crisbeto@abv.bg",
+      "who": "Kristiyan Kostadinov <crisbeto@abv.bg>",
       "when": "2019-01-16T20:35:56+01:00",
       "all": 104,
       "test": 79,
@@ -74,7 +101,7 @@
     },
     {
       "id": "0d6913f0376eb93e33b79c5b44890ed4c95762a1",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2019-01-16T11:11:33-08:00",
       "all": 404,
       "test": 360,
@@ -83,7 +110,7 @@
     },
     {
       "id": "896cf35afb8f1b68d95dd508a649cbb08e4634c3",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2019-01-16T12:22:10-08:00",
       "all": 98,
       "test": 86,
@@ -92,7 +119,7 @@
     },
     {
       "id": "1f7d3b9a57c8184f5d8bdd1a4779d641a5b57a81",
-      "who": "karakara@google.com",
+      "who": "Kara Erickson <karakara@google.com>",
       "when": "2019-01-16T16:28:04-08:00",
       "all": 31,
       "test": 28,
@@ -100,8 +127,44 @@
       "pct": 90.3
     },
     {
+      "id": "a570fdf0f0b15f094e247eb970698eec95f4bd27",
+      "who": "Keen Yee Liau <kyliau@google.com>",
+      "when": "2019-01-16T15:17:26-08:00",
+      "all": 70,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "e7d5c12ea49750d7296d240accd29c19c3c635dd",
+      "who": "Andrew Kushnir <akushnir@google.com>",
+      "when": "2019-01-16T14:06:50-08:00",
+      "all": 38,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "1e5e62ef56b676c4609545a8cc5d23506ca043ce",
+      "who": "Andrew Kushnir <akushnir@google.com>",
+      "when": "2019-01-16T13:42:28-08:00",
+      "all": 28,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "47665c9937fee4d71d9ef96cd66fb93c06e7fe40",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2019-01-16T08:56:56+00:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "3b7a571cc5476f11e38d37fd44719d9555d8bb8d",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2019-01-16T15:33:39+02:00",
       "all": 8,
       "test": 8,

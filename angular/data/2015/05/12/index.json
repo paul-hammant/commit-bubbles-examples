@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "0f002a5b18120d1f7bdfc7dca78f4e1c53794659",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-12T16:28:57+02:00",
       "all": 537,
       "test": 293,
@@ -11,7 +11,7 @@
     },
     {
       "id": "534cbb4bf58055bdfb4cee21c045f18e4d9113ca",
-      "who": "tjblasi@google.com",
+      "who": "Tim Blasi <tjblasi@google.com>",
       "when": "2015-05-12T11:03:14-07:00",
       "all": 182,
       "test": 0,
@@ -19,8 +19,17 @@
       "pct": 0.0
     },
     {
+      "id": "8d6943227d6646ae12ca365dd1bfd7ba1db95ee0",
+      "who": "Jeremy Elbourn <jelbourn@google.com>",
+      "when": "2015-05-12T08:54:47-07:00",
+      "all": 78,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "3011cd86bd2e061ac79a9f4e83e9a64fca757220",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2015-05-12T16:46:40+02:00",
       "all": 28,
       "test": 13,
@@ -29,7 +38,7 @@
     },
     {
       "id": "8ad0205948de4d25b8d845cf5502854487765a13",
-      "who": "github@gdi2290.com",
+      "who": "PatrickJS <github@gdi2290.com>",
       "when": "2015-05-12T13:22:46-07:00",
       "all": 3,
       "test": 0,
@@ -37,8 +46,26 @@
       "pct": 0.0
     },
     {
+      "id": "511441174956c494ac9b8abad7b833a2424126c4",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2015-05-12T14:14:43-07:00",
+      "all": 10,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c36ea0221eecee54c22732f17904c63fed37af21",
+      "who": "Caitlin Potter <caitpotter88@gmail.com>",
+      "when": "2015-05-12T18:15:49-04:00",
+      "all": 1145,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "390cfb793b2cd351d2db609d088a8fdda3df4f24",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-05-12T16:18:58-07:00",
       "all": 52,
       "test": 14,
@@ -47,7 +74,7 @@
     },
     {
       "id": "17392f663fc7d6ae0ddceaead9982696f4e838b1",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-05-12T14:53:13-07:00",
       "all": 117,
       "test": 24,
@@ -56,7 +83,7 @@
     },
     {
       "id": "38926f712349835d13a65941edd4f81651c2599c",
-      "who": "radokirov@google.com",
+      "who": "Rado Kirov <radokirov@google.com>",
       "when": "2015-05-12T18:31:38-07:00",
       "all": 11,
       "test": 0,
@@ -65,7 +92,7 @@
     },
     {
       "id": "718d2ae2eeac546c9b8e897a621909e11bc8bcf7",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-12T21:19:59-07:00",
       "all": 6,
       "test": 0,
@@ -74,7 +101,7 @@
     },
     {
       "id": "772b529a8ebc8644ea0f925469cc65fbeabf2668",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-05-12T16:05:38-07:00",
       "all": 3,
       "test": 0,
@@ -83,7 +110,7 @@
     },
     {
       "id": "7dc524ed5888c217ba40f721ccc1494193432d66",
-      "who": "yjbanov@google.com",
+      "who": "yjbanov <yjbanov@google.com>",
       "when": "2015-05-12T15:05:32-07:00",
       "all": 3,
       "test": 0,
@@ -92,7 +119,7 @@
     },
     {
       "id": "032f8b784008b249ff7112f5b2be6248625a4ce1",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-05-12T14:11:29-07:00",
       "all": 10,
       "test": 10,
@@ -101,7 +128,7 @@
     },
     {
       "id": "4f2b9a4c283225e4a1e85eea3e95bc4cbc1349b5",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2015-05-12T14:10:53-07:00",
       "all": 6,
       "test": 0,
@@ -109,8 +136,17 @@
       "pct": 0.0
     },
     {
+      "id": "1ac7bb3bb82c2417cebf625d18b97538c19a8a5e",
+      "who": "yjbanov <yjbanov@google.com>",
+      "when": "2015-05-12T13:48:54-07:00",
+      "all": 68,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "f302f70330b4327f1db2c19d34ceb48d62bdb4a8",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2015-05-12T11:19:47-07:00",
       "all": 1224,
       "test": 0,
@@ -119,7 +155,7 @@
     },
     {
       "id": "96b0a1c75ef0194995dbe396dee47a8e7a6489b7",
-      "who": "middlefloor@gmail.com",
+      "who": "Jeff Cross <middlefloor@gmail.com>",
       "when": "2015-05-12T10:43:56-07:00",
       "all": 6,
       "test": 0,
@@ -128,7 +164,7 @@
     },
     {
       "id": "c8a0ed40bdb8e67b3da3246822fe34c360c2fd48",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-05-12T09:47:17+02:00",
       "all": 2163,
       "test": 0,
@@ -137,7 +173,7 @@
     },
     {
       "id": "4320859e1b03afe0e6e9becc4465e7cbed955e24",
-      "who": "tjblasi@google.com",
+      "who": "Tim Blasi <tjblasi@google.com>",
       "when": "2015-05-12T09:33:07-07:00",
       "all": 3,
       "test": 0,

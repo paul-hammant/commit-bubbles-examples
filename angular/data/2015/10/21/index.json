@@ -2,12 +2,30 @@
   "commits": [
     {
       "id": "1316c3e391e183e31ccb75b4f0dac91d64c08f22",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-10-21T13:49:52-07:00",
       "all": 77,
       "test": 28,
       "testable": 62,
       "pct": 45.2
+    },
+    {
+      "id": "27ead8c883456bb72364ffd2cc35d96ce1b45332",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2015-10-21T11:01:58-07:00",
+      "all": 100,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "1caccc410a65acb2b85b1fbfd50184aa5c1a1c53",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2015-10-21T12:21:13-07:00",
+      "all": 49,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

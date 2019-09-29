@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "234f05996cfc4e3c5261cd9b5e8b97a6de9399f3",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2017-02-16T17:03:18+01:00",
       "all": 93,
       "test": 33,
@@ -11,7 +11,7 @@
     },
     {
       "id": "3517f28609c91556273d4393d7bd693f28f28785",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2017-02-16T22:36:21-08:00",
       "all": 1019,
       "test": 337,
@@ -20,7 +20,7 @@
     },
     {
       "id": "f38dbfbd64f59f60f4a3ff65332337eba45f904a",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2017-02-16T14:09:06-08:00",
       "all": 222,
       "test": 0,
@@ -29,7 +29,7 @@
     },
     {
       "id": "ab26b6518d16e54d198031c9994399cc29e270f1",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2017-02-16T11:56:17-08:00",
       "all": 46,
       "test": 44,
@@ -37,8 +37,26 @@
       "pct": 95.7
     },
     {
+      "id": "74ce121dbab8107fd29d36d0f133de1b850f31d4",
+      "who": "Ward Bell <wardbell@hotmail.com>",
+      "when": "2017-02-16T17:10:51-08:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "8c20aaa328cb0bab20a6b8c1233efa81167c1133",
+      "who": "Igor Minar <iminar@google.com>",
+      "when": "2017-02-16T15:26:59-08:00",
+      "all": 8,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "88eb3b2ce84e58cec10d737264318248f478455c",
-      "who": "robwormald@gmail.com",
+      "who": "Rob Wormald <robwormald@gmail.com>",
       "when": "2017-02-16T14:46:30-08:00",
       "all": 5,
       "test": 0,
@@ -47,7 +65,7 @@
     },
     {
       "id": "0fa3895d5bdbbc73fe44a3202c6ba8d351fad5da",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2017-02-16T13:55:55-08:00",
       "all": 1437,
       "test": 120,
@@ -55,8 +73,26 @@
       "pct": 8.4
     },
     {
+      "id": "3dbd9a04d42fe8e7cb7cb14aaec2e7ea4d7653a4",
+      "who": "Rob Wormald <robwormald@gmail.com>",
+      "when": "2017-02-16T11:44:24-08:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "b36f60c74caa739f7b171ae8112364804aa9b58d",
+      "who": "Dzmitry Shylovich <DzmitryShylovich@users.noreply.github.com>",
+      "when": "2017-02-16T22:32:17+03:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "57461e9ed77389a9eead24e67c73e908db9dfead",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2017-02-16T10:26:53-08:00",
       "all": 22,
       "test": 0,
@@ -65,12 +101,21 @@
     },
     {
       "id": "612f1202083de73b6c0ba698440fbcf1deefbf77",
-      "who": "alx+alxhub@alxandria.net",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
       "when": "2017-02-16T10:18:55-08:00",
       "all": 27,
       "test": 14,
       "testable": 27,
       "pct": 51.9
+    },
+    {
+      "id": "4a56b6e7f6dca6b0af85464c9655339ca7dfdeec",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2017-02-16T18:57:58+02:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

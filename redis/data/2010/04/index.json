@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "3c5caedc69b9873a500a572020be2097db1920de",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-30T11:52:36+02:00",
       "all": 116,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "a737ada1e58e6cd75e2fc643e2e55778de17b2ef",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-30T09:21:48+02:00",
       "all": 62,
       "test": 0,
@@ -20,7 +20,7 @@
     },
     {
       "id": "7aaaad507060b131ff18d4637ea63499828076d6",
-      "who": "antirez@metal.(none)",
+      "who": "antirez <antirez@metal.(none)>",
       "when": "2010-04-29T20:13:23+02:00",
       "all": 3,
       "test": 0,
@@ -29,7 +29,7 @@
     },
     {
       "id": "dd142b9cd7488d849be078e0984d6547592599ac",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-29T18:43:51+02:00",
       "all": 62,
       "test": 0,
@@ -38,7 +38,7 @@
     },
     {
       "id": "f40b035d7b5771742ddc9d0304eda3b9ba434454",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-29T18:07:35+02:00",
       "all": 220,
       "test": 0,
@@ -46,8 +46,26 @@
       "pct": 0.0
     },
     {
+      "id": "0ce7679849b9d7edd9244a1461f4f126539003dc",
+      "who": "antirez <antirez@gmail.com>",
+      "when": "2010-04-29T15:39:11+02:00",
+      "all": 63,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "5bdb384ff0d532d137cea9ef6e3f9b4c6c193e49",
+      "who": "antirez <antirez@gmail.com>",
+      "when": "2010-04-29T11:00:19+02:00",
+      "all": 282,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "8ff6a48b99dd5e706f542be848a62beaf995229b",
-      "who": "antirez@metal.(none)",
+      "who": "antirez <antirez@metal.(none)>",
       "when": "2010-04-27T18:06:52+02:00",
       "all": 3,
       "test": 0,
@@ -56,7 +74,7 @@
     },
     {
       "id": "8f63ddca00cd23978fc5a26388681753c7e5318c",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-27T16:58:08+02:00",
       "all": 3,
       "test": 0,
@@ -65,7 +83,7 @@
     },
     {
       "id": "cbb87f7f8a954c9c0b34899206ce76f1094047a4",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-27T16:21:15+02:00",
       "all": 242,
       "test": 0,
@@ -74,7 +92,7 @@
     },
     {
       "id": "249c3a7dd1473d32d8b02830e7beb0625a51ff9b",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-27T16:07:31+02:00",
       "all": 22,
       "test": 0,
@@ -83,7 +101,7 @@
     },
     {
       "id": "095e805e891798435944aa9082d45b3c69ed2dcf",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-26T19:56:16+02:00",
       "all": 2,
       "test": 0,
@@ -92,7 +110,7 @@
     },
     {
       "id": "21cdc9f0649ffa905fccf6a15c19adeff4aaf2c8",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-26T18:54:55+02:00",
       "all": 41,
       "test": 0,
@@ -101,7 +119,7 @@
     },
     {
       "id": "a88a2af6c5a5248227dd5436a93a637000e88d8c",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-26T18:39:39+02:00",
       "all": 103,
       "test": 0,
@@ -110,7 +128,7 @@
     },
     {
       "id": "526d00a572a3562bfab0cefd732aa13b7fcc0bff",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-23T19:07:33+02:00",
       "all": 72,
       "test": 0,
@@ -119,7 +137,7 @@
     },
     {
       "id": "c8d0ea0ef1df7b64a23f992f370db5f70f343891",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-23T15:36:00+02:00",
       "all": 13,
       "test": 0,
@@ -127,8 +145,44 @@
       "pct": 0.0
     },
     {
+      "id": "7accafbbe22cbc46d5838c0288aacfce7ad2e0dc",
+      "who": "antirez <antirez@gmail.com>",
+      "when": "2010-04-22T20:24:00+02:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "ffcc5608aa194e5c86b44fb9a770429f3d9db8ae",
+      "who": "antirez <antirez@gmail.com>",
+      "when": "2010-04-22T20:20:41+02:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "34b8a559a8c4363b3540252c897bf99142477cf2",
+      "who": "antirez <antirez@gmail.com>",
+      "when": "2010-04-22T19:46:39+02:00",
+      "all": 138,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "4e5240af642a44654e8cece67a89f06bd359d614",
+      "who": "antirez <antirez@gmail.com>",
+      "when": "2010-04-22T18:04:50+02:00",
+      "all": 12,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "723240057a996a64516b10779f754ae26a91d0cd",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-22T15:09:07+02:00",
       "all": 26,
       "test": 0,
@@ -137,7 +191,7 @@
     },
     {
       "id": "2b61932933f48bef6a6c6aacf5859c6d21070f76",
-      "who": "antirez@metal.(none)",
+      "who": "antirez <antirez@metal.(none)>",
       "when": "2010-04-22T12:05:51+02:00",
       "all": 70,
       "test": 0,
@@ -146,7 +200,7 @@
     },
     {
       "id": "dc4be23ec895c6ec49afc75cd037cac230a21771",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-21T11:31:29+02:00",
       "all": 18,
       "test": 0,
@@ -155,7 +209,7 @@
     },
     {
       "id": "24df76987e85f7ba5314495e50dc5cc9ff623823",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-21T10:31:48+02:00",
       "all": 3,
       "test": 0,
@@ -164,7 +218,7 @@
     },
     {
       "id": "3bb225d66be633c88ba01c6e7a0cebf91837cd13",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-21T10:31:16+02:00",
       "all": 18,
       "test": 0,
@@ -173,7 +227,7 @@
     },
     {
       "id": "d6fb4d5396a8822435e50843b4ddc4522cfec070",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-21T10:31:08+02:00",
       "all": 2,
       "test": 0,
@@ -182,16 +236,16 @@
     },
     {
       "id": "0040fa253fdfeca20d540609aa17a796856744eb",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-21T10:30:36+02:00",
-      "all": 19,
+      "all": 0,
       "test": 0,
-      "testable": 19,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "a08bb01d6740f0d4baf970ad9499859383219c22",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-21T10:29:24+02:00",
       "all": 3,
       "test": 0,
@@ -200,7 +254,7 @@
     },
     {
       "id": "188714211af246b96f46a2e598c66fee95c52375",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-21T09:54:21+02:00",
       "all": 3,
       "test": 0,
@@ -209,7 +263,7 @@
     },
     {
       "id": "122c04983400a076423811740f2b87163ea95c00",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-20T18:29:06+02:00",
       "all": 2,
       "test": 0,
@@ -218,7 +272,7 @@
     },
     {
       "id": "566c3c7a22c0ec217c40f7a95db2bb83c8cc16c7",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-20T18:25:30+02:00",
       "all": 18,
       "test": 0,
@@ -227,7 +281,7 @@
     },
     {
       "id": "d3277ecd92352db11e9f4ce4c45a63c3a225fc29",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-20T11:01:36+02:00",
       "all": 9,
       "test": 0,
@@ -236,7 +290,7 @@
     },
     {
       "id": "66c8853f9c1222eace3ab12b5cb58ca6871c942b",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-19T18:30:11+02:00",
       "all": 26,
       "test": 0,
@@ -245,7 +299,7 @@
     },
     {
       "id": "7ccd2d0a5fe75293990ee249f7539eb7c9279104",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-19T16:11:13+02:00",
       "all": 6,
       "test": 0,
@@ -254,7 +308,7 @@
     },
     {
       "id": "f1a930bbb785637a21f82a0fde08aa71ad19c8c3",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-19T11:05:08+02:00",
       "all": 2,
       "test": 0,
@@ -263,7 +317,7 @@
     },
     {
       "id": "08ee9b570f4a9a181c3ed2242c5b2f6a88eddc41",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-18T17:51:15+02:00",
       "all": 20,
       "test": 0,
@@ -272,7 +326,7 @@
     },
     {
       "id": "177727542c871330445700299aed803a1384b0ed",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-18T00:03:49+02:00",
       "all": 3,
       "test": 0,
@@ -281,7 +335,7 @@
     },
     {
       "id": "682c73e87e6edfdfe76b9bb4b3d66ce39465b359",
-      "who": "pcnoordhuis@gmail.com",
+      "who": "Pieter Noordhuis <pcnoordhuis@gmail.com>",
       "when": "2010-04-16T14:42:14+02:00",
       "all": 15,
       "test": 0,
@@ -290,7 +344,7 @@
     },
     {
       "id": "bd79a6bda04366bb45f071526d4e48ab25318532",
-      "who": "pcnoordhuis@gmail.com",
+      "who": "Pieter Noordhuis <pcnoordhuis@gmail.com>",
       "when": "2010-04-16T14:35:52+02:00",
       "all": 139,
       "test": 0,
@@ -299,16 +353,16 @@
     },
     {
       "id": "4e8dbaf463cefe1710283bfefbccc3db37af5c5a",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-17T12:54:49+02:00",
-      "all": 34,
+      "all": 0,
       "test": 0,
-      "testable": 34,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "f83c6cb5eb02d618ef6944e095c897358fa9cd5f",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-17T12:54:40+02:00",
       "all": 19,
       "test": 0,
@@ -317,7 +371,7 @@
     },
     {
       "id": "3f973463a7a5d70785dd0c7d33e0e5624a474c94",
-      "who": "pcnoordhuis@gmail.com",
+      "who": "Pieter Noordhuis <pcnoordhuis@gmail.com>",
       "when": "2010-04-17T12:46:23+02:00",
       "all": 25,
       "test": 0,
@@ -326,7 +380,7 @@
     },
     {
       "id": "edc2f63ad9c961e54a10f27a44a4b64868160eaa",
-      "who": "pcnoordhuis@gmail.com",
+      "who": "Pieter Noordhuis <pcnoordhuis@gmail.com>",
       "when": "2010-04-17T12:35:22+02:00",
       "all": 2,
       "test": 0,
@@ -335,7 +389,7 @@
     },
     {
       "id": "97224de7f962f8c39cb357969f83378d12d25f96",
-      "who": "pcnoordhuis@gmail.com",
+      "who": "Pieter Noordhuis <pcnoordhuis@gmail.com>",
       "when": "2010-04-17T12:33:43+02:00",
       "all": 13,
       "test": 0,
@@ -344,7 +398,7 @@
     },
     {
       "id": "c651fd9ee3ce3d1dca7cc8dbf7648cd588255bd9",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-17T11:35:05+02:00",
       "all": 13,
       "test": 0,
@@ -353,7 +407,7 @@
     },
     {
       "id": "55017f9da0c8ee8709029c4dbdbf4f1d4db4a181",
-      "who": "pcnoordhuis@gmail.com",
+      "who": "Pieter Noordhuis <pcnoordhuis@gmail.com>",
       "when": "2010-04-16T17:55:57+02:00",
       "all": 28,
       "test": 0,
@@ -362,7 +416,7 @@
     },
     {
       "id": "4bfcbab8b27faf58c8e66681b8db907454404442",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-16T17:00:27+02:00",
       "all": 19,
       "test": 0,
@@ -371,7 +425,7 @@
     },
     {
       "id": "c4e83132313c3eaad0f0d6488566a746fddb76c4",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-16T16:23:10+02:00",
       "all": 28,
       "test": 0,
@@ -380,16 +434,16 @@
     },
     {
       "id": "b4eb9ccdcbc126e9b828f7fc8d0bcd40bd1891a0",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-16T15:53:44+02:00",
-      "all": 693,
+      "all": 0,
       "test": 0,
-      "testable": 693,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "b6f07345c9e4383ac444c895e08e7998ae404915",
-      "who": "pcnoordhuis@gmail.com",
+      "who": "Pieter Noordhuis <pcnoordhuis@gmail.com>",
       "when": "2010-04-16T13:37:40+02:00",
       "all": 9,
       "test": 0,
@@ -398,7 +452,7 @@
     },
     {
       "id": "705dad386d2f9c303701dcd9e417433d6d287ee0",
-      "who": "pcnoordhuis@gmail.com",
+      "who": "Pieter Noordhuis <pcnoordhuis@gmail.com>",
       "when": "2010-04-16T13:31:17+02:00",
       "all": 26,
       "test": 0,
@@ -407,7 +461,7 @@
     },
     {
       "id": "a3f3af860bd16cd138a9babdd8550f5aa9df16fc",
-      "who": "pcnoordhuis@gmail.com",
+      "who": "Pieter Noordhuis <pcnoordhuis@gmail.com>",
       "when": "2010-04-16T13:20:12+02:00",
       "all": 25,
       "test": 0,
@@ -416,7 +470,7 @@
     },
     {
       "id": "c44d3b56df4ce4cae1c2e6db6397eaab9651ff7a",
-      "who": "pcnoordhuis@gmail.com",
+      "who": "Pieter Noordhuis <pcnoordhuis@gmail.com>",
       "when": "2010-04-16T12:48:48+02:00",
       "all": 18,
       "test": 0,
@@ -425,7 +479,7 @@
     },
     {
       "id": "c811bb381d06155ffc2b050196761be177ba620b",
-      "who": "pcnoordhuis@gmail.com",
+      "who": "Pieter Noordhuis <pcnoordhuis@gmail.com>",
       "when": "2010-04-16T12:13:41+02:00",
       "all": 7,
       "test": 0,
@@ -434,7 +488,7 @@
     },
     {
       "id": "feb8d7e6a6a579695513e8c65b97d10cd9a42f53",
-      "who": "pcnoordhuis@gmail.com",
+      "who": "Pieter Noordhuis <pcnoordhuis@gmail.com>",
       "when": "2010-04-16T12:12:50+02:00",
       "all": 11,
       "test": 0,
@@ -443,7 +497,7 @@
     },
     {
       "id": "58e1c9c143e9c5f108ca1863bdd61fc5e02dc968",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-16T10:04:51+02:00",
       "all": 10,
       "test": 0,
@@ -452,7 +506,7 @@
     },
     {
       "id": "d4dd6556c3925ae26b1fce142158b3243eda39a7",
-      "who": "kmerenkov@gmail.com",
+      "who": "Konstantin Merenkov <kmerenkov@gmail.com>",
       "when": "2010-04-03T00:12:10+04:00",
       "all": 3,
       "test": 0,
@@ -461,7 +515,7 @@
     },
     {
       "id": "16fa22f12b61d7da44145cb8cf48ea7f7c454200",
-      "who": "pcnoordhuis@gmail.com",
+      "who": "Pieter Noordhuis <pcnoordhuis@gmail.com>",
       "when": "2010-04-15T20:55:34+02:00",
       "all": 23,
       "test": 0,
@@ -470,7 +524,7 @@
     },
     {
       "id": "6d7d1370c3ea7b338b9c5ab1ade32adbbcc661b8",
-      "who": "pcnoordhuis@gmail.com",
+      "who": "Pieter Noordhuis <pcnoordhuis@gmail.com>",
       "when": "2010-04-15T17:31:13+02:00",
       "all": 90,
       "test": 0,
@@ -479,7 +533,7 @@
     },
     {
       "id": "6e9e463f8014cbde1eaabe4c59045471e1871b74",
-      "who": "pcnoordhuis@gmail.com",
+      "who": "Pieter Noordhuis <pcnoordhuis@gmail.com>",
       "when": "2010-04-15T15:38:48+02:00",
       "all": 5,
       "test": 0,
@@ -488,7 +542,7 @@
     },
     {
       "id": "0c390abc69a0a5f4a6f3178b277de0745211934a",
-      "who": "pcnoordhuis@gmail.com",
+      "who": "Pieter Noordhuis <pcnoordhuis@gmail.com>",
       "when": "2010-04-15T15:06:57+02:00",
       "all": 27,
       "test": 0,
@@ -497,7 +551,7 @@
     },
     {
       "id": "1f1c76951824ffa4864c3aeeb9f39c2df201c184",
-      "who": "pcnoordhuis@gmail.com",
+      "who": "Pieter Noordhuis <pcnoordhuis@gmail.com>",
       "when": "2010-04-15T12:48:13+02:00",
       "all": 45,
       "test": 0,
@@ -506,7 +560,7 @@
     },
     {
       "id": "7fb16bacaea00e8c098e9129abd6eff7506d5504",
-      "who": "pcnoordhuis@gmail.com",
+      "who": "Pieter Noordhuis <pcnoordhuis@gmail.com>",
       "when": "2010-04-14T00:22:44+02:00",
       "all": 538,
       "test": 0,
@@ -515,7 +569,7 @@
     },
     {
       "id": "a71f072f7352e8879ac8e39dbfcf19369395ce93",
-      "who": "pcnoordhuis@gmail.com",
+      "who": "Pieter Noordhuis <pcnoordhuis@gmail.com>",
       "when": "2010-04-13T21:25:11+02:00",
       "all": 5,
       "test": 0,
@@ -524,7 +578,7 @@
     },
     {
       "id": "bc55456975ca955c9babd5634495f939a56c3199",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-15T19:13:14+02:00",
       "all": 12,
       "test": 0,
@@ -533,7 +587,7 @@
     },
     {
       "id": "fb765a0ae39e07e58aa822dd755549de2be89d2d",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-15T18:32:44+02:00",
       "all": 19,
       "test": 0,
@@ -542,7 +596,7 @@
     },
     {
       "id": "8ca3e9d10b013263a5356c81882b00e619a88720",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-15T18:07:57+02:00",
       "all": 129,
       "test": 0,
@@ -551,7 +605,7 @@
     },
     {
       "id": "5413c40da79d06b53b276b5358e04706a2738e9b",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-15T11:59:13+02:00",
       "all": 1766,
       "test": 0,
@@ -560,7 +614,7 @@
     },
     {
       "id": "e6cca5dba6ad046625c195c9c4f39c7ce06ad080",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-14T12:12:25+02:00",
       "all": 34,
       "test": 0,
@@ -569,7 +623,7 @@
     },
     {
       "id": "9a22de8270fbb594cbdd23fe06a9e193ee01f17a",
-      "who": "alexmchale@gmail.com",
+      "who": "Alex McHale <alexmchale@gmail.com>",
       "when": "2010-04-13T11:48:33-05:00",
       "all": 6,
       "test": 0,
@@ -578,16 +632,16 @@
     },
     {
       "id": "b60bace9f945d30029596a6bd91412d2e1053c69",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-13T18:30:55+02:00",
-      "all": 104,
+      "all": 0,
       "test": 0,
-      "testable": 104,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "4e27f26863a237f0ddba4ee328d72f2d7e2408cc",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-12T16:03:41+02:00",
       "all": 17,
       "test": 0,
@@ -596,7 +650,7 @@
     },
     {
       "id": "09aeb5790fa09e1a5fb7545f669780efe1eb4632",
-      "who": "pcnoordhuis@gmail.com",
+      "who": "Pieter Noordhuis <pcnoordhuis@gmail.com>",
       "when": "2010-04-12T14:53:25+02:00",
       "all": 104,
       "test": 0,
@@ -605,7 +659,7 @@
     },
     {
       "id": "d33278d1601bda80987a6f4ad4b2319fb2f7e972",
-      "who": "pcnoordhuis@gmail.com",
+      "who": "Pieter Noordhuis <pcnoordhuis@gmail.com>",
       "when": "2010-04-12T12:29:37+02:00",
       "all": 110,
       "test": 0,
@@ -614,7 +668,7 @@
     },
     {
       "id": "05df7621750eb4bde669141afd0809f747d8f263",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-12T11:38:08+02:00",
       "all": 62,
       "test": 0,
@@ -623,7 +677,7 @@
     },
     {
       "id": "dae121d9aa38626db9962ff02879b55eb7ca36bf",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-10T11:14:11+02:00",
       "all": 5,
       "test": 0,
@@ -632,7 +686,7 @@
     },
     {
       "id": "10d91d7fb373e9e70ce22d4f796d59d5510d6ee5",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-09T18:35:24+02:00",
       "all": 4,
       "test": 0,
@@ -641,7 +695,7 @@
     },
     {
       "id": "bdcb92f273c6b89e8a17cea6cee8bac81568baf9",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-09T17:13:39+02:00",
       "all": 102,
       "test": 0,
@@ -650,7 +704,7 @@
     },
     {
       "id": "78ebe4c88f5ca2e7bfc0d1a0b0481940daac83b4",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-09T17:02:56+02:00",
       "all": 18,
       "test": 0,
@@ -659,7 +713,7 @@
     },
     {
       "id": "d9eaa43a028c8fb81f56b46a22687f51e668c490",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-08T20:18:42+02:00",
       "all": 3,
       "test": 0,
@@ -668,7 +722,7 @@
     },
     {
       "id": "884d4b39d475bc15d89ba4415772463f337c7f19",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-08T20:08:51+02:00",
       "all": 63,
       "test": 0,
@@ -677,16 +731,16 @@
     },
     {
       "id": "5727b9aa940cd3ae4884ca3fbede57d96b183b1f",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-08T16:07:26+02:00",
-      "all": 23,
+      "all": 0,
       "test": 0,
-      "testable": 23,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "10c2baa50a21eae161edd76c211b6728d06173b9",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-08T16:07:18+02:00",
       "all": 3,
       "test": 0,
@@ -695,7 +749,7 @@
     },
     {
       "id": "6fcb18003940f8c7f464293677bd7286cad4dce2",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-08T15:56:21+02:00",
       "all": 15,
       "test": 0,
@@ -704,7 +758,7 @@
     },
     {
       "id": "454eea7c44b5dc54690aea71d6411d241148f12d",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-07T17:36:44+02:00",
       "all": 6,
       "test": 0,
@@ -713,7 +767,7 @@
     },
     {
       "id": "686bc0ac5c05a43c35908c335e17818c7a01afbe",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-07T13:55:06+02:00",
       "all": 116,
       "test": 0,
@@ -722,7 +776,7 @@
     },
     {
       "id": "aa7c29340f87889467f343a8783bc9908df5483d",
-      "who": "pcnoordhuis@gmail.com",
+      "who": "Pieter Noordhuis <pcnoordhuis@gmail.com>",
       "when": "2010-04-05T16:51:48+02:00",
       "all": 18,
       "test": 0,
@@ -731,7 +785,7 @@
     },
     {
       "id": "5e26ae88b8082090263281737f918b2a3ad71706",
-      "who": "pcnoordhuis@gmail.com",
+      "who": "Pieter Noordhuis <pcnoordhuis@gmail.com>",
       "when": "2010-04-05T16:51:34+02:00",
       "all": 6,
       "test": 0,
@@ -740,7 +794,7 @@
     },
     {
       "id": "4005fef12415087aed9bdfa4c1baadbb7a558bfb",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-02T16:42:15+02:00",
       "all": 16,
       "test": 0,
@@ -749,7 +803,7 @@
     },
     {
       "id": "8bca8773b4e2542f9537b8403764867aa76273a5",
-      "who": "pcnoordhuis@gmail.com",
+      "who": "Pieter Noordhuis <pcnoordhuis@gmail.com>",
       "when": "2010-04-01T22:07:50+02:00",
       "all": 9,
       "test": 0,
@@ -758,16 +812,16 @@
     },
     {
       "id": "14ae26d89d32a25f66e96ca62b49dff1ef1b95ad",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-01T18:48:14+02:00",
-      "all": 218,
+      "all": 0,
       "test": 0,
-      "testable": 218,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "e9484a8502ce478585f884466efd061db782899f",
-      "who": "pcnoordhuis@gmail.com",
+      "who": "Pieter Noordhuis <pcnoordhuis@gmail.com>",
       "when": "2010-04-01T14:31:13+02:00",
       "all": 15,
       "test": 0,
@@ -776,7 +830,7 @@
     },
     {
       "id": "da2cfe8a3baeaad619c11290acf377f4ea7356c1",
-      "who": "pcnoordhuis@gmail.com",
+      "who": "Pieter Noordhuis <pcnoordhuis@gmail.com>",
       "when": "2010-04-01T14:02:22+02:00",
       "all": 34,
       "test": 0,
@@ -785,7 +839,7 @@
     },
     {
       "id": "bfded2aa511f70bb07941698f883b38de68c7773",
-      "who": "pcnoordhuis@gmail.com",
+      "who": "Pieter Noordhuis <pcnoordhuis@gmail.com>",
       "when": "2010-04-01T13:24:18+02:00",
       "all": 25,
       "test": 0,
@@ -794,7 +848,7 @@
     },
     {
       "id": "8c6700720d7794bf9d526b6e2adbf73cc12207f0",
-      "who": "pcnoordhuis@gmail.com",
+      "who": "Pieter Noordhuis <pcnoordhuis@gmail.com>",
       "when": "2010-04-01T13:15:32+02:00",
       "all": 3,
       "test": 0,
@@ -803,7 +857,7 @@
     },
     {
       "id": "ffc6b7f864dcaa58b6c5d81d7e595050fe954dec",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2010-04-01T13:13:29+02:00",
       "all": 263,
       "test": 0,
@@ -812,7 +866,7 @@
     },
     {
       "id": "06278a675853bc518a2613625d1b430af0523254",
-      "who": "pcnoordhuis@gmail.com",
+      "who": "Pieter Noordhuis <pcnoordhuis@gmail.com>",
       "when": "2010-04-01T12:58:08+02:00",
       "all": 8,
       "test": 0,

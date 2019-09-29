@@ -2,12 +2,30 @@
   "commits": [
     {
       "id": "ec6d727b5be74edc6bcf83324343732a1dd058cc",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-11-07T17:57:49+01:00",
       "all": 2,
       "test": 2,
       "testable": 2,
       "pct": 100.0
+    },
+    {
+      "id": "a1b3c95874c40eedea401714a0e20ba6b1e59254",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2017-11-07T17:38:50+01:00",
+      "all": 4,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "474c6dec0f5aa19c7a92fad6bb2a4b962eaa8a66",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2017-11-07T17:23:14+01:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "905f38acb814dd5f9ac53563a6acd1dd30433246",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2016-05-02T20:45:52-06:00",
       "all": 80,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "27a7b51d99d8f1ef34c30e07d89a3c506095c5e5",
-      "who": "cebor@users.noreply.github.com",
+      "who": "Felix Itzenplitz <cebor@users.noreply.github.com>",
       "when": "2016-05-02T14:41:23+02:00",
       "all": 7,
       "test": 0,
@@ -20,7 +20,7 @@
     },
     {
       "id": "b625f2471a2bbc96e2c39df2320715511ce4297c",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-05-02T15:03:00-07:00",
       "all": 80,
       "test": 65,
@@ -29,7 +29,7 @@
     },
     {
       "id": "3aa2606ff11a4a03957dc4514c6f500c9bc0a603",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-05-02T14:48:26-07:00",
       "all": 27,
       "test": 0,
@@ -38,7 +38,7 @@
     },
     {
       "id": "89704e0f93b8ab90dd2f89a8d43c73941f987658",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-05-02T14:47:59-07:00",
       "all": 396,
       "test": 155,
@@ -47,7 +47,7 @@
     },
     {
       "id": "52a6ba7ed98bda7ee28ed015909a1c1483690cab",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2016-05-02T22:21:10-06:00",
       "all": 3,
       "test": 0,
@@ -56,7 +56,7 @@
     },
     {
       "id": "43e0fa513b3ae579965e6c7262250e7f6f5ad058",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2016-05-02T17:50:09-07:00",
       "all": 7,
       "test": 0,
@@ -65,7 +65,7 @@
     },
     {
       "id": "de978229b20757489ccaa1f162be4a8c02d6160c",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2016-05-02T15:52:47-06:00",
       "all": 27,
       "test": 0,
@@ -74,7 +74,7 @@
     },
     {
       "id": "ba62fe974b1c71b85b50676d1bcf53787a4d24df",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2016-05-02T16:45:58-07:00",
       "all": 11,
       "test": 0,
@@ -83,7 +83,7 @@
     },
     {
       "id": "3a40cb1a85304b08491714a209fb57ae3721118d",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2016-05-02T16:45:43-07:00",
       "all": 9,
       "test": 0,
@@ -91,8 +91,26 @@
       "pct": 0.0
     },
     {
+      "id": "883e0c48b162a93e3843e39803205b8df1fe4860",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2016-05-02T21:34:27-06:00",
+      "all": 95,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "18b6a55764fb988f33de36efe1c9e973304e8095",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2016-05-02T20:45:05-06:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "00d3b6083c8212ca74add314bd9b68ae02fa8f2d",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2016-05-02T09:38:46-07:00",
       "all": 862,
       "test": 436,
@@ -101,7 +119,7 @@
     },
     {
       "id": "c386fc83796e983a745f42f42332ae52dbd588b3",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2016-05-02T09:56:38-07:00",
       "all": 17,
       "test": 0,
@@ -109,8 +127,26 @@
       "pct": 0.0
     },
     {
+      "id": "43527172ed6f9cf189d8e1bd2f1f650e4e7035b2",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
+      "when": "2016-05-02T09:38:16-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "b88384eed81dee01b8dbaf4b6fd78264f4dd944e",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2016-05-02T15:10:58-06:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "107016ec124490969484327f0016158190be94a3",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2016-05-02T10:36:58-07:00",
       "all": 740,
       "test": 361,
@@ -119,7 +155,7 @@
     },
     {
       "id": "d930ad1816ca0b0ee8b3068a58c7558d21c8c00a",
-      "who": "misko@hevery.com",
+      "who": "Mi\u00c5\u00a1ko Hevery <misko@hevery.com>",
       "when": "2016-05-02T17:11:21+00:00",
       "all": 2720,
       "test": 0,

@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "14ee75924b6ae770115f7f260d720efa8bfb576a",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2016-09-14T15:41:44+02:00",
       "all": 8,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "bd4045b6e753cc279aec861776221219030298b2",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2016-09-14T16:49:13-07:00",
       "all": 29,
       "test": 16,
@@ -20,7 +20,7 @@
     },
     {
       "id": "255099aa612532fb33e9726388612c53284d6143",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2016-09-14T15:58:18-07:00",
       "all": 267,
       "test": 13,
@@ -29,7 +29,7 @@
     },
     {
       "id": "37b8691c8c7dda3c40adaabd91af6aced83f9a23",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2016-09-14T18:04:30-07:00",
       "all": 44,
       "test": 0,
@@ -38,7 +38,7 @@
     },
     {
       "id": "93054d4e3db8e631763af6e9d55deacdd5828a25",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2016-09-14T17:59:47-07:00",
       "all": 65,
       "test": 0,
@@ -46,8 +46,53 @@
       "pct": 0.0
     },
     {
+      "id": "c0bdd89b5dcc48854416a9fe474647085c1ebd55",
+      "who": "Igor Minar <iminar@google.com>",
+      "when": "2016-09-14T19:37:19-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d5515473bfd0974bacb0e7e5870e772426c9088d",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2016-09-14T17:08:48-07:00",
+      "all": 25,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "ffe5c49c3ebb51d534a339e0d85a0aa7967923dc",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2016-09-14T16:49:10-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "ae1dd5bfd0371ce3ba2533ecefee61975b8dd047",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2016-09-14T16:45:16-07:00",
+      "all": 12,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "cb657c4b55f3a1533ea8950cce9a2edfd9aecbda",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2016-09-14T16:44:39-07:00",
+      "all": 39,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "42f60ca303543cb3a869a6b42bbcd5890b09f131",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-09-14T15:12:25-07:00",
       "all": 84,
       "test": 0,
@@ -56,7 +101,7 @@
     },
     {
       "id": "e33037a2f101d186dccc64ba13cd7a19a2996a0a",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-09-14T14:49:12-07:00",
       "all": 530,
       "test": 0,
@@ -65,7 +110,7 @@
     },
     {
       "id": "003294d5dfcc6506802c18822b6842ff07ed8356",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-09-14T14:12:10-07:00",
       "all": 10,
       "test": 0,
@@ -74,7 +119,7 @@
     },
     {
       "id": "785292f44fbcbd11be5bb1f766452d2ddf4bde0a",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-09-14T13:24:47-07:00",
       "all": 5,
       "test": 0,
@@ -83,7 +128,7 @@
     },
     {
       "id": "15c29125277c3c6a9374ae2315923147cb83f452",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-09-14T11:51:26-07:00",
       "all": 42,
       "test": 0,
@@ -92,7 +137,7 @@
     },
     {
       "id": "096ae7c4045980e1a13d2a83398d33aac1c90e0f",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-09-14T11:51:15-07:00",
       "all": 197,
       "test": 0,
@@ -101,7 +146,7 @@
     },
     {
       "id": "5972fdc817572605b841588b94c344f7901b14b0",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-09-14T11:50:39-07:00",
       "all": 100,
       "test": 0,
@@ -110,7 +155,7 @@
     },
     {
       "id": "5fad37df6949bef29d36ddafae14093f7b39c0fa",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2016-09-14T13:33:49-07:00",
       "all": 339,
       "test": 0,
@@ -119,7 +164,7 @@
     },
     {
       "id": "727c2b38a4355e3ecb708487aa377ed54e4e8375",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-09-14T11:51:26-07:00",
       "all": 42,
       "test": 0,
@@ -128,7 +173,7 @@
     },
     {
       "id": "b6287ccc5126da9c1a052bd28b3a9e2743f67eae",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-09-14T11:51:15-07:00",
       "all": 197,
       "test": 0,
@@ -137,7 +182,7 @@
     },
     {
       "id": "69e8ace8848e55c9605c1feab7d642bf46bddb4e",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-09-14T11:50:39-07:00",
       "all": 100,
       "test": 0,
@@ -146,7 +191,7 @@
     },
     {
       "id": "85d9db6bc4ca6b5229e60aafa8eec648e8fe9f9e",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2016-09-14T22:21:23+02:00",
       "all": 27,
       "test": 23,
@@ -155,7 +200,7 @@
     },
     {
       "id": "0a2132ef1043e2fd84476e4dcd48d098ea935d7e",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2016-09-14T09:43:01-07:00",
       "all": 882,
       "test": 0,
@@ -164,7 +209,7 @@
     },
     {
       "id": "d299ce4bcf20cb7da9378c8516d2e83a763e4864",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2016-09-14T09:42:41-07:00",
       "all": 578,
       "test": 0,
@@ -173,11 +218,20 @@
     },
     {
       "id": "0b9425bbb47b09f207104f53dc5505fb0d22149b",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2016-09-14T09:41:40-07:00",
       "all": 21,
       "test": 0,
       "testable": 21,
+      "pct": 0.0
+    },
+    {
+      "id": "84b4338ab5e4eb1a8717a6cee3f6d3a669ed7054",
+      "who": "Victor Berchet <victor@suumit.com>",
+      "when": "2016-09-14T07:40:58-07:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     }
   ],

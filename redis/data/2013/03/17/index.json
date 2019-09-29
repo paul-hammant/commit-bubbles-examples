@@ -1,24 +1,24 @@
 {
   "commits": [
     {
-      "all": 0, 
-      "who": "bugs@bergstroem.nu", 
-      "when": "2013-03-17T18:03:14+11:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "dc4003be715e4ed024ec7c95594c08ba8ddd006c"
-    }, 
+      "id": "dc4003be715e4ed024ec7c95594c08ba8ddd006c",
+      "who": "Johan Bergstr\u00c3\u00b6m <bugs@bergstroem.nu>",
+      "when": "2013-03-17T18:03:14+11:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "bugs@bergstroem.nu", 
-      "when": "2013-03-17T17:49:57+11:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "348be19b5f42da0f61044a0cbbe5eecaaa257c6d"
+      "id": "348be19b5f42da0f61044a0cbbe5eecaaa257c6d",
+      "who": "Johan Bergstr\u00c3\u00b6m <bugs@bergstroem.nu>",
+      "when": "2013-03-17T17:49:57+11:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

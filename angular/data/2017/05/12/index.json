@@ -1,8 +1,26 @@
 {
   "commits": [
     {
+      "id": "59136fdbe4593f6d192bbb5e6f03a2018acaaeaa",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2017-05-12T13:58:11-07:00",
+      "all": 48,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "baa3fbab46e26d7a817587e0c96d43d138c35e43",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2017-05-12T13:25:10-07:00",
+      "all": 1705,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "54a6e4ff9ea9795a456bfd452e81384b90540037",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2017-05-12T17:32:51-04:00",
       "all": 181,
       "test": 152,
@@ -11,7 +29,7 @@
     },
     {
       "id": "ecc356eceaa0602fc50d9b26373b915218a19bca",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2017-05-12T15:04:28+01:00",
       "all": 12,
       "test": 0,
@@ -20,7 +38,7 @@
     },
     {
       "id": "7a759df49ea6a67fb70ed79c52e82b22ac51c30d",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2017-05-12T14:48:38+01:00",
       "all": 2,
       "test": 2,
@@ -29,7 +47,7 @@
     },
     {
       "id": "38c524d655fe152e44e9665c5be48410dff98376",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2017-05-12T16:49:16-04:00",
       "all": 31,
       "test": 31,
@@ -37,8 +55,35 @@
       "pct": 100.0
     },
     {
+      "id": "06264645fdf073a790c3ce5ae9a9c81418b4d8fa",
+      "who": "Georgios Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2017-05-12T22:07:51+03:00",
+      "all": 228,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "21d213dfc706594a2465bdd099bbe6d0aee11533",
+      "who": "Georgios Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2017-05-12T11:15:08+03:00",
+      "all": 43,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "3065fc6ccaab7b32a874e8e725adee787e71d7fc",
+      "who": "Georgios Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2017-05-12T11:08:45+03:00",
+      "all": 64,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "bcefc61da43f4b2cbd610f157ecc4d96b28933e5",
-      "who": "kalpakas.g@gmail.com",
+      "who": "Georgios Kalpakas <kalpakas.g@gmail.com>",
       "when": "2017-05-12T11:01:42+03:00",
       "all": 20,
       "test": 0,
@@ -47,7 +92,7 @@
     },
     {
       "id": "569b1e0eb7471c4888777b13858dcf48f6ba85f9",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2017-05-12T19:03:54+02:00",
       "all": 6,
       "test": 0,
@@ -56,7 +101,7 @@
     },
     {
       "id": "b83fe6f2a4ac586f1603e01edd8e36d2b0aac16a",
-      "who": "lozanol@google.com",
+      "who": "lozanol <lozanol@google.com>",
       "when": "2017-05-12T10:03:38-07:00",
       "all": 3,
       "test": 0,
@@ -65,11 +110,38 @@
     },
     {
       "id": "90bc5b221bd261b209eeba0ad99543f6dd994bff",
-      "who": "kalpakas.g@gmail.com",
+      "who": "Georgios Kalpakas <kalpakas.g@gmail.com>",
       "when": "2017-05-12T09:48:28+03:00",
       "all": 18,
       "test": 0,
       "testable": 3,
+      "pct": 0.0
+    },
+    {
+      "id": "4a599eec455c99d43f8493d0eb855f14dc12531a",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2017-05-12T01:52:39+03:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "fdfeaaf1f367155c9cf6e191dfa4b0abef035ef5",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2017-05-12T01:12:23+03:00",
+      "all": 20,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "decb4cc4a318c60b58ae93d58eb43dd1ce723cc9",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2017-05-12T01:02:13+03:00",
+      "all": 82,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     }
   ],

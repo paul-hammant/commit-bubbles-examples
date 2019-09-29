@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "140e7c00d1f299ffb17b2370ada732f142088319",
-      "who": "phil@philistine.com.au",
+      "who": "Phil McCloghry-Laing <phil@philistine.com.au>",
       "when": "2017-12-07T17:24:49+11:00",
       "all": 19,
       "test": 15,
@@ -10,13 +10,31 @@
       "pct": 78.9
     },
     {
+      "id": "b4db2e25d62c6899969c4525941f1a489cace9d7",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2017-12-07T16:46:37+02:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "8c5208834671a8a1f29cf28a5a4e7f16a816e21e",
-      "who": "martin@probst.io",
+      "who": "Martin Probst <martin@probst.io>",
       "when": "2017-12-07T17:52:16+01:00",
       "all": 189,
       "test": 89,
       "testable": 189,
       "pct": 47.1
+    },
+    {
+      "id": "77a1f9f2e8c7abae0444d192ff86fbd1d63ade2f",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2017-12-07T19:17:13-08:00",
+      "all": 33,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "4653450b396d786792125e12bfd54fde0af5db37",
-      "who": "Jonathan.Leitschuh@plexxi.com",
+      "who": "Jonathan Leitschuh <Jonathan.Leitschuh@plexxi.com>",
       "when": "2017-11-15T22:39:52-05:00",
       "all": 40,
       "test": 17,
@@ -11,7 +11,7 @@
     },
     {
       "id": "8d5fff312194eefd6c5c1e740ca0e14e8b44e1d7",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-11-15T20:59:03+01:00",
       "all": 17,
       "test": 0,
@@ -20,12 +20,30 @@
     },
     {
       "id": "5d9a89ec9590177fcf840e99b848ccfa66c9b4f6",
-      "who": "jens.brimfors@gmail.com",
+      "who": "jensim / Jens Brimfors <jens.brimfors@gmail.com>",
       "when": "2017-11-15T20:43:44+01:00",
       "all": 62,
       "test": 40,
       "testable": 51,
       "pct": 78.4
+    },
+    {
+      "id": "bfb017e9db3e77d34e7d3dbb41440e42906479b0",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2017-11-15T18:53:42+01:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "097faf3fda13387b07248d724845439b51044b7e",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2017-11-15T16:01:03+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

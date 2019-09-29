@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "e443ad9c29ab9ed23a965d129f3b0a2d0e8712d4",
-      "who": "yossigo@gmail.com",
+      "who": "Yossi Gottlieb <yossigo@gmail.com>",
       "when": "2016-03-31T21:18:45+03:00",
       "all": 6,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "85919f80ed675dad7f2bee25018fec2833b8bbde",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2016-03-31T17:43:37+02:00",
       "all": 185,
       "test": 0,
@@ -20,7 +20,7 @@
     },
     {
       "id": "6020469452217da57768f0b25dbcf27aba007cc7",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2016-03-31T17:02:13+02:00",
       "all": 14,
       "test": 0,
@@ -28,8 +28,17 @@
       "pct": 0.0
     },
     {
+      "id": "34f2fb7d8c941fad5557d5b6fb7c4562ceb3c32a",
+      "who": "Dvir Volk <dvirsky@gmail.com>",
+      "when": "2016-03-31T16:17:33+03:00",
+      "all": 15,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "6dead2cff563375543b23c1ecec78a1462ad611a",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2016-03-06T13:44:24+01:00",
       "all": 2642,
       "test": 0,
@@ -38,7 +47,7 @@
     },
     {
       "id": "d827dbfda770d040d23802fb462487eea3699f0b",
-      "who": "cthunes@brewtab.com",
+      "who": "Chris Thunes <cthunes@brewtab.com>",
       "when": "2016-03-11T15:22:36-05:00",
       "all": 10,
       "test": 0,
@@ -46,8 +55,26 @@
       "pct": 0.0
     },
     {
+      "id": "cad9ea5c68fa0b36c1620aa35fe5a946c0a84ced",
+      "who": "Ryosuke Hasebe <ryosuke.hasebe@linecorp.com>",
+      "when": "2016-03-30T23:09:36+09:00",
+      "all": 11,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d5aa7e2abe0d832fcad348caff99d006f2ab7740",
+      "who": "Ryosuke Hasebe <ryosuke.hasebe@linecorp.com>",
+      "when": "2016-03-30T21:56:22+09:00",
+      "all": 4,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "28c291c55c35b8acaedffbb7eb98b3fc175e1237",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2016-03-02T17:22:42+01:00",
       "all": 52,
       "test": 52,
@@ -56,7 +83,7 @@
     },
     {
       "id": "ae7317e8e9a5f530508d171f3307021d20dbef9f",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2016-03-02T16:31:02+01:00",
       "all": 87,
       "test": 87,
@@ -65,7 +92,7 @@
     },
     {
       "id": "fc843784c340865f105fa8da37001f044a613829",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2016-03-02T16:20:28+01:00",
       "all": 7,
       "test": 0,
@@ -74,7 +101,7 @@
     },
     {
       "id": "9a00da0d1470f83fa5927ac05923ef207fd19f64",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2016-03-02T15:15:18+01:00",
       "all": 55,
       "test": 55,
@@ -83,7 +110,7 @@
     },
     {
       "id": "27fc01a7b864572b85f64aad5efffb7199ec0dba",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2016-03-02T15:14:53+01:00",
       "all": 3,
       "test": 3,
@@ -92,7 +119,7 @@
     },
     {
       "id": "fe64960ad5dfea17c8f22cb10a7f4fdaf4fff4b7",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2016-03-02T15:13:45+01:00",
       "all": 18,
       "test": 0,
@@ -101,16 +128,16 @@
     },
     {
       "id": "235f55344b2474eaac0951a6183b79edb6be739a",
-      "who": "antirez@gmail.com",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
       "when": "2016-03-02T15:12:38+01:00",
-      "all": 14,
+      "all": 0,
       "test": 0,
-      "testable": 14,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "93cc8baf1ae5e3d028b4847b711b07c7e20cef4c",
-      "who": "sunheehnus@gmail.com",
+      "who": "Sun He <sunheehnus@gmail.com>",
       "when": "2016-03-02T18:11:30+08:00",
       "all": 14,
       "test": 0,
@@ -119,7 +146,7 @@
     },
     {
       "id": "e85d6f22cf2ddb2a4a5de80b211802bdacbf4a3b",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2016-03-02T08:51:27+01:00",
       "all": 8,
       "test": 0,

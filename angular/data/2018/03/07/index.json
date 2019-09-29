@@ -1,8 +1,26 @@
 {
   "commits": [
     {
+      "id": "23dc9a90b0c7e82b23aabb7bf10aea11a14ffcd2",
+      "who": "Jamie Krug <jamiekrug@gmail.com>",
+      "when": "2018-03-07T13:23:30-05:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "ffb9dc6cf95ebd2b3f051eae4981ec52852b6b9f",
+      "who": "Jamie Krug <jamiekrug@gmail.com>",
+      "when": "2018-03-07T13:37:28-05:00",
+      "all": 4,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "ed53c5ccdd06d1b8f3a2ef257a6c2543acdde8a5",
-      "who": "kyliau@google.com",
+      "who": "Keen Yee Liau <kyliau@google.com>",
       "when": "2018-03-07T13:21:52-08:00",
       "all": 66,
       "test": 0,
@@ -10,8 +28,17 @@
       "pct": 0.0
     },
     {
+      "id": "5caad5fe9370f98fdb68f65954a1a4228bc48b5b",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-03-07T11:08:33-08:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "f256c02b5e41af57d00222717f1e124272743012",
-      "who": "hans@hansl.ca",
+      "who": "Hans Larsen <hans@hansl.ca>",
       "when": "2018-03-07T16:26:52-08:00",
       "all": 77,
       "test": 0,
@@ -20,7 +47,7 @@
     },
     {
       "id": "a0a01f1e1ec7283d8125f46ccf92e257aa266df4",
-      "who": "misko@hevery.com",
+      "who": "Mis\u00cc\u008cko Hevery <misko@hevery.com>",
       "when": "2018-03-07T16:25:18-08:00",
       "all": 66,
       "test": 37,
@@ -29,7 +56,7 @@
     },
     {
       "id": "db56836425fe200f42e299bce3e76bca0a6021e9",
-      "who": "alx+alxhub@alxandria.net",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
       "when": "2018-03-07T15:10:38-08:00",
       "all": 362,
       "test": 171,
@@ -38,7 +65,7 @@
     },
     {
       "id": "1e6cc42a01f1d2548707a2bcfff93a45921cd035",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2018-03-07T11:26:11-08:00",
       "all": 477,
       "test": 16,
@@ -46,8 +73,26 @@
       "pct": 13.8
     },
     {
+      "id": "c499c8f4dbfdbfb2c3346378eff30d7957b12b8a",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2018-03-07T15:39:02-08:00",
+      "all": 8,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "8407fcc97953e77bbfd65debb52cf57e463a482d",
+      "who": "Alex Eagle <eagle@post.harvard.edu>",
+      "when": "2018-03-07T17:26:03-08:00",
+      "all": 17,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "8fb34bcd4383f1fc147ddf52db1777f9f9d75719",
-      "who": "karakara@google.com",
+      "who": "Kara Erickson <karakara@google.com>",
       "when": "2018-03-07T09:46:10-08:00",
       "all": 398,
       "test": 115,
@@ -55,12 +100,48 @@
       "pct": 28.9
     },
     {
+      "id": "8ad4ae0a0709fad0968ca579b479a55483851f6e",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2018-03-07T14:59:33-08:00",
+      "all": 27,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "ffc6ee00861642948e41be835cb9d7a9a17899d5",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2018-03-07T14:57:04-08:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "ad8fb8484fed3b9681fe368ff5b8cdcc04127e56",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2018-03-07T10:11:51-08:00",
       "all": 74,
       "test": 0,
       "testable": 11,
+      "pct": 0.0
+    },
+    {
+      "id": "ce649f725f9987cdef31434fb1ad4a0858ad49d9",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2018-03-07T09:56:07-08:00",
+      "all": 83,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "fcb8c492d6ac1544f1a36fbe23776496f6a556ae",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2018-03-07T09:04:27-08:00",
+      "all": 56,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     }
   ],

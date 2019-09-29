@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "91e8cd6466d0ff05d5f63d74ce5b71a6cc6d3f60",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2019-02-02T17:34:28+01:00",
       "all": 22,
       "test": 0,
@@ -10,8 +10,17 @@
       "pct": 0.0
     },
     {
+      "id": "ac5f6573983318eede7d82c92e0d9b2a432346da",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2019-02-02T17:30:23+01:00",
+      "all": 65,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "635ea1a7dc2f7df009857ecbeebf0b907569b0d4",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2019-02-02T15:08:53+01:00",
       "all": 108,
       "test": 108,
@@ -20,7 +29,7 @@
     },
     {
       "id": "5fce6d0da71520a7ebe773e486adb1f455db8e4d",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2019-02-02T16:03:43+01:00",
       "all": 100,
       "test": 96,
@@ -29,12 +38,21 @@
     },
     {
       "id": "591e5c00ee4512d60c7a99ba07ad7b1d7918faff",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2019-02-02T14:00:13+01:00",
       "all": 188,
       "test": 188,
       "testable": 188,
       "pct": 100.0
+    },
+    {
+      "id": "495e7caf4abb0e7d8e6611a0d9fbf067b6f7c2db",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2019-02-02T11:31:48+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

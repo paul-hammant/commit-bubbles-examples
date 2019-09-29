@@ -2,12 +2,21 @@
   "commits": [
     {
       "id": "1df71004338faf30b9287b03b726e1ce4f1246be",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2012-04-21T21:56:51+02:00",
       "all": 44,
       "test": 38,
       "testable": 44,
       "pct": 86.4
+    },
+    {
+      "id": "934ebddf0bb286ebbff22028b9f5a9c016589b3f",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2012-04-21T20:45:08+02:00",
+      "all": 123,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 4 (master branch)",

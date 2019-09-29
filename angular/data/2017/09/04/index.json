@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "8dfc3c386af17977547500b9fb3b7974991a770a",
-      "who": "vikram.subramanian@gmail.com",
+      "who": "Vikram Subramanian <vikram.subramanian@gmail.com>",
       "when": "2017-09-04T00:38:42-07:00",
       "all": 106,
       "test": 69,
@@ -11,7 +11,7 @@
     },
     {
       "id": "66f0ab0371c22af90c9526473769da18b4a95a62",
-      "who": "jasonaden@google.com",
+      "who": "Jason Aden <jasonaden@google.com>",
       "when": "2017-09-04T13:00:59-07:00",
       "all": 232,
       "test": 178,
@@ -19,13 +19,31 @@
       "pct": 76.7
     },
     {
+      "id": "1a9d382da91577be1c6b9c736bed1e573bb00479",
+      "who": "Sam Blowes <sam@blowsie.com>",
+      "when": "2017-09-04T16:25:10+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "b56dd32454adb45ae2d4c5c012ba1aef74d28ddb",
-      "who": "olivier.combe@gmail.com",
+      "who": "Olivier Combe <olivier.combe@gmail.com>",
       "when": "2017-09-04T14:06:38+02:00",
       "all": 6,
       "test": 3,
       "testable": 6,
       "pct": 50.0
+    },
+    {
+      "id": "6ac75a0674f8ba28cd960fa62f51757d9c97aa6a",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
+      "when": "2017-09-04T11:50:13+01:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

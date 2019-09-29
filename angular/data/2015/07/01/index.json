@@ -1,8 +1,35 @@
 {
   "commits": [
     {
+      "id": "2bc121740927240907496937028ec18da918073e",
+      "who": "Ted Sander <tsander@google.com>",
+      "when": "2015-07-01T01:45:25-07:00",
+      "all": 4,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "2b45bd2a63d4eb5039519a44f879582aa29ee3be",
+      "who": "Jacob MacDonald <jakemac@google.com>",
+      "when": "2015-07-01T11:05:59-07:00",
+      "all": 31,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "311b47720b8046083c7abfb566149c378346acd5",
+      "who": "Jacob MacDonald <jakemac@google.com>",
+      "when": "2015-07-01T13:20:12-07:00",
+      "all": 96,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "1c94c32f4df2a74060ea6b281700051e7a0cc45b",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-07-01T16:37:36-07:00",
       "all": 7,
       "test": 0,
@@ -11,7 +38,7 @@
     },
     {
       "id": "2ed251a5dbaa2081ea931e116a662455b6f77eb7",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-07-01T16:34:37-07:00",
       "all": 3,
       "test": 0,
@@ -20,7 +47,7 @@
     },
     {
       "id": "8d0d05c65fbe9ab6bfaa45faa2a3651cfaff6ad3",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-07-01T16:37:16-07:00",
       "all": 8,
       "test": 0,
@@ -29,7 +56,7 @@
     },
     {
       "id": "ac24a301bd28bc1dda5330650fb8771e7d9c2480",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-07-01T16:34:08-07:00",
       "all": 8,
       "test": 0,
@@ -38,7 +65,7 @@
     },
     {
       "id": "d1393b058134724fd1299605c463f9c0526dd82c",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2015-07-01T16:06:15-07:00",
       "all": 434,
       "test": 336,
@@ -46,8 +73,17 @@
       "pct": 77.4
     },
     {
+      "id": "46bb4e37ba23866eaf71b4288130962897bd5350",
+      "who": "Yegor Jbanov <yjbanov@google.com>",
+      "when": "2015-07-01T16:29:03-07:00",
+      "all": 82,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "3a8e1661fa8b08b866025c0d28b6a6533e7c1c09",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2015-07-01T10:51:36-07:00",
       "all": 507,
       "test": 22,
@@ -56,7 +92,7 @@
     },
     {
       "id": "34eaf65a79b2f43eccff8e88fb3b799d5e0906a0",
-      "who": "middlefloor@gmail.com",
+      "who": "Jeff Cross <middlefloor@gmail.com>",
       "when": "2015-07-01T10:15:58-07:00",
       "all": 30,
       "test": 0,
@@ -65,7 +101,7 @@
     },
     {
       "id": "c2c361efcf8b9aa6733ae0822864f92e84873e24",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-07-01T09:19:03-07:00",
       "all": 25,
       "test": 0,
@@ -74,7 +110,7 @@
     },
     {
       "id": "530e7426283e5a3bea473b247c1f943919c7ce60",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2015-07-01T13:37:30+02:00",
       "all": 8,
       "test": 0,

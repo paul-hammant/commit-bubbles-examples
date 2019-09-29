@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "a6c78c3a492c327103c5ddb5ab010c7dc975530d",
-      "who": "oskar.berggren@gmail.com",
+      "who": "Oskar Berggren <oskar.berggren@gmail.com>",
       "when": "2016-06-25T02:08:22+02:00",
       "all": 7,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "17852b90ae3eadde86b89210eea47658020b12ed",
-      "who": "oskar.berggren@gmail.com",
+      "who": "Oskar Berggren <oskar.berggren@gmail.com>",
       "when": "2016-06-25T01:00:21+02:00",
       "all": 80,
       "test": 80,
@@ -20,7 +20,7 @@
     },
     {
       "id": "d9bac12e210aa2fbf8664d9a2137c5ef36312cac",
-      "who": "hazzik@gmail.com",
+      "who": "Alexander Zaytsev <hazzik@gmail.com>",
       "when": "2016-06-10T12:57:01+12:00",
       "all": 56,
       "test": 56,
@@ -29,7 +29,7 @@
     },
     {
       "id": "7e83aff1529d002b404bf72552ad07415f0fef9d",
-      "who": "duncan@pleasantsolutions.com",
+      "who": "Duncan Munro <duncan@pleasantsolutions.com>",
       "when": "2016-06-09T15:42:25-06:00",
       "all": 307,
       "test": 233,
@@ -38,12 +38,57 @@
     },
     {
       "id": "b7c085ca371f7d9bb4deca7ef425e1b8c5681ae6",
-      "who": "duncan@pleasantsolutions.com",
+      "who": "Duncan Munro <duncan@pleasantsolutions.com>",
       "when": "2016-06-09T15:41:02-06:00",
       "all": 5615,
       "test": 210,
       "testable": 5608,
       "pct": 3.7
+    },
+    {
+      "id": "1a2d126457e554b2d945984a5dd7fdc744ea0bed",
+      "who": "Alexander Zaytsev <hazzik@gmail.com>",
+      "when": "2016-06-07T11:48:00+12:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "8a733e33658f1df0f6b2fa6c1cb8d281ed752c23",
+      "who": "Alexander Zaytsev <hazzik@gmail.com>",
+      "when": "2016-06-05T20:14:29+12:00",
+      "all": 94,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "9703afe44f575fe6a90db322e1f91cab71b62fab",
+      "who": "Alexander Zaytsev <hazzik@gmail.com>",
+      "when": "2016-06-05T18:38:47+12:00",
+      "all": 6537,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c3ecc7263fc20f661b73c144eec3fd6f20086316",
+      "who": "Alexander Zaytsev <hazzik@gmail.com>",
+      "when": "2016-06-05T03:22:20+12:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "e1f608d819f0ee548c83802ec2efca2198588ed6",
+      "who": "Alexander Zaytsev <hazzik@gmail.com>",
+      "when": "2016-06-04T21:08:49+12:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "NHibernate (master branch)",

@@ -1,8 +1,17 @@
 {
   "commits": [
     {
+      "id": "12e435d2a49a3a121b91b14c23162c800d5fb798",
+      "who": "Kevin Menard <kevin@nirvdrum.com>",
+      "when": "2014-04-22T10:51:19-04:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "a69178fdd2df5a0045a49f89ac24e4f91c2a89cf",
-      "who": "kingsumos@gmail.com",
+      "who": "kingsumos <kingsumos@gmail.com>",
       "when": "2014-04-22T11:44:53-04:00",
       "all": 3,
       "test": 0,
@@ -11,7 +20,7 @@
     },
     {
       "id": "20c040d364e2af83a55e70af01663f46f22e1c28",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2014-04-22T16:14:38+02:00",
       "all": 76,
       "test": 0,
@@ -19,13 +28,22 @@
       "pct": 0.0
     },
     {
+      "id": "9eeb03e5f70e8e6cd505423d861dba8c1495f7d0",
+      "who": "antirez <antirez@gmail.com>",
+      "when": "2014-04-22T16:13:58+02:00",
+      "all": 4,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "fdaab0234787d1bb835680825ea919d7cba3723e",
-      "who": "yoav@monfort.co.il",
+      "who": "yoav <yoav@monfort.co.il>",
       "when": "2014-04-22T10:01:21+03:00",
-      "all": 1911,
-      "test": 258,
-      "testable": 1896,
-      "pct": 13.6
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Redis (unstable branch)",

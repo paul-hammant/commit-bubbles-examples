@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "d2471aaaac2fb3f69ee6ecce479a3032547f89f3",
-      "who": "kcooney@users.noreply.github.com",
+      "who": "Kevin Cooney <kcooney@users.noreply.github.com>",
       "when": "2017-08-04T14:03:18-07:00",
       "all": 61,
       "test": 13,
@@ -10,8 +10,17 @@
       "pct": 22.8
     },
     {
+      "id": "440ce2705da28d6da292ba2eedbc2afaae18d1ac",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2017-08-04T23:09:27+03:00",
+      "all": 10,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "c9ddcb1a303c957a80f8885839c9704b993605d0",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-08-04T23:06:47+03:00",
       "all": 52,
       "test": 0,
@@ -20,12 +29,21 @@
     },
     {
       "id": "362a4535b473654401befffce46cd268fad36e38",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-08-04T21:09:06+02:00",
       "all": 152,
       "test": 52,
       "testable": 73,
       "pct": 71.2
+    },
+    {
+      "id": "39cad9bc0c48b59607d33423e81df8b0976eee0f",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2017-08-04T18:59:26+02:00",
+      "all": 77,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

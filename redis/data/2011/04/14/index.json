@@ -2,12 +2,21 @@
   "commits": [
     {
       "id": "7c0e1b53c4c4f646c788fcd09666e1c321c1d134",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2011-04-14T13:31:14+02:00",
-      "all": 3054,
-      "test": 992,
-      "testable": 3047,
-      "pct": 32.6
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d0cfb2be643e5102cb24c3d22a1cf9cfc9df20d1",
+      "who": "antirez <antirez@gmail.com>",
+      "when": "2011-04-14T09:41:22+02:00",
+      "all": 64,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Redis (unstable branch)",

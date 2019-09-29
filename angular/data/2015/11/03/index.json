@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "ee07646059e561bdb0039a534904a5e5d24a3718",
-      "who": "mlaval@amadeus.com",
+      "who": "mlaval <mlaval@amadeus.com>",
       "when": "2015-11-03T15:53:28+01:00",
       "all": 3,
       "test": 3,
@@ -11,7 +11,7 @@
     },
     {
       "id": "3593d8580739bf71454e574e5144135cc55d1a03",
-      "who": "yjbanov@google.com",
+      "who": "Yegor Jbanov <yjbanov@google.com>",
       "when": "2015-11-03T18:45:55-08:00",
       "all": 45,
       "test": 45,
@@ -20,7 +20,7 @@
     },
     {
       "id": "4bb9c46cf1ce422e4f260975bf0d0c6f076889f0",
-      "who": "alx+alxhub@alxandria.net",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
       "when": "2015-11-03T15:19:18-08:00",
       "all": 63,
       "test": 0,
@@ -29,7 +29,7 @@
     },
     {
       "id": "7343ef04ae5ae32391958a60583fc73bf075cf97",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2015-11-03T12:56:34-08:00",
       "all": 128,
       "test": 84,
@@ -37,8 +37,17 @@
       "pct": 65.6
     },
     {
+      "id": "0fbbce7a43972bd8d203065b1ae4a7d5de6e2613",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2015-11-03T20:23:26-08:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "69e4b62809df1f880ad7a8ac8da0e19da2b9228b",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-11-03T11:47:16+00:00",
       "all": 3,
       "test": 0,
@@ -47,7 +56,7 @@
     },
     {
       "id": "fd92dc0701c06d5a80c91de8fe13fc2d4c356150",
-      "who": "mlaval@amadeus.com",
+      "who": "mlaval <mlaval@amadeus.com>",
       "when": "2015-11-03T17:26:56+01:00",
       "all": 112,
       "test": 0,
@@ -55,13 +64,49 @@
       "pct": 0.0
     },
     {
+      "id": "c9a3ba0f487546c0a5b30868a927b10ec28514ad",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2015-11-03T16:13:37-08:00",
+      "all": 24,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "d0c65c144acbcc6442756d97fc0822af6a223364",
-      "who": "ju.ralph@gmail.com",
+      "who": "Julie Ralph <ju.ralph@gmail.com>",
       "when": "2015-11-03T13:51:33-08:00",
       "all": 18,
       "test": 18,
       "testable": 18,
       "pct": 100.0
+    },
+    {
+      "id": "c262bda1d39ecbbf762d2156e4e2295213f9404b",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
+      "when": "2015-11-03T17:54:12+01:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "62402457a26bfa292872e547663af760c273c98f",
+      "who": "vsavkin <avix1000@gmail.com>",
+      "when": "2015-11-03T11:16:18-08:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "09311956957f8b810afdb649045f01536f79ada9",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
+      "when": "2015-11-03T15:03:18+01:00",
+      "all": 11,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

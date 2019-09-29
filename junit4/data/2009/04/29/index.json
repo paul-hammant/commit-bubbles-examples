@@ -2,16 +2,16 @@
   "commits": [
     {
       "id": "19869a298da02326cba2951dcc7c1a84fae91b89",
-      "who": "kent@threeriversinstitute.org",
+      "who": "KentBeck <kent@threeriversinstitute.org>",
       "when": "2009-04-29T14:34:48-07:00",
-      "all": 484,
-      "test": 184,
-      "testable": 302,
-      "pct": 60.9
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "c7874453182cde8e7b38cf3ce356d16d3d1dcde8",
-      "who": "kent@threeriversinstitute.org",
+      "who": "KentBeck <kent@threeriversinstitute.org>",
       "when": "2009-04-29T14:19:36-07:00",
       "all": 84,
       "test": 20,
@@ -20,7 +20,7 @@
     },
     {
       "id": "3d6e99e93d7ba7360bfed1c213114648e8c70849",
-      "who": "saff@dhcp-172-31-197-71.cam.corp.google.com",
+      "who": "David Saff <saff@dhcp-172-31-197-71.cam.corp.google.com>",
       "when": "2009-04-29T16:02:52-04:00",
       "all": 14,
       "test": 0,
@@ -29,7 +29,7 @@
     },
     {
       "id": "2b9ba5540f5051239a9fde65f195cefc532efadc",
-      "who": "saff@dhcp-172-31-197-71.cam.corp.google.com",
+      "who": "David Saff <saff@dhcp-172-31-197-71.cam.corp.google.com>",
       "when": "2009-04-29T16:02:24-04:00",
       "all": 16,
       "test": 0,
@@ -38,7 +38,7 @@
     },
     {
       "id": "6c942aec322e039d2c6fc82c4d5c1a63cf6fb244",
-      "who": "saff@new-host-4.home",
+      "who": "David Saff <saff@new-host-4.home>",
       "when": "2009-04-29T11:29:50+08:00",
       "all": 314,
       "test": 173,
@@ -46,8 +46,17 @@
       "pct": 62.0
     },
     {
+      "id": "e18695898f7260f0f6ed99eaf26c0f0bcabeb863",
+      "who": "David Saff <saff@dhcp-172-31-197-71.cam.corp.google.com>",
+      "when": "2009-04-29T04:17:15+08:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "3e06324ab77f9b9f7dbfe60b41324bcea06f7824",
-      "who": "saff@dhcp-172-31-197-71.cam.corp.google.com",
+      "who": "David Saff <saff@dhcp-172-31-197-71.cam.corp.google.com>",
       "when": "2009-04-29T04:09:42+08:00",
       "all": 6,
       "test": 0,
@@ -56,7 +65,7 @@
     },
     {
       "id": "ac7a1f1b2cb3ed60f87cc081fe61017f8bb8e93e",
-      "who": "saff@dhcp-172-31-197-71.cam.corp.google.com",
+      "who": "David Saff <saff@dhcp-172-31-197-71.cam.corp.google.com>",
       "when": "2009-04-29T04:12:32+08:00",
       "all": 18,
       "test": 11,

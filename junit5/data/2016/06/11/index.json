@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "7a9e83cd077faa634f0b4663899ecd42833efd27",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-06-11T15:53:41+02:00",
       "all": 95,
       "test": 69,
@@ -11,7 +11,7 @@
     },
     {
       "id": "082a1691286e0c10e8737d4e64f923019302fca6",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-06-11T15:24:41+02:00",
       "all": 334,
       "test": 126,
@@ -19,8 +19,17 @@
       "pct": 37.7
     },
     {
+      "id": "ea3f679f76254d61c962629bb88d18cebc88e711",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2016-06-11T20:33:52+02:00",
+      "all": 34,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "85f3156214f0ee205b6caaaef87bd291700188ff",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2016-06-11T20:12:45+02:00",
       "all": 396,
       "test": 179,
@@ -29,7 +38,7 @@
     },
     {
       "id": "5251d0a4c092ffe5ba3cf4ad4c69714a36d8dfe3",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2016-06-11T19:01:42+02:00",
       "all": 165,
       "test": 54,
@@ -38,12 +47,21 @@
     },
     {
       "id": "5707c028b2183766383c8fe83b0b662495cba59d",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2016-06-11T17:54:01+02:00",
       "all": 279,
       "test": 43,
       "testable": 236,
       "pct": 18.2
+    },
+    {
+      "id": "cee27602f5f4411a3969f78a055b67ecb2c20092",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2016-06-11T12:13:51+02:00",
+      "all": 31,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "9aeb8c53575855bd96d54581057654cbd5c3f281",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2017-01-06T14:18:17-08:00",
       "all": 421,
       "test": 421,
@@ -11,7 +11,7 @@
     },
     {
       "id": "424e6c4cb9f01114307d970c1ba75c4839665f8e",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2017-01-06T11:28:09-08:00",
       "all": 87,
       "test": 11,
@@ -20,12 +20,21 @@
     },
     {
       "id": "99aa49ab6c2b430fc7be8091a255f32117eff322",
-      "who": "RyanCavanaugh@users.noreply.github.com",
+      "who": "Ryan Cavanaugh <RyanCavanaugh@users.noreply.github.com>",
       "when": "2017-01-06T20:43:17-08:00",
       "all": 232,
       "test": 47,
       "testable": 232,
       "pct": 20.3
+    },
+    {
+      "id": "02dd90faed0c29cba86831ea98acb9e6aa3452ce",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2017-01-06T12:57:54-08:00",
+      "all": 45,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

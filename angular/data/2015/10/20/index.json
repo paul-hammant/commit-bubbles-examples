@@ -1,8 +1,35 @@
 {
   "commits": [
     {
+      "id": "eba70736f1b8e7530689106430d431a407a9657a",
+      "who": "Jason Teplitz <jteplitz602@gmail.com>",
+      "when": "2015-10-20T21:31:26+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "bdd031aecc639f77b82c7065215adffad746d932",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2015-10-20T08:46:41-07:00",
+      "all": 157,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "4a1b873fad6dcdabc6377cd5cf2cdb1cf6a9931e",
+      "who": "Martin Probst <martin@probst.io>",
+      "when": "2015-10-20T10:10:31+01:00",
+      "all": 25,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "dc6a066fed3444487a09105b08c055bc9fca9b71",
-      "who": "github@gdi2290.com",
+      "who": "gdi2290 <github@gdi2290.com>",
       "when": "2015-10-20T03:05:39+01:00",
       "all": 101,
       "test": 5,
@@ -11,7 +38,7 @@
     },
     {
       "id": "84d1f93d832a5e5a544c6fbe8c985f80767a1378",
-      "who": "jteplitz602@gmail.com",
+      "who": "Jason Teplitz <jteplitz602@gmail.com>",
       "when": "2015-10-20T21:59:53+01:00",
       "all": 2,
       "test": 0,
@@ -20,12 +47,21 @@
     },
     {
       "id": "711dbf49753b838eb9ff729bd57b0b93f0e75ea8",
-      "who": "yjbanov@google.com",
+      "who": "Yegor Jbanov <yjbanov@google.com>",
       "when": "2015-10-20T16:25:01-07:00",
       "all": 27,
       "test": 20,
       "testable": 27,
       "pct": 74.1
+    },
+    {
+      "id": "fd0ba37734f1df3455346bb47df85c55d479d679",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2015-10-20T09:38:14-07:00",
+      "all": 628,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

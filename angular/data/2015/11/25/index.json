@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "cf3ceba2cc57140d9441bd4b82ab3c7ba863b23c",
-      "who": "maneki.nekko@gmail.com",
+      "who": "Wassim Chegham <maneki.nekko@gmail.com>",
       "when": "2015-11-25T23:06:06+01:00",
       "all": 6,
       "test": 0,
@@ -10,8 +10,17 @@
       "pct": 0.0
     },
     {
+      "id": "f77ca7b5e2ceeaf06e47413d02255f5f2deb36f2",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2015-11-25T14:55:59-08:00",
+      "all": 69,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "b90de665352aca95f8b82c510bc7a7856beb8821",
-      "who": "yjbanov@google.com",
+      "who": "Yegor Jbanov <yjbanov@google.com>",
       "when": "2015-11-25T15:28:42-08:00",
       "all": 30,
       "test": 4,
@@ -20,12 +29,21 @@
     },
     {
       "id": "cf157b99d3186f568a2afea10c6cd74f9c81bb44",
-      "who": "mlaval@amadeus.com",
+      "who": "mlaval <mlaval@amadeus.com>",
       "when": "2015-11-25T18:35:46+01:00",
       "all": 4,
       "test": 4,
       "testable": 4,
       "pct": 100.0
+    },
+    {
+      "id": "2cd0f076cc493e75e1a5ea2d3c1eee4067fb988a",
+      "who": "vsavkin <avix1000@gmail.com>",
+      "when": "2015-11-25T11:46:33-08:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

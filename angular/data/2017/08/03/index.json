@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "d098cf5a8b80a4adc161cc9dc10b9e969023c78e",
-      "who": "wilgert@wilgert.nl",
+      "who": "Wilgert Velinga <wilgert@wilgert.nl>",
       "when": "2017-08-03T21:47:59+02:00",
       "all": 32,
       "test": 0,
@@ -10,8 +10,26 @@
       "pct": 0.0
     },
     {
+      "id": "4eb1f91bee3b2ba1eb884195053dc0ddfa83430c",
+      "who": "Yuan Gao <tinagao@google.com>",
+      "when": "2017-08-03T15:18:55-07:00",
+      "all": 249,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "9320f34f196e65866478ed71c5485ba9ac91a581",
+      "who": "Kapunahele Wong <kapunahelewong@gmail.com>",
+      "when": "2017-08-03T15:10:42-04:00",
+      "all": 881,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "06faac8b5cb08cf838a39f2666ebf473f0f063ec",
-      "who": "kalpakas.g@gmail.com",
+      "who": "Georgios Kalpakas <kalpakas.g@gmail.com>",
       "when": "2017-08-03T11:40:39+03:00",
       "all": 45,
       "test": 7,
@@ -20,7 +38,7 @@
     },
     {
       "id": "fcadbf4bf6d00ea5b250a8069e05b3e4bd000a29",
-      "who": "misko@hevery.com",
+      "who": "Mis\u00cc\u008cko Hevery <misko@hevery.com>",
       "when": "2017-08-03T12:33:29-07:00",
       "all": 753,
       "test": 286,
@@ -29,7 +47,7 @@
     },
     {
       "id": "ca695e06322f23662a37afefcaaceffc1581e0bd",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2017-08-03T14:31:23-07:00",
       "all": 7,
       "test": 3,
@@ -38,7 +56,7 @@
     },
     {
       "id": "5651e4ac7230eea611420f1a159fa73d44197a95",
-      "who": "abhikdeora@gmail.com",
+      "who": "Abhimanyu Deora <abhikdeora@gmail.com>",
       "when": "2017-08-03T13:10:47-05:00",
       "all": 2,
       "test": 0,
@@ -47,7 +65,7 @@
     },
     {
       "id": "1dca575701383bc6eb35a576629ad18585eb5b2c",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2017-08-03T20:00:38+02:00",
       "all": 8,
       "test": 5,
@@ -56,7 +74,7 @@
     },
     {
       "id": "81cb5bc3a71a8e3b87ff3c94fe4b5c34b6ceef3b",
-      "who": "jan.oster94@gmail.com",
+      "who": "Jan Peer St\u00c3\u00b6cklmair <jan.oster94@gmail.com>",
       "when": "2017-08-03T02:31:09+02:00",
       "all": 3,
       "test": 0,
@@ -65,7 +83,7 @@
     },
     {
       "id": "6a88659c9aab75ab936d38b93ec27c08258979eb",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2017-08-03T01:09:38+02:00",
       "all": 9,
       "test": 9,
@@ -73,13 +91,40 @@
       "pct": 100.0
     },
     {
+      "id": "44ae6e94e358949087826283a877a803afe4ee8e",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2017-08-03T02:00:36+03:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "99017bf3ff57e82bbd2bd18fca4c085670e1bc36",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2017-08-03T01:54:22+03:00",
+      "all": 16,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "4d117faf1ac61e225d4fcca53ba291a4a86d7cf1",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2017-08-03T00:51:59+02:00",
       "all": 10,
       "test": 10,
       "testable": 10,
       "pct": 100.0
+    },
+    {
+      "id": "5cc9913ded59360c3eed5cf2a19a25f91712162b",
+      "who": "\u00c3\u0098ystein Lygre <oystein.lygre@gmail.com>",
+      "when": "2017-08-03T00:45:54+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

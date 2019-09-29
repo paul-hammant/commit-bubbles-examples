@@ -1,8 +1,26 @@
 {
   "commits": [
     {
+      "id": "227db3d743203479c86c8248b89dd7931528de99",
+      "who": "joehni <joerg.schaible@gmx.de>",
+      "when": "2015-06-27T17:27:55+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "8c8b22fc4a261ad077b8598e4931d1a749e9ff18",
+      "who": "joehni <joerg.schaible@gmx.de>",
+      "when": "2015-06-27T17:23:21+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "90f29fae1f1368ff78514af5cf716aec312f0c33",
-      "who": "joerg.schaible@gmx.de",
+      "who": "joehni <joerg.schaible@gmx.de>",
       "when": "2015-06-27T17:22:00+02:00",
       "all": 25,
       "test": 0,
@@ -11,7 +29,7 @@
     },
     {
       "id": "36670aed130470d302f7d10503528b29b33a4405",
-      "who": "joerg.schaible@gmx.de",
+      "who": "joehni <joerg.schaible@gmx.de>",
       "when": "2015-06-27T17:18:24+02:00",
       "all": 31,
       "test": 0,
@@ -20,7 +38,7 @@
     },
     {
       "id": "0e5fd1572710ed2acbe6c5ed0f970cf7df2d74bb",
-      "who": "joerg.schaible@gmx.de",
+      "who": "joehni <joerg.schaible@gmx.de>",
       "when": "2015-06-27T14:24:01+02:00",
       "all": 3,
       "test": 3,
@@ -28,8 +46,17 @@
       "pct": 100.0
     },
     {
+      "id": "1e971588555c9f39c3faccf8ea875340644e2f8a",
+      "who": "joehni <joerg.schaible@gmx.de>",
+      "when": "2015-06-27T14:12:47+02:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "93cdef879bed423540ffbaf18a8f67cb1e24005e",
-      "who": "joerg.schaible@gmx.de",
+      "who": "joehni <joerg.schaible@gmx.de>",
       "when": "2015-06-27T14:05:28+02:00",
       "all": 164,
       "test": 126,
@@ -37,26 +64,44 @@
       "pct": 77.8
     },
     {
+      "id": "ad5eb47e123ea9574e554ab2c5d2284b19435939",
+      "who": "joehni <joerg.schaible@gmx.de>",
+      "when": "2015-06-27T14:04:41+02:00",
+      "all": 12,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "819374a1aff24fdd7d449b6e251d8529e0393fa1",
-      "who": "joerg.schaible@gmx.de",
+      "who": "joehni <joerg.schaible@gmx.de>",
       "when": "2015-06-26T20:23:03+02:00",
-      "all": 184,
-      "test": 72,
-      "testable": 184,
-      "pct": 39.1
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "5c82ea871c092e7720c3885f1bd3664dfce120fa",
-      "who": "joerg.schaible@gmx.de",
+      "who": "joehni <joerg.schaible@gmx.de>",
       "when": "2015-06-26T20:17:36+02:00",
-      "all": 184,
-      "test": 72,
-      "testable": 184,
-      "pct": 39.1
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "e785a81d35c35e62f58bc61c1523046033d3cac3",
+      "who": "joehni <joerg.schaible@gmx.de>",
+      "when": "2015-06-25T20:43:45+02:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "d3f8c221b0ad14695149c5aa9f7b3bb7e17687d4",
-      "who": "joerg.schaible@gmx.de",
+      "who": "joehni <joerg.schaible@gmx.de>",
       "when": "2015-06-23T21:03:24+02:00",
       "all": 399,
       "test": 58,
@@ -65,7 +110,7 @@
     },
     {
       "id": "46105174423cfca6148bcc6e14dc5d88e9f5b909",
-      "who": "tadams@thoughtworks.com",
+      "who": "Tom Adams <tadams@thoughtworks.com>",
       "when": "2015-06-17T22:28:36-05:00",
       "all": 3,
       "test": 0,
@@ -74,7 +119,7 @@
     },
     {
       "id": "2a6f1b4c03786ada1cd1d79eb411727291fefd28",
-      "who": "tadams@thoughtworks.com",
+      "who": "Tom Adams <tadams@thoughtworks.com>",
       "when": "2015-06-17T22:22:38-05:00",
       "all": 186,
       "test": 72,

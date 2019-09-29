@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "9cee8bcc83cc894f3f3479ffbc489b10bb795bce",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2016-09-12T10:20:33-07:00",
       "all": 342,
       "test": 0,
@@ -10,8 +10,17 @@
       "pct": 0.0
     },
     {
+      "id": "57f0269491d6d1fa7f4432b43e04d08f80ca5238",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2016-09-12T18:13:26-07:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "21516c32e63451908aa7c2ec81a790b625c42fc5",
-      "who": "karakara@google.com",
+      "who": "Kara Erickson <karakara@google.com>",
       "when": "2016-09-12T20:31:13-07:00",
       "all": 238,
       "test": 0,
@@ -19,8 +28,35 @@
       "pct": 0.0
     },
     {
+      "id": "fa994810d521913ec2a9484f76a816baaa398885",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2016-09-12T23:25:28-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c54580a4af735193a544c03ce18aa359bd921e28",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2016-09-12T23:25:05-07:00",
+      "all": 50,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "730415e0486d2d8bf5abae3edca247a958083e0f",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2016-09-12T23:05:56-07:00",
+      "all": 8,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "42a287fabf6b035d51e00cf3006c27fec00f054a",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2016-09-12T22:36:23-07:00",
       "all": 3,
       "test": 0,
@@ -29,7 +65,7 @@
     },
     {
       "id": "42d442dcd55f37606d7db63bacc9d82d77411f23",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2016-09-12T20:30:42-07:00",
       "all": 149,
       "test": 27,
@@ -38,7 +74,7 @@
     },
     {
       "id": "cc2873a94d3323e0e349c1a3d11f301030aa6d26",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2016-09-12T19:34:14-07:00",
       "all": 433,
       "test": 17,
@@ -47,7 +83,7 @@
     },
     {
       "id": "63e15ffaec239fffc7e7df7b49222d4111a9a5c7",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2016-09-12T19:14:17-07:00",
       "all": 548,
       "test": 163,
@@ -56,7 +92,7 @@
     },
     {
       "id": "1b15170c8963a0b9bb7797be7c9bc01b1bb6521d",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2016-09-12T09:44:20-07:00",
       "all": 3988,
       "test": 138,
@@ -65,7 +101,7 @@
     },
     {
       "id": "26d1423ae93a743bd57a5fed9997c08c52f4bbfd",
-      "who": "kara@users.noreply.github.com",
+      "who": "Kara <kara@users.noreply.github.com>",
       "when": "2016-09-12T17:01:04-07:00",
       "all": 71,
       "test": 0,
@@ -74,7 +110,7 @@
     },
     {
       "id": "61aad7925f2ef377b640db9fa1528673b4d76934",
-      "who": "kara@users.noreply.github.com",
+      "who": "Kara <kara@users.noreply.github.com>",
       "when": "2016-09-12T15:15:58-07:00",
       "all": 110,
       "test": 105,
@@ -83,7 +119,7 @@
     },
     {
       "id": "79055f727bae55a127a024e8750dfcee8881b889",
-      "who": "kara@users.noreply.github.com",
+      "who": "Kara <kara@users.noreply.github.com>",
       "when": "2016-09-12T15:15:50-07:00",
       "all": 12,
       "test": 8,
@@ -91,8 +127,26 @@
       "pct": 66.7
     },
     {
+      "id": "220d8377fe93841f0e22c2ccb3dda83886d7bcb8",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2016-09-12T12:54:52-07:00",
+      "all": 109,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "cc7780adf7c15005cac313beb34a08ef01b5c8fd",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2016-09-12T12:05:00-07:00",
+      "all": 31,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "c9513b713a8548fc8114a1990e8776e53a9f12f5",
-      "who": "kara@users.noreply.github.com",
+      "who": "Kara <kara@users.noreply.github.com>",
       "when": "2016-09-12T11:45:48-07:00",
       "all": 154,
       "test": 42,
@@ -101,7 +155,7 @@
     },
     {
       "id": "66e38b675413b023bb739c85a0211403589eebe6",
-      "who": "kara@users.noreply.github.com",
+      "who": "Kara <kara@users.noreply.github.com>",
       "when": "2016-09-12T11:27:29-07:00",
       "all": 263,
       "test": 89,
@@ -110,7 +164,7 @@
     },
     {
       "id": "7b82877ee5d2b807f34d6c090f9370c4e12e879c",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2016-09-12T11:27:15-07:00",
       "all": 22,
       "test": 19,
@@ -119,7 +173,7 @@
     },
     {
       "id": "c9ad5e46d60be1d7ae6b95880bb96d6c94543b81",
-      "who": "kara@users.noreply.github.com",
+      "who": "Kara <kara@users.noreply.github.com>",
       "when": "2016-09-12T11:26:43-07:00",
       "all": 189,
       "test": 43,
@@ -128,7 +182,7 @@
     },
     {
       "id": "2cdd051109265947ab4804c7f8ae67abaf2e7e64",
-      "who": "kara@users.noreply.github.com",
+      "who": "Kara <kara@users.noreply.github.com>",
       "when": "2016-09-12T11:26:18-07:00",
       "all": 196,
       "test": 44,
@@ -137,7 +191,7 @@
     },
     {
       "id": "57cb82052bbe7bad452e8a3f28a63561254540eb",
-      "who": "kara@users.noreply.github.com",
+      "who": "Kara <kara@users.noreply.github.com>",
       "when": "2016-09-12T11:24:09-07:00",
       "all": 177,
       "test": 54,
@@ -146,7 +200,7 @@
     },
     {
       "id": "0614c8c99d6680c3db3fac012ed45ff5c49b5a59",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-09-12T10:02:48-07:00",
       "all": 32,
       "test": 0,
@@ -155,7 +209,7 @@
     },
     {
       "id": "a343a8e1c2673ea19ae9a98ebd0f04329af5f718",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-09-12T09:47:44-07:00",
       "all": 16,
       "test": 4,

@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "c16868dd019cacedeb3d8e0d3aea599682e09197",
-      "who": "fredericdelaporte@free.fr",
+      "who": "Fr\u00c3\u00a9d\u00c3\u00a9ric Delaporte <fredericdelaporte@free.fr>",
       "when": "2017-09-21T16:28:26+02:00",
       "all": 265,
       "test": 192,
@@ -11,7 +11,7 @@
     },
     {
       "id": "6166cb5c7fa06aabc34d71e2355df448ceecff14",
-      "who": "fredericdelaporte@free.fr",
+      "who": "Fr\u00c3\u00a9d\u00c3\u00a9ric Delaporte <fredericdelaporte@free.fr>",
       "when": "2017-09-21T18:27:33+02:00",
       "all": 62,
       "test": 36,
@@ -19,13 +19,31 @@
       "pct": 87.8
     },
     {
+      "id": "09f87243cd39b7bb3491990ed43e69e37df9649c",
+      "who": "Fr\u00c3\u00a9d\u00c3\u00a9ric Delaporte <fredericdelaporte@free.fr>",
+      "when": "2017-09-21T17:34:58+02:00",
+      "all": 15,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "60839bda44698779b5d008bb43119542abb3b3ba",
-      "who": "nathan@nkbrown.us",
+      "who": "Nathan Brown <nathan@nkbrown.us>",
       "when": "2017-09-21T10:52:31-07:00",
       "all": 10,
       "test": 10,
       "testable": 10,
       "pct": 100.0
+    },
+    {
+      "id": "2fe11e9b9556590d88a7912df5e6c1679742149d",
+      "who": "Alexander Zaytsev <hazzik@gmail.com>",
+      "when": "2017-09-21T17:19:54+12:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "NHibernate (master branch)",

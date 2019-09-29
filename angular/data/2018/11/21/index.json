@@ -1,8 +1,26 @@
 {
   "commits": [
     {
+      "id": "d6aca79410575b5c90eda854e0dcfe13a0995bdb",
+      "who": "coultonluke <luke@luke.org.uk>",
+      "when": "2018-11-21T13:49:39+00:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "9c7fb0dfe186a9822cd48958269fa15e4dc70f48",
+      "who": "Emmanuel DEMEY <demey.emmanuel@gmail.com>",
+      "when": "2018-11-21T20:06:19+01:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "20a2bae1d37fda07b41f869d702325eb13a1406b",
-      "who": "paulgschwendtner@gmail.com",
+      "who": "Paul Gschwendtner <paulgschwendtner@gmail.com>",
       "when": "2018-11-21T19:49:33+01:00",
       "all": 30,
       "test": 0,
@@ -11,7 +29,7 @@
     },
     {
       "id": "6552471c493cc69aa19012ddc03da9bee6fb5deb",
-      "who": "joost.koehoorn@gmail.com",
+      "who": "JoostK <joost.koehoorn@gmail.com>",
       "when": "2018-11-21T19:45:49+01:00",
       "all": 21,
       "test": 16,
@@ -20,7 +38,7 @@
     },
     {
       "id": "bf3ac41e367be70458b9223ad10c3e2ea89909a5",
-      "who": "pete@bacondarwin.com",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
       "when": "2018-11-21T09:05:27+00:00",
       "all": 220,
       "test": 159,
@@ -29,7 +47,7 @@
     },
     {
       "id": "0c6e1f4a1b29c74c78b7151c4f30dfa44e076106",
-      "who": "pete@bacondarwin.com",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
       "when": "2018-11-21T20:52:27+00:00",
       "all": 142,
       "test": 63,
@@ -38,7 +56,7 @@
     },
     {
       "id": "3983d04b1cd657e59ba9b4384444ebd06a05308e",
-      "who": "dennis@dennisameling.com",
+      "who": "dennisameling <dennis@dennisameling.com>",
       "when": "2018-11-21T17:07:04+01:00",
       "all": 9,
       "test": 0,
@@ -47,7 +65,7 @@
     },
     {
       "id": "816ec0b1c33145cde9c6b9b6d24699b3f4df11fe",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2018-11-21T21:14:06-08:00",
       "all": 2601,
       "test": 343,
@@ -55,8 +73,17 @@
       "pct": 14.9
     },
     {
+      "id": "9e391e010ca8dbef88f2c0d9558678cfb9623640",
+      "who": "Jacob Foshee <jacobf@gmail.com>",
+      "when": "2018-11-21T10:13:14-06:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "7773d7f55226504cb2c14d5ee141ca17a77eff9e",
-      "who": "akushnir@google.com",
+      "who": "Andrew Kushnir <akushnir@google.com>",
       "when": "2018-11-21T11:46:41-08:00",
       "all": 53,
       "test": 53,
@@ -65,7 +92,7 @@
     },
     {
       "id": "39e426cde3f08feaccb2118bfaaa27272f53965f",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2018-11-21T21:14:06-08:00",
       "all": 3152,
       "test": 2290,
@@ -74,7 +101,7 @@
     },
     {
       "id": "b09e03b28d3fab41680477a35ebe39dffdcc7276",
-      "who": "olivier.combe@gmail.com",
+      "who": "Olivier Combe <olivier.combe@gmail.com>",
       "when": "2018-11-21T16:50:35+01:00",
       "all": 35,
       "test": 35,
@@ -83,7 +110,7 @@
     },
     {
       "id": "2fce701ced04f3a226e19aab90fe7d31340e604e",
-      "who": "olivier.combe@gmail.com",
+      "who": "Olivier Combe <olivier.combe@gmail.com>",
       "when": "2018-11-21T13:43:00+01:00",
       "all": 114,
       "test": 43,
@@ -92,12 +119,30 @@
     },
     {
       "id": "32157115da1f8209822b7c2812d5fa757195e915",
-      "who": "olivier.combe@gmail.com",
+      "who": "Olivier Combe <olivier.combe@gmail.com>",
       "when": "2018-11-21T13:40:27+01:00",
       "all": 44,
       "test": 35,
       "testable": 44,
       "pct": 79.5
+    },
+    {
+      "id": "bf71b107b3227e183f96b991700fbaeb8337ef2f",
+      "who": "Misko Hevery <misko@hevery.com>",
+      "when": "2018-11-21T14:57:44-08:00",
+      "all": 48,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "573fb783e194e5efeabfeb7d11b8179498d52f00",
+      "who": "Misko Hevery <misko@hevery.com>",
+      "when": "2018-11-21T08:03:37-08:00",
+      "all": 54,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

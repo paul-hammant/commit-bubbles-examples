@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "4e4112523dd1cd15bdb74f92a76013cdaecb8495",
-      "who": "mail@stefan-birkner.de",
+      "who": "Stefan Birkner <mail@stefan-birkner.de>",
       "when": "2017-07-10T00:00:00+00:00",
       "all": 105,
       "test": 27,
@@ -11,7 +11,7 @@
     },
     {
       "id": "86d021dfee0fca6fadcdfa9494f6a67c35460139",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-07-10T21:42:01+02:00",
       "all": 32,
       "test": 18,
@@ -20,7 +20,7 @@
     },
     {
       "id": "3029766c7b5b706f0447f7a9bc4dea9a76c5ca5a",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-07-10T21:23:56+02:00",
       "all": 3,
       "test": 3,
@@ -29,7 +29,7 @@
     },
     {
       "id": "db4f8eb4459a819d68f8c342b3d02acf2c728c7c",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-07-10T21:18:51+02:00",
       "all": 18,
       "test": 6,
@@ -38,7 +38,7 @@
     },
     {
       "id": "9654347f1c1b5488bc1b5f3e5408d74206a51c52",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-07-10T21:08:19+02:00",
       "all": 24,
       "test": 11,
@@ -47,7 +47,7 @@
     },
     {
       "id": "442a347fbfe7d937cb26df800db5b1bca711d7a3",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-07-10T20:12:51+02:00",
       "all": 21,
       "test": 6,
@@ -56,7 +56,7 @@
     },
     {
       "id": "937f98c84e7b0669d684da68ac04699d1a2cc233",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-07-10T18:40:12+02:00",
       "all": 5,
       "test": 0,
@@ -65,7 +65,7 @@
     },
     {
       "id": "bef03b5ce4c2385a99b13ac1a3354ac2ca8acc96",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-07-10T18:34:34+02:00",
       "all": 87,
       "test": 3,
@@ -73,8 +73,17 @@
       "pct": 3.7
     },
     {
+      "id": "fa795842b2e9968ae5fd4586594c21af1738f946",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2017-07-10T17:53:10+02:00",
+      "all": 14,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "a6a253329889c91608adedb24342890ea5802f9d",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-07-10T16:42:27+02:00",
       "all": 42,
       "test": 42,
@@ -83,7 +92,7 @@
     },
     {
       "id": "dd99bb33f5e637e54da5ddc2d5396b38b133bd4a",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-07-10T17:11:08+02:00",
       "all": 88,
       "test": 33,
@@ -92,7 +101,7 @@
     },
     {
       "id": "c47fa9b2cd6dd4060aa38c457a61b18bc3d3d6a0",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-07-10T16:26:58+02:00",
       "all": 5,
       "test": 0,
@@ -101,7 +110,7 @@
     },
     {
       "id": "e8fbdb478ddb59c50d1c03569e1a672e2bd56951",
-      "who": "jbluettduncan@gmail.com",
+      "who": "Jonathan Bluett-Duncan <jbluettduncan@gmail.com>",
       "when": "2017-07-10T13:13:04+01:00",
       "all": 4,
       "test": 0,
@@ -110,7 +119,7 @@
     },
     {
       "id": "b74292d67452676f0ef2745451e5d9749e115081",
-      "who": "jbluettduncan@gmail.com",
+      "who": "Jonathan Bluett-Duncan <jbluettduncan@gmail.com>",
       "when": "2017-07-10T13:10:57+01:00",
       "all": 17,
       "test": 0,
@@ -119,11 +128,20 @@
     },
     {
       "id": "03c9e0e73a00f412cab78309c7a7549cb2c892b2",
-      "who": "jbluettduncan@gmail.com",
+      "who": "Jonathan Bluett-Duncan <jbluettduncan@gmail.com>",
       "when": "2017-07-10T12:20:23+01:00",
       "all": 9,
       "test": 0,
       "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "110326227d12c20f22baa581ffa81ace521f1be3",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2017-07-10T10:14:18+02:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     }
   ],

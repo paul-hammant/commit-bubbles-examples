@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "7d853dd9adb8eed2e307d62f18eade47dc8e99bb",
-      "who": "kurt@uangel.com",
+      "who": "kurt <kurt@uangel.com>",
       "when": "2016-03-31T13:04:47+09:00",
       "all": 20,
       "test": 17,
@@ -10,8 +10,17 @@
       "pct": 85.0
     },
     {
+      "id": "3ac2821a1b2ffa6970fdbfd5577357ecd9c70107",
+      "who": "Sam Lin <maxisam@gmail.com>",
+      "when": "2016-03-31T09:38:41-05:00",
+      "all": 13,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "226e662cf1b9b1b8a5edc87863f04cba637d5a25",
-      "who": "chuckj@google.com",
+      "who": "Chuck Jazdzewski <chuckj@google.com>",
       "when": "2016-03-31T12:14:08-07:00",
       "all": 20,
       "test": 0,
@@ -20,11 +29,20 @@
     },
     {
       "id": "529988bc81fe0813e43e9dc8fde699d29df50374",
-      "who": "vsm@google.com",
+      "who": "Vijay Menon <vsm@google.com>",
       "when": "2016-03-31T16:49:49-07:00",
       "all": 16,
       "test": 0,
       "testable": 8,
+      "pct": 0.0
+    },
+    {
+      "id": "e310bee9e29dfa0ccaa67e7ca71c0aff1de3a8e8",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2016-03-31T10:46:47-07:00",
+      "all": 41,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     }
   ],

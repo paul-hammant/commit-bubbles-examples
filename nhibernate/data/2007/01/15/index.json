@@ -2,12 +2,30 @@
   "commits": [
     {
       "id": "b43155cdaa0cfb634575eafcc40051935855985b",
-      "who": "ayende@ayende.com",
+      "who": "Ayende Rahien <ayende@ayende.com>",
       "when": "2007-01-15T16:35:39+00:00",
       "all": 75,
       "test": 38,
       "testable": 75,
       "pct": 50.7
+    },
+    {
+      "id": "6713e03a15a34e9753c0a0b147c5d0f34f014ae8",
+      "who": "Sergey Koshcheyev <justme84@users.sourceforge.net>",
+      "when": "2007-01-15T11:48:23+00:00",
+      "all": 13,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d89ce0d40f60aa0d24bcce21531eb4fb150a56e6",
+      "who": "Sergey Koshcheyev <justme84@users.sourceforge.net>",
+      "when": "2007-01-15T09:39:03+00:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "NHibernate (master branch)",

@@ -2,16 +2,16 @@
   "commits": [
     {
       "id": "5c85257b9615c050924f54b65b44ed54f49ac21d",
-      "who": "antirez@gmail.com",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
       "when": "2011-11-16T09:23:19-08:00",
-      "all": 3,
+      "all": 0,
       "test": 0,
-      "testable": 3,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "5ae979bf5798f5eaab56636034623d25bc70a941",
-      "who": "lamby@debian.org",
+      "who": "Chris Lamb <lamby@debian.org>",
       "when": "2011-11-16T17:21:16+00:00",
       "all": 3,
       "test": 0,
@@ -19,8 +19,17 @@
       "pct": 0.0
     },
     {
+      "id": "42c6a5da3d4738597217494198f4d3ba9be1113d",
+      "who": "Pieter Noordhuis <pcnoordhuis@gmail.com>",
+      "when": "2011-11-16T08:34:42-08:00",
+      "all": 22,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "bf758397a1ea243aec67083b31dd3005092ad495",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2011-11-16T14:40:50+01:00",
       "all": 39,
       "test": 39,
@@ -29,12 +38,21 @@
     },
     {
       "id": "cd4aba36cdf5b9599e94029793dcfd13cd199577",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2011-11-16T13:30:43+01:00",
       "all": 12,
       "test": 12,
       "testable": 12,
       "pct": 100.0
+    },
+    {
+      "id": "32adb531560004cfb3597cbe87234f80eacf0e25",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
+      "when": "2011-11-16T01:29:42-08:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Redis (unstable branch)",

@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "913fd4906e53776a78b5d287469ebbc0d27e9f7e",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2018-10-03T16:30:09+02:00",
       "all": 68,
       "test": 55,
@@ -11,7 +11,7 @@
     },
     {
       "id": "8e60a27654d73d8b0790e1636888fcd1ce363af5",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2018-10-03T14:19:43+02:00",
       "all": 17,
       "test": 7,
@@ -20,7 +20,7 @@
     },
     {
       "id": "b1978ccf75b6b7d8b53e5afe4e29d5cd9c596f22",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2018-10-03T14:06:57+02:00",
       "all": 21,
       "test": 21,
@@ -29,12 +29,39 @@
     },
     {
       "id": "51f2b6ceabe330faf05256079ceea9be72a22cc1",
-      "who": "terziele@github.com",
+      "who": "terziele <terziele@github.com>",
       "when": "2018-10-03T20:39:38+03:00",
       "all": 28,
       "test": 28,
       "testable": 28,
       "pct": 100.0
+    },
+    {
+      "id": "c5182a4492feac8f1f216d633d932fc4365472a1",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2018-10-03T20:30:57+02:00",
+      "all": 64,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "bb6e1cbda01ac7f165c55883c4e5de5972f663bd",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2018-10-03T20:20:36+02:00",
+      "all": 123,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "0eb3959ce09235f34c23fbded120130ac330470d",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2018-10-03T17:01:01+02:00",
+      "all": 19,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

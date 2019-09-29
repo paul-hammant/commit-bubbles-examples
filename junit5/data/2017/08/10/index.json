@@ -1,13 +1,40 @@
 {
   "commits": [
     {
+      "id": "3df54e70efc0ea6bb51024a4cf73a1a86e8e3e93",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2017-08-10T20:06:19+02:00",
+      "all": 56,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "3008b9066e147dc6250ad930a0c8f0b249fc8adb",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2017-08-10T16:41:44+03:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "46a3aff0ec5dc56dd69eb0836c123cba2f5ffdb8",
-      "who": "sormuras@gmail.com",
+      "who": "Christian Stein <sormuras@gmail.com>",
       "when": "2017-08-10T15:13:20+02:00",
       "all": 40,
       "test": 18,
       "testable": 35,
       "pct": 51.4
+    },
+    {
+      "id": "a337d4cfa18f80a7890c55cf48bdc670bb01dc89",
+      "who": "Jonathan Leitschuh <Jlleitschuh@wpi.edu>",
+      "when": "2017-08-10T09:09:18-04:00",
+      "all": 19,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "5eb46423110cacebed9ba92f80d87b7d42730934",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2015-12-07T15:45:23+01:00",
       "all": 60,
       "test": 60,
@@ -11,7 +11,7 @@
     },
     {
       "id": "e4c640078022076935caef8edd312ea547f3b9d1",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2015-12-07T15:01:16+01:00",
       "all": 609,
       "test": 123,
@@ -20,7 +20,7 @@
     },
     {
       "id": "830b6d5976b6db01dad3866cfb3d54c6216b1252",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2015-12-07T13:10:21+01:00",
       "all": 481,
       "test": 2,
@@ -28,13 +28,49 @@
       "pct": 0.4
     },
     {
+      "id": "b506af765c5a78d9bb8ea63b834d6b2b6c41ef54",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-12-07T22:43:44+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "e117164ba9c10b7562a1c76ca017cd460f321d50",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-12-07T22:41:37+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "85fc6ab7d42995b10b692496411b4a1412f8779f",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-12-07T21:48:17+01:00",
+      "all": 55,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "804ae15cdb3ea86311bad4c99a377e5104dd5de9",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2015-12-07T21:37:51+01:00",
       "all": 100,
       "test": 27,
       "testable": 27,
       "pct": 100.0
+    },
+    {
+      "id": "bbfabf7348ef31007cddb936d960b57f830cce6a",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-12-07T21:36:53+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

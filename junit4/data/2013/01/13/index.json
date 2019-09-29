@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "0ebb59e0dec269db0816c63fda6113b006b3de52",
-      "who": "pimterry@gmail.com",
+      "who": "pimterry <pimterry@gmail.com>",
       "when": "2013-01-13T20:01:45+00:00",
       "all": 3,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "a13afe130ee61e4e1b1a7de52c7323bd699fd2e6",
-      "who": "pimterry@gmail.com",
+      "who": "pimterry <pimterry@gmail.com>",
       "when": "2013-01-13T19:52:23+00:00",
       "all": 6,
       "test": 6,
@@ -20,7 +20,7 @@
     },
     {
       "id": "f5c7fe43447b008b4db13e031b7c0c3551ae9ddd",
-      "who": "cmotlin@gmail.com",
+      "who": "Craig P. Motlin <cmotlin@gmail.com>",
       "when": "2013-01-13T13:05:05-05:00",
       "all": 93,
       "test": 0,
@@ -29,7 +29,7 @@
     },
     {
       "id": "78b4a8975523d0288a6f20f0ae7862b45cb55038",
-      "who": "cmotlin@gmail.com",
+      "who": "Craig P. Motlin <cmotlin@gmail.com>",
       "when": "2013-01-13T12:46:31-05:00",
       "all": 92,
       "test": 13,
@@ -37,8 +37,26 @@
       "pct": 14.1
     },
     {
+      "id": "4f3ca2d4bdeb34a9e9ebcb315ef22863d3775ef5",
+      "who": "Tibor Digana <tibor17@lycos.com>",
+      "when": "2013-01-13T13:00:15+01:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "23f8404291390e6a9d0ca33056f7a8adcab55184",
+      "who": "Shirish Padalkar <shirishp@thoughtworks.com>",
+      "when": "2013-01-13T15:55:29+05:30",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "236883d575f709a6311cec6b2fa34aeabc3835c6",
-      "who": "pimterry@gmail.com",
+      "who": "pimterry <pimterry@gmail.com>",
       "when": "2013-01-13T09:33:21+00:00",
       "all": 30,
       "test": 27,
@@ -47,12 +65,30 @@
     },
     {
       "id": "1c9a283f2ee2cc1e03b4eeb2749752bbf956ecac",
-      "who": "pimterry@gmail.com",
+      "who": "pimterry <pimterry@gmail.com>",
       "when": "2013-01-13T09:26:11+00:00",
       "all": 177,
       "test": 170,
       "testable": 177,
       "pct": 96.0
+    },
+    {
+      "id": "4a7adb2869b2aa69d309e3cf502f7d8750b5c54c",
+      "who": "Tibor Digana <tibor17@lycos.com>",
+      "when": "2013-01-13T00:53:18+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "5f74770bb3423997a62e28c106979dc0f8b24216",
+      "who": "Tibor Digana <tibor17@lycos.com>",
+      "when": "2013-01-13T00:34:23+01:00",
+      "all": 22,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 4 (master branch)",

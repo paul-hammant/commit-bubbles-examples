@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "bfa072ef84fcfb09f8cf0919cb99a7c8f93a519c",
-      "who": "joerg.schaible@gmx.de",
+      "who": "J\u00c3\u00b6rg Schaible <joerg.schaible@gmx.de>",
       "when": "2005-10-04T18:57:20+00:00",
       "all": 11,
       "test": 6,
@@ -11,7 +11,7 @@
     },
     {
       "id": "6c8c7bfaaf1dabc8be90f78a0cf49259b547c667",
-      "who": "joerg.schaible@gmx.de",
+      "who": "J\u00c3\u00b6rg Schaible <joerg.schaible@gmx.de>",
       "when": "2005-10-04T18:39:33+00:00",
       "all": 137,
       "test": 28,
@@ -20,12 +20,21 @@
     },
     {
       "id": "ef473a7d87d3994d5e9d370a5e17afc7659ad528",
-      "who": "joerg.schaible@gmx.de",
+      "who": "J\u00c3\u00b6rg Schaible <joerg.schaible@gmx.de>",
       "when": "2005-10-04T17:51:11+00:00",
       "all": 32,
       "test": 32,
       "testable": 32,
       "pct": 100.0
+    },
+    {
+      "id": "3720fddcdc4568b615ad05fe24d59923c7dc3d56",
+      "who": "Joe Walnes <joe@truemesh.com>",
+      "when": "2005-10-04T17:28:37+00:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "XStream (master branch)",

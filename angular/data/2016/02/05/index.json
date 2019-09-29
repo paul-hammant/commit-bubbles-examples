@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "0f10624b08ec7924475772348147e34c940b876c",
-      "who": "karakara@google.com",
+      "who": "Kara Erickson <karakara@google.com>",
       "when": "2016-02-05T16:32:24-08:00",
       "all": 191,
       "test": 127,
@@ -11,12 +11,21 @@
     },
     {
       "id": "e725542703d82d1d3e47d9898022452456115747",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-02-05T16:08:53-08:00",
       "all": 286,
       "test": 87,
       "testable": 286,
       "pct": 30.4
+    },
+    {
+      "id": "16b521794c597a27b47c4b71918cdeb48d3c567b",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2016-02-05T11:30:18-08:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

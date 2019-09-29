@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "15cc85c54a9146c6d502cffad52a3c1a41fe4dcb",
-      "who": "pete@bacondarwin.com",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
       "when": "2018-05-03T09:53:12+01:00",
       "all": 42,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "725bae1921cfcdcf5a5b0c35252c632198d1a7a4",
-      "who": "pete@bacondarwin.com",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
       "when": "2018-05-03T09:38:05+01:00",
       "all": 104,
       "test": 0,
@@ -20,7 +20,7 @@
     },
     {
       "id": "a577c9e1f484780e8798f0ed519e9c3ec8adda0b",
-      "who": "jbogart@gmail.com",
+      "who": "Judy Bogart <jbogart@gmail.com>",
       "when": "2018-05-03T10:54:51-07:00",
       "all": 1375,
       "test": 0,
@@ -28,8 +28,17 @@
       "pct": 0.0
     },
     {
+      "id": "d74078fb88f9c523cf7efff04a54c6a7b53e8d4b",
+      "who": "Danny Rademacher <3715737+drademacher@users.noreply.github.com>",
+      "when": "2018-05-03T11:54:46+02:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "1b6b936ef4a3143443fabb5aacd3993c400f1d38",
-      "who": "misko@hevery.com",
+      "who": "Mi\u00c5\u00a1ko Hevery <misko@hevery.com>",
       "when": "2018-05-03T10:40:31-07:00",
       "all": 88,
       "test": 0,
@@ -38,7 +47,7 @@
     },
     {
       "id": "553a6808171650f6ca8a9902c588817ce9f48163",
-      "who": "jasonaden@google.com",
+      "who": "Jason Aden <jasonaden@google.com>",
       "when": "2018-05-03T12:03:13-07:00",
       "all": 12,
       "test": 9,
@@ -46,8 +55,26 @@
       "pct": 75.0
     },
     {
+      "id": "858e48a7944e938a47ac12ca481d057d4e73b325",
+      "who": "Fabian Wiles <fabianwiles@live.com>",
+      "when": "2018-05-03T20:46:20+12:00",
+      "all": 24,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d01ec03f54e2782a912869e9171268fccc92a270",
+      "who": "Brandon Roberts <robertsbt@gmail.com>",
+      "when": "2018-05-03T22:01:25-05:00",
+      "all": 616,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "e3518967ad705b133ee21eedcf9546b5cb2e817e",
-      "who": "pete@bacondarwin.com",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
       "when": "2018-05-03T10:31:30+01:00",
       "all": 10,
       "test": 0,
@@ -56,11 +83,101 @@
     },
     {
       "id": "005dc8f68b9d09f2a4db46bdbfae3e05d3604818",
-      "who": "pete@bacondarwin.com",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
       "when": "2018-05-03T10:30:58+01:00",
       "all": 121,
       "test": 0,
       "testable": 121,
+      "pct": 0.0
+    },
+    {
+      "id": "7e9649bdf1483885d61142172be3f709cde051e8",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2018-05-03T11:55:56-07:00",
+      "all": 14,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "b25e15c31720d241a98d589af577ac7d3e7231d7",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-05-03T15:55:38-07:00",
+      "all": 13,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "490e39a23fc9d95b0ab59ffd85923e4209f93801",
+      "who": "Filipe Silva <filipematossilva@gmail.com>",
+      "when": "2018-05-03T13:11:38-07:00",
+      "all": 122,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "33c1c1df36f9dd5641d8d7fe35722b79f7580ca5",
+      "who": "Filipe Silva <filipematossilva@gmail.com>",
+      "when": "2018-05-03T13:08:48-07:00",
+      "all": 503,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d8d4f654a60efe2770c2f24db003e44335a165e3",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-05-03T15:38:48-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "2c4850dc582287b7c34d4d26066fe4993638cbf0",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-05-03T15:05:08-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "2ef4760ff7fb322f9171be9e88e9c62d0d93eda2",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-05-03T13:26:12-07:00",
+      "all": 18,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "52f0e3cc3b64e4175f176c0c91584fbf8837aaa9",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-05-03T13:15:20-07:00",
+      "all": 12,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "61265b42ef9d4f986a21243395c2854b08a35aca",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-05-03T12:17:26-07:00",
+      "all": 671,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "6601d0f7ba2e7ab919bf635c0d92f0d64f87df30",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-05-03T09:33:42-07:00",
+      "all": 37,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     }
   ],

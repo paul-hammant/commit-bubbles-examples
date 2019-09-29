@@ -2,12 +2,21 @@
   "commits": [
     {
       "id": "bd5b90f75908b7a3ed074a7be29823170f008fb4",
-      "who": "peter@peterphi.com",
+      "who": "Peter Wright <peter@peterphi.com>",
       "when": "2014-12-01T21:53:18+00:00",
       "all": 101,
       "test": 86,
       "testable": 101,
       "pct": 85.1
+    },
+    {
+      "id": "60d16e02576f7ab259eec29c2af0dbcce0e0e925",
+      "who": "John <john.k.tims@gmail.com>",
+      "when": "2014-12-01T19:37:36-05:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 4 (master branch)",

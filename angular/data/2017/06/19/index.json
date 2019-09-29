@@ -1,8 +1,26 @@
 {
   "commits": [
     {
+      "id": "66088fef1a57f119917f3478c8dd712769567134",
+      "who": "Georgios Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2017-06-19T14:52:58+03:00",
+      "all": 86,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "808bd4af41bbd5452490748b7a70fc8361c61bea",
+      "who": "Georgios Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2017-06-19T01:17:10+03:00",
+      "all": 31,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "8ae0eec2301dba5be735ee61901e31e0d66f5d1b",
-      "who": "kalpakas.g@gmail.com",
+      "who": "Georgios Kalpakas <kalpakas.g@gmail.com>",
       "when": "2017-06-19T01:15:07+03:00",
       "all": 1215,
       "test": 874,
@@ -11,7 +29,7 @@
     },
     {
       "id": "a98440bb853fa31d5d0f20b4f294c06e09f71c58",
-      "who": "kalpakas.g@gmail.com",
+      "who": "Georgios Kalpakas <kalpakas.g@gmail.com>",
       "when": "2017-06-19T01:07:27+03:00",
       "all": 25,
       "test": 25,
@@ -20,7 +38,7 @@
     },
     {
       "id": "37cdc4f7591de977630d73089580d1f66eabfc89",
-      "who": "wardbell@hotmail.com",
+      "who": "Ward Bell <wardbell@hotmail.com>",
       "when": "2017-06-19T23:32:30-07:00",
       "all": 1484,
       "test": 0,
@@ -29,7 +47,7 @@
     },
     {
       "id": "0034bb28e5625d0bc13db855b75fd5fa38ac1f0a",
-      "who": "wardbell@hotmail.com",
+      "who": "Ward Bell <wardbell@hotmail.com>",
       "when": "2017-06-19T11:08:30-07:00",
       "all": 82,
       "test": 0,
@@ -37,8 +55,17 @@
       "pct": 0.0
     },
     {
+      "id": "ca51e020cb003652b838912a34fd372f23876a31",
+      "who": "Ward Bell <wardbell@hotmail.com>",
+      "when": "2017-06-19T15:29:08-07:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "f194f18dbd48352cd3909f38d037f1e139a12c42",
-      "who": "chuckj@google.com",
+      "who": "Chuck Jazdzewski <chuckj@google.com>",
       "when": "2017-06-19T10:07:54-07:00",
       "all": 12,
       "test": 7,
@@ -47,7 +74,7 @@
     },
     {
       "id": "4e6be15069ad7b3416ff46754f0057eb9a331559",
-      "who": "chuckj@google.com",
+      "who": "Chuck Jazdzewski <chuckj@google.com>",
       "when": "2017-06-19T11:12:48-07:00",
       "all": 9,
       "test": 0,
@@ -56,7 +83,7 @@
     },
     {
       "id": "3e685f98c666fcb9f0556ccb65d4b40716ac2985",
-      "who": "hans@hansl.ca",
+      "who": "Hans Larsen <hans@hansl.ca>",
       "when": "2017-06-19T16:26:43-07:00",
       "all": 211,
       "test": 108,
@@ -65,12 +92,48 @@
     },
     {
       "id": "6c8e7dd63ed1c2c0ff690487531ca818f8e7584a",
-      "who": "hans@hansl.ca",
+      "who": "Hans Larsen <hans@hansl.ca>",
       "when": "2017-06-19T16:18:43-07:00",
       "all": 206,
       "test": 183,
       "testable": 206,
       "pct": 88.8
+    },
+    {
+      "id": "8f5836cb14fe3579d9c303b935786801b2e2c15b",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2017-06-19T12:04:21-07:00",
+      "all": 121,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "319ce182dbac1a3e28c872171ea880c448d19697",
+      "who": "Igor Minar <iminar@google.com>",
+      "when": "2017-06-19T14:41:46-07:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "aa92f3a721b2ecb305fc1840a327c63efad1f852",
+      "who": "Igor Minar <iminar@google.com>",
+      "when": "2017-06-19T10:48:23-07:00",
+      "all": 11,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "afbb6bb797af9375751133cf8a70b7c25a0ce571",
+      "who": "Hans Larsen <hans@hansl.ca>",
+      "when": "2017-06-19T11:14:09-07:00",
+      "all": 21,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

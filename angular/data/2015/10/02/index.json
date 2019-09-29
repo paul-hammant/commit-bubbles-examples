@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "f7aa890adef00de8dc2f421dd317220994ae4d20",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2015-10-02T13:32:48-07:00",
       "all": 230,
       "test": 3,
@@ -10,8 +10,26 @@
       "pct": 1.3
     },
     {
+      "id": "ba6e0e11fa7b34843fd23ecab199f7474a294acd",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2015-10-02T14:05:34-07:00",
+      "all": 19,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "349416ea533d247550758fc7c4739a16dba921a7",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2015-10-02T17:01:27-07:00",
+      "all": 125,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "208f3d4c6541df6d8b0bfcd70bc12d244eb045e9",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2015-10-02T17:33:21-07:00",
       "all": 88,
       "test": 25,
@@ -20,7 +38,7 @@
     },
     {
       "id": "7c4199cd1cdb65ac83de0e86074395bf797adbcc",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2015-10-02T16:47:54-07:00",
       "all": 598,
       "test": 66,
@@ -28,8 +46,44 @@
       "pct": 11.3
     },
     {
+      "id": "2ebc74ddcce2f21e122502aef63433c6cb0017ee",
+      "who": "Jeff Cross <middlefloor@gmail.com>",
+      "when": "2015-10-02T17:49:40-07:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c7e9f865572661d271000f4226a44399ada53274",
+      "who": "Jeff Cross <middlefloor@gmail.com>",
+      "when": "2015-10-02T17:19:23-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "75cf0aeaebbafdbd12c061f5fb23cae9ce87d132",
+      "who": "Jeff Cross <middlefloor@gmail.com>",
+      "when": "2015-10-02T17:18:51-07:00",
+      "all": 237,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "decdbea7d7d507017580f59dc8d290a3a4ab983e",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2015-10-02T15:54:32-07:00",
+      "all": 284,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "c9901c5fe0e5464fa8671789cf7ec90c45109362",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2015-10-02T16:21:49-07:00",
       "all": 109,
       "test": 34,
@@ -38,7 +92,7 @@
     },
     {
       "id": "b44c13bc4672967104b72c1088075e65d6aa5c58",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2015-10-02T13:55:12+02:00",
       "all": 3,
       "test": 0,
@@ -47,7 +101,7 @@
     },
     {
       "id": "4342a1eb7b1d9c6f44f49ab15f325ff326dbcaaa",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-10-02T11:10:08-07:00",
       "all": 53,
       "test": 18,
@@ -56,7 +110,7 @@
     },
     {
       "id": "13161ae5aa10d2490a95678b6c79fb969d593848",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-10-02T09:53:57-07:00",
       "all": 103,
       "test": 8,
@@ -65,7 +119,7 @@
     },
     {
       "id": "6b5d345a2b24a99b13882382d159302e64b6ed18",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-10-02T09:30:36-07:00",
       "all": 236,
       "test": 83,
@@ -73,8 +127,17 @@
       "pct": 39.5
     },
     {
+      "id": "2450a3c5b0b0127ffa12a04bf26c448a27ca258d",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
+      "when": "2015-10-02T08:57:50-07:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "e8e57cdd737196cd72ce5020b7050934489bdcf2",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-10-02T07:57:29-07:00",
       "all": 241,
       "test": 157,
@@ -82,13 +145,40 @@
       "pct": 82.6
     },
     {
+      "id": "aa3d94149f7f62c5d3e395abc9eeb55649dde7bc",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
+      "when": "2015-10-02T07:39:29-07:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "6248a5e846a226a0460c21f51cca851bdce94135",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-10-02T07:37:23-07:00",
       "all": 496,
       "test": 187,
       "testable": 397,
       "pct": 47.1
+    },
+    {
+      "id": "9f4fa1ab0a09365d39da67e8aabea0138304228c",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
+      "when": "2015-10-02T07:28:42-07:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "43cca2de769d958600ba24cca00332d2c62597f5",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
+      "when": "2015-10-02T08:34:28-07:00",
+      "all": 33,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

@@ -2,12 +2,21 @@
   "commits": [
     {
       "id": "02c328028b4d32c15bbf0becc9838e54ecbafcbf",
-      "who": "kcooney@users.noreply.github.com",
+      "who": "Kevin Cooney <kcooney@users.noreply.github.com>",
       "when": "2018-07-30T10:07:50-07:00",
       "all": 1372,
       "test": 738,
       "testable": 1372,
       "pct": 53.8
+    },
+    {
+      "id": "64eb7302653c1263767eee550e5b53d9af66ba0d",
+      "who": "Stefan Birkner <mail@stefan-birkner.de>",
+      "when": "2018-07-15T14:22:57+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 4 (master branch)",

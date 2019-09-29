@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "4a426696c98b28d20175cc3244ffa8b8b703790f",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2018-01-31T17:57:37+01:00",
       "all": 15,
       "test": 12,
@@ -11,7 +11,7 @@
     },
     {
       "id": "f88fba020b32c2b6aa187d92d8eee90e4c2a68b7",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2018-01-31T15:11:39-08:00",
       "all": 12,
       "test": 0,
@@ -20,7 +20,7 @@
     },
     {
       "id": "64ae6d206ef76f578e3136d94519ad8e190344e8",
-      "who": "olivier.combe@gmail.com",
+      "who": "Olivier Combe <olivier.combe@gmail.com>",
       "when": "2018-01-31T12:12:33+01:00",
       "all": 15,
       "test": 15,
@@ -28,8 +28,17 @@
       "pct": 100.0
     },
     {
+      "id": "7b120b5f73f2ed88a970f8a697413c4e3bf5002c",
+      "who": "Jannis Lehmann <cludch@gmail.com>",
+      "when": "2018-01-31T18:08:10+01:00",
+      "all": 11,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "3cc1d76ee7e64fee74931bb3f07b69765a7b679b",
-      "who": "chuckj@google.com",
+      "who": "Chuck Jazdzewski <chuckj@google.com>",
       "when": "2018-01-31T13:11:07-08:00",
       "all": 37,
       "test": 32,
@@ -38,12 +47,39 @@
     },
     {
       "id": "1aa2947f70a674c2ba3992abdf935638a43c1b28",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2018-01-31T15:50:24+01:00",
       "all": 124,
       "test": 63,
       "testable": 124,
       "pct": 50.8
+    },
+    {
+      "id": "61abba4bed7f45e6821aeaa7ddb9a05d4b59177a",
+      "who": "Jason Aden <jasonaden@google.com>",
+      "when": "2018-01-31T13:15:40-08:00",
+      "all": 29,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "5da72cc465206d8a61337a4e693eebe4763bb9f0",
+      "who": "Jason Aden <jasonaden@google.com>",
+      "when": "2018-01-31T12:44:04-08:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "3db75b3f640f8ebe190eb7264e835397b1f3951e",
+      "who": "Kara Erickson <karakara@google.com>",
+      "when": "2018-01-31T11:21:06-08:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

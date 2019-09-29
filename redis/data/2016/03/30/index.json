@@ -1,24 +1,24 @@
 {
   "commits": [
     {
-      "all": 0, 
-      "who": "ryosuke.hasebe@linecorp.com", 
-      "when": "2016-03-30T23:09:36+09:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "cad9ea5c68fa0b36c1620aa35fe5a946c0a84ced"
-    }, 
+      "id": "cad9ea5c68fa0b36c1620aa35fe5a946c0a84ced",
+      "who": "Ryosuke Hasebe <ryosuke.hasebe@linecorp.com>",
+      "when": "2016-03-30T23:09:36+09:00",
+      "all": 11,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "ryosuke.hasebe@linecorp.com", 
-      "when": "2016-03-30T21:56:22+09:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "d5aa7e2abe0d832fcad348caff99d006f2ab7740"
+      "id": "d5aa7e2abe0d832fcad348caff99d006f2ab7740",
+      "who": "Ryosuke Hasebe <ryosuke.hasebe@linecorp.com>",
+      "when": "2016-03-30T21:56:22+09:00",
+      "all": 4,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

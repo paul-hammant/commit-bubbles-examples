@@ -2,12 +2,21 @@
   "commits": [
     {
       "id": "1097f2c22f97cb4b4818b79b83fa92f14fc3ace5",
-      "who": "dsaff",
+      "who": "dsaff <dsaff>",
       "when": "2006-11-30T20:00:21+00:00",
       "all": 3,
       "test": 3,
       "testable": 3,
       "pct": 100.0
+    },
+    {
+      "id": "bc24f5bd6d9239a3987424e47b0babc7f8e528a8",
+      "who": "dsaff <dsaff>",
+      "when": "2006-11-30T15:07:16+00:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 4 (master branch)",

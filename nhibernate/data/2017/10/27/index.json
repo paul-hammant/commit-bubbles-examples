@@ -2,12 +2,21 @@
   "commits": [
     {
       "id": "2e409d05b9d5d0087d2af852d095dafcb35ff04b",
-      "who": "forte@musegg.ch",
+      "who": "Pirmin Mattmann <forte@musegg.ch>",
       "when": "2017-10-27T13:01:48+02:00",
       "all": 64,
       "test": 18,
       "testable": 64,
       "pct": 28.1
+    },
+    {
+      "id": "8001939bc8a78682086bf7a63e8f930c2be67dc4",
+      "who": "Alexander Zaytsev <hazzik@gmail.com>",
+      "when": "2017-10-27T22:27:21+13:00",
+      "all": 10,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "NHibernate (master branch)",

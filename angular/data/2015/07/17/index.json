@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "ac6227e4345aeffda4b24336b6e5282ed937a877",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-07-17T13:36:53-07:00",
       "all": 2468,
       "test": 1271,
@@ -11,7 +11,7 @@
     },
     {
       "id": "fd46b49ea6f417591e263001817301bcb3533422",
-      "who": "sigmund@google.com",
+      "who": "Sigmund Cherem <sigmund@google.com>",
       "when": "2015-07-17T13:21:37-07:00",
       "all": 1248,
       "test": 0,
@@ -19,8 +19,17 @@
       "pct": 0.0
     },
     {
+      "id": "6d760666a9f68fb7039fa828bf8f68aac9fe610a",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2015-07-17T13:29:43-07:00",
+      "all": 22,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "4c8ea12903067a2ae281e9079f9ad7395e25bb44",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2015-07-17T13:26:26-07:00",
       "all": 133,
       "test": 78,
@@ -29,7 +38,7 @@
     },
     {
       "id": "e94270946abdd372d9d2f2c2872447ef183d497d",
-      "who": "alx+alxhub@alxandria.net",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
       "when": "2015-07-17T15:33:40-07:00",
       "all": 56,
       "test": 11,
@@ -38,7 +47,7 @@
     },
     {
       "id": "3dd05ef7db3d0c0b4ed43b651febcc8312fd2c20",
-      "who": "kevmoo@google.com",
+      "who": "Kevin Moore <kevmoo@google.com>",
       "when": "2015-07-17T15:00:52-07:00",
       "all": 8,
       "test": 8,
@@ -46,8 +55,17 @@
       "pct": 100.0
     },
     {
+      "id": "cfc18b5a6f01806c16e8e68425ef6d11819e205d",
+      "who": "Kevin Moore <kevmoo@google.com>",
+      "when": "2015-07-17T14:01:55-07:00",
+      "all": 18,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "57496926cad0d840092c7623079883983ca07d53",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2015-07-17T15:29:05-07:00",
       "all": 105,
       "test": 35,
@@ -55,8 +73,17 @@
       "pct": 33.3
     },
     {
+      "id": "19e4ee81b94ae04de53c4f33fc6a3819127d0030",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2015-07-17T14:08:07-07:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "f74d97e1f17fa817fd38c19e02c6f98bb4bd5508",
-      "who": "tjblasi@google.com",
+      "who": "Tim Blasi <tjblasi@google.com>",
       "when": "2015-07-17T14:07:32-07:00",
       "all": 16,
       "test": 0,
@@ -65,7 +92,7 @@
     },
     {
       "id": "011fab37af626535c1d5af7091d72e27d93f4391",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-07-17T12:14:48-07:00",
       "all": 21,
       "test": 9,
@@ -74,7 +101,7 @@
     },
     {
       "id": "8296dcec09d9b8be0d4cfcc492000d5cc401cfa0",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-07-17T12:13:20-07:00",
       "all": 41,
       "test": 0,
@@ -82,8 +109,26 @@
       "pct": 0.0
     },
     {
+      "id": "3df8363a94d139692fb48015a528808303098a54",
+      "who": "Ted Sander <tsander@google.com>",
+      "when": "2015-07-17T11:04:54-07:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "5cc84ed4bb79e547361b46d61cca4e4efca7b631",
+      "who": "Ted Sander <tsander@google.com>",
+      "when": "2015-07-17T02:45:27-07:00",
+      "all": 507,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "2f08ed8d3edc564fedeb39c3c5a835b1af0af1d8",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2015-07-17T12:25:12-07:00",
       "all": 13,
       "test": 0,
@@ -91,8 +136,26 @@
       "pct": 0.0
     },
     {
+      "id": "1386977a3441c9938a7c4bcf299215a508e4ec4c",
+      "who": "Kevin Moore <kevmoo@google.com>",
+      "when": "2015-07-17T10:50:56-07:00",
+      "all": 21,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "cdb6c9cda2539b3581e7bea9fbaf15d7bff8eabe",
+      "who": "Kevin Moore <kevmoo@google.com>",
+      "when": "2015-07-17T10:48:11-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "13b1d850586dab3d02ba0b06dc417a29203933fe",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2015-07-17T08:56:34-07:00",
       "all": 20,
       "test": 3,
@@ -101,7 +164,7 @@
     },
     {
       "id": "c6409cb624c0c9e401636118211b79d0edbbd73e",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-07-17T02:01:34-07:00",
       "all": 33,
       "test": 19,
@@ -110,7 +173,7 @@
     },
     {
       "id": "f42382db3b9218fd0f1f14766ebfc271c52c8b42",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-07-17T08:03:40-07:00",
       "all": 341,
       "test": 143,

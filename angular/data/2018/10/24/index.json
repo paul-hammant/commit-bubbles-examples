@@ -1,8 +1,26 @@
 {
   "commits": [
     {
+      "id": "8b0ebe17b3832aa1c8f0cefed1b1ddf0c97c3103",
+      "who": "jenniferfell <jenniferfell.sf@gmail.com>",
+      "when": "2018-10-24T12:56:32-06:00",
+      "all": 848,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c89045fb7786b8e41d59234fe917927a816f0a0f",
+      "who": "Alvaro Junqueira <alvarocjunq@gmail.com>",
+      "when": "2018-10-24T11:23:26+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "d0037b22ef1e6879545bffdf013b5b32917821af",
-      "who": "joost.koehoorn@gmail.com",
+      "who": "JoostK <joost.koehoorn@gmail.com>",
       "when": "2018-10-24T18:39:29+02:00",
       "all": 43,
       "test": 5,
@@ -11,7 +29,7 @@
     },
     {
       "id": "eb5d3088a4be3f26e88fb579aa8dc180c344c952",
-      "who": "pete@bacondarwin.com",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
       "when": "2018-10-24T13:24:14+01:00",
       "all": 54,
       "test": 0,
@@ -20,7 +38,7 @@
     },
     {
       "id": "d042c4afe05e34a45de75fa0ec60d70279656c16",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2018-10-24T16:02:25-07:00",
       "all": 1520,
       "test": 354,
@@ -28,8 +46,26 @@
       "pct": 25.8
     },
     {
+      "id": "30f319a11f1664fd6088b2b36f90b91b84335d13",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-10-24T18:15:46-07:00",
+      "all": 54,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "5d7ba57dd5646cf7d68df68ce5fef7425515050d",
+      "who": "Olivier Combe <olivier.combe@gmail.com>",
+      "when": "2018-10-24T18:06:24+02:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "0cc9842bf676c8abd13890c0db030124c22a5298",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2018-10-24T19:50:38+03:00",
       "all": 21,
       "test": 0,
@@ -38,7 +74,7 @@
     },
     {
       "id": "54ea10288e483d31d85ee1787fe55ab545ee6b3e",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2018-10-24T19:03:48+03:00",
       "all": 9,
       "test": 0,
@@ -46,12 +82,84 @@
       "pct": 0.0
     },
     {
+      "id": "1880c9531ff6e6e089716d53ea78861f821d8e4c",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2018-10-24T16:51:00+03:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "67789f10ef65aa0791e6c64506ba8f0d7f1add1c",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
+      "when": "2018-10-24T14:47:20-07:00",
+      "all": 22,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "b83f1300bd78e920b01dcb68f56ec87f51168089",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
+      "when": "2018-10-24T14:42:37-07:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "6e16a17015baa8b65c775f221fad3019b2ebd281",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2018-10-24T23:17:58+03:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d744dd70e0378a783352e5db007f4d5231c1edf9",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
+      "when": "2018-10-24T12:58:02-07:00",
+      "all": 533,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "4e91ead40b6328a1f6f90d26ef53489a7d9d5a3f",
-      "who": "gmagolan@gmail.com",
+      "who": "Greg Magolan <gmagolan@gmail.com>",
       "when": "2018-10-24T11:46:17-07:00",
       "all": 6,
       "test": 0,
       "testable": 6,
+      "pct": 0.0
+    },
+    {
+      "id": "bf9ab53f12ba0673c47a8d5a4ae4037b6b1cdc9a",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
+      "when": "2018-10-24T10:07:49-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d99f661af77dcea440548ff1bace61dd788404ec",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
+      "when": "2018-10-24T10:04:06-07:00",
+      "all": 10,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "5d58a31d867055fe3c5915d11f4cbf20a26ede28",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
+      "when": "2018-10-24T09:46:08-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     }
   ],

@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "7af6f4cc5f8221f35d17bae3e83c09493824d210",
-      "who": "fredericdelaporte@free.fr",
+      "who": "Fr\u00c3\u00a9d\u00c3\u00a9ric Delaporte <fredericdelaporte@free.fr>",
       "when": "2017-11-30T12:15:31+01:00",
       "all": 7,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "338a827efcca0fd404178f94948e937049083261",
-      "who": "fredericdelaporte@free.fr",
+      "who": "Fr\u00c3\u00a9d\u00c3\u00a9ric Delaporte <fredericdelaporte@free.fr>",
       "when": "2017-11-30T11:40:43+01:00",
       "all": 15,
       "test": 12,
@@ -20,16 +20,25 @@
     },
     {
       "id": "4edbbed5c53bcdb8c3074b3fcfe619006dfffa96",
-      "who": "hazzik@gmail.com",
+      "who": "Alexander Zaytsev <hazzik@gmail.com>",
       "when": "2017-11-30T16:24:58+13:00",
-      "all": 37,
+      "all": 0,
       "test": 0,
-      "testable": 18,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "942b61bbb4f712df7a866d5522a33ce82a267c31",
+      "who": "Alexander Zaytsev <hazzik@gmail.com>",
+      "when": "2017-11-30T15:41:44+13:00",
+      "all": 19,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "63dee05a69acedb1bf64e66a0787c863ca5fd452",
-      "who": "hazzik@gmail.com",
+      "who": "Alexander Zaytsev <hazzik@gmail.com>",
       "when": "2017-11-30T15:35:39+13:00",
       "all": 18,
       "test": 0,
@@ -38,12 +47,12 @@
     },
     {
       "id": "5c4eccb0994995aaa1db754966221b3f389e05ad",
-      "who": "hazzik@gmail.com",
+      "who": "Alexander Zaytsev <hazzik@gmail.com>",
       "when": "2017-11-30T00:11:47+13:00",
-      "all": 1934,
-      "test": 380,
-      "testable": 1895,
-      "pct": 20.1
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "NHibernate (master branch)",

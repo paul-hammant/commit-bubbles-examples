@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "6f45519d6f7f4a13e675a63dd9a6c1a1351df213",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2017-07-07T09:10:10-07:00",
       "all": 189,
       "test": 93,
@@ -10,8 +10,71 @@
       "pct": 49.2
     },
     {
+      "id": "b6aad0763495c2ab0f06e5350975f65a4c07be06",
+      "who": "Georgios Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2017-07-07T23:54:53+03:00",
+      "all": 10,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "3d0406c2475e9e6bf248493f2fa614dbf5be83df",
+      "who": "Georgios Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2017-07-07T23:21:35+03:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "7c4ac68e66780e2b05b29b7ffc53f5d1b0ed23fe",
+      "who": "Georgios Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2017-07-07T16:46:28+03:00",
+      "all": 49,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "cb7609109d2392d18927c46ba512511769d70a89",
+      "who": "Georgios Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2017-07-07T13:29:09+03:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "cc611c93b6748717f660bc99124bb4f8b9bc0fa3",
+      "who": "Jason Aden <jasonaden@google.com>",
+      "when": "2017-07-07T22:10:17-07:00",
+      "all": 24,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "8928a5879681f7ff6d732c09f8281d858cd4f64f",
+      "who": "Jason Aden <jasonaden@google.com>",
+      "when": "2017-07-07T22:07:13-07:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "05a33d503522c781377bf6a663a83840beb3fa53",
+      "who": "Jason Aden <jasonaden@google.com>",
+      "when": "2017-07-07T22:03:53-07:00",
+      "all": 32,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "09f1609f819f54256bdba69f6e3bf29d5ad40249",
-      "who": "jasonaden@users.noreply.github.com",
+      "who": "Jason Aden <jasonaden@users.noreply.github.com>",
       "when": "2017-07-07T17:02:07-07:00",
       "all": 36,
       "test": 36,
@@ -20,7 +83,7 @@
     },
     {
       "id": "c723d42d0abe03659fcf466a41bd59c994662142",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2017-07-07T16:55:17-07:00",
       "all": 139,
       "test": 51,
@@ -29,7 +92,7 @@
     },
     {
       "id": "c1474f33be82ef793586857e2bcb6f8cbf57c1f8",
-      "who": "chuckj@google.com",
+      "who": "Chuck Jazdzewski <chuckj@google.com>",
       "when": "2017-07-07T17:29:39-06:00",
       "all": 136,
       "test": 80,
@@ -38,7 +101,7 @@
     },
     {
       "id": "9c3386b1b771ffcd9d88f6768deb8fb2641d95af",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2017-07-07T16:16:49-07:00",
       "all": 189,
       "test": 121,
@@ -47,7 +110,7 @@
     },
     {
       "id": "2ba3ada27fc0a052215f2c61af8b0962a43864cf",
-      "who": "akdeora@google.com",
+      "who": "Abhimanyu Deora <akdeora@google.com>",
       "when": "2017-07-07T10:22:52-07:00",
       "all": 4,
       "test": 0,
@@ -56,7 +119,7 @@
     },
     {
       "id": "c81ad9d19d764b33acdc907d266b0c5a730e62b8",
-      "who": "alx+alxhub@alxandria.net",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
       "when": "2017-07-07T14:56:36-07:00",
       "all": 699,
       "test": 145,
@@ -64,8 +127,17 @@
       "pct": 20.7
     },
     {
+      "id": "72747e5213caf22313c5c98e742621b251e95297",
+      "who": "Igor Minar <iminar@google.com>",
+      "when": "2017-07-07T11:59:40-07:00",
+      "all": 4,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "504500de5092d45dfafb8d85d69b2edc4a081ac1",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2017-07-07T21:17:19+03:00",
       "all": 664,
       "test": 26,
@@ -73,8 +145,17 @@
       "pct": 3.9
     },
     {
+      "id": "e1174f377482b77e8c59e24ff895279faf4e079d",
+      "who": "Stefanie Fluin <sjtrimble@gmail.com>",
+      "when": "2017-07-07T11:16:51-07:00",
+      "all": 326,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "6bae73c076688bec2d93a4adf558b1fd27031912",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2017-07-07T18:55:29+03:00",
       "all": 3,
       "test": 0,
@@ -83,7 +164,7 @@
     },
     {
       "id": "227dbbcfba2aeed514e8bea768dd7eb83448a733",
-      "who": "chuckj@google.com",
+      "who": "Chuck Jazdzewski <chuckj@google.com>",
       "when": "2017-07-07T09:47:28-06:00",
       "all": 119,
       "test": 109,
@@ -92,7 +173,7 @@
     },
     {
       "id": "cb16e9c74769a2c0e66521279886ce37abc8922f",
-      "who": "chuckj@google.com",
+      "who": "Chuck Jazdzewski <chuckj@google.com>",
       "when": "2017-07-07T09:46:42-06:00",
       "all": 100,
       "test": 30,
@@ -101,7 +182,7 @@
     },
     {
       "id": "3b2d2c467a98e0585ef79113fcf1f828a2dfbae9",
-      "who": "chuckj@google.com",
+      "who": "Chuck Jazdzewski <chuckj@google.com>",
       "when": "2017-07-07T09:46:18-06:00",
       "all": 14,
       "test": 11,

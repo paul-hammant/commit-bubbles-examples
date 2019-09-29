@@ -1,8 +1,44 @@
 {
   "commits": [
     {
+      "id": "77aff0b7bbcc31da1928facb56a09b2da73b13ed",
+      "who": "Alex Eagle <alexeagle@angular.io>",
+      "when": "2019-03-06T15:11:02-08:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "f7738ad8d6c5c9e0ecc139f67dfa564919acfd32",
+      "who": "Alex Eagle <alexeagle@angular.io>",
+      "when": "2019-03-06T15:05:25-08:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "019e65abfb8b58d873f535b4379db7a0a29634d3",
+      "who": "Alex Eagle <alexeagle@angular.io>",
+      "when": "2019-03-06T15:12:47-08:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "29fae6de0825d008a54836133329446d7717b19f",
+      "who": "Alex Eagle <alexeagle@angular.io>",
+      "when": "2019-03-06T16:02:13-08:00",
+      "all": 8,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "3c53713616b476822cafca80177042424ff1ad0d",
-      "who": "paulgschwendtner@gmail.com",
+      "who": "Paul Gschwendtner <paulgschwendtner@gmail.com>",
       "when": "2019-03-06T14:45:32+01:00",
       "all": 298,
       "test": 193,
@@ -11,7 +47,7 @@
     },
     {
       "id": "b012ab210b461f244b113b11f57971db274b77be",
-      "who": "alan.agius4@gmail.com",
+      "who": "Alan <alan.agius4@gmail.com>",
       "when": "2019-03-06T09:06:34+01:00",
       "all": 18,
       "test": 18,
@@ -19,8 +55,17 @@
       "pct": 100.0
     },
     {
+      "id": "b3ffdf92c5bcc2d36399f350d9c95ca14fab8d26",
+      "who": "Alan <alan.agius4@gmail.com>",
+      "when": "2019-03-06T09:05:06+01:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "7b0e9eddd19857f6fd66f03ddee5e920767bd951",
-      "who": "alan.agius4@gmail.com",
+      "who": "Alan <alan.agius4@gmail.com>",
       "when": "2019-03-06T09:04:18+01:00",
       "all": 144,
       "test": 50,
@@ -29,7 +74,7 @@
     },
     {
       "id": "b6f6b1178f06442d0bf3271fed2380bdebc8a94f",
-      "who": "alx+alxhub@alxandria.net",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
       "when": "2019-03-06T16:35:08-08:00",
       "all": 517,
       "test": 105,
@@ -38,7 +83,7 @@
     },
     {
       "id": "37c5a264214811382bc918bdcac61edd3375a502",
-      "who": "alx+alxhub@alxandria.net",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
       "when": "2019-03-06T14:26:56-08:00",
       "all": 34,
       "test": 0,
@@ -47,7 +92,7 @@
     },
     {
       "id": "f4f20daee3040f13f7bcec98945323a4fc86e3db",
-      "who": "kyliau@google.com",
+      "who": "Keen Yee Liau <kyliau@google.com>",
       "when": "2019-03-06T17:50:57-08:00",
       "all": 813,
       "test": 0,
@@ -55,8 +100,35 @@
       "pct": 0.0
     },
     {
+      "id": "9a1959269f3384f6331e078ae025e55da23bd7e0",
+      "who": "Alan <alan.agius4@gmail.com>",
+      "when": "2019-03-06T11:09:15+01:00",
+      "all": 40,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "f71dae8f635a0b3030429ac246c1f292737bd2cd",
+      "who": "Alan <alan.agius4@gmail.com>",
+      "when": "2019-03-06T11:08:42+01:00",
+      "all": 4,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "941c99ad7f2540f50c1c110d45182b5bff0a54cc",
+      "who": "Alan <alan.agius4@gmail.com>",
+      "when": "2019-03-06T09:28:41+01:00",
+      "all": 23,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "14ce8a9c310c5b5cc91f1874b6339a9b6b5571b6",
-      "who": "kyliau@umich.edu",
+      "who": "Keen Yee Liau <kyliau@umich.edu>",
       "when": "2019-03-06T11:02:44-08:00",
       "all": 10,
       "test": 0,
@@ -65,7 +137,7 @@
     },
     {
       "id": "f856a6597b653454a515358bb372d2f4b686157b",
-      "who": "karakara@google.com",
+      "who": "Kara Erickson <karakara@google.com>",
       "when": "2019-03-06T11:39:45-08:00",
       "all": 59,
       "test": 0,
@@ -74,7 +146,7 @@
     },
     {
       "id": "0bd4261f232c10221790626ae085e84403c40c82",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2019-03-06T15:57:20+01:00",
       "all": 3,
       "test": 0,
@@ -83,7 +155,7 @@
     },
     {
       "id": "f96efd1c98e8dc5258948a887b42e7f1df92629f",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2019-03-06T14:23:46+01:00",
       "all": 21,
       "test": 0,
@@ -92,7 +164,7 @@
     },
     {
       "id": "22ddbf4b0281095a5b459568e671f9e37139336b",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2019-03-06T14:01:02+01:00",
       "all": 77,
       "test": 41,
@@ -101,12 +173,39 @@
     },
     {
       "id": "c5d9035bab9bd75747603fa0d5f5a7f71453bcf1",
-      "who": "alan.agius4@gmail.com",
+      "who": "Alan <alan.agius4@gmail.com>",
       "when": "2019-03-06T07:25:16+01:00",
       "all": 3,
       "test": 3,
       "testable": 3,
       "pct": 100.0
+    },
+    {
+      "id": "9c1ced102e38a759df1a8bc5da88d828353e9da2",
+      "who": "Andrew Kushnir <akushnir@google.com>",
+      "when": "2019-03-06T10:32:52-08:00",
+      "all": 30,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "54286b8c27ea5cb1cce063272a0ab99af4f81238",
+      "who": "Andrew Kushnir <akushnir@google.com>",
+      "when": "2019-03-06T10:24:10-08:00",
+      "all": 14,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "20a9dbef8e75b5248a9d295ba469db1f40f302a3",
+      "who": "Paul Gschwendtner <paulgschwendtner@gmail.com>",
+      "when": "2019-03-06T00:15:59+01:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

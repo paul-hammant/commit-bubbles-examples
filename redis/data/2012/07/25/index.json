@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "f1d187bb3ece6b4b13a6b74e8e5ccab9fe9d40ff",
-      "who": "michael.g.parker@gmail.com",
+      "who": "Michael Parker <michael.g.parker@gmail.com>",
       "when": "2012-07-25T23:51:22-07:00",
       "all": 4,
       "test": 0,
@@ -10,8 +10,35 @@
       "pct": 0.0
     },
     {
+      "id": "78b606acc2b70c5e97368fb4e72b73043c90c2dc",
+      "who": "Jeremy Zawodny <Jeremy@Zawodny.com>",
+      "when": "2012-07-25T08:29:11-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "a3593ee4d09b28142850694a2a0d977eac4819c1",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
+      "when": "2012-07-25T08:31:57-07:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "7617a6f272474c433c1d2e8884c8a174e91ff9bd",
+      "who": "Jeremy Zawodny <Jeremy@Zawodny.com>",
+      "when": "2012-07-25T08:29:11-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "baace5fc42dbe527a452d8864f37716d644f444a",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2012-07-25T16:33:37+02:00",
       "all": 108,
       "test": 0,
@@ -20,16 +47,25 @@
     },
     {
       "id": "42c571864e38016d5711e4cd55fb87dd411a064e",
-      "who": "antirez@gmail.com",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
       "when": "2012-07-25T07:15:53-07:00",
-      "all": 3,
+      "all": 0,
       "test": 0,
-      "testable": 3,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "7c15dd15965e659f822d1620b006caba06d5e298",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
+      "when": "2012-07-25T07:15:02-07:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "f1c8661e74ab1b6c45669f4a998484dfe54ed2d3",
-      "who": "michaelrbernstein@gmail.com",
+      "who": "mrb <michaelrbernstein@gmail.com>",
       "when": "2012-07-25T09:55:53-04:00",
       "all": 3,
       "test": 0,
@@ -37,8 +73,17 @@
       "pct": 0.0
     },
     {
+      "id": "23023fc626ef10a683f1afca0cd0ce7b00c4d8da",
+      "who": "mrb <michaelrbernstein@gmail.com>",
+      "when": "2012-07-25T09:52:26-04:00",
+      "all": 15,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "672102c2ceb4bfc24fcbec96f0cd79118a873d72",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2012-07-25T11:32:19+02:00",
       "all": 75,
       "test": 0,

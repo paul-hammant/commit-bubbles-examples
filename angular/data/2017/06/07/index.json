@@ -1,8 +1,17 @@
 {
   "commits": [
     {
+      "id": "5ac391925981606c38fa5d7ac2564fa72be2e164",
+      "who": "Mi\u00c5\u00a1ko Hevery <misko@hevery.com>",
+      "when": "2017-06-07T15:31:40-07:00",
+      "all": 13,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "ff15509bc7c2c6640e87fe428e4bbb5b1ccb6276",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2017-06-07T23:47:35-07:00",
       "all": 16,
       "test": 0,
@@ -10,8 +19,26 @@
       "pct": 0.0
     },
     {
+      "id": "0a48c92d2c0035265f9c04e6594501569a4b0a8a",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2017-06-07T23:51:57-07:00",
+      "all": 119,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "991ca92a9dace1e0e45261f4f91d9a5d4813263a",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2017-06-07T23:51:17-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "3db6b6ca7a8cc032e34838c4870503cd911115ad",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2017-06-07T22:34:11+01:00",
       "all": 49,
       "test": 0,
@@ -20,7 +47,7 @@
     },
     {
       "id": "e894f5c39951573e695b74456cc4d980bc49db02",
-      "who": "kalpakas.g@gmail.com",
+      "who": "Georgios Kalpakas <kalpakas.g@gmail.com>",
       "when": "2017-06-07T16:51:21+03:00",
       "all": 145,
       "test": 0,
@@ -28,8 +55,17 @@
       "pct": 0.0
     },
     {
+      "id": "f370fd36e0b77bdbeff64e135a51822075934f97",
+      "who": "Ward Bell <wardbell@hotmail.com>",
+      "when": "2017-06-07T10:59:48-07:00",
+      "all": 35,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "a222c3e609d002f06242db6b5661d748dbf22e49",
-      "who": "karakara@google.com",
+      "who": "Kara Erickson <karakara@google.com>",
       "when": "2017-06-07T20:22:23-07:00",
       "all": 62,
       "test": 49,
@@ -37,8 +73,17 @@
       "pct": 79.0
     },
     {
+      "id": "6a46cabb102d92f71752038aef38ab9dbc645e96",
+      "who": "Ward Bell <wardbell@hotmail.com>",
+      "when": "2017-06-07T09:45:01-07:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "e9886d701dffc963b2cb67cb389f2173aba9215f",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2017-06-07T14:58:34-07:00",
       "all": 75,
       "test": 51,
@@ -46,8 +91,17 @@
       "pct": 68.0
     },
     {
+      "id": "cba2b3c72dd871f452762cd5bb134fe1f24b4b96",
+      "who": "Ward Bell <wardbell@hotmail.com>",
+      "when": "2017-06-07T10:39:04-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "a4a29012946b631a3755c9928989b6f2fa0a397f",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2017-06-07T11:43:48+01:00",
       "all": 93,
       "test": 0,
@@ -56,11 +110,47 @@
     },
     {
       "id": "c9b930dd82178055618c96910f88af20622fb97d",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2017-06-07T17:16:41+01:00",
       "all": 338,
       "test": 0,
       "testable": 246,
+      "pct": 0.0
+    },
+    {
+      "id": "a39f7d63bb4c45117a0afc9772de5be9da018925",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
+      "when": "2017-06-07T14:35:57+01:00",
+      "all": 23,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "e317f7d51c936396aa043a1522dc108ef3732dcc",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
+      "when": "2017-06-07T16:41:42+01:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "3ddd28d37ddf8b28e84bf504099a946f298f9ef8",
+      "who": "Stefanie Fluin <sjtrimble@gmail.com>",
+      "when": "2017-06-07T09:00:50-07:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "4759975be63e75b4f1fc9069a12847a938633045",
+      "who": "Georgios Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2017-06-07T01:24:15+03:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     }
   ],

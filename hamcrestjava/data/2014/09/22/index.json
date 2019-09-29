@@ -2,7 +2,7 @@
   "commits": [
     {
       "all": 14, 
-      "who": "joe@kafsemo.org", 
+      "who": "Joseph Walton <joe@kafsemo.org>", 
       "when": "2014-09-22T23:55:20+10:00", 
       "pct": 100.0, 
       "test": 14, 
@@ -11,7 +11,7 @@
     }, 
     {
       "all": 355, 
-      "who": "joe@kafsemo.org", 
+      "who": "Joseph Walton <joe@kafsemo.org>", 
       "when": "2014-09-22T23:54:52+10:00", 
       "pct": 100.0, 
       "test": 355, 
@@ -19,8 +19,17 @@
       "id": "6f1f8178ccd8bcf19380bdd95d01071cece8eb87"
     }, 
     {
+      "all": 5, 
+      "who": "Joseph Walton <joe@kafsemo.org>", 
+      "when": "2014-09-22T23:53:52+10:00", 
+      "pct": 0.0, 
+      "test": 0, 
+      "testable": 0, 
+      "id": "c348e30a008a526d69509725d5c45511bbdd4a42"
+    }, 
+    {
       "all": 77, 
-      "who": "joe@kafsemo.org", 
+      "who": "Joseph Walton <joe@kafsemo.org>", 
       "when": "2014-09-22T23:39:25+10:00", 
       "pct": 100.0, 
       "test": 77, 
@@ -29,12 +38,21 @@
     }, 
     {
       "all": 37, 
-      "who": "joe@kafsemo.org", 
+      "who": "Joseph Walton <joe@kafsemo.org>", 
       "when": "2014-09-22T23:28:44+10:00", 
       "pct": 0.0, 
       "test": 0, 
       "testable": 32, 
       "id": "63fdeef6281ac0d8c7f8cb8d92a23cc6f0782c28"
+    }, 
+    {
+      "all": 9, 
+      "who": "Joseph Walton <joe@kafsemo.org>", 
+      "when": "2014-09-22T23:22:37+10:00", 
+      "pct": 0.0, 
+      "test": 0, 
+      "testable": 0, 
+      "id": "1febde8a8ce61342a6b6e12c387f3de2d72ae60b"
     }
   ], 
   "description": "Hamcrest Java (master branch)", 

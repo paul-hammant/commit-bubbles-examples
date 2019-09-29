@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "e6623165211d7886f926ed2733ac277ebeb2bb69",
-      "who": "patearl@patearl.net",
+      "who": "Patrick Earl <patearl@patearl.net>",
       "when": "2011-04-11T18:15:31+00:00",
       "all": 3,
       "test": 3,
@@ -11,7 +11,7 @@
     },
     {
       "id": "779900c87f3aac657a1c55101912d2342c5a6510",
-      "who": "patearl@patearl.net",
+      "who": "Patrick Earl <patearl@patearl.net>",
       "when": "2011-04-11T17:41:57+00:00",
       "all": 15574,
       "test": 118,
@@ -19,13 +19,49 @@
       "pct": 0.8
     },
     {
+      "id": "70cd96946e27f998e9e3466ac8c6e182a6016d27",
+      "who": "Patrick Earl <patearl@patearl.net>",
+      "when": "2011-04-11T17:04:42+00:00",
+      "all": 49,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "ac92d008b0993fe72ee76f9f3d0a49a7c88ee39f",
-      "who": "julian.maughan@gmail.com",
+      "who": "Julian Maughan <julian.maughan@gmail.com>",
       "when": "2011-04-11T11:41:09+00:00",
       "all": 231,
       "test": 102,
       "testable": 102,
       "pct": 100.0
+    },
+    {
+      "id": "c32f654061226405df7a9bd158854b99bd637a44",
+      "who": "Julian Maughan <julian.maughan@gmail.com>",
+      "when": "2011-04-11T11:32:41+00:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "b10b678f0a31ba04ca074d9e992032a5fc311314",
+      "who": "Fabio Maulo <fabiomaulo@gmail.com>",
+      "when": "2011-04-11T11:31:49+00:00",
+      "all": 65,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "24d949ecb147c5517f9c69c2e026aadcf27beb7e",
+      "who": "Fabio Maulo <fabiomaulo@gmail.com>",
+      "when": "2011-04-11T11:16:38+00:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "NHibernate (master branch)",

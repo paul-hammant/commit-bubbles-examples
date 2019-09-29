@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "9130505b57c10dc6f4cd9b12ca47e06c4f429b74",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2017-09-01T15:37:05-07:00",
       "all": 115,
       "test": 72,
@@ -11,7 +11,7 @@
     },
     {
       "id": "1c77cdadaf8d1ac24751a218484a8a08c13bad18",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2017-09-01T15:37:05-07:00",
       "all": 325,
       "test": 132,
@@ -20,7 +20,7 @@
     },
     {
       "id": "bc0750eb932a55af2792cf066508fa13ff2df3e9",
-      "who": "olivier.combe@gmail.com",
+      "who": "Olivier Combe <olivier.combe@gmail.com>",
       "when": "2017-09-01T14:50:58+02:00",
       "all": 3,
       "test": 0,
@@ -29,7 +29,7 @@
     },
     {
       "id": "b1055a5edb56258b86ca43e498c64a1ef49ef328",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2017-09-01T16:27:02-07:00",
       "all": 29,
       "test": 0,
@@ -38,7 +38,7 @@
     },
     {
       "id": "5ef6e6366f09107925d17e844e818ef071edffe2",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2017-09-01T16:27:35-07:00",
       "all": 238,
       "test": 153,
@@ -47,7 +47,7 @@
     },
     {
       "id": "d2707f14574bdfd4ea0c0ecf3d85383f6d54186a",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2017-09-01T13:13:49-07:00",
       "all": 36,
       "test": 0,
@@ -56,7 +56,7 @@
     },
     {
       "id": "71b58769af02bc9d431be808e5f8feff5634fd75",
-      "who": "karakara@google.com",
+      "who": "Kara Erickson <karakara@google.com>",
       "when": "2017-09-01T16:11:54-07:00",
       "all": 87,
       "test": 0,
@@ -65,7 +65,7 @@
     },
     {
       "id": "a95e03ae85839a89a6222e60d39ae9fe1094b35e",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2017-09-01T15:37:05-07:00",
       "all": 115,
       "test": 72,
@@ -73,8 +73,17 @@
       "pct": 62.6
     },
     {
+      "id": "7d8036a2e3090aa672138aef5e8815d4bac1a81b",
+      "who": "Jules Kremer <juleskremer@gmail.com>",
+      "when": "2017-09-01T12:41:51-07:00",
+      "all": 10,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "66a5dab85a84c8173c17ab90a3572cf0351f111b",
-      "who": "olivier.combe@gmail.com",
+      "who": "Olivier Combe <olivier.combe@gmail.com>",
       "when": "2017-09-01T14:50:58+02:00",
       "all": 43,
       "test": 6,
@@ -82,8 +91,35 @@
       "pct": 35.3
     },
     {
+      "id": "fa6b802be4c79f57aa8484fe47f0c860f1226683",
+      "who": "Misko Hevery <misko@hevery.com>",
+      "when": "2017-09-01T22:56:31-07:00",
+      "all": 55,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "54c1784da7a427090011302b909dab3c899a13b7",
+      "who": "Misko Hevery <misko@hevery.com>",
+      "when": "2017-09-01T22:53:16-07:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "7f4f20b2490a83f03073426460b35deb00c50337",
+      "who": "Misko Hevery <misko@hevery.com>",
+      "when": "2017-09-01T22:01:41-07:00",
+      "all": 20,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "068feccc37b181ad806f2f1a8686ebe2f253787d",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2017-09-01T23:10:43-07:00",
       "all": 2,
       "test": 0,
@@ -91,8 +127,17 @@
       "pct": 0.0
     },
     {
+      "id": "77a8492405cacecf41c9f6691ac2b7712854d7c0",
+      "who": "Yuan Gao <tinagao@google.com>",
+      "when": "2017-09-01T14:04:59-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "d1afadbd2244fb167c52c2f26b2df7460e7d080e",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2017-09-01T09:10:35-07:00",
       "all": 148,
       "test": 0,
@@ -101,7 +146,7 @@
     },
     {
       "id": "590b8052fe176ae812b4baaf619cbd147ccd5e87",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2017-09-01T14:50:50+02:00",
       "all": 21,
       "test": 0,

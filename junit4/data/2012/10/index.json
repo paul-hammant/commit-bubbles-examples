@@ -2,16 +2,16 @@
   "commits": [
     {
       "id": "35505c4c2ab02b32a94062426949a123e848af6e",
-      "who": "saff+aa@google.com",
+      "who": "David Saff <saff+aa@google.com>",
       "when": "2012-10-29T12:03:40-07:00",
-      "all": 114,
+      "all": 0,
       "test": 0,
-      "testable": 114,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "be6123772ffa7bc580ea44c2db488852255c401f",
-      "who": "mark.michaelis@coremedia.com",
+      "who": "Mark Michaelis <mark.michaelis@coremedia.com>",
       "when": "2012-10-24T23:10:24+02:00",
       "all": 70,
       "test": 19,
@@ -20,16 +20,16 @@
     },
     {
       "id": "6bc83a0d3a67e36adc2733a125bf928c49f702f9",
-      "who": "mark.michaelis@coremedia.com",
+      "who": "Mark Michaelis <mark.michaelis@coremedia.com>",
       "when": "2012-10-24T22:45:46+02:00",
-      "all": 47273,
-      "test": 24674,
-      "testable": 44914,
-      "pct": 54.9
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "6fb53a7e272a6ecc232840c96b4cfe5235a8f823",
-      "who": "mark.michaelis@coremedia.com",
+      "who": "Mark Michaelis <mark.michaelis@coremedia.com>",
       "when": "2012-10-24T22:30:54+02:00",
       "all": 9,
       "test": 0,
@@ -38,7 +38,7 @@
     },
     {
       "id": "b1db2bb47b95aced929b7f801c9185045481da05",
-      "who": "kcooney@google.com",
+      "who": "Kevin Cooney <kcooney@google.com>",
       "when": "2012-10-24T12:34:27-07:00",
       "all": 34,
       "test": 0,
@@ -47,7 +47,7 @@
     },
     {
       "id": "bb91daf8e0939d787ffb5a3eda05c2d626cd9851",
-      "who": "kcooney@google.com",
+      "who": "Kevin Cooney <kcooney@google.com>",
       "when": "2012-10-24T12:31:00-07:00",
       "all": 811,
       "test": 0,
@@ -56,25 +56,61 @@
     },
     {
       "id": "dc44abf520611a8722e75ba1d32df6a28183e4e3",
-      "who": "kcooney@google.com",
+      "who": "Kevin Cooney <kcooney@google.com>",
       "when": "2012-10-24T11:58:14-07:00",
-      "all": 46427,
-      "test": 24614,
-      "testable": 44068,
-      "pct": 55.9
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "2f879b9eea5a3242527ea85764d1d90e58ac3d87",
+      "who": "David Saff <saff+aa@google.com>",
+      "when": "2012-10-22T12:14:02-07:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "e7090d13e64086749f3dbf90959bc449618bb426",
-      "who": "saff+aa@google.com",
+      "who": "David Saff <saff+aa@google.com>",
       "when": "2012-10-22T09:58:26-07:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "181369ec84ff3f2903db5a4c6c35679363919163",
+      "who": "Tibor Digana <tibor17@lycos.com>",
+      "when": "2012-10-22T00:14:02+02:00",
+      "all": 171,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "8bd54949b75f95130fd87a77563d3a32e4c832dc",
+      "who": "Tibor Digana <tibor17@lycos.com>",
+      "when": "2012-10-22T00:11:12+02:00",
       "all": 3,
       "test": 0,
-      "testable": 3,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "7321e5a8281be863250b9e35804920debe29f44d",
+      "who": "Tibor Digana <tibor17@lycos.com>",
+      "when": "2012-10-22T00:06:16+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "0d508269ec972c3ac22e265bc0d9d8305f2afb8b",
-      "who": "tibor17@lycos.com",
+      "who": "Tibor Digana <tibor17@lycos.com>",
       "when": "2012-10-21T23:57:12+02:00",
       "all": 27,
       "test": 0,
@@ -83,7 +119,7 @@
     },
     {
       "id": "5627d209836c904bb308a353e7c69cafc3a428b7",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2012-10-21T13:20:10+02:00",
       "all": 3,
       "test": 0,
@@ -91,8 +127,26 @@
       "pct": 0.0
     },
     {
+      "id": "c09de4dfb0d5d7b6261c8a2c80dfdb10724cab52",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2012-10-21T12:46:21+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "ed01efa75f5975779efc686dfa5fae52096482b2",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2012-10-21T12:38:36+02:00",
+      "all": 1918,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "902b15698809cab28c24bf7f834b6f6b2796705c",
-      "who": "sschroevers@fredhopper.com",
+      "who": "sschroevers <sschroevers@fredhopper.com>",
       "when": "2012-10-16T22:10:33+02:00",
       "all": 5,
       "test": 5,
@@ -100,8 +154,17 @@
       "pct": 100.0
     },
     {
+      "id": "32e64642722d15d7a1a1e271693d32a57a1efca5",
+      "who": "David Saff <saff+aa@google.com>",
+      "when": "2012-10-16T06:55:19-07:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "4e8b0282c72c5da53b68d012e57ac41f36c73a68",
-      "who": "sschroevers@fredhopper.com",
+      "who": "sschroevers <sschroevers@fredhopper.com>",
       "when": "2012-10-16T11:05:51+02:00",
       "all": 54,
       "test": 39,
@@ -109,8 +172,53 @@
       "pct": 72.2
     },
     {
+      "id": "7bd6fa1d9b34af6fcfcc063eb5de237cfb325931",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2012-10-15T22:47:40+02:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "88c28a42a6fb7dc462c4bc504189a76a815fc265",
+      "who": "David Saff <saff+aa@google.com>",
+      "when": "2012-10-15T08:55:45-07:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "50d458851abde8fbe6800f0db85a90ab639e2f15",
+      "who": "David Saff <saff+aa@google.com>",
+      "when": "2012-10-15T08:38:04-07:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "cb6115e94213118d38c6068330f614974f668245",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2012-10-15T09:56:43+02:00",
+      "all": 41,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "778e03578ab4c41f40c25dee5c2cf4a28b2c4726",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2012-10-11T10:27:09+02:00",
+      "all": 233,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "872aba6255a0ddcc02bd88418ea8b6b2a70fdb54",
-      "who": "nicobn@gmail.com",
+      "who": "Nicolas A. B\u00c3\u00a9rard-Nault <nicobn@gmail.com>",
       "when": "2012-10-05T11:02:01-04:00",
       "all": 5,
       "test": 0,
@@ -119,7 +227,7 @@
     },
     {
       "id": "30f2b16525dabb477373be9ed3e76bb98b200806",
-      "who": "awulder@xebia.com",
+      "who": "Arjan Wulder <awulder@xebia.com>",
       "when": "2012-10-04T22:16:45+02:00",
       "all": 44914,
       "test": 24659,
@@ -127,17 +235,26 @@
       "pct": 54.9
     },
     {
+      "id": "68cc61e2b6ae43f3ab6ef9a54e16b9318d3d038f",
+      "who": "David Saff <saff+aa@google.com>",
+      "when": "2012-10-04T07:52:47-07:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "0f9517b679bbd951a325b69988c500017401d470",
-      "who": "saff+aa@google.com",
+      "who": "David Saff <saff+aa@google.com>",
       "when": "2012-10-02T08:52:36-07:00",
-      "all": 92,
-      "test": 52,
-      "testable": 92,
-      "pct": 56.5
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "c63e0913154a8f01e9f78fef9de23fffd7a1a717",
-      "who": "mark.michaelis@coremedia.com",
+      "who": "Mark Michaelis <mark.michaelis@coremedia.com>",
       "when": "2012-10-01T08:57:53+02:00",
       "all": 16,
       "test": 0,
@@ -146,7 +263,7 @@
     },
     {
       "id": "a982920ee8036d001aa4a223a2521be28681ec27",
-      "who": "mark.michaelis@coremedia.com",
+      "who": "Mark Michaelis <mark.michaelis@coremedia.com>",
       "when": "2012-10-01T08:50:14+02:00",
       "all": 25,
       "test": 25,

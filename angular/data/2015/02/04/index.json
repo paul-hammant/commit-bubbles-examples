@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "640134dee1c85b541c06f6c806f05bdd87920f8d",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-02-04T11:45:33-08:00",
       "all": 206,
       "test": 63,
@@ -11,7 +11,7 @@
     },
     {
       "id": "6bfa48bc6415c9c80b53b512e9d14735e4608e3a",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2015-02-04T22:27:31+01:00",
       "all": 358,
       "test": 155,
@@ -20,7 +20,7 @@
     },
     {
       "id": "93c18f5396fabd284038fc45c25f5b3120793830",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2015-02-04T16:40:04-08:00",
       "all": 55,
       "test": 46,
@@ -28,8 +28,17 @@
       "pct": 83.6
     },
     {
+      "id": "3820609f24728dbd9be262a6f19586341d25af65",
+      "who": "Yegor Jbanov <yjbanov@google.com>",
+      "when": "2015-02-04T23:05:13-08:00",
+      "all": 84,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "e20d9dd07338a90cdf30210a919999e44dcd399f",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2015-02-04T14:59:12-08:00",
       "all": 47,
       "test": 28,
@@ -38,12 +47,21 @@
     },
     {
       "id": "3395624cb3c39c2e5978e176b3e6f3d3e7ec3bb5",
-      "who": "blaporte@amadeus.com",
+      "who": "Bertrand Laporte <blaporte@amadeus.com>",
       "when": "2015-02-04T14:35:10-08:00",
       "all": 112,
       "test": 74,
       "testable": 102,
       "pct": 72.5
+    },
+    {
+      "id": "4623e885097d822e1f5f8206cddf023ac96c8c57",
+      "who": "Brian Ford <btford@umich.edu>",
+      "when": "2015-02-04T12:42:52-08:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

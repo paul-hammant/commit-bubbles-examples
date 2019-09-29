@@ -1,8 +1,17 @@
 {
   "commits": [
     {
+      "id": "c7ff728723d57f07b17882ec88b2a0caf4033384",
+      "who": "Dave <dave@webdave.de>",
+      "when": "2019-02-20T09:29:14+01:00",
+      "all": 8,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "60f6d9e733500b5987f58826b1b52c28c71c7afb",
-      "who": "psreep@gmail.com",
+      "who": "Vani <psreep@gmail.com>",
       "when": "2019-02-20T20:44:44-08:00",
       "all": 9,
       "test": 0,
@@ -10,8 +19,17 @@
       "pct": 0.0
     },
     {
+      "id": "d5a8be76f22334494dd4816d6110364337c20899",
+      "who": "Alan <alan.agius4@gmail.com>",
+      "when": "2019-02-20T07:35:19+01:00",
+      "all": 8,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "e8bb8f4912b13a8f0abfb57a16a45239744117f1",
-      "who": "alan.agius4@gmail.com",
+      "who": "Alan <alan.agius4@gmail.com>",
       "when": "2019-02-20T08:10:25+01:00",
       "all": 30,
       "test": 0,
@@ -20,7 +38,7 @@
     },
     {
       "id": "ea09430039fe3a40dceac86ac8001286bb0ea584",
-      "who": "gmagolan@gmail.com",
+      "who": "Greg Magolan <gmagolan@gmail.com>",
       "when": "2019-02-20T09:54:42-08:00",
       "all": 1661,
       "test": 33,
@@ -29,7 +47,7 @@
     },
     {
       "id": "c64b13e5930504439d4c42b7ac993e1908d8339f",
-      "who": "ben@benlesh.com",
+      "who": "Ben Lesh <ben@benlesh.com>",
       "when": "2019-02-20T14:21:20-08:00",
       "all": 1039,
       "test": 116,
@@ -38,7 +56,7 @@
     },
     {
       "id": "230a941c3fcb6f480ecd5c668c9d0959a62e710c",
-      "who": "ben@benlesh.com",
+      "who": "Ben Lesh <ben@benlesh.com>",
       "when": "2019-02-20T18:06:05-08:00",
       "all": 14,
       "test": 0,
@@ -47,7 +65,7 @@
     },
     {
       "id": "0ea216b9932d293c01e44c9d77b807539f5f8a1e",
-      "who": "karakara@google.com",
+      "who": "Kara Erickson <karakara@google.com>",
       "when": "2019-02-20T17:55:13-08:00",
       "all": 373,
       "test": 0,
@@ -55,12 +73,84 @@
       "pct": 0.0
     },
     {
+      "id": "9ae14db343a59821758b47d6683058cac6a6e768",
+      "who": "Keen Yee Liau <kyliau@umich.edu>",
+      "when": "2019-02-20T19:34:05-08:00",
+      "all": 19,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "d0b6622b9a9e8987c44303bc9c1494185727dc62",
-      "who": "karakara@google.com",
+      "who": "Kara Erickson <karakara@google.com>",
       "when": "2019-02-20T14:45:41-08:00",
       "all": 647,
       "test": 0,
       "testable": 647,
+      "pct": 0.0
+    },
+    {
+      "id": "05c25ccca732d4da1f08973322ee0f8ca7864a34",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2019-02-20T13:51:31-08:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "09d894c283e0023e9d9fccc88bb8284db205aa1a",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2019-02-20T13:24:02-08:00",
+      "all": 26,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "81c3104f7679a3b9d02b464664ed3c5becc82812",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2019-02-20T13:16:21-08:00",
+      "all": 11,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "b9eb662c4a819df5a76ddc1d6757a4479ab8fba9",
+      "who": "Keen Yee Liau <kyliau@google.com>",
+      "when": "2019-02-20T09:58:42-08:00",
+      "all": 484,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "04ae1251c7828d177a738ce30d0d4aa68978b1d3",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2019-02-20T16:14:31+02:00",
+      "all": 20,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "1832e0f2930cf3a9fb6f401007d2c7476769d6f0",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2019-02-20T07:07:36-08:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "bca0b44ff25729d0c4c33714685df2998d4419cb",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2019-02-20T09:12:51-08:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     }
   ],

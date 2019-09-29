@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "4aaae3eadaaf09768c5b71008fe3eb2d82969291",
-      "who": "trotyl@qq.com",
+      "who": "Trotyl Yu <trotyl@qq.com>",
       "when": "2016-10-21T22:47:44+05:30",
       "all": 3,
       "test": 0,
@@ -10,8 +10,17 @@
       "pct": 0.0
     },
     {
+      "id": "a664aba2c93abd51a7f2c737ea23c351056690be",
+      "who": "gary-b <garybarnett101@gmail.com>",
+      "when": "2016-10-21T01:57:25+01:00",
+      "all": 12,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "ef153649b39213516b482cac26c7237b39a8601e",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2016-10-21T10:29:47-07:00",
       "all": 37,
       "test": 0,
@@ -20,7 +29,7 @@
     },
     {
       "id": "cb7643cceaf462956887d00cd5c21df2d80c010c",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2016-10-21T13:37:51-07:00",
       "all": 254,
       "test": 0,
@@ -29,7 +38,7 @@
     },
     {
       "id": "bc3f4bc816b1055aa5bee0724519be90ce74e74e",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2016-10-21T11:41:14-07:00",
       "all": 989,
       "test": 0,
@@ -38,7 +47,7 @@
     },
     {
       "id": "bfc97ff2cd05548f77863fcf69f9f17c26e2b5f1",
-      "who": "martin@probst.io",
+      "who": "Martin Probst <martin@probst.io>",
       "when": "2016-10-21T15:17:57-07:00",
       "all": 318,
       "test": 0,
@@ -47,12 +56,21 @@
     },
     {
       "id": "57051f01cef252036b699512979082cab527fd1e",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2016-10-21T15:14:44-07:00",
       "all": 695,
       "test": 233,
       "testable": 695,
       "pct": 33.5
+    },
+    {
+      "id": "e319cfefc3f9f1088392c2b0dc76978a92c5217c",
+      "who": "Levente Morva <levente95@gmail.com>",
+      "when": "2016-10-21T23:27:07+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

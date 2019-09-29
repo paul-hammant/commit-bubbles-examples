@@ -1,13 +1,31 @@
 {
   "commits": [
     {
+      "id": "9b8b457f2096d71b5eaf38a794aebf8538c8a2a0",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2018-03-24T22:12:17+01:00",
+      "all": 20,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "8497d44e34f016835bf028e9b8fa044f54fe8343",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2018-03-24T20:26:15+01:00",
       "all": 24,
       "test": 17,
       "testable": 17,
       "pct": 100.0
+    },
+    {
+      "id": "42443aa043fea087356eb5d3040523efe917b4f1",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2018-03-24T18:14:58+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

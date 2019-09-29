@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "46c3e741213b7ed20e05cbbef462fc44e23bb0ad",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-08-31T16:07:12+02:00",
       "all": 53,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "dfe16f763a02fec46e895cbd707cf63ead4bf891",
-      "who": "sormuras@gmail.com",
+      "who": "Christian Stein <sormuras@gmail.com>",
       "when": "2017-08-31T12:32:45+02:00",
       "all": 31,
       "test": 10,
@@ -20,12 +20,48 @@
     },
     {
       "id": "b6c03c6a9f368186e15c2b3071b4459e8bc12f33",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-08-31T17:31:28+02:00",
       "all": 172,
       "test": 172,
       "testable": 172,
       "pct": 100.0
+    },
+    {
+      "id": "bd2e4a6368efed77348a27b2b229fa3168afe198",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2017-08-31T17:11:17+02:00",
+      "all": 275,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "53b062f3e36955f48abb6ab0085fe46896d61e1b",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2017-08-31T17:10:30+02:00",
+      "all": 53,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "e614e40d7f8dbfa058eff9470e82181028dd7111",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2017-08-31T16:58:57+02:00",
+      "all": 52,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "b74363f384b18ad5fe00495c7760d05688094f12",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2017-08-31T16:57:48+02:00",
+      "all": 61,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

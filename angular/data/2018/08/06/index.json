@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "14ac7ad6b4118d68644d3b04b93f41d5cc8af904",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2018-08-06T14:09:38-07:00",
       "all": 1943,
       "test": 1400,
@@ -11,7 +11,7 @@
     },
     {
       "id": "85106375acf4359a28c1037c6d8a4ffdc93dd997",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2018-08-06T14:07:42-07:00",
       "all": 54,
       "test": 27,
@@ -19,8 +19,17 @@
       "pct": 50.0
     },
     {
+      "id": "09711507f9e83621b9d88450cd2a9710d47777f9",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-08-06T12:06:50-07:00",
+      "all": 8,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "33fd7e0784851cb9f82bccf32a2eb7fc82cfcca7",
-      "who": "alx+alxhub@alxandria.net",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
       "when": "2018-08-06T15:52:26+02:00",
       "all": 8,
       "test": 0,
@@ -29,7 +38,7 @@
     },
     {
       "id": "2befc65777a444849a12b35cf7f70c9dc343051d",
-      "who": "alx+alxhub@alxandria.net",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
       "when": "2018-08-06T14:49:35+02:00",
       "all": 114,
       "test": 42,
@@ -38,7 +47,7 @@
     },
     {
       "id": "6f085f86106eb9422810ee2a91e1023d28a55234",
-      "who": "alx+alxhub@alxandria.net",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
       "when": "2018-08-06T09:56:43+02:00",
       "all": 48,
       "test": 21,
@@ -47,7 +56,7 @@
     },
     {
       "id": "dbdbbdbe863285bb3dc411714c3e4bc64e159317",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2018-08-06T17:46:49+02:00",
       "all": 121,
       "test": 103,
@@ -56,7 +65,7 @@
     },
     {
       "id": "fefc860f352d3e7062d0e270d56eeffb84d44962",
-      "who": "alx+alxhub@alxandria.net",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
       "when": "2018-08-06T11:48:26+02:00",
       "all": 43,
       "test": 18,
@@ -65,7 +74,7 @@
     },
     {
       "id": "02e201ab1a0bdcf0e4a65a7c378577f6f6442810",
-      "who": "gmagolan@gmail.com",
+      "who": "Greg Magolan <gmagolan@gmail.com>",
       "when": "2018-08-06T11:28:36-07:00",
       "all": 11,
       "test": 0,
@@ -74,7 +83,7 @@
     },
     {
       "id": "3355502f2fd296a556fc606ef1f68729aed20cb6",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2018-08-06T16:40:16+02:00",
       "all": 167,
       "test": 62,
@@ -83,11 +92,20 @@
     },
     {
       "id": "7d006c5005be370c1a8d39aa59bd22d720ca8992",
-      "who": "psreep@gmail.com",
+      "who": "Vani <psreep@gmail.com>",
       "when": "2018-08-06T09:27:34-07:00",
       "all": 12,
       "test": 0,
       "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "2b906f652f9f12acc6ce83fae7c81c1e7386153b",
+      "who": "Luk\u00c3\u00a1\u00c5\u00a1 Matta <lukasmatta@users.noreply.github.com>",
+      "when": "2018-08-06T19:04:13+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     }
   ],

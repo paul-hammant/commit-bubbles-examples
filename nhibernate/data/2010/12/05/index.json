@@ -1,13 +1,40 @@
 {
   "commits": [
     {
+      "id": "6defc933cefc42de6f776d36556340abb5483f81",
+      "who": "Patrick Earl <patearl@patearl.net>",
+      "when": "2010-12-05T20:25:20+00:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "b7a4c1c395abc26e85244a9c4f97321d808fe469",
-      "who": "julian.maughan@gmail.com",
+      "who": "Julian Maughan <julian.maughan@gmail.com>",
       "when": "2010-12-05T08:35:46+00:00",
       "all": 347,
       "test": 202,
       "testable": 202,
       "pct": 100.0
+    },
+    {
+      "id": "92076edfb01572ac9e91cf6d74a34055db22e22c",
+      "who": "Patrick Earl <patearl@patearl.net>",
+      "when": "2010-12-05T01:54:39+00:00",
+      "all": 90,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d0191f96121f2b5de12aa5a987b5047281ee8f48",
+      "who": "Patrick Earl <patearl@patearl.net>",
+      "when": "2010-12-05T01:14:54+00:00",
+      "all": 36544,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "NHibernate (master branch)",

@@ -2,16 +2,25 @@
   "commits": [
     {
       "id": "5b4bec9d336655889641b134791dfdd2adc864cf",
-      "who": "antirez@gmail.com",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
       "when": "2018-08-27T13:19:31+02:00",
-      "all": 43,
-      "test": 43,
-      "testable": 43,
-      "pct": 100.0
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "5941022b524bd8b7017af3811083ed42a85de000",
+      "who": "antirez <antirez@gmail.com>",
+      "when": "2018-08-27T12:34:29+02:00",
+      "all": 21,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "e245a2046af680a18f74cb76c2a23f5711149501",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2018-08-27T12:27:17+02:00",
       "all": 10,
       "test": 0,
@@ -20,7 +29,7 @@
     },
     {
       "id": "067647a78315cfa81bf489128afd6f4ae1388603",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2018-08-27T12:09:08+02:00",
       "all": 10,
       "test": 0,
@@ -29,7 +38,7 @@
     },
     {
       "id": "abf52c7cf412e2b7fd1235cb85248d23db295b48",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2018-08-27T11:57:44+02:00",
       "all": 5,
       "test": 0,
@@ -38,7 +47,7 @@
     },
     {
       "id": "66b5afdaa4bf53b66e4d09fe6c3ebbfff283d1c4",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2018-08-27T12:17:14+02:00",
       "all": 3,
       "test": 0,
@@ -47,11 +56,20 @@
     },
     {
       "id": "c241f5160752753c271366547e2ada8617f1e684",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2018-08-27T12:14:10+02:00",
       "all": 12,
       "test": 0,
       "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "e711e6f614c71187ca39b5b171f063a2025de1a0",
+      "who": "zhaozhao.zz <zhaozhao.zz@alibaba-inc.com>",
+      "when": "2018-08-27T12:07:24+08:00",
+      "all": 11,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     }
   ],

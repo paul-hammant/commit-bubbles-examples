@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "7c4c67641340d561cccde8e79d5b8d31220d2821",
-      "who": "pete@bacondarwin.com",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
       "when": "2019-05-21T15:23:24+01:00",
       "all": 738,
       "test": 487,
@@ -11,7 +11,7 @@
     },
     {
       "id": "aca339e8642c58607ffac3a973db973a6c803ae4",
-      "who": "paulgschwendtner@gmail.com",
+      "who": "Paul Gschwendtner <paulgschwendtner@gmail.com>",
       "when": "2019-05-21T22:00:47+02:00",
       "all": 363,
       "test": 189,
@@ -19,8 +19,44 @@
       "pct": 52.1
     },
     {
+      "id": "2c406fb1a9ec49972130c3c0228485977fb65340",
+      "who": "Bryce Kolton <BBKolton@users.noreply.github.com>",
+      "when": "2019-05-21T11:32:24-07:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "0d23cedab86240fe10c52ff748cf09add65a6438",
+      "who": "Michael Hladky <michael@hladky.at>",
+      "when": "2019-05-21T20:57:48+02:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "b5c893916d48011c7f7234d2fb4df062806b2c63",
+      "who": "Kapunahele Wong <kapunahelewong@gmail.com>",
+      "when": "2019-05-21T17:34:22-04:00",
+      "all": 87,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d4e6263453a66b4190ac61606b9ffa175cfe7cca",
+      "who": "Stephen Fluin <stephen.fluin@gmail.com>",
+      "when": "2019-05-21T11:24:24-07:00",
+      "all": 19,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "86c46908d442c28defb3f7b351edb2c14a1f07ae",
-      "who": "akushnir@google.com",
+      "who": "Andrew Kushnir <akushnir@google.com>",
       "when": "2019-05-21T16:54:10-07:00",
       "all": 12,
       "test": 9,
@@ -29,7 +65,7 @@
     },
     {
       "id": "70fd4300f4af262f33942df4bcfcec933c76c8ed",
-      "who": "paulgschwendtner@gmail.com",
+      "who": "Paul Gschwendtner <paulgschwendtner@gmail.com>",
       "when": "2019-05-21T21:59:53+02:00",
       "all": 74,
       "test": 74,
@@ -37,8 +73,35 @@
       "pct": 100.0
     },
     {
+      "id": "3125376ec1274002bb1f39e02fda53a6b67a5a71",
+      "who": "Alex Eagle <alexeagle@angular.io>",
+      "when": "2019-05-21T15:06:22-07:00",
+      "all": 11,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "3c548189b16074948802649031197789d686037c",
+      "who": "jenniferfell <jenniferfell.sf@gmail.com>",
+      "when": "2019-05-21T15:58:06-06:00",
+      "all": 15,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "ae91f45b277bb1d3347535fd69baad30ef69f16b",
+      "who": "Judy Bogart <jbogart@gmail.com>",
+      "when": "2019-05-21T11:41:49-07:00",
+      "all": 33,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "f74e0fd8251802107094886d76a0971d478d6be8",
-      "who": "paulgschwendtner@gmail.com",
+      "who": "Paul Gschwendtner <paulgschwendtner@gmail.com>",
       "when": "2019-05-21T10:36:52+02:00",
       "all": 30,
       "test": 21,
@@ -46,8 +109,17 @@
       "pct": 70.0
     },
     {
+      "id": "87a2366eeba64530e8a4293b773b56575b1a42e7",
+      "who": "Jason Aden <jasonaden@google.com>",
+      "when": "2019-05-21T17:07:19-07:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "66f269c077590365aa920cba8f0c48844f663695",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2019-05-21T12:15:38+02:00",
       "all": 20,
       "test": 3,
@@ -56,7 +128,7 @@
     },
     {
       "id": "b613f90146cbdd030ce31bb1da8ce1b2b77f1a76",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2019-05-21T12:04:17+02:00",
       "all": 50,
       "test": 0,
@@ -65,7 +137,7 @@
     },
     {
       "id": "2fe6f350cb25a59997f2ce633fd5849a9652b9fa",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2019-05-21T11:36:22+02:00",
       "all": 10,
       "test": 0,
@@ -74,7 +146,7 @@
     },
     {
       "id": "514ebf402acf7cffa542ffd59adc9873f6e9262f",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2019-05-21T11:28:36+02:00",
       "all": 6,
       "test": 0,
@@ -83,11 +155,20 @@
     },
     {
       "id": "ebfbc04000cd2df9fee1595c08f2bc1c6f24217c",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2019-05-21T17:49:37+03:00",
       "all": 5,
       "test": 0,
       "testable": 5,
+      "pct": 0.0
+    },
+    {
+      "id": "9e946c97159c81df7128cff613b33ea8c03daf9d",
+      "who": "Trotyl Yu <trotyl@qq.com>",
+      "when": "2019-05-21T13:02:42+08:00",
+      "all": 4,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     }
   ],

@@ -2,7 +2,7 @@
   "commits": [
     {
       "all": 15, 
-      "who": "nat.pryce", 
+      "who": "nat.pryce <nat.pryce>", 
       "when": "2007-07-30T15:21:14+00:00", 
       "pct": 0.0, 
       "test": 0, 
@@ -10,8 +10,17 @@
       "id": "275d8289067dabf9a34e90598e054bcc578316f5"
     }, 
     {
+      "all": 3, 
+      "who": "joe.walnes <joe.walnes>", 
+      "when": "2007-07-30T14:59:41+00:00", 
+      "pct": 0.0, 
+      "test": 0, 
+      "testable": 0, 
+      "id": "855a21efededdbffdd565aff375904871ebc99c9"
+    }, 
+    {
       "all": 8, 
-      "who": "nat.pryce", 
+      "who": "nat.pryce <nat.pryce>", 
       "when": "2007-07-30T14:01:00+00:00", 
       "pct": 37.0, 
       "test": 3, 
@@ -20,12 +29,21 @@
     }, 
     {
       "all": 34, 
-      "who": "nat.pryce", 
+      "who": "nat.pryce <nat.pryce>", 
       "when": "2007-07-30T13:57:58+00:00", 
       "pct": 64.0, 
       "test": 22, 
       "testable": 34, 
       "id": "07621ff3f2ee2034fa6a42511ce0efa7928cc4d1"
+    }, 
+    {
+      "all": 3, 
+      "who": "nat.pryce <nat.pryce>", 
+      "when": "2007-07-30T13:57:20+00:00", 
+      "pct": 0.0, 
+      "test": 0, 
+      "testable": 0, 
+      "id": "a369d805f72354e22d6ee9218e549a635027b04c"
     }
   ], 
   "description": "Hamcrest Java (master branch)", 

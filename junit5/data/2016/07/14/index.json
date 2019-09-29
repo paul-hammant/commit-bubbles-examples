@@ -2,12 +2,21 @@
   "commits": [
     {
       "id": "bd7128af868e1c784233fa4eef3833b136cce168",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2016-07-14T20:10:11+02:00",
       "all": 26,
       "test": 26,
       "testable": 26,
       "pct": 100.0
+    },
+    {
+      "id": "2d8efea33c23f914e53125dd5aba72ba14b21576",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2016-07-14T19:17:01+02:00",
+      "all": 8,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

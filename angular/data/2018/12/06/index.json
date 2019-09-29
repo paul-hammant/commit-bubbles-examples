@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "9d3dae42e986f6c7e3ea896e1958f8cc819f1797",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2018-12-06T23:46:41+02:00",
       "all": 129,
       "test": 29,
@@ -11,7 +11,7 @@
     },
     {
       "id": "e8495b460f1da170efba2f1188e72623e0cefa95",
-      "who": "kyliau@umich.edu",
+      "who": "Keen Yee Liau <kyliau@umich.edu>",
       "when": "2018-12-06T10:41:03-08:00",
       "all": 104,
       "test": 0,
@@ -20,7 +20,7 @@
     },
     {
       "id": "07ada7f3d92dc108f3588ab496c60c838a21b471",
-      "who": "jasonaden@google.com",
+      "who": "Jason Aden <jasonaden@google.com>",
       "when": "2018-12-06T15:09:12-08:00",
       "all": 162,
       "test": 148,
@@ -29,7 +29,7 @@
     },
     {
       "id": "17e702bf8b1072c1832096babff77aab202ae265",
-      "who": "igor@angular.io",
+      "who": "Igor Minar <igor@angular.io>",
       "when": "2018-12-06T23:01:08-08:00",
       "all": 247,
       "test": 0,
@@ -37,8 +37,17 @@
       "pct": 0.0
     },
     {
+      "id": "a72633891b164948eb70bc163fba9e04e5d9e7a2",
+      "who": "bmarkov <boikom@jqwidgets.com>",
+      "when": "2018-12-06T18:12:38+02:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "ad26cd6d0cae093beb4d936609e9d805b3528505",
-      "who": "jasonaden@google.com",
+      "who": "Jason Aden <jasonaden@google.com>",
       "when": "2018-12-06T15:09:12-08:00",
       "all": 162,
       "test": 148,
@@ -46,8 +55,26 @@
       "pct": 91.4
     },
     {
+      "id": "44dfa606ede55f6d98a5ee73fd11557cd020f1d5",
+      "who": "Paul Gschwendtner <paulgschwendtner@gmail.com>",
+      "when": "2018-12-06T22:07:07+01:00",
+      "all": 26,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "3cb6dad6d58ac9c5b82847576e8f79f205002704",
+      "who": "Micha\u00c5\u0082 Jawulski <mjawulski@gmail.com>",
+      "when": "2018-12-06T21:32:53+01:00",
+      "all": 17,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "fb6a31cbd6222793352ce68a0d7298479ebb290c",
-      "who": "igor@angular.io",
+      "who": "Igor Minar <igor@angular.io>",
       "when": "2018-12-06T14:47:42-08:00",
       "all": 2,
       "test": 0,
@@ -56,7 +83,7 @@
     },
     {
       "id": "30a3b49830ac937b31b1ae307570ac3821bd7c4b",
-      "who": "kyliau@umich.edu",
+      "who": "Keen Yee Liau <kyliau@umich.edu>",
       "when": "2018-12-06T15:46:36-08:00",
       "all": 1610,
       "test": 0,
@@ -65,7 +92,7 @@
     },
     {
       "id": "05cdfb90e95a82bed9ee966ce0e7b4b69aa45750",
-      "who": "akushnir@google.com",
+      "who": "Andrew Kushnir <akushnir@google.com>",
       "when": "2018-12-06T14:19:49-08:00",
       "all": 57,
       "test": 49,
@@ -74,7 +101,7 @@
     },
     {
       "id": "255e672295f516b2923841ca4e6979dca0a8db26",
-      "who": "akushnir@google.com",
+      "who": "Andrew Kushnir <akushnir@google.com>",
       "when": "2018-12-06T16:39:43-08:00",
       "all": 49,
       "test": 46,
@@ -82,8 +109,26 @@
       "pct": 93.9
     },
     {
+      "id": "15ca1bbd110a899f004b99d801115e3584f3f055",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2018-12-06T14:46:51-08:00",
+      "all": 20,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "f6a67c9a846bbe4841fa9cac1f81af4eba8bd1c3",
+      "who": "Olivier Combe <olivier.combe@gmail.com>",
+      "when": "2018-12-06T15:55:42+01:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "dcb44e6dea71c489ef9e5f0b9c636b957345956b",
-      "who": "akushnir@google.com",
+      "who": "Andrew Kushnir <akushnir@google.com>",
       "when": "2018-12-06T15:57:52-08:00",
       "all": 301,
       "test": 282,
@@ -91,8 +136,26 @@
       "pct": 93.7
     },
     {
+      "id": "6bd28e60638b2472bb3a8e0fc8d567c008322fb0",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-12-06T21:47:29-08:00",
+      "all": 17,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "7a6eb9de4637224a7068a5c50b4e6a27d0a78c3c",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-12-06T14:46:01-08:00",
+      "all": 50,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "f013c57186f58279a1602cca5366612eaeaa2298",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2018-12-06T15:28:39+01:00",
       "all": 83,
       "test": 83,
@@ -101,7 +164,7 @@
     },
     {
       "id": "913563a41d7fbd999cd4496b0956290bb4ae7daa",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2018-12-06T15:20:11+01:00",
       "all": 290,
       "test": 290,
@@ -110,7 +173,7 @@
     },
     {
       "id": "8fa7e93c30517d4f5568e9a3b74844c2ec525d42",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2018-12-06T14:59:28+01:00",
       "all": 185,
       "test": 185,
@@ -119,7 +182,7 @@
     },
     {
       "id": "21d13dd15a4f37742407a3bd4a7632409c2aa845",
-      "who": "sanderelias+git@gmail.com",
+      "who": "Sander Elias <sanderelias+git@gmail.com>",
       "when": "2018-12-06T04:21:56+01:00",
       "all": 2,
       "test": 0,
@@ -127,8 +190,17 @@
       "pct": 0.0
     },
     {
+      "id": "7c52d10e5ccc353ddef61dc62e23cc246f36d71a",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-12-06T09:35:49-08:00",
+      "all": 251,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "091a504377782b9338a9d7916f84fb18c5bbdcc2",
-      "who": "igor@angular.io",
+      "who": "Igor Minar <igor@angular.io>",
       "when": "2018-12-06T08:27:25-08:00",
       "all": 21,
       "test": 11,
@@ -137,7 +209,7 @@
     },
     {
       "id": "4f61832d1c4655dc157b1ea9c6e00da7c7ae8f30",
-      "who": "igor@angular.io",
+      "who": "Igor Minar <igor@angular.io>",
       "when": "2018-12-06T08:27:20-08:00",
       "all": 24,
       "test": 15,

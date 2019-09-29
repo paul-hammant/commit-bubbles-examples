@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "e8a6c95e2a6d8e10cacc7829178ef9bf43aad3c5",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-04-10T12:42:33+02:00",
       "all": 2791,
       "test": 662,
@@ -10,8 +10,17 @@
       "pct": 26.9
     },
     {
+      "id": "cf7bef58b072e4993b529fbb596c3db58640d818",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2015-04-10T16:58:52-07:00",
+      "all": 187,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "dc9c614da28b814a0edc482b6e5670c595e3828d",
-      "who": "kevmoo@google.com",
+      "who": "Kevin Moore <kevmoo@google.com>",
       "when": "2015-04-10T16:52:41-07:00",
       "all": 15,
       "test": 0,
@@ -20,7 +29,7 @@
     },
     {
       "id": "4a961f4ecb739ef15bbb076b2c9c3815e4f7ccce",
-      "who": "yjbanov@google.com",
+      "who": "Yegor Jbanov <yjbanov@google.com>",
       "when": "2015-04-10T17:05:31-07:00",
       "all": 311,
       "test": 183,
@@ -28,8 +37,26 @@
       "pct": 67.3
     },
     {
+      "id": "28ba179e31aed544cff02f50232695ada2241fb9",
+      "who": "keertip <keertip@google.com>",
+      "when": "2015-04-10T08:39:31-07:00",
+      "all": 47,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "5b4227236531186e91dd4f755a8913ee1698efc9",
+      "who": "Kathy Walrath <kathyw@google.com>",
+      "when": "2015-04-10T16:30:12-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "1f6c6dbf2f85f0b5d1d96135308df59e0df0b7e9",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-04-10T14:27:30-07:00",
       "all": 534,
       "test": 0,
@@ -38,7 +65,7 @@
     },
     {
       "id": "8499cf84c3898d68b4dd478ba22c5dcbd82b93fd",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-04-10T16:57:26-07:00",
       "all": 166,
       "test": 162,
@@ -47,7 +74,7 @@
     },
     {
       "id": "a3decad4c2646bc120b0dcee1e2c86f365458109",
-      "who": "martin@probst.io",
+      "who": "Martin Probst <martin@probst.io>",
       "when": "2015-04-10T14:30:35-07:00",
       "all": 138,
       "test": 0,
@@ -56,7 +83,7 @@
     },
     {
       "id": "6f8fef4f132da8c31b8c275348bcb3da018692c7",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-04-10T10:09:16-07:00",
       "all": 124,
       "test": 75,
@@ -65,7 +92,7 @@
     },
     {
       "id": "e295940833999478f87f9b7c7b5fd84aa636a66c",
-      "who": "naomitraveller@gmail.com",
+      "who": "Naomi Black <naomitraveller@gmail.com>",
       "when": "2015-04-10T11:15:01-07:00",
       "all": 236,
       "test": 0,
@@ -74,7 +101,7 @@
     },
     {
       "id": "2ed76222397455b86a1959e727c5c822c37ef213",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2015-04-10T16:45:24-07:00",
       "all": 181,
       "test": 0,
@@ -83,7 +110,7 @@
     },
     {
       "id": "6ce085a21ab8a66acba004044265c8323081c79d",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-04-10T13:23:34-07:00",
       "all": 55,
       "test": 8,
@@ -92,7 +119,7 @@
     },
     {
       "id": "e34146fc149069824d7aef4c8f88ac59f6200a86",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-04-10T09:34:46-07:00",
       "all": 245,
       "test": 150,
@@ -101,7 +128,7 @@
     },
     {
       "id": "4e2316c74236c60175c75822f746bb93d837ad36",
-      "who": "martin@probst.io",
+      "who": "Martin Probst <martin@probst.io>",
       "when": "2015-04-10T16:26:37-07:00",
       "all": 28,
       "test": 0,
@@ -110,7 +137,7 @@
     },
     {
       "id": "678d541da76edb10420ecc613a757ebad0bb6070",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-04-10T16:12:37+02:00",
       "all": 120,
       "test": 69,
@@ -119,7 +146,7 @@
     },
     {
       "id": "f0477e164aa9b5a21b36ad73672265a22c94dad4",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2015-04-10T13:28:35-07:00",
       "all": 217,
       "test": 0,
@@ -128,7 +155,7 @@
     },
     {
       "id": "b5002fb46b76c90db1a7c5c6268124a8843abd0e",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-04-10T12:45:02+02:00",
       "all": 424,
       "test": 5,
@@ -137,7 +164,7 @@
     },
     {
       "id": "ea58ef85fc0c382cbb9d5e373b93f8783810e554",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-04-10T11:48:37-07:00",
       "all": 126,
       "test": 0,
@@ -146,7 +173,7 @@
     },
     {
       "id": "7e2c04e805c2d7efbcfd21ee1bdf7af5f6894b46",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2015-04-10T16:38:18+02:00",
       "all": 2,
       "test": 0,
@@ -155,7 +182,7 @@
     },
     {
       "id": "8fa1539bacd454635d1f78ab056e2017929d0634",
-      "who": "david-emmanuel.divernois@amadeus.com",
+      "who": "David-Emmanuel Divernois <david-emmanuel.divernois@amadeus.com>",
       "when": "2015-04-10T13:22:00+02:00",
       "all": 476,
       "test": 70,

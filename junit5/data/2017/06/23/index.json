@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "7205f05c4a314a808b1a558d1e3044ec9bccc21a",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-06-23T17:08:53+01:00",
       "all": 137,
       "test": 75,
@@ -11,7 +11,7 @@
     },
     {
       "id": "db6beda8fac85e0fdfcd715829b32227ba7e84c0",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-06-23T15:29:26+01:00",
       "all": 35,
       "test": 35,
@@ -20,7 +20,7 @@
     },
     {
       "id": "b0b2e4e771d1b7171cb872d003dab31f6c78c083",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-06-23T15:22:24+01:00",
       "all": 13,
       "test": 13,
@@ -29,12 +29,30 @@
     },
     {
       "id": "24281a6a552813c7cf5ae97291e43a5098d43fe8",
-      "who": "filip@jirsak.org",
+      "who": "Filip Jirs\u00c3\u00a1k <filip@jirsak.org>",
       "when": "2017-06-23T16:18:16+02:00",
       "all": 32,
       "test": 32,
       "testable": 32,
       "pct": 100.0
+    },
+    {
+      "id": "73948c2e6493000613f027886acc2f84449cb58b",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2017-06-23T11:42:31+02:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "9576cda396e669ae439203635bf017e550e21e84",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2017-06-23T11:26:50+02:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

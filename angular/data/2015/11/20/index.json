@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "38cb526f60f910ddbdb532639a03b57d9da378c5",
-      "who": "alec.wiseman@gmail.com",
+      "who": "Alec Wiseman <alec.wiseman@gmail.com>",
       "when": "2015-11-20T01:36:28-05:00",
       "all": 92,
       "test": 23,
@@ -11,7 +11,7 @@
     },
     {
       "id": "194dc7da78c4cb564054f47a2dbcd8479a302b63",
-      "who": "middlefloor@gmail.com",
+      "who": "Jeff Cross <middlefloor@gmail.com>",
       "when": "2015-11-20T13:46:37-08:00",
       "all": 20,
       "test": 17,
@@ -20,7 +20,7 @@
     },
     {
       "id": "680f7e02990ffcdc081e864c7e7bfe598a03250d",
-      "who": "erictsangx@gmail.com",
+      "who": "erictsangx <erictsangx@gmail.com>",
       "when": "2015-11-20T17:19:04+08:00",
       "all": 94,
       "test": 85,
@@ -29,7 +29,7 @@
     },
     {
       "id": "c58e7e0e91f77e493df5474a48b22012b7156695",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-11-20T13:13:48-08:00",
       "all": 122,
       "test": 16,
@@ -38,7 +38,7 @@
     },
     {
       "id": "6b2ef25c691a9cde187bb9d96429e2f32c3f41d0",
-      "who": "tjblasi@google.com",
+      "who": "Tim Blasi <tjblasi@google.com>",
       "when": "2015-11-20T16:35:55-08:00",
       "all": 46,
       "test": 3,
@@ -47,7 +47,7 @@
     },
     {
       "id": "d59c20c315627b76d809099d3beb50055aa16876",
-      "who": "yjbanov@google.com",
+      "who": "Yegor Jbanov <yjbanov@google.com>",
       "when": "2015-11-20T18:07:54-08:00",
       "all": 39,
       "test": 0,
@@ -56,7 +56,7 @@
     },
     {
       "id": "b4de41b74eade007048e9cded905c62bffbfe52e",
-      "who": "yjbanov@google.com",
+      "who": "Yegor Jbanov <yjbanov@google.com>",
       "when": "2015-11-20T16:55:56-08:00",
       "all": 20,
       "test": 0,
@@ -65,7 +65,7 @@
     },
     {
       "id": "230aad4047efee4e9204fd835c1fb9465f83f0d5",
-      "who": "mlaval@amadeus.com",
+      "who": "mlaval <mlaval@amadeus.com>",
       "when": "2015-11-20T16:40:34+01:00",
       "all": 8,
       "test": 0,
@@ -73,8 +73,26 @@
       "pct": 0.0
     },
     {
+      "id": "a35a93d0da79f73f5f296cce19d4285f2f654367",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2015-11-20T16:07:51-08:00",
+      "all": 35,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "163164cb79ed8f6989fc91cf7450de2f010a1306",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2015-11-20T09:59:08-08:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "9ca8a3555325935a1b5da96c8268f1e648a4785b",
-      "who": "timruffles@gmail.com",
+      "who": "Tim Ruffles <timruffles@gmail.com>",
       "when": "2015-11-20T16:02:29-08:00",
       "all": 3,
       "test": 0,
@@ -83,12 +101,21 @@
     },
     {
       "id": "5806babb0b99f9d873ae114701a47372f1c7b8d9",
-      "who": "mlaval@amadeus.com",
+      "who": "mlaval <mlaval@amadeus.com>",
       "when": "2015-11-20T16:59:21+01:00",
       "all": 13,
       "test": 13,
       "testable": 13,
       "pct": 100.0
+    },
+    {
+      "id": "30d35b50469c7ebf172046c022d2a80971a9eca0",
+      "who": "vsavkin <avix1000@gmail.com>",
+      "when": "2015-11-20T14:23:51-08:00",
+      "all": 4,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

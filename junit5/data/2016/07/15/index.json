@@ -1,8 +1,17 @@
 {
   "commits": [
     {
+      "id": "b31f9d15252aeedd76ed40397a5f7d3666eb783d",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2016-07-15T22:54:53+02:00",
+      "all": 30,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "ba3704e61ec000ef45bd37223694f72a78385753",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2016-07-15T22:47:07+02:00",
       "all": 75,
       "test": 75,
@@ -11,7 +20,7 @@
     },
     {
       "id": "12e0dfc55adbec24676007dc20afce2cb04705ef",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2016-07-15T22:34:22+02:00",
       "all": 16,
       "test": 16,
@@ -20,7 +29,7 @@
     },
     {
       "id": "4320ba51b0027db89667c44762af7126584df8d8",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2016-07-15T21:51:49+02:00",
       "all": 48,
       "test": 12,
@@ -29,7 +38,7 @@
     },
     {
       "id": "dda36f9ad17984b834a65c768d0649d156f0256f",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2016-07-15T21:15:46+02:00",
       "all": 68,
       "test": 68,
@@ -38,12 +47,21 @@
     },
     {
       "id": "172d968da47fdbfc158782cba50fa59b99a6d635",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2016-07-15T21:02:50+02:00",
       "all": 49,
       "test": 21,
       "testable": 49,
       "pct": 42.9
+    },
+    {
+      "id": "dc5e8753963928850b3092a456090b5e1560e981",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2016-07-15T15:54:05+02:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

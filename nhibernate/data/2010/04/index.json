@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "7adde5bddddfd49d041e8e87aec3be64e9de4433",
-      "who": "djg@cheerful.com",
+      "who": "Norman <djg@cheerful.com>",
       "when": "2010-04-15T14:12:00+12:00",
       "all": 190,
       "test": 174,
@@ -11,7 +11,7 @@
     },
     {
       "id": "1d148d7e4fe62b045ea723c91ef1e3ffc2e0f1af",
-      "who": "steverstrong@users.sourceforge.net",
+      "who": "Steve Strong <steverstrong@users.sourceforge.net>",
       "when": "2010-04-29T21:49:12+00:00",
       "all": 65265,
       "test": 0,
@@ -20,7 +20,7 @@
     },
     {
       "id": "140de9c3bae229d4aadd93e03c76741c5a67facc",
-      "who": "steverstrong@users.sourceforge.net",
+      "who": "Steve Strong <steverstrong@users.sourceforge.net>",
       "when": "2010-04-29T21:01:11+00:00",
       "all": 65265,
       "test": 0,
@@ -29,7 +29,7 @@
     },
     {
       "id": "064cec33782916888d9447a1d585efd64e83cd89",
-      "who": "flukefan@googlemail.com",
+      "who": "Richard Brown <flukefan@googlemail.com>",
       "when": "2010-04-27T16:54:44+00:00",
       "all": 65,
       "test": 30,
@@ -38,7 +38,7 @@
     },
     {
       "id": "55ff9b324672a0d963e4554df5181675c44d9f2d",
-      "who": "flukefan@googlemail.com",
+      "who": "Richard Brown <flukefan@googlemail.com>",
       "when": "2010-04-27T16:28:10+00:00",
       "all": 187,
       "test": 92,
@@ -47,7 +47,7 @@
     },
     {
       "id": "ea7527144b225d0f368fdbf870f5d321d08231ed",
-      "who": "ayende@ayende.com",
+      "who": "Ayende Rahien <ayende@ayende.com>",
       "when": "2010-04-22T22:25:21+00:00",
       "all": 255,
       "test": 96,
@@ -56,7 +56,7 @@
     },
     {
       "id": "a229ff85895080f9cdd04a08c1c1438ebc7bbc30",
-      "who": "flukefan@googlemail.com",
+      "who": "Richard Brown <flukefan@googlemail.com>",
       "when": "2010-04-13T18:10:31+00:00",
       "all": 202,
       "test": 174,
@@ -65,7 +65,7 @@
     },
     {
       "id": "4e644c8694214f8c24b512821c39dc443affc66d",
-      "who": "steverstrong@users.sourceforge.net",
+      "who": "Steve Strong <steverstrong@users.sourceforge.net>",
       "when": "2010-04-07T10:48:41+00:00",
       "all": 100,
       "test": 30,
@@ -74,12 +74,21 @@
     },
     {
       "id": "9a936a32c1ddb53369603de787c95c31ff41b2a7",
-      "who": "flukefan@googlemail.com",
+      "who": "Richard Brown <flukefan@googlemail.com>",
       "when": "2010-04-05T07:15:43+00:00",
       "all": 71,
       "test": 55,
       "testable": 71,
       "pct": 77.5
+    },
+    {
+      "id": "7d9d5d275467e711ff0664b1fc434fd614a7df07",
+      "who": "Richard Brown <flukefan@googlemail.com>",
+      "when": "2010-04-05T07:14:54+00:00",
+      "all": 4,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "NHibernate (master branch)",

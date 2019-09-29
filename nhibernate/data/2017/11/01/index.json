@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "f31fe594a0244297b7a401b824b32476fe28080c",
-      "who": "bahusdrive@gmail.com",
+      "who": "Roman Artiukhin <bahusdrive@gmail.com>",
       "when": "2017-11-01T14:29:19+02:00",
       "all": 231,
       "test": 231,
@@ -11,12 +11,21 @@
     },
     {
       "id": "0b20a3b245d27e2a3b5ef2d20023f48d892a8ce9",
-      "who": "fredericdelaporte@free.fr",
+      "who": "Fr\u00c3\u00a9d\u00c3\u00a9ric Delaporte <fredericdelaporte@free.fr>",
       "when": "2017-11-01T20:14:30+01:00",
       "all": 113,
       "test": 19,
       "testable": 111,
       "pct": 17.1
+    },
+    {
+      "id": "a6f97d0423b3a57a74e736e9447ca1d0cbb91e88",
+      "who": "Nathan Brown <nathan@nkbrown.us>",
+      "when": "2017-11-01T04:08:37-07:00",
+      "all": 1208,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "NHibernate (master branch)",

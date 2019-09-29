@@ -2,21 +2,39 @@
   "commits": [
     {
       "id": "d14ea68da0b5b593e0d10b51f49b97a4c9877f75",
-      "who": "oskar.berggren@gmail.com",
+      "who": "Oskar Berggren <oskar.berggren@gmail.com>",
       "when": "2016-08-05T09:55:02+01:00",
-      "all": 80,
+      "all": 0,
       "test": 0,
-      "testable": 47,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "f0f5a2185dbdcbe1eff8e4d802115f31767ca71c",
-      "who": "hazzik@gmail.com",
+      "who": "Alexander Zaytsev <hazzik@gmail.com>",
       "when": "2016-08-05T16:15:07+12:00",
       "all": 10,
       "test": 10,
       "testable": 10,
       "pct": 100.0
+    },
+    {
+      "id": "72fddda9a399b7e0f8165d7cc3504ba0f7a1bb44",
+      "who": "Alexander Zaytsev <hazzik@gmail.com>",
+      "when": "2016-08-05T14:57:54+12:00",
+      "all": 21,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "ebddd0d9af69465fcb0c061657180361e434bf91",
+      "who": "Alexander Zaytsev <hazzik@gmail.com>",
+      "when": "2016-08-05T14:01:19+12:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "NHibernate (master branch)",

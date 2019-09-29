@@ -2,12 +2,30 @@
   "commits": [
     {
       "id": "788ec1aa3ff5103aeb622c252a15036dd7fa70d4",
-      "who": "sormuras@gmail.com",
+      "who": "Christian Stein <sormuras@gmail.com>",
       "when": "2017-12-12T13:49:10+01:00",
       "all": 196,
       "test": 119,
       "testable": 193,
       "pct": 61.7
+    },
+    {
+      "id": "be331a4e8de5de46279c1c842908b1609ca85e66",
+      "who": "Benjamin Muschko <benjamin.muschko@gmail.com>",
+      "when": "2017-12-12T13:04:18-07:00",
+      "all": 12,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d68c0e7af2283a713bb8f303b56e360bdac4b290",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2017-12-12T16:14:22+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

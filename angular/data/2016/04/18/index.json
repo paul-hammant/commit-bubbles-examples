@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "bab81a98314291f02a09baf96d0b85a0f8e62e9d",
-      "who": "viks@google.com",
+      "who": "Vikram Subramanian <viks@google.com>",
       "when": "2016-04-18T16:04:35-07:00",
       "all": 1009,
       "test": 940,
@@ -11,12 +11,30 @@
     },
     {
       "id": "efbd446d18e6e0380beafcad6e94a7751d788623",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2016-04-18T13:24:42-07:00",
       "all": 1357,
       "test": 528,
       "testable": 1337,
       "pct": 39.5
+    },
+    {
+      "id": "22c05b083451e3c27801806863fd4af561e26157",
+      "who": "Robert Messerle <rmesserle@google.com>",
+      "when": "2016-04-18T15:08:19-07:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "b64672b23c7a833712d6af7b0a1835d7bd6bbed6",
+      "who": "Robert Messerle <rmesserle@google.com>",
+      "when": "2016-04-18T10:49:08-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

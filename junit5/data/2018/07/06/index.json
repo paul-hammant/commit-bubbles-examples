@@ -1,8 +1,26 @@
 {
   "commits": [
     {
+      "id": "3b3ea3cd61756cbfc06dd0f14671afef055b3f36",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2018-07-06T18:21:47+02:00",
+      "all": 23,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "3531f822152bbee1e6c5e3d5ff92715eadf5d4b4",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2018-07-06T18:15:08+02:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "5d4a5d3eb7c259e141619d8fa20fde028cf359a1",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2018-07-06T14:25:56+02:00",
       "all": 310,
       "test": 185,
@@ -11,7 +29,7 @@
     },
     {
       "id": "cb8087ddcaecd8fa9fcd2b76cbd257a854dddd18",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2018-07-06T16:08:04+02:00",
       "all": 5,
       "test": 0,
@@ -20,7 +38,7 @@
     },
     {
       "id": "93c52150bad83a8d609ae732e4f4164135296518",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2018-07-06T14:43:52+02:00",
       "all": 12,
       "test": 7,
@@ -29,12 +47,21 @@
     },
     {
       "id": "336549129f9b22866dbfc3f82e2e216c0fed1bf1",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2018-07-06T14:32:58+02:00",
       "all": 35,
       "test": 17,
       "testable": 35,
       "pct": 48.6
+    },
+    {
+      "id": "e8b8bbdfa4e62328af763dee1a3adafc03153996",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2018-07-06T12:18:18+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

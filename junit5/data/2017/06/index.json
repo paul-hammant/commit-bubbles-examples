@@ -1,8 +1,17 @@
 {
   "commits": [
     {
+      "id": "4a2e8e04ecf054c01841c5f863d8ca5af9acd0d9",
+      "who": "Jonathan Leitschuh <Jonathan.Leitschuh@plexxi.com>",
+      "when": "2017-06-29T11:11:00-04:00",
+      "all": 119,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "17360a5a086050e41718aa11d7e7c19c02c79d72",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-06-30T22:21:17+02:00",
       "all": 135,
       "test": 98,
@@ -11,7 +20,7 @@
     },
     {
       "id": "943c53f20dace9e1fd6968e377ed4c9dc67f858d",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-06-30T21:25:21+02:00",
       "all": 484,
       "test": 218,
@@ -20,7 +29,7 @@
     },
     {
       "id": "83b3eb665aa35a87cfd8484e0d06cc3b3d0478c7",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-06-30T15:33:03+02:00",
       "all": 763,
       "test": 353,
@@ -29,7 +38,7 @@
     },
     {
       "id": "1b1cffa7bdbf2ce1b747788e3050aa2921538f89",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-06-30T14:56:41+02:00",
       "all": 69,
       "test": 6,
@@ -38,16 +47,25 @@
     },
     {
       "id": "502fc31f9dffcd494607cb5d17de422d5202ca65",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-06-30T18:17:08+02:00",
-      "all": 1447,
-      "test": 970,
-      "testable": 1340,
-      "pct": 72.4
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "9b91f6b6f802c9e9e8cb09c3d3e61ef86ddeeeb3",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2017-06-30T17:53:04+02:00",
+      "all": 25,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "38e1514e760953457bc102273eeb0d642f388ac7",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-06-30T17:26:58+02:00",
       "all": 22,
       "test": 0,
@@ -56,7 +74,7 @@
     },
     {
       "id": "5a45fc0c156378a5bdafaa7f54e40ea7e6399beb",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-06-30T17:22:36+02:00",
       "all": 22,
       "test": 0,
@@ -64,8 +82,17 @@
       "pct": 0.0
     },
     {
+      "id": "cf06d2073bff161f1df2749d6626682683df1041",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2017-06-30T16:20:35+02:00",
+      "all": 66,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "e0310a85007db688b5b6f4ec0a659a686758fe74",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-06-30T16:18:35+02:00",
       "all": 33,
       "test": 16,
@@ -74,7 +101,7 @@
     },
     {
       "id": "323dac88536a9768ea92183598e695b39da62a1a",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-06-29T14:37:57+02:00",
       "all": 97,
       "test": 33,
@@ -83,7 +110,7 @@
     },
     {
       "id": "902d36a3e915aed15063764f108ace96a41140b4",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-06-28T21:45:34+02:00",
       "all": 117,
       "test": 0,
@@ -92,7 +119,7 @@
     },
     {
       "id": "76065a27c9c344800d3f01ab2dfd5377ff47d158",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-06-28T16:54:07+02:00",
       "all": 29,
       "test": 23,
@@ -101,7 +128,7 @@
     },
     {
       "id": "fa8dc48c4d3dd33ceca847f006e91d07e9622363",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-06-28T16:36:59+02:00",
       "all": 333,
       "test": 312,
@@ -110,7 +137,7 @@
     },
     {
       "id": "4422e64ef82a6e7f3800a7fa77cebeab9361085e",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-06-28T13:57:46+02:00",
       "all": 27,
       "test": 8,
@@ -119,7 +146,7 @@
     },
     {
       "id": "47038107781bed02bbe1582a0e7169aa8e2e000b",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-06-28T13:29:18+02:00",
       "all": 356,
       "test": 356,
@@ -128,7 +155,7 @@
     },
     {
       "id": "19c62a401012dd26174597edbb148e7e28bd5d61",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-06-27T00:58:44+02:00",
       "all": 246,
       "test": 246,
@@ -137,7 +164,7 @@
     },
     {
       "id": "47f824eb5602822093a2cd4fe31c5209ee1e5cbb",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-06-26T13:54:38+02:00",
       "all": 25,
       "test": 17,
@@ -146,7 +173,7 @@
     },
     {
       "id": "bf1e000a7f68076e2921ac4f020e5f8c24330e84",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-06-26T12:04:58+02:00",
       "all": 40,
       "test": 3,
@@ -155,7 +182,7 @@
     },
     {
       "id": "fdadf905479b4cd63f1987d08940eddfbf89d088",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-06-25T17:42:02+02:00",
       "all": 25,
       "test": 0,
@@ -164,7 +191,7 @@
     },
     {
       "id": "68ebc4d2374e9d37d6a56d8c57b36f24e0f7788b",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-06-25T17:10:20+02:00",
       "all": 162,
       "test": 162,
@@ -173,7 +200,7 @@
     },
     {
       "id": "ee8cb2e44a92c511bc73553f2005ecc890bec141",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-06-25T15:31:12+02:00",
       "all": 80,
       "test": 21,
@@ -182,7 +209,7 @@
     },
     {
       "id": "6f4244f8d4a5640714a59bc8739a01ed8a11b5d2",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-06-24T13:51:48+01:00",
       "all": 195,
       "test": 130,
@@ -191,7 +218,7 @@
     },
     {
       "id": "7205f05c4a314a808b1a558d1e3044ec9bccc21a",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-06-23T17:08:53+01:00",
       "all": 137,
       "test": 75,
@@ -199,8 +226,17 @@
       "pct": 54.7
     },
     {
+      "id": "a7ed0bb4f10720a105d44a0b63a0f45afdf4dbbf",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2017-06-29T09:56:16+02:00",
+      "all": 20,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "02653cdc8bc804b4b914c23237d7ee0b76e51932",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-06-29T15:35:39+02:00",
       "all": 4,
       "test": 4,
@@ -209,7 +245,7 @@
     },
     {
       "id": "61664b4f0cfe99c08b518208f535a8cc4c9c4d2b",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-06-29T15:34:43+02:00",
       "all": 17,
       "test": 17,
@@ -218,7 +254,7 @@
     },
     {
       "id": "9e22ee6169bd7d6f5f8c9b5a6bec577a8ee2a7c3",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-06-24T12:35:39+02:00",
       "all": 94,
       "test": 94,
@@ -227,7 +263,7 @@
     },
     {
       "id": "76109a9754251eaf80f2da00cc9e387af13189b3",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-06-24T11:04:06+02:00",
       "all": 66,
       "test": 66,
@@ -236,7 +272,7 @@
     },
     {
       "id": "2b9a51b83953b3551f1f85e7b10186d6febb26aa",
-      "who": "sormuras@gmail.com",
+      "who": "Christian Stein <sormuras@gmail.com>",
       "when": "2017-06-21T10:40:19+02:00",
       "all": 105,
       "test": 105,
@@ -245,7 +281,7 @@
     },
     {
       "id": "db6beda8fac85e0fdfcd715829b32227ba7e84c0",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-06-23T15:29:26+01:00",
       "all": 35,
       "test": 35,
@@ -254,7 +290,7 @@
     },
     {
       "id": "b0b2e4e771d1b7171cb872d003dab31f6c78c083",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-06-23T15:22:24+01:00",
       "all": 13,
       "test": 13,
@@ -263,7 +299,7 @@
     },
     {
       "id": "24281a6a552813c7cf5ae97291e43a5098d43fe8",
-      "who": "filip@jirsak.org",
+      "who": "Filip Jirs\u00c3\u00a1k <filip@jirsak.org>",
       "when": "2017-06-23T16:18:16+02:00",
       "all": 32,
       "test": 32,
@@ -271,8 +307,35 @@
       "pct": 100.0
     },
     {
+      "id": "73948c2e6493000613f027886acc2f84449cb58b",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2017-06-23T11:42:31+02:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "9576cda396e669ae439203635bf017e550e21e84",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2017-06-23T11:26:50+02:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "6ded3d033b33d313767550dbd7fc0611f6a485b4",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2017-06-22T07:16:04+02:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "621f1b441b64092317e7f3505e1aa934debae545",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-06-22T06:46:13+02:00",
       "all": 60,
       "test": 60,
@@ -281,7 +344,7 @@
     },
     {
       "id": "d68618b633afdf8d22339592ffeabd03cffdf2d1",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-06-21T22:17:38+02:00",
       "all": 7,
       "test": 7,
@@ -290,7 +353,7 @@
     },
     {
       "id": "ad6d6e15de8fc1c44efae5607c60e2645c42382a",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-06-21T22:17:22+02:00",
       "all": 116,
       "test": 78,
@@ -299,7 +362,7 @@
     },
     {
       "id": "acb725a55c8d7a18632c1a37c761635aa69ea543",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-06-21T21:26:46+02:00",
       "all": 55,
       "test": 55,
@@ -308,7 +371,7 @@
     },
     {
       "id": "de150913cf2a7df3299a23bdc06636e1475400a1",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-06-21T21:03:43+02:00",
       "all": 6,
       "test": 3,
@@ -316,8 +379,17 @@
       "pct": 50.0
     },
     {
+      "id": "6d021b004e360666397111e4d24551e9b126a021",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2017-06-21T21:03:01+02:00",
+      "all": 61,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "f49b6e80f003dafaf89191f7b594cefcda16e079",
-      "who": "sormuras@gmail.com",
+      "who": "Christian Stein <sormuras@gmail.com>",
       "when": "2017-06-21T09:59:12+02:00",
       "all": 22,
       "test": 3,
@@ -325,8 +397,17 @@
       "pct": 16.7
     },
     {
+      "id": "58d5c34876992c3833016b82f0b5dbdd4cf3ff05",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2017-06-21T01:29:35+02:00",
+      "all": 8,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "155a2dd995e98ad7ce8e6615a74e127598a0173b",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-06-19T18:07:51+01:00",
       "all": 53,
       "test": 0,
@@ -335,7 +416,7 @@
     },
     {
       "id": "440182266aef0b48f6cf4595686ba809c5a5d41e",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-06-19T18:07:11+01:00",
       "all": 7,
       "test": 0,
@@ -344,7 +425,7 @@
     },
     {
       "id": "0d43eb5f452c136270f16905042e5766a560b56f",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-06-19T18:06:29+01:00",
       "all": 17,
       "test": 0,
@@ -353,7 +434,7 @@
     },
     {
       "id": "d438a975feaa869a334794ac10082699c1dae1ca",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-06-18T15:53:42+02:00",
       "all": 80,
       "test": 34,
@@ -362,7 +443,7 @@
     },
     {
       "id": "c9ce2beeb68ea665a29a92d01348938908bb8f41",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-06-15T22:44:14+02:00",
       "all": 120,
       "test": 86,
@@ -371,7 +452,7 @@
     },
     {
       "id": "4752af0ce450d3b35b2e12b61bec5e8e3e3cea85",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-06-15T20:00:35+02:00",
       "all": 47,
       "test": 3,
@@ -380,7 +461,7 @@
     },
     {
       "id": "936a919111e688079af5d6a5eee36bb2373e931d",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-06-15T19:26:08+02:00",
       "all": 63,
       "test": 0,
@@ -388,8 +469,26 @@
       "pct": 0.0
     },
     {
+      "id": "8101e241e93a0e856108fc8c113758753a63f56f",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2017-06-17T20:35:23+02:00",
+      "all": 12,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "497d882cf039521c331474c842e78ff473cae387",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2017-06-17T17:54:52+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "da0fca63c02796085cf85b922ec82a6dfd3bebda",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-06-17T17:49:19+02:00",
       "all": 78,
       "test": 45,
@@ -397,8 +496,17 @@
       "pct": 57.7
     },
     {
+      "id": "f85d8e9a4161b998ec848c55e6d881d6e76ad780",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2017-06-17T17:49:58+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "4e8d185bd8dafa9f1cb0d0299debb3b194e77635",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-06-17T17:40:26+02:00",
       "all": 7,
       "test": 0,
@@ -407,7 +515,7 @@
     },
     {
       "id": "f3d002b9320db0f223cc723be37d246bdfadcbea",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-06-17T17:37:12+02:00",
       "all": 17,
       "test": 0,
@@ -415,8 +523,26 @@
       "pct": 0.0
     },
     {
+      "id": "c583b2004791425c7247b0066b0a2330670d6961",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2017-06-17T17:12:25+02:00",
+      "all": 18,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "a1be9e89f72b6d4c1846740660a0a73f7b042dd0",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2017-06-17T17:03:19+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "92f07399919ab7f4cb58c1429d73bb255c1200d4",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-06-17T14:27:56+02:00",
       "all": 76,
       "test": 0,
@@ -425,7 +551,7 @@
     },
     {
       "id": "24defc7225f8f9679da04dace88305073b601530",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-06-17T13:01:47+02:00",
       "all": 18,
       "test": 0,
@@ -434,7 +560,7 @@
     },
     {
       "id": "f4c650223f58abadd0d1c3686ab95da424b301dc",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-06-17T12:47:19+02:00",
       "all": 13,
       "test": 0,
@@ -443,7 +569,7 @@
     },
     {
       "id": "93265a45c8c8bd9f5ef819fd0f25721c150e9727",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-06-17T12:39:49+02:00",
       "all": 49,
       "test": 5,
@@ -451,8 +577,17 @@
       "pct": 10.2
     },
     {
+      "id": "a56972a08a4f0049cce7f1263b9cc8eca0585a69",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2017-06-16T21:22:57+02:00",
+      "all": 45,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "11ee7afade6dfd782c270752d3ffaf4898b67995",
-      "who": "nipa@codefx.org",
+      "who": "Nicolai Parlog <nipa@codefx.org>",
       "when": "2017-06-16T20:48:27+02:00",
       "all": 24,
       "test": 13,
@@ -460,8 +595,80 @@
       "pct": 54.2
     },
     {
+      "id": "7fa2324fad6515201f3537b846e0a9a2d4708427",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2017-06-16T18:13:33+02:00",
+      "all": 12,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "f2c2b25a71f2352ebe247b09c4e367175b7c139e",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2017-06-16T14:29:31+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "a8ae2f5c79edad36c6ad740fbcc16ff26ae80b47",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2017-06-16T14:27:01+02:00",
+      "all": 22,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "75f5cd742df1d036bd78816ec425d2ac9ff9cdf4",
+      "who": "Andrei Precup <andreiprecup69@gmail.com>",
+      "when": "2017-06-12T13:24:26+03:00",
+      "all": 27,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "335d992a1b6137ee315fa1048f0cee18f8ce61bb",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2017-06-16T14:22:55+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "b2fd9d8d87139e24072429d8fdc3326175c7c853",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2017-06-16T14:15:43+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "446c6791da2671b6ad4d05908b51e16b762943ef",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2017-06-16T13:14:50+02:00",
+      "all": 21,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "3f567de04fe9fc2d256490fa419a47e116930615",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2017-06-16T09:25:07+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "f5b0169bb2b8a9eb265c5b6e7540ebb8eccc623c",
-      "who": "sormuras@gmail.com",
+      "who": "Christian Stein <sormuras@gmail.com>",
       "when": "2017-06-14T00:34:33+02:00",
       "all": 160,
       "test": 100,
@@ -470,7 +677,7 @@
     },
     {
       "id": "12e980a840c1dfbc97ad12f93fc4d260d30e0e26",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-06-15T17:38:22+02:00",
       "all": 5,
       "test": 0,
@@ -479,7 +686,7 @@
     },
     {
       "id": "52baeb89a5a79fb2547b95993d6c3a6c0bd8334d",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-06-15T17:12:27+02:00",
       "all": 3,
       "test": 0,
@@ -488,7 +695,7 @@
     },
     {
       "id": "ee8d33985788d287b3a3a930e9dc3a24948552d8",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-06-15T16:12:48+02:00",
       "all": 12,
       "test": 0,
@@ -496,8 +703,17 @@
       "pct": 0.0
     },
     {
+      "id": "3b310e07f5d45033568e6f1d051868998b9bf5cb",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2017-06-08T20:33:12+02:00",
+      "all": 27,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "811ab782c6651f89a964c23db164f71ec109b173",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-06-10T16:50:18+02:00",
       "all": 41,
       "test": 41,
@@ -505,8 +721,17 @@
       "pct": 100.0
     },
     {
+      "id": "dacfc51d7cdb691c21b10854d958667282614543",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2017-06-08T11:13:55+02:00",
+      "all": 10,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "b5b15e4f0a6b35bd83835628faccecb5bb88f979",
-      "who": "nipa@codefx.org",
+      "who": "Nicolai Parlog <nipa@codefx.org>",
       "when": "2017-06-08T10:07:21+02:00",
       "all": 133,
       "test": 30,
@@ -515,7 +740,7 @@
     },
     {
       "id": "a19e6ee83bace8554c761ff20d2a9a0cbcd1f6ec",
-      "who": "sormuras@gmail.com",
+      "who": "Christian Stein <sormuras@gmail.com>",
       "when": "2017-06-07T14:33:37+02:00",
       "all": 28,
       "test": 4,
@@ -524,7 +749,7 @@
     },
     {
       "id": "1d8c684482af35043ad2c95cd0d10d9d43dde56f",
-      "who": "sormuras@gmail.com",
+      "who": "Christian Stein <sormuras@gmail.com>",
       "when": "2017-06-04T10:58:28+02:00",
       "all": 38,
       "test": 16,
@@ -533,7 +758,7 @@
     },
     {
       "id": "a2ec645dbe0d46ef2098ec8f66bf59c15e6a4033",
-      "who": "sormuras@gmail.com",
+      "who": "Christian Stein <sormuras@gmail.com>",
       "when": "2017-06-04T00:02:10+02:00",
       "all": 25,
       "test": 25,
@@ -541,13 +766,31 @@
       "pct": 100.0
     },
     {
+      "id": "cadce8a9ad068e6e10f40967fd25d5fd3946afcb",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2017-06-02T23:01:37+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "a50e60aa64ecd1f7357409ab34ccd0964e9bee3b",
-      "who": "sormuras@gmail.com",
+      "who": "Christian Stein <sormuras@gmail.com>",
       "when": "2017-06-02T22:18:43+02:00",
       "all": 232,
       "test": 87,
       "testable": 87,
       "pct": 100.0
+    },
+    {
+      "id": "6854976989e94566435340b7af3ca0c779798624",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2017-06-02T00:02:42+02:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

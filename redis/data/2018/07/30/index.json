@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "782928769187c977252c9f698535d824ac5409de",
-      "who": "oran@redislabs.com",
+      "who": "Oran Agra <oran@redislabs.com>",
       "when": "2018-07-30T16:43:21+03:00",
       "all": 85,
       "test": 82,
@@ -11,25 +11,34 @@
     },
     {
       "id": "ac3c012a7f92e15fd996867ee4b5bd9f00487f59",
-      "who": "antirez@gmail.com",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
       "when": "2018-07-30T18:10:06+02:00",
-      "all": 19,
+      "all": 0,
       "test": 0,
-      "testable": 19,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "4ebb4d54c69f24360626bd9b458e8678c9c01de8",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
+      "when": "2018-07-30T18:03:15+02:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "1465755e384e6cf3fed9a39a4af839e84aafe292",
-      "who": "antirez@gmail.com",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
       "when": "2018-07-30T17:59:12+02:00",
-      "all": 27,
+      "all": 0,
       "test": 0,
-      "testable": 27,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "3c19ae941d17dee7f89c282946bc379ba2106b09",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2018-07-30T17:42:30+02:00",
       "all": 3,
       "test": 0,
@@ -38,7 +47,7 @@
     },
     {
       "id": "6491717c88143507567420398131eaa8933f3ec9",
-      "who": "dejun.xdj@alibaba-inc.com",
+      "who": "dejun.xdj <dejun.xdj@alibaba-inc.com>",
       "when": "2018-07-30T21:33:01+08:00",
       "all": 27,
       "test": 0,
@@ -47,7 +56,7 @@
     },
     {
       "id": "d6f5ec6f098f7f6b741bc3face1608c25b233caa",
-      "who": "dejun.xdj@alibaba-inc.com",
+      "who": "dejun.xdj <dejun.xdj@alibaba-inc.com>",
       "when": "2018-07-30T21:32:07+08:00",
       "all": 9,
       "test": 0,
@@ -56,7 +65,7 @@
     },
     {
       "id": "acaa18f1d1b3d0b74fad4c6bd6a2b034da6cea95",
-      "who": "gkorland@gmail.com",
+      "who": "Guy Korland <gkorland@gmail.com>",
       "when": "2018-07-30T16:18:56+03:00",
       "all": 27,
       "test": 0,
@@ -64,8 +73,17 @@
       "pct": 0.0
     },
     {
+      "id": "15be174cf1c601793477f0d5ec71da1646fe09e5",
+      "who": "antirez <antirez@gmail.com>",
+      "when": "2018-07-30T13:50:15+02:00",
+      "all": 17,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "be28050ac02b4154ba937a6487c0666d4d4de856",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2018-07-30T13:44:52+02:00",
       "all": 10,
       "test": 0,
@@ -74,7 +92,7 @@
     },
     {
       "id": "c426d85c4c877a21c959b306b81d8df46259cbd6",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2018-07-30T13:37:30+02:00",
       "all": 21,
       "test": 0,
@@ -83,11 +101,11 @@
     },
     {
       "id": "4e9c30a6cafad40b6e4051d30ebcd6a165965440",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2018-07-30T13:31:23+02:00",
-      "all": 49,
+      "all": 0,
       "test": 0,
-      "testable": 49,
+      "testable": 0,
       "pct": 0.0
     }
   ],

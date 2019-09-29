@@ -2,12 +2,21 @@
   "commits": [
     {
       "id": "d01c8286f3e876157877f2cbdb9d0afd8b07c579",
-      "who": "emeade",
+      "who": "emeade <emeade>",
       "when": "2001-10-24T04:21:17+00:00",
       "all": 97,
       "test": 30,
       "testable": 97,
       "pct": 30.9
+    },
+    {
+      "id": "8010c8e15665894c10360ba19e594c75c811a3ff",
+      "who": "emeade <emeade>",
+      "when": "2001-10-24T04:20:47+00:00",
+      "all": 97,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 4 (master branch)",

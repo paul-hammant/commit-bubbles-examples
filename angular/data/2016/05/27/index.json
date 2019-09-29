@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "e7a8e2757b06d572f614f53b648d2fd75df370d2",
-      "who": "damien.cassan@eisti.eu",
+      "who": "Damien Cassan <damien.cassan@eisti.eu>",
       "when": "2016-05-27T00:47:20+02:00",
       "all": 436,
       "test": 134,
@@ -11,7 +11,7 @@
     },
     {
       "id": "91d64a28558c277c88306a176bf8be2c801e0d0d",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-05-27T15:10:42-07:00",
       "all": 116,
       "test": 0,
@@ -20,7 +20,7 @@
     },
     {
       "id": "40a06af79b69f6661386b00ea7609298dcdbe4b3",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-05-27T13:51:14-07:00",
       "all": 82,
       "test": 0,
@@ -29,7 +29,7 @@
     },
     {
       "id": "8aef86f4a0279402f6426f1c339bf2301359dc20",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-05-27T13:49:42-07:00",
       "all": 27,
       "test": 0,
@@ -38,7 +38,7 @@
     },
     {
       "id": "5bdc6ecec822cfeda63b9f943177d8b17d41cffe",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-05-27T11:36:17-07:00",
       "all": 2648,
       "test": 0,
@@ -47,7 +47,7 @@
     },
     {
       "id": "c9b71fb5e263db33ad4577aaa79c6342b6868d71",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2016-05-27T12:40:31-07:00",
       "all": 1015,
       "test": 0,
@@ -56,7 +56,7 @@
     },
     {
       "id": "dd6cb233b55d7a54ce9f27f6b6b7a31103d4a5be",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2016-05-27T12:36:24-07:00",
       "all": 68,
       "test": 9,
@@ -65,7 +65,7 @@
     },
     {
       "id": "a3cf58b67a8d2b920bd7789354cf452fe6821fd9",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2016-05-27T12:22:07-07:00",
       "all": 6,
       "test": 0,
@@ -74,7 +74,7 @@
     },
     {
       "id": "70d944a59cb0f7aa15c49d24b4fb0b4483c8607d",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2016-05-27T12:20:45-07:00",
       "all": 12,
       "test": 0,
@@ -83,7 +83,7 @@
     },
     {
       "id": "a5a422f8e7e8b07e7132aec67aed73f35378d8af",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2016-05-27T12:03:03-07:00",
       "all": 96,
       "test": 2,
@@ -92,7 +92,7 @@
     },
     {
       "id": "e93b3d236092018e3468bcfafdbb2516b67b9584",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2016-05-27T11:29:23-07:00",
       "all": 29,
       "test": 6,
@@ -101,7 +101,7 @@
     },
     {
       "id": "7bc2d9a93aee7ee224ca7d6098edf0cb782f984c",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2016-05-27T11:24:05-07:00",
       "all": 200,
       "test": 7,
@@ -110,7 +110,7 @@
     },
     {
       "id": "4d793c4eb88db8af481628c8d664d6b5b6ad3f38",
-      "who": "martin@probst.io",
+      "who": "Martin Probst <martin@probst.io>",
       "when": "2016-05-27T20:15:40-07:00",
       "all": 227,
       "test": 109,
@@ -119,7 +119,7 @@
     },
     {
       "id": "3331321f64ce9d8347432441b9b8b6b2db9281a6",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2016-05-27T16:22:16-07:00",
       "all": 161,
       "test": 16,
@@ -127,8 +127,26 @@
       "pct": 43.2
     },
     {
+      "id": "c6064a30a11703f9067cbf4830f5ef5928b498d2",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2016-05-27T16:17:16-07:00",
+      "all": 97,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "a78a43c816eb4e5e1dbe3d4cdef20f7ab282d981",
+      "who": "Alex Eagle <eagle@post.harvard.edu>",
+      "when": "2016-05-27T11:40:30-07:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "ec198b0dc6c503cad4c18fdb1480ad2d8adab305",
-      "who": "xphong@gmail.com",
+      "who": "Phong Huynh <xphong@gmail.com>",
       "when": "2016-05-27T13:10:53-04:00",
       "all": 11,
       "test": 11,
@@ -137,7 +155,7 @@
     },
     {
       "id": "b5d14c26d25c4f60b89681d4d88f4f081b0828e8",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2016-05-27T09:16:46-07:00",
       "all": 22,
       "test": 2,
@@ -145,8 +163,17 @@
       "pct": 10.0
     },
     {
+      "id": "5f999225ba685e262517ffb91f8dca6fb0e2264f",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2016-05-27T09:16:20-07:00",
+      "all": 107,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "c3fafa0651afd07b6fb5905b426121b2467e16c3",
-      "who": "laco0416@gmail.com",
+      "who": "Suguru Inatomi <laco0416@gmail.com>",
       "when": "2016-05-27T05:08:39+09:00",
       "all": 71,
       "test": 28,
@@ -155,7 +182,7 @@
     },
     {
       "id": "b2e804c961c4704f0888b27876bb5409ba436014",
-      "who": "laco0416@gmail.com",
+      "who": "Suguru Inatomi <laco0416@gmail.com>",
       "when": "2016-05-27T02:18:31+09:00",
       "all": 113,
       "test": 108,

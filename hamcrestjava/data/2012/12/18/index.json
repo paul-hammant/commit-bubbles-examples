@@ -2,7 +2,7 @@
   "commits": [
     {
       "all": 119, 
-      "who": "t.denley@cantab.net", 
+      "who": "scarytom <t.denley@cantab.net>", 
       "when": "2012-12-18T23:14:53+00:00", 
       "pct": 100.0, 
       "test": 119, 
@@ -11,7 +11,7 @@
     }, 
     {
       "all": 64, 
-      "who": "t.denley@cantab.net", 
+      "who": "scarytom <t.denley@cantab.net>", 
       "when": "2012-12-18T23:00:38+00:00", 
       "pct": 100.0, 
       "test": 64, 
@@ -20,7 +20,7 @@
     }, 
     {
       "all": 65, 
-      "who": "t.denley@cantab.net", 
+      "who": "scarytom <t.denley@cantab.net>", 
       "when": "2012-12-18T22:53:24+00:00", 
       "pct": 100.0, 
       "test": 65, 
@@ -28,17 +28,17 @@
       "id": "96d4b89bf06267bb5f08077e555c436b330ba2de"
     }, 
     {
-      "all": 22, 
-      "who": "github@m3p.co.uk", 
+      "all": 0, 
+      "who": "sf105 <github@m3p.co.uk>", 
       "when": "2012-12-18T11:04:33+01:00", 
-      "pct": 100.0, 
-      "test": 19, 
-      "testable": 19, 
+      "pct": 0.0, 
+      "test": 0, 
+      "testable": 0, 
       "id": "8d7ecb6bf2cbf68176822b9ea69af4a34262a454"
     }, 
     {
       "all": 109, 
-      "who": "github@m3p.co.uk", 
+      "who": "sf105 <github@m3p.co.uk>", 
       "when": "2012-12-18T11:03:22+01:00", 
       "pct": 64.0, 
       "test": 70, 
@@ -47,7 +47,7 @@
     }, 
     {
       "all": 104, 
-      "who": "github@m3p.co.uk", 
+      "who": "sf105 <github@m3p.co.uk>", 
       "when": "2012-12-18T10:29:32+01:00", 
       "pct": 35.0, 
       "test": 35, 
@@ -56,12 +56,21 @@
     }, 
     {
       "all": 22, 
-      "who": "tom.denley@youdevise.com", 
+      "who": "Tom Denley <tom.denley@youdevise.com>", 
       "when": "2012-12-18T09:27:48+00:00", 
       "pct": 100.0, 
       "test": 19, 
       "testable": 19, 
       "id": "f1a2aa369e3928e096031d70cc738c8747264b0a"
+    }, 
+    {
+      "all": 0, 
+      "who": "sf105 <github@m3p.co.uk>", 
+      "when": "2012-12-18T09:33:21+01:00", 
+      "pct": 0.0, 
+      "test": 0, 
+      "testable": 0, 
+      "id": "9c62ae5e4d18ae9ffb4366984c5991f0f8100bd3"
     }
   ], 
   "description": "Hamcrest Java (master branch)", 

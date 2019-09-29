@@ -2,12 +2,21 @@
   "commits": [
     {
       "id": "c9ce426393f2e91735c12b418311f8066bc7cc0e",
-      "who": "mail@stefan-birkner.de",
+      "who": "Stefan Birkner <mail@stefan-birkner.de>",
       "when": "2014-02-04T22:44:05+01:00",
       "all": 2831,
       "test": 34,
       "testable": 34,
       "pct": 100.0
+    },
+    {
+      "id": "30b54b485a46911360d5fe6f1fb4316a1a2a2dc0",
+      "who": "Stefan Birkner <mail@stefan-birkner.de>",
+      "when": "2014-02-04T22:42:22+01:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 4 (master branch)",

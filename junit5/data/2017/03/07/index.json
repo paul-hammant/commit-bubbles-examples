@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "ace81635ab617c9400d99d33ecbed6dbda72e748",
-      "who": "sormuras@gmail.com",
+      "who": "Christian Stein <sormuras@gmail.com>",
       "when": "2017-03-07T23:06:51+01:00",
       "all": 89,
       "test": 38,
@@ -10,8 +10,17 @@
       "pct": 42.7
     },
     {
+      "id": "bed49b9a196c36979e5461a18f58a69b46df7490",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2017-03-07T20:38:31+01:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "3667ef73104dfac9638b152c09de972fb00f569d",
-      "who": "sormuras@gmail.com",
+      "who": "Christian Stein <sormuras@gmail.com>",
       "when": "2017-03-07T12:44:27+01:00",
       "all": 10,
       "test": 0,
@@ -19,13 +28,40 @@
       "pct": 0.0
     },
     {
+      "id": "38d2582ee504c67ac33648e8ea94197217e56ac2",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2017-03-07T01:18:36+01:00",
+      "all": 100,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "79cca72868acf15e05a8c7ffd3a1b0f2aa49d94a",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-03-07T21:24:18+01:00",
       "all": 60,
       "test": 20,
       "testable": 53,
       "pct": 37.7
+    },
+    {
+      "id": "3a3e153d2af4340da4320940e7497b1c9c9d1958",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2017-03-07T20:07:34+01:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "aa56e995beb451d2965182c90e18f170b1b1ff53",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2017-03-07T00:27:11+01:00",
+      "all": 8,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

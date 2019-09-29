@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "afb4bd9ef60dcc0ac4c7acde16fca3d48d2129ee",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2016-10-06T15:23:37-07:00",
       "all": 362,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "d641c36a4580e51f383c816837fe69ddc2b477fd",
-      "who": "chuckj@google.com",
+      "who": "Chuck Jazdzewski <chuckj@google.com>",
       "when": "2016-10-06T15:22:10-07:00",
       "all": 68,
       "test": 20,
@@ -20,7 +20,7 @@
     },
     {
       "id": "e06303a9874438a8a9c018b9190ba44ed19e46a2",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-10-06T14:24:33-07:00",
       "all": 10,
       "test": 7,
@@ -28,8 +28,26 @@
       "pct": 70.0
     },
     {
+      "id": "71b76546607cfb05f4f04371e6b7247a4e504f43",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2016-10-06T09:30:02-07:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "eaaec6979ceb4d664ca3b6c3f81fb8e17e515462",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2016-10-06T09:25:08-07:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "0254ce1f6cf0b6636bc9a31a22bef3a28befedce",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2016-10-06T15:11:16-07:00",
       "all": 151,
       "test": 0,
@@ -38,7 +56,7 @@
     },
     {
       "id": "c9b765f5c0ee3be64d99374cc9d2a321b83a26aa",
-      "who": "chuckj@google.com",
+      "who": "Chuck Jazdzewski <chuckj@google.com>",
       "when": "2016-10-06T15:10:44-07:00",
       "all": 60,
       "test": 4,
@@ -47,7 +65,7 @@
     },
     {
       "id": "8c975ed15657721c8ebe9bf9fcff887c48dcd26f",
-      "who": "eagle@post.harvard.edu",
+      "who": "Alex Eagle <eagle@post.harvard.edu>",
       "when": "2016-10-06T15:10:27-07:00",
       "all": 427,
       "test": 131,
@@ -55,8 +73,44 @@
       "pct": 30.9
     },
     {
+      "id": "bb35fcb56285b1afa2f8075413acf96eda2ced9d",
+      "who": "Igor Minar <iminar@google.com>",
+      "when": "2016-10-06T15:07:46-07:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "57230b70a90ac7df8ba8293878417703bdb41e20",
+      "who": "Igor Minar <iminar@google.com>",
+      "when": "2016-10-06T15:06:37-07:00",
+      "all": 41,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "43dc60ce4f1f8925476f99ded773b4b1d0d753a4",
+      "who": "Igor Minar <iminar@google.com>",
+      "when": "2016-10-06T13:58:14-07:00",
+      "all": 16,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "230b3b73d8feb91ddf2a40cb5720d25ef2819975",
+      "who": "Thomas Grainger <tagrain@gmail.com>",
+      "when": "2016-10-06T18:24:01+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "0b7dc2f9ff0c675d58a22e81744de135ad2fe6ac",
-      "who": "xphong@gmail.com",
+      "who": "Phong Huynh <xphong@gmail.com>",
       "when": "2016-10-06T13:22:39-04:00",
       "all": 3,
       "test": 3,
@@ -64,12 +118,30 @@
       "pct": 100.0
     },
     {
+      "id": "de1f44f51f3f72f757affdfd4513e852af16cfee",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
+      "when": "2016-10-06T10:22:08-07:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "f1cfddf6d6a0a6cb1957e4fa9fea9196dfc7f6c6",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2016-10-06T08:37:37-07:00",
       "all": 140,
       "test": 0,
       "testable": 110,
+      "pct": 0.0
+    },
+    {
+      "id": "ef621a2f00f1776616fb2f0cee01adf2c21a28b9",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2016-10-06T06:43:17-07:00",
+      "all": 44,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     }
   ],

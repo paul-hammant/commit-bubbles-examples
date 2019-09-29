@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "5725f717774dbd6b53de3d62fe4032d43b6fb29e",
-      "who": "pascal.precht@googlemail.com",
+      "who": "Pascal Precht <pascal.precht@googlemail.com>",
       "when": "2015-07-30T16:29:16+02:00",
       "all": 83,
       "test": 63,
@@ -11,7 +11,7 @@
     },
     {
       "id": "12e4c738c9c5461b7586bd375e5f9e659d3ee7d0",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2015-07-30T15:20:08+02:00",
       "all": 25,
       "test": 0,
@@ -20,7 +20,7 @@
     },
     {
       "id": "b8e82e4db31bd44eec4488f8b77366c78ba92a8e",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-07-30T20:07:34+01:00",
       "all": 31,
       "test": 0,
@@ -28,8 +28,17 @@
       "pct": 0.0
     },
     {
+      "id": "7354206c7486fa917851942f7496551d9bc0ef5b",
+      "who": "Yegor Jbanov <yjbanov@google.com>",
+      "when": "2015-07-30T08:48:48-07:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "3437d5690478965f571564ca03099a089ba5fbc7",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2015-07-30T17:58:56-07:00",
       "all": 149,
       "test": 127,
@@ -38,7 +47,7 @@
     },
     {
       "id": "21e2f3c1dbfb2a0eac5e954535a12282294cfdf9",
-      "who": "jelbourn@google.com",
+      "who": "Jeremy Elbourn <jelbourn@google.com>",
       "when": "2015-07-30T17:25:32-07:00",
       "all": 451,
       "test": 0,
@@ -47,7 +56,7 @@
     },
     {
       "id": "7b94bbf3e4fa4775d48080f5728bffc0694fcefa",
-      "who": "duan.hank@gmail.com",
+      "who": "Hank Duan <duan.hank@gmail.com>",
       "when": "2015-07-30T15:51:06-07:00",
       "all": 17,
       "test": 8,
@@ -56,7 +65,7 @@
     },
     {
       "id": "71ea19902aa9989d212f636828b83683051d4c92",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2015-07-30T10:59:52-07:00",
       "all": 204,
       "test": 0,
@@ -65,7 +74,7 @@
     },
     {
       "id": "2768158eaf3a0fa81ddf8beb4014c087671037fb",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2015-07-30T11:46:52+02:00",
       "all": 25,
       "test": 10,
@@ -73,8 +82,17 @@
       "pct": 40.0
     },
     {
+      "id": "f8fa47e939cc1850808f0c6327b0e8faa5415f7f",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2015-07-30T16:07:03-07:00",
+      "all": 67,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "4e76cac5b7190502da2615a668d96954fbbbd17b",
-      "who": "middlefloor@gmail.com",
+      "who": "Jeff Cross <middlefloor@gmail.com>",
       "when": "2015-07-30T10:01:31-07:00",
       "all": 11,
       "test": 6,
@@ -82,8 +100,26 @@
       "pct": 54.5
     },
     {
+      "id": "489300240852ee20b04b501819338e0a768cc07d",
+      "who": "yjbanov <yjbanov@google.com>",
+      "when": "2015-07-30T11:24:53-07:00",
+      "all": 11,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "29095766e633db91aca57e5d8251dcf41dbbcd74",
+      "who": "Yegor Jbanov <yjbanov@google.com>",
+      "when": "2015-07-30T08:47:23-07:00",
+      "all": 86,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "eee2146735772610715199189870aa70b3cf1b95",
-      "who": "jteplitz602@gmail.com",
+      "who": "Jason Teplitz <jteplitz602@gmail.com>",
       "when": "2015-07-30T10:47:32-07:00",
       "all": 28,
       "test": 28,
@@ -92,11 +128,20 @@
     },
     {
       "id": "5c21af95c76b3ad2aadd6000a3ebdfb8860b3ec0",
-      "who": "naomitraveller@gmail.com",
+      "who": "Naomi Black <naomitraveller@gmail.com>",
       "when": "2015-07-30T10:55:13-07:00",
       "all": 5,
       "test": 0,
       "testable": 5,
+      "pct": 0.0
+    },
+    {
+      "id": "cb6fc9c7cb7216b6c160260c29b56fe91bd10913",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
+      "when": "2015-07-30T11:24:49+01:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     }
   ],

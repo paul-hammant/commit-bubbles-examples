@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "344a5ca5452bc01a1e5ff8f04aa7a283ce4134cf",
-      "who": "misko@hevery.com",
+      "who": "Mis\u00cc\u008cko Hevery <misko@hevery.com>",
       "when": "2017-06-01T14:45:49-07:00",
       "all": 165,
       "test": 57,
@@ -10,8 +10,26 @@
       "pct": 34.5
     },
     {
+      "id": "82ec02daf8858a0c2bf933bdb1c7cbe84a10f1d5",
+      "who": "Victor Berchet <victor@suumit.com>",
+      "when": "2017-06-01T14:27:24-07:00",
+      "all": 22,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "8e7a3f031b6ed6f6fdb571f0eed268b22c1c9638",
+      "who": "Victor Berchet <victor@suumit.com>",
+      "when": "2017-06-01T14:25:19-07:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "068133ec850827e3e88892fb5dbdd22c537260b7",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2017-06-01T14:02:41-07:00",
       "all": 92,
       "test": 74,
@@ -19,8 +37,17 @@
       "pct": 80.4
     },
     {
+      "id": "598fdad0891437f46c545de43e99370c8ae16b0f",
+      "who": "Victor Berchet <victor@suumit.com>",
+      "when": "2017-06-01T13:23:34-07:00",
+      "all": 30,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "ad6a57e0a3e1e54988cd6b267a900d8af824fd22",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2017-06-01T11:39:53-07:00",
       "all": 20,
       "test": 0,
@@ -29,12 +56,30 @@
     },
     {
       "id": "230255f887edff43d478f22e422546d50e666f50",
-      "who": "chuckj@google.com",
+      "who": "Chuck Jazdzewski <chuckj@google.com>",
       "when": "2017-06-01T11:13:50-06:00",
       "all": 411,
       "test": 144,
       "testable": 411,
       "pct": 35.0
+    },
+    {
+      "id": "1338995ee9fe90681d1ef2a60e7cbc9f6fe328ec",
+      "who": "Stefanie Fluin <sjtrimble@gmail.com>",
+      "when": "2017-06-01T09:37:42-07:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "47e4fca7fdb11b7eb485f5fcc3070880c11e2831",
+      "who": "Stefanie Fluin <sjtrimble@gmail.com>",
+      "when": "2017-06-01T09:37:27-07:00",
+      "all": 37,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

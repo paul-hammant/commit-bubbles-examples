@@ -1,8 +1,17 @@
 {
   "commits": [
     {
+      "id": "ca5e31bc774bc6f3d1f335753aaad9e733e7bd0e",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2015-10-14T12:46:35-07:00",
+      "all": 110,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "5fc28e65efe2a6d2d66314a1afe7128b6d934611",
-      "who": "ericdantas0@gmail.com",
+      "who": "Eric Mendes Dantas <ericdantas0@gmail.com>",
       "when": "2015-10-14T08:21:05-03:00",
       "all": 21,
       "test": 0,
@@ -11,7 +20,7 @@
     },
     {
       "id": "c3ab20cc87dd016517c8945b8fe0adab455cc6ed",
-      "who": "robertsbt@gmail.com",
+      "who": "Brandon Roberts <robertsbt@gmail.com>",
       "when": "2015-10-14T21:23:59-05:00",
       "all": 5,
       "test": 0,
@@ -20,7 +29,7 @@
     },
     {
       "id": "486c1eda8eab8652774b5c2330b0aa548c63429f",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2015-10-14T15:30:44-07:00",
       "all": 164,
       "test": 0,
@@ -29,7 +38,7 @@
     },
     {
       "id": "d7ab5d44a586856e488934fdf3847abc89c3525c",
-      "who": "ju.ralph@gmail.com",
+      "who": "Julie Ralph <ju.ralph@gmail.com>",
       "when": "2015-10-14T09:41:15-07:00",
       "all": 264,
       "test": 18,
@@ -38,7 +47,7 @@
     },
     {
       "id": "b89c5bc5818c62e775b0b0211931a81a32fd0293",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2015-10-14T18:04:38+02:00",
       "all": 14,
       "test": 9,
@@ -47,12 +56,30 @@
     },
     {
       "id": "7dde18b181a610459cd6970aa3349e99cb63af47",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-10-14T09:39:40-07:00",
       "all": 226,
       "test": 132,
       "testable": 226,
       "pct": 58.4
+    },
+    {
+      "id": "6436f96fd164ebbdf240ff918f6919304e9445ec",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
+      "when": "2015-10-14T08:08:28-07:00",
+      "all": 10,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "efddc9069ca3d76ffe7df71b06cf5196c83feb90",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2015-10-14T09:33:00-07:00",
+      "all": 154,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

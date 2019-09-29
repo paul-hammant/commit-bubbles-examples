@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "73c203fda9281a233048d172cd502abcc1e87d1e",
-      "who": "chuckj@google.com",
+      "who": "Chuck Jazdzewski <chuckj@google.com>",
       "when": "2018-02-15T16:43:16-08:00",
       "all": 265,
       "test": 56,
@@ -11,7 +11,7 @@
     },
     {
       "id": "f089bf5333d78f4bc354c4154e58d49fc45f363f",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2018-02-15T19:26:28+02:00",
       "all": 7,
       "test": 0,
@@ -20,7 +20,7 @@
     },
     {
       "id": "8e1e040f721015c11b68adcfcd8c128872443cf5",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2018-02-15T19:21:18+02:00",
       "all": 224,
       "test": 168,
@@ -29,7 +29,7 @@
     },
     {
       "id": "28240625e6a9e1234bd41dff8d0163c63edf0cd5",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2018-02-15T19:14:20+02:00",
       "all": 42,
       "test": 42,
@@ -38,12 +38,21 @@
     },
     {
       "id": "0d248079bafd708455a12d412cfe8c7f0fb9b784",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2018-02-15T19:19:40+02:00",
       "all": 2,
       "test": 2,
       "testable": 2,
       "pct": 100.0
+    },
+    {
+      "id": "ca06af40f4b731eda1f3f4cd5d9779505bf25a48",
+      "who": "Martin Probst <martin@probst.io>",
+      "when": "2018-02-15T22:43:15+01:00",
+      "all": 37,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

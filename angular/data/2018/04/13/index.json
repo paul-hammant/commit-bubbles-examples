@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "08a18b82de003c379aa76323e65e8230e5b42a56",
-      "who": "misko@hevery.com",
+      "who": "Mis\u00cc\u008cko Hevery <misko@hevery.com>",
       "when": "2018-04-13T17:11:21-07:00",
       "all": 49,
       "test": 8,
@@ -11,7 +11,7 @@
     },
     {
       "id": "76f8ae31adc7325a66d6bed6309920756dafb57a",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2018-04-13T23:03:15+03:00",
       "all": 185,
       "test": 16,
@@ -19,8 +19,80 @@
       "pct": 34.0
     },
     {
+      "id": "0a536af093198ed392ebab6b818f8175527ba4ac",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2018-04-13T22:41:32+03:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "4f292873994ee26539f0d19a247a06349204dfc0",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2018-04-13T22:27:31+03:00",
+      "all": 116,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "62e6c1f43aa46b280ed8ae47b45d7cc471335584",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2018-04-13T22:24:40+03:00",
+      "all": 98,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c3c513ed9e9c700c423c5e36695dc9dba44edfcd",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2018-04-13T21:21:17+03:00",
+      "all": 12,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "ed495bc9f1a839d97f38ea714eacad6ad926a57d",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2018-04-13T17:02:17+03:00",
+      "all": 1555,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "a3de5f8f20b7e13a3edc8362a6b5aafe43b9d1d7",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2018-04-13T17:25:49+03:00",
+      "all": 26,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "2491b7249a5ff4de1d288392981f94188ecdd576",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-04-13T18:30:10-07:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "a851ba3781eaf5e38124903d9c359efb26bccd00",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-04-13T17:51:09-07:00",
+      "all": 10,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "0468a649af05fd4e587837c0453276bd71bf6f27",
-      "who": "igor@angular.io",
+      "who": "Igor Minar <igor@angular.io>",
       "when": "2018-04-13T17:46:16-07:00",
       "all": 6,
       "test": 0,
@@ -29,7 +101,7 @@
     },
     {
       "id": "674c3def319e2c444823319ae43394d46f3973b7",
-      "who": "igor@angular.io",
+      "who": "Igor Minar <igor@angular.io>",
       "when": "2018-04-13T23:02:29-07:00",
       "all": 383,
       "test": 73,
@@ -38,7 +110,7 @@
     },
     {
       "id": "80e483ceac296f5f803329494c6666458853690f",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2018-04-13T16:47:27-07:00",
       "all": 63,
       "test": 18,
@@ -47,7 +119,7 @@
     },
     {
       "id": "ac683d7abbf57f3e90b2d02d8e1308fd709d1905",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2018-04-13T15:12:11-07:00",
       "all": 124,
       "test": 0,
@@ -56,7 +128,7 @@
     },
     {
       "id": "33630dd3eda4be52efcaa2bdd4a70e6547883a7e",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2018-04-13T20:44:26-07:00",
       "all": 4,
       "test": 0,
@@ -64,8 +136,35 @@
       "pct": 0.0
     },
     {
+      "id": "7e581dab5f8bd2c80add649ee65778ba25c5661b",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2018-04-13T15:01:04-07:00",
+      "all": 72,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "102ed3b03ceea77fb3bfd68616f87af7c2852a09",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2018-04-13T14:57:58-07:00",
+      "all": 48,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "29b838c35d87ef66c3c186142eb1fcc63bc34cf2",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2018-04-13T21:53:48+03:00",
+      "all": 8,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "d1177c75f859ec2aa63b0954239ee017018a323f",
-      "who": "olivier.combe@gmail.com",
+      "who": "Olivier Combe <olivier.combe@gmail.com>",
       "when": "2018-04-13T23:35:20+02:00",
       "all": 3013,
       "test": 0,
@@ -73,8 +172,17 @@
       "pct": 0.0
     },
     {
+      "id": "12f90ef428205a0ed0b607fbb7023e4a54310fdd",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2018-04-13T15:30:20-07:00",
+      "all": 145,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "2c09b707ce2c185cf617050a7b0ab1ff9b587be0",
-      "who": "misko@hevery.com",
+      "who": "Mis\u00cc\u008cko Hevery <misko@hevery.com>",
       "when": "2018-04-13T13:34:39-07:00",
       "all": 383,
       "test": 73,
@@ -82,8 +190,17 @@
       "pct": 19.1
     },
     {
+      "id": "490772e6807b630f7abb92dc62b9a48d534b51a5",
+      "who": "Brandon Roberts <robertsbt@gmail.com>",
+      "when": "2018-04-13T12:07:10-05:00",
+      "all": 81,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "6e73300ff169d174ab3c40545496e0110e7de9e5",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2018-04-13T11:25:44-07:00",
       "all": 85,
       "test": 0,
@@ -91,13 +208,31 @@
       "pct": 0.0
     },
     {
+      "id": "aa271556186a61c261908c1ca6a3c95b9259d491",
+      "who": "Igor Minar <igor@angular.io>",
+      "when": "2018-04-13T09:55:36-07:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "eac36d7e1aa4022c7ea2b3c5ed0225af88a9f558",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2018-04-13T14:48:44+03:00",
       "all": 20,
       "test": 4,
       "testable": 20,
       "pct": 20.0
+    },
+    {
+      "id": "0224f1aaf312a87e40e387b5f1f72d2738247642",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2018-04-13T14:48:36+03:00",
+      "all": 20,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

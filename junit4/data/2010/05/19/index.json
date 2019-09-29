@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "568e29c871ea144e12f273dc7e12c949a5a507da",
-      "who": "david@saff.net",
+      "who": "dsaff <david@saff.net>",
       "when": "2010-05-19T22:24:16-04:00",
       "all": 261,
       "test": 75,
@@ -11,12 +11,21 @@
     },
     {
       "id": "af5722e040626f7c3aa14ccbfb4cb2375f43a561",
-      "who": "david@saff.net",
+      "who": "dsaff <david@saff.net>",
       "when": "2010-05-19T21:46:52-04:00",
-      "all": 216,
-      "test": 77,
-      "testable": 216,
-      "pct": 35.6
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "8f486adcbffb61917dbb60e21ad64a24df5ce7a5",
+      "who": "dsaff <david@saff.net>",
+      "when": "2010-05-19T21:45:16-04:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 4 (master branch)",

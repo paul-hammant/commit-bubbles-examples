@@ -1,15 +1,15 @@
 {
   "commits": [
     {
-      "all": 0, 
-      "who": "scadgek@live.com", 
-      "when": "2018-10-12T22:56:51+03:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "7f999d2925c05612630621502b85ab93f3b8ca46"
+      "id": "7f999d2925c05612630621502b85ab93f3b8ca46",
+      "who": "Sergey Chupov <scadgek@live.com>",
+      "when": "2018-10-12T22:56:51+03:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

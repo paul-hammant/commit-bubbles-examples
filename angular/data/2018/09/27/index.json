@@ -1,8 +1,17 @@
 {
   "commits": [
     {
+      "id": "1dc95c41eb51cc50339974551d64224c7eb8247b",
+      "who": "Dario Braun <dario.braun@adesso.de>",
+      "when": "2018-09-27T11:11:15+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "9e32dc7c95eb52d702952944928365ba80bb37d6",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2018-09-27T17:03:40+03:00",
       "all": 2613,
       "test": 0,
@@ -11,7 +20,7 @@
     },
     {
       "id": "34b6d5fff9e944fee6270fe38cee338a3447afa5",
-      "who": "pete@bacondarwin.com",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
       "when": "2018-09-27T18:24:00+01:00",
       "all": 108,
       "test": 0,
@@ -20,7 +29,7 @@
     },
     {
       "id": "f7b17a47846034623db936845d91198ec6d04c31",
-      "who": "pete@bacondarwin.com",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
       "when": "2018-09-27T18:22:36+01:00",
       "all": 78,
       "test": 54,
@@ -29,7 +38,7 @@
     },
     {
       "id": "6a24db2bc6520a02905a403b2c2ccaf2d65f5fd3",
-      "who": "pete@bacondarwin.com",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
       "when": "2018-09-27T21:21:43+01:00",
       "all": 328,
       "test": 314,
@@ -37,8 +46,26 @@
       "pct": 95.7
     },
     {
+      "id": "decc0b840d20a9a4e0b75e44e6e9c08f01b510ab",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2018-09-27T16:35:05+03:00",
+      "all": 244,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "57de9fc41a3e9adea2faf0d0a4bb4713a882f4ed",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2018-09-27T18:30:20+03:00",
+      "all": 877,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "31034f5146d533f6ec133e991e2dd0b40da3de9a",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2018-09-27T18:24:07+03:00",
       "all": 226,
       "test": 9,
@@ -46,8 +73,17 @@
       "pct": 100.0
     },
     {
+      "id": "c5899f4cd4b40bb2de7205ccd0300cd8658ffe8a",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2018-09-27T17:53:38+03:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "c51331689f452e7e0f00a0ea9e6b92ed537f136d",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2018-09-27T15:07:51-07:00",
       "all": 45,
       "test": 24,
@@ -56,7 +92,7 @@
     },
     {
       "id": "86e6a2099ac627587dce62ac0fdbba59c6cf869c",
-      "who": "igor@angular.io",
+      "who": "Igor Minar <igor@angular.io>",
       "when": "2018-09-27T17:45:39-07:00",
       "all": 214,
       "test": 0,
@@ -65,12 +101,21 @@
     },
     {
       "id": "9993c723359dad79e1162ec728572f7f6c817f5c",
-      "who": "igor@angular.io",
+      "who": "Igor Minar <igor@angular.io>",
       "when": "2018-09-27T16:47:19-07:00",
       "all": 191,
       "test": 11,
       "testable": 98,
       "pct": 11.2
+    },
+    {
+      "id": "eeebe28c0fb76cd245a60c48011f7317ee0742be",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
+      "when": "2018-09-27T14:13:01+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

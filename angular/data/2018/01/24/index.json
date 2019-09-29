@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "339ca83f9d0fa2112ad96a6570d74a7494fa8858",
-      "who": "pete@bacondarwin.com",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
       "when": "2018-01-24T14:21:38+00:00",
       "all": 17,
       "test": 5,
@@ -11,7 +11,7 @@
     },
     {
       "id": "dd48df105b69f1bb4814ec7065f2b85e234ad50f",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2018-01-24T11:56:14+01:00",
       "all": 4880,
       "test": 0,
@@ -20,7 +20,7 @@
     },
     {
       "id": "c40ae7f7cfb7f498bc142ae267911e07d73baf31",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2018-01-24T12:19:59-05:00",
       "all": 233,
       "test": 98,
@@ -29,7 +29,7 @@
     },
     {
       "id": "d364117aa8c2817f432c6a381e34dfb1814b7469",
-      "who": "chuckj@google.com",
+      "who": "Chuck Jazdzewski <chuckj@google.com>",
       "when": "2018-01-24T11:17:35-08:00",
       "all": 27,
       "test": 27,
@@ -38,7 +38,7 @@
     },
     {
       "id": "6245637e81941ae9a81613825d5fad9d54f02649",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2018-01-24T15:33:45+01:00",
       "all": 53,
       "test": 21,
@@ -47,7 +47,7 @@
     },
     {
       "id": "3b7bab7d22064d545f1745dc3e062fcb1d91073b",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2018-01-24T12:19:59-05:00",
       "all": 233,
       "test": 98,
@@ -56,7 +56,7 @@
     },
     {
       "id": "bbb8f386f1003ffa17f7e3f6bcbaca739e45a37f",
-      "who": "chuckj@google.com",
+      "who": "Chuck Jazdzewski <chuckj@google.com>",
       "when": "2018-01-24T11:19:39-08:00",
       "all": 255,
       "test": 223,
@@ -64,13 +64,85 @@
       "pct": 87.5
     },
     {
+      "id": "d08785d2e17fef5859d354087160ef6daeb222b3",
+      "who": "Misko Hevery <misko@hevery.com>",
+      "when": "2018-01-24T22:01:19-08:00",
+      "all": 27,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c24533eb5170d48ac140ba3338ec8b9718e4556f",
+      "who": "Misko Hevery <misko@hevery.com>",
+      "when": "2018-01-24T21:58:09-08:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "4b1aadee94cc7f2f1ed2861306b7d116f0638cfb",
+      "who": "Misko Hevery <misko@hevery.com>",
+      "when": "2018-01-24T21:26:17-08:00",
+      "all": 20,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "e4b11b2de637af2dd0d8e8570cf681c477a4ea26",
+      "who": "Mi\u00c5\u00a1ko Hevery <misko@hevery.com>",
+      "when": "2018-01-24T15:53:57-08:00",
+      "all": 112,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "92ddd46bcccfd5d60817d43e6d2bf1069f397ebb",
+      "who": "Mi\u00c5\u00a1ko Hevery <misko@hevery.com>",
+      "when": "2018-01-24T15:50:41-08:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "bf5f50d9eee30de5a8dea251815e2f2557954969",
-      "who": "misko@hevery.com",
+      "who": "Mi\u00c5\u00a1ko Hevery <misko@hevery.com>",
       "when": "2018-01-24T15:50:00-08:00",
       "all": 480,
       "test": 51,
       "testable": 264,
       "pct": 19.3
+    },
+    {
+      "id": "753622414aa89877b4bed0ad1e96ad6d61d44334",
+      "who": "Mi\u00c5\u00a1ko Hevery <misko@hevery.com>",
+      "when": "2018-01-24T15:49:42-08:00",
+      "all": 4,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c6ecb638a01fb2e65b714ba1a872bb6548c17c87",
+      "who": "Mi\u00c5\u00a1ko Hevery <misko@hevery.com>",
+      "when": "2018-01-24T15:49:27-08:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "12f801e3dc140c6a974fa84595371db6d0af84cf",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
+      "when": "2018-01-24T19:32:56+00:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

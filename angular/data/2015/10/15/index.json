@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "b91351469f23a8663137fcd4ee3d5263a73ac275",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-10-15T16:24:42-07:00",
       "all": 75,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "c56efc0c5fe829ba5807ed18ddad624a15a7e73f",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-10-15T15:57:16-07:00",
       "all": 94,
       "test": 39,
@@ -19,8 +19,26 @@
       "pct": 41.5
     },
     {
+      "id": "26044026c90a51c9130f1b7ec8d5680a5b110aa4",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2015-10-15T14:21:20-07:00",
+      "all": 365,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "137549d010cdf4c1b3b428d561f198243b8a3fe3",
+      "who": "Ciro Nunes <ciroanunes@gmail.com>",
+      "when": "2015-10-15T16:59:21-03:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "77604b8b1832851eb2a736c9a4180b9150895837",
-      "who": "yjbanov@google.com",
+      "who": "Yegor Jbanov <yjbanov@google.com>",
       "when": "2015-10-15T12:15:42-07:00",
       "all": 7,
       "test": 7,
@@ -29,7 +47,7 @@
     },
     {
       "id": "2c98a0f7719c6af54255836183c09c5ccea507f1",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-10-15T21:27:58-07:00",
       "all": 16,
       "test": 0,
@@ -38,7 +56,7 @@
     },
     {
       "id": "b09788993d9f89b8749bfc616d33b55102d780dc",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-10-15T16:29:24-07:00",
       "all": 38,
       "test": 0,
@@ -47,7 +65,7 @@
     },
     {
       "id": "05d29a936db328b36ec47d8e5b3831af4b218399",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2015-10-15T16:23:10-07:00",
       "all": 3,
       "test": 3,
@@ -56,7 +74,7 @@
     },
     {
       "id": "fd9b67537d4651eae06e8bfa21175979467c6fe5",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-10-15T16:03:23-07:00",
       "all": 31,
       "test": 5,
@@ -64,8 +82,53 @@
       "pct": 45.5
     },
     {
+      "id": "52564571440a35ba49d1a53e8e3992bc1d178f95",
+      "who": "yjbanov <yjbanov@google.com>",
+      "when": "2015-10-15T16:38:08-07:00",
+      "all": 24,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "169cb5f270c0a8f570a9383bb7ddbc4d30ec6b5f",
+      "who": "yjbanov <yjbanov@google.com>",
+      "when": "2015-10-15T16:35:53-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "6c7bc09f708d3a553fdd3f5e2234a3d7f3877221",
+      "who": "Rob Wormald <robwormald@gmail.com>",
+      "when": "2015-10-15T14:16:01-07:00",
+      "all": 133,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "8efb49dd2dff22eed2b40023afd758053f878ad8",
+      "who": "yjbanov <yjbanov@google.com>",
+      "when": "2015-10-15T16:23:00-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c066d696e8df1adaf9da20a876b413006662d52f",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2015-10-15T09:57:29-07:00",
+      "all": 14,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "d896e4350a950c758dbb19cb71dd928835ec84c1",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2015-10-15T12:04:19-07:00",
       "all": 172,
       "test": 37,
@@ -74,7 +137,7 @@
     },
     {
       "id": "65c737fc951c0964e851ffaaee93f85278518491",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2015-10-15T11:38:34-07:00",
       "all": 74,
       "test": 23,
@@ -83,7 +146,7 @@
     },
     {
       "id": "a941fb08f7ca642596f7e098307e972ab5b8f575",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-10-15T10:17:14-07:00",
       "all": 11,
       "test": 6,

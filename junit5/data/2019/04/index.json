@@ -1,8 +1,17 @@
 {
   "commits": [
     {
+      "id": "030bcbabe09dc003d4e31413eb91d9cfed0768b4",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2019-04-29T09:26:31+02:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "dd667704d812894a21b5e3affd5fe3de4d6d4b10",
-      "who": "sormuras@gmail.com",
+      "who": "Christian Stein <sormuras@gmail.com>",
       "when": "2019-04-15T11:27:38+02:00",
       "all": 343,
       "test": 205,
@@ -10,8 +19,17 @@
       "pct": 59.8
     },
     {
+      "id": "cdf47607871ed297aeeabcf1ac7984e38bad2cc9",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2019-04-26T12:56:43+03:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "3515c4e523902028bbfe32427e1aebcdccd82f60",
-      "who": "sbrannen@pivotal.io",
+      "who": "Sam Brannen <sbrannen@pivotal.io>",
       "when": "2019-04-17T12:54:44+02:00",
       "all": 15,
       "test": 0,
@@ -20,7 +38,7 @@
     },
     {
       "id": "92442f3c66c8855942e128e25ed25708a72ad781",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2019-04-16T21:29:23+02:00",
       "all": 39,
       "test": 33,
@@ -29,7 +47,7 @@
     },
     {
       "id": "05eaf74a761698880eb3d6ce158d029b54dcff87",
-      "who": "sormuras@gmail.com",
+      "who": "Christian Stein <sormuras@gmail.com>",
       "when": "2019-04-16T20:51:17+02:00",
       "all": 215,
       "test": 215,
@@ -38,7 +56,7 @@
     },
     {
       "id": "b7897dbf9c70158f3fee76c56b9c1508b416968c",
-      "who": "sbrannen@pivotal.io",
+      "who": "Sam Brannen <sbrannen@pivotal.io>",
       "when": "2019-04-16T19:38:22+02:00",
       "all": 33,
       "test": 0,
@@ -46,8 +64,17 @@
       "pct": 0.0
     },
     {
+      "id": "aafa20f32af71c528b99eb8a800134fdb94f76ae",
+      "who": "Sam Brannen <sbrannen@pivotal.io>",
+      "when": "2019-04-16T19:28:47+02:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "156cd36c07adfe922fdace238bd81e8ae0c698cc",
-      "who": "sbrannen@pivotal.io",
+      "who": "Sam Brannen <sbrannen@pivotal.io>",
       "when": "2019-04-16T18:22:54+02:00",
       "all": 74,
       "test": 47,
@@ -55,8 +82,17 @@
       "pct": 70.1
     },
     {
+      "id": "49844d13758a9ba005ec888c2f25287882216f99",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2019-04-16T08:31:51+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "ec20a2ea83ec7d43d678640afb4597e105f9b7f0",
-      "who": "sormuras@gmail.com",
+      "who": "Christian Stein <sormuras@gmail.com>",
       "when": "2019-04-13T15:30:49+02:00",
       "all": 210,
       "test": 120,
@@ -65,7 +101,7 @@
     },
     {
       "id": "02417272bb22b8c710a0f58bc98505a49ef82107",
-      "who": "sormuras@gmail.com",
+      "who": "Christian Stein <sormuras@gmail.com>",
       "when": "2019-04-15T05:17:05+02:00",
       "all": 1079,
       "test": 117,
@@ -74,7 +110,7 @@
     },
     {
       "id": "7160ab75473f488e7ada5e9e614cb88a79047010",
-      "who": "sbrannen@pivotal.io",
+      "who": "Sam Brannen <sbrannen@pivotal.io>",
       "when": "2019-04-14T12:44:43+02:00",
       "all": 6,
       "test": 6,
@@ -83,7 +119,7 @@
     },
     {
       "id": "9aa4c24ee320e9fa1a9631ca1fdf0a1851400288",
-      "who": "sbrannen@pivotal.io",
+      "who": "Sam Brannen <sbrannen@pivotal.io>",
       "when": "2019-04-13T17:58:38+02:00",
       "all": 35,
       "test": 0,
@@ -92,7 +128,7 @@
     },
     {
       "id": "907f5c01c189265be80173707243d02c4b218ecc",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2019-04-13T17:52:04+02:00",
       "all": 3,
       "test": 3,
@@ -101,7 +137,7 @@
     },
     {
       "id": "30cd154a6b3010b3c6948bbd1ed59df6ce924b10",
-      "who": "sbrannen@pivotal.io",
+      "who": "Sam Brannen <sbrannen@pivotal.io>",
       "when": "2019-04-13T16:40:51+02:00",
       "all": 43,
       "test": 0,
@@ -110,7 +146,7 @@
     },
     {
       "id": "da03c906660d47aeb50bf98604a98894bce87f04",
-      "who": "sbrannen@pivotal.io",
+      "who": "Sam Brannen <sbrannen@pivotal.io>",
       "when": "2019-04-13T16:35:39+02:00",
       "all": 126,
       "test": 118,
@@ -119,7 +155,7 @@
     },
     {
       "id": "d726c04d012aa293a07d6c26fd345e3bd1d81d6d",
-      "who": "sbrannen@pivotal.io",
+      "who": "Sam Brannen <sbrannen@pivotal.io>",
       "when": "2019-04-10T22:00:19+02:00",
       "all": 55,
       "test": 0,
@@ -128,7 +164,7 @@
     },
     {
       "id": "ac0f6dc379c30a3c821dfbffc73f95732734b6b1",
-      "who": "diego.cirujano-cuesta@zeiss.com",
+      "who": "Diego Cirujano Cuesta <diego.cirujano-cuesta@zeiss.com>",
       "when": "2019-04-10T18:33:58+02:00",
       "all": 137,
       "test": 85,
@@ -136,8 +172,53 @@
       "pct": 70.8
     },
     {
+      "id": "b1c66e4a2124aa217bda6fc4a4ae4a15bc8edf22",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2019-04-07T20:45:27+02:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "75907415611e1a8a9bc3e9476231a0d77bc7a23a",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2019-04-07T20:35:34+02:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "bbf9a73f364a52a018a04fc24861cb6232d43f63",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2019-04-07T19:27:24+02:00",
+      "all": 20,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c0b6c5d75d038fb8c1de62f2d5ffc336fc54901b",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2019-04-07T16:52:51+02:00",
+      "all": 38,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "4609ac7046d7ddbf496eedbbec2e1aa71345f491",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2019-04-07T16:49:31+02:00",
+      "all": 4,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "f9c509d3616c06b34bcadc1822e9f482ea3bc61c",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2019-04-04T17:10:03+02:00",
       "all": 130,
       "test": 120,
@@ -146,7 +227,7 @@
     },
     {
       "id": "f0df56e62a9bd0252015016e9159235534ec7efe",
-      "who": "sbrannen@pivotal.io",
+      "who": "Sam Brannen <sbrannen@pivotal.io>",
       "when": "2019-04-07T14:41:34+02:00",
       "all": 60,
       "test": 9,
@@ -155,7 +236,7 @@
     },
     {
       "id": "732c38c564586a6cfef45b01f3a475523aa7f118",
-      "who": "simon.schrottner@gmail.com",
+      "who": "Simon Schrottner <simon.schrottner@gmail.com>",
       "when": "2019-04-07T14:10:53+02:00",
       "all": 125,
       "test": 44,
@@ -163,8 +244,35 @@
       "pct": 37.0
     },
     {
+      "id": "c0dce69f1e48ba818637f992697b1829f720ce40",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2019-04-06T23:53:04+02:00",
+      "all": 72,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "6b2a8b83535279ffe817feb756f551866bf6f168",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2019-04-06T21:27:16+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "8299e439b97f466d83a34db371b265dd265a1267",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2019-04-05T06:34:46+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "06eeceb0978dd1059f7dd9ffd15c7552d7ad7553",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2019-04-04T17:10:03+02:00",
       "all": 130,
       "test": 120,

@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "2150a8f9d1373770a6a27258de1c1ffecb90fd21",
-      "who": "radokirov@google.com",
+      "who": "Rado Kirov <radokirov@google.com>",
       "when": "2015-07-29T16:16:45-07:00",
       "all": 191,
       "test": 54,
@@ -11,7 +11,7 @@
     },
     {
       "id": "166688348a588bea41c42b0a1c5a37dcdca9afdf",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2015-07-29T18:34:02+02:00",
       "all": 108,
       "test": 105,
@@ -20,7 +20,7 @@
     },
     {
       "id": "f6da89f74f8681def66deecce0e42b094cd3a932",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2015-07-29T06:50:18+01:00",
       "all": 13,
       "test": 0,
@@ -29,7 +29,7 @@
     },
     {
       "id": "3c58878b19b015b14d2d223a063efc25ea7f1419",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2015-07-29T20:09:54-07:00",
       "all": 313,
       "test": 70,
@@ -38,7 +38,7 @@
     },
     {
       "id": "3cda7128d0a74661511390f4713682973e63b1fc",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2015-07-29T15:01:22-07:00",
       "all": 279,
       "test": 110,
@@ -47,7 +47,7 @@
     },
     {
       "id": "70bc485755e4bc65c27c2fa8998618cb780ac931",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2015-07-29T16:02:14+02:00",
       "all": 5,
       "test": 0,
@@ -56,7 +56,7 @@
     },
     {
       "id": "985627bd651245455d4a955cb78d992691507775",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2015-07-29T11:26:09-07:00",
       "all": 541,
       "test": 161,
@@ -64,8 +64,26 @@
       "pct": 31.1
     },
     {
+      "id": "a9ec6b9064628fb4ec9ac2b8de928bf262137230",
+      "who": "vsavkin <avix1000@gmail.com>",
+      "when": "2015-07-29T16:32:42-07:00",
+      "all": 241,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "f5864afdbb74952bc7924f151fbf4a824873e649",
+      "who": "vsavkin <avix1000@gmail.com>",
+      "when": "2015-07-29T16:32:09-07:00",
+      "all": 343,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "9e7363f6861dbab1cfa894d6ab06ff278595b859",
-      "who": "tjblasi@google.com",
+      "who": "Tim Blasi <tjblasi@google.com>",
       "when": "2015-07-29T15:34:56-07:00",
       "all": 13,
       "test": 0,
@@ -74,7 +92,7 @@
     },
     {
       "id": "0dbdd5cd3c9aa851129c60e44c77c7c3f407956f",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-07-29T17:41:09-07:00",
       "all": 304,
       "test": 218,
@@ -83,7 +101,7 @@
     },
     {
       "id": "c08403935f2ecf44c50500acf207ddf2a9fd580d",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2015-07-29T17:00:54-07:00",
       "all": 53,
       "test": 0,
@@ -91,8 +109,17 @@
       "pct": 0.0
     },
     {
+      "id": "68a581a04ce4afbc3598ba283adb9e713c8dac55",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2015-07-29T14:28:14-07:00",
+      "all": 53,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "8e960d40529807410ef78d59a0ea474dd08699a8",
-      "who": "radokirov@google.com",
+      "who": "Rado Kirov <radokirov@google.com>",
       "when": "2015-07-29T13:44:39-07:00",
       "all": 2050,
       "test": 0,
@@ -101,7 +128,7 @@
     },
     {
       "id": "9c19eb906bdb738c97e0f70720805a2c8962db7e",
-      "who": "tjblasi@google.com",
+      "who": "Tim Blasi <tjblasi@google.com>",
       "when": "2015-07-29T10:43:07-07:00",
       "all": 223,
       "test": 0,
@@ -110,12 +137,21 @@
     },
     {
       "id": "d894aa9101d5662758c4ad4d66d8f1be9fc562a4",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2015-07-29T14:01:18+02:00",
       "all": 202,
       "test": 92,
       "testable": 191,
       "pct": 48.2
+    },
+    {
+      "id": "e40ff3683283d0704b1688c8f6b032286c097f9c",
+      "who": "Misko Hevery <misko@hevery.com>",
+      "when": "2015-07-29T03:39:43+00:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

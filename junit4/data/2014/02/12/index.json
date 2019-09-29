@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "15bd929c08059a6c7bf83363e9b84d116ef46540",
-      "who": "dhasday@gmail.com",
+      "who": "dhasday <dhasday@gmail.com>",
       "when": "2014-02-12T00:07:06-05:00",
       "all": 86,
       "test": 11,
@@ -10,13 +10,31 @@
       "pct": 12.8
     },
     {
+      "id": "a490b635abd4d49d85ce2a2c057988c64efead8a",
+      "who": "Joseph Walton <joe@kafsemo.org>",
+      "when": "2014-02-12T23:21:43+11:00",
+      "all": 58,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "ecd5f06988192bffed1ea4c94691e5f42347bfd9",
-      "who": "reinholdfuereder@gmx.at",
+      "who": "Reinhold F\u00c3\u00bcreder <reinholdfuereder@gmx.at>",
       "when": "2014-02-12T02:41:13-08:00",
       "all": 37,
       "test": 6,
       "testable": 37,
       "pct": 16.2
+    },
+    {
+      "id": "0733bbffdadf05a6ebe0c38942904071a4060af4",
+      "who": "Reinhold F\u00c3\u00bcreder <reinholdfuereder@gmx.at>",
+      "when": "2014-02-12T02:26:05-08:00",
+      "all": 27,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 4 (master branch)",

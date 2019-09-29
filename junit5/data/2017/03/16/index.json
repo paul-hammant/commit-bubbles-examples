@@ -2,12 +2,39 @@
   "commits": [
     {
       "id": "8b1c4900486de9fed6dc7dd19800f5675cf22e0d",
-      "who": "sormuras@gmail.com",
+      "who": "Christian Stein <sormuras@gmail.com>",
       "when": "2017-03-16T18:50:47+01:00",
       "all": 37,
       "test": 23,
       "testable": 31,
       "pct": 74.2
+    },
+    {
+      "id": "3cc80723fec2be693a46c212c1e87cf68899321c",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2017-03-16T22:33:36+01:00",
+      "all": 78,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "ac06e856a50e05f619a00d22a75290b87b131963",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2017-03-16T22:32:50+01:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "5f4c4d09782ee4dabe19894c529155cdf4a03c0c",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2017-03-16T22:15:02+01:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "0da5c1f576d3b9abe78c470040ab730636e7aee2",
-      "who": "sormuras@gmail.com",
+      "who": "Christian Stein <sormuras@gmail.com>",
       "when": "2019-09-27T13:35:47+02:00",
       "all": 9,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "fe62243fa6b8d61a42987e8b0b64fe9b15d625fe",
-      "who": "sormuras@gmail.com",
+      "who": "Christian Stein <sormuras@gmail.com>",
       "when": "2019-09-27T13:19:31+02:00",
       "all": 6,
       "test": 0,
@@ -20,12 +20,30 @@
     },
     {
       "id": "9baadd91bb749205a40501a89f83b5498f5243a4",
-      "who": "jan.schmitz1989@gmail.com",
+      "who": "Jan Schmitz <jan.schmitz1989@gmail.com>",
       "when": "2019-09-27T13:09:16+02:00",
       "all": 160,
       "test": 39,
       "testable": 134,
       "pct": 29.1
+    },
+    {
+      "id": "48cf2ceec687275cef024c4c5b2f1d193a5dbe20",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2019-09-27T11:44:50+02:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "051f5086a06a81d0080bfaecc49f79844990cd40",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2019-09-27T11:42:26+02:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

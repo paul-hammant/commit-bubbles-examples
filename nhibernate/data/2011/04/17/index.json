@@ -2,12 +2,30 @@
   "commits": [
     {
       "id": "88dd5b081eeb151c2929e9bf1c0d0e51b2594085",
-      "who": "patearl@patearl.net",
+      "who": "Patrick Earl <patearl@patearl.net>",
       "when": "2011-04-17T22:28:45+00:00",
       "all": 144,
       "test": 127,
       "testable": 144,
       "pct": 88.2
+    },
+    {
+      "id": "0b798c89cb70b4eb77deaaccbb525b30ee6fb90f",
+      "who": "Fabio Maulo <fabiomaulo@gmail.com>",
+      "when": "2011-04-17T12:03:53+00:00",
+      "all": 19,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "5d9b802069beac52a9bfc3a38ca20178c5334cf1",
+      "who": "Fabio Maulo <fabiomaulo@gmail.com>",
+      "when": "2011-04-17T11:49:43+00:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "NHibernate (master branch)",

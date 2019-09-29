@@ -1,8 +1,35 @@
 {
   "commits": [
     {
+      "id": "61717ac0951d825084c9261d509161d947fe4603",
+      "who": "Saurabh Jha <saurabh.jhaa@gmail.com>",
+      "when": "2015-11-26T18:36:35+05:30",
+      "all": 31,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "0f10b16202ccdd1e0c176f790d0b4e70bc9598fb",
+      "who": "Saurabh Jha <saurabh.jhaa@gmail.com>",
+      "when": "2015-11-18T22:38:53+05:30",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "90a3647c9c3d1657c2d2d1d3ff9413789fc43c29",
+      "who": "Saurabh Jha <saurabh.jhaa@gmail.com>",
+      "when": "2015-11-15T20:03:18+05:30",
+      "all": 33,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "fceaa46dda37a2d4db4e0a48cc1dab3fe208cb2c",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-28T09:28:35+01:00",
       "all": 22,
       "test": 22,
@@ -11,7 +38,7 @@
     },
     {
       "id": "96628cc40df778716b70f4b661ceb1bd329591dd",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-28T09:05:41+01:00",
       "all": 8,
       "test": 0,
@@ -20,7 +47,7 @@
     },
     {
       "id": "e6a51174263d2501a8c35baa9a5773b2da9d00bf",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-27T16:17:21+01:00",
       "all": 3,
       "test": 0,
@@ -29,16 +56,16 @@
     },
     {
       "id": "c2c68c50eff0de927a66606512d26bb659f8bfef",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-27T16:12:23+01:00",
-      "all": 9,
+      "all": 0,
       "test": 0,
-      "testable": 9,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "da82723858215e1b42c9b5b744e082418644d7d8",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-27T16:05:52+01:00",
       "all": 9,
       "test": 0,
@@ -47,16 +74,16 @@
     },
     {
       "id": "816441865bbcc0ff6a4ae0d8f2e382ecbff1facb",
-      "who": "antirez@gmail.com",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
       "when": "2015-11-27T15:46:16+01:00",
-      "all": 9,
+      "all": 0,
       "test": 0,
-      "testable": 9,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "36801f7e43089bc3051e4732b38c4cfa65e92caf",
-      "who": "itamar@garantiadata.com",
+      "who": "Itamar Haber <itamar@garantiadata.com>",
       "when": "2015-11-27T15:55:38+02:00",
       "all": 9,
       "test": 0,
@@ -65,7 +92,7 @@
     },
     {
       "id": "a0d41e51c24bd2299d3e46a2164fc5408de220dc",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-27T08:59:17+01:00",
       "all": 5,
       "test": 0,
@@ -74,7 +101,7 @@
     },
     {
       "id": "4d625bb4c80965c5b90fb01c1c1639b0e9b49059",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-20T15:45:25+01:00",
       "all": 114,
       "test": 0,
@@ -83,7 +110,7 @@
     },
     {
       "id": "4b0b28b4694067fef56d7bb9bd09efdaf02ca032",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-18T10:23:49+01:00",
       "all": 43,
       "test": 0,
@@ -92,7 +119,7 @@
     },
     {
       "id": "1f35f2dd5ace63862ecd819c4d28f8d844720df1",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-17T16:24:23+01:00",
       "all": 12,
       "test": 0,
@@ -101,7 +128,7 @@
     },
     {
       "id": "6604e04260b1b6b17afcec9e54d20cda041751b1",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-17T13:15:48+01:00",
       "all": 5,
       "test": 0,
@@ -110,7 +137,7 @@
     },
     {
       "id": "58573f1dd2d6d3cfd5dbaea7484c55571f856b3b",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-17T12:11:13+01:00",
       "all": 119,
       "test": 0,
@@ -119,7 +146,7 @@
     },
     {
       "id": "0cc19174f98947bfc7c1002c80f53d6952193231",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-16T16:20:02+01:00",
       "all": 71,
       "test": 0,
@@ -128,7 +155,7 @@
     },
     {
       "id": "c560c645e9d79df607c829de64b86d0513b8a08c",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-16T13:58:17+01:00",
       "all": 25,
       "test": 0,
@@ -137,7 +164,7 @@
     },
     {
       "id": "22959e07dc54370564b21f94c62f926a48c0cfe0",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-16T13:23:29+01:00",
       "all": 16,
       "test": 0,
@@ -146,7 +173,7 @@
     },
     {
       "id": "70a51694deff3a27f8cacb195a96fe5aa68eb943",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-16T12:43:44+01:00",
       "all": 40,
       "test": 0,
@@ -155,7 +182,7 @@
     },
     {
       "id": "fb53459ce8053d0345fe2ef663fb681d25307855",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-16T12:26:02+01:00",
       "all": 19,
       "test": 0,
@@ -164,7 +191,7 @@
     },
     {
       "id": "6de2306add95460a488d76e57b5cf2b5db17d5da",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-16T12:07:08+01:00",
       "all": 8,
       "test": 0,
@@ -173,7 +200,7 @@
     },
     {
       "id": "e57cccdefbbac1bef7b397d65df6a353bd9cfeee",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-16T10:29:35+01:00",
       "all": 41,
       "test": 0,
@@ -182,7 +209,7 @@
     },
     {
       "id": "34aadf79c333527da4a188bc3470ce6cacd7a13b",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-14T22:18:02+01:00",
       "all": 3,
       "test": 0,
@@ -191,7 +218,7 @@
     },
     {
       "id": "3d24cd6bf802eb4a198620f0c9e9cc6985604bb6",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-14T22:16:15+01:00",
       "all": 2,
       "test": 0,
@@ -200,7 +227,7 @@
     },
     {
       "id": "333547dab6928380be70f612aadf18f48a3cb1b4",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-14T22:13:32+01:00",
       "all": 14,
       "test": 0,
@@ -209,7 +236,7 @@
     },
     {
       "id": "01636435fae33d3c43b23bd376f0d4634a7294a8",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-13T13:11:31+01:00",
       "all": 6,
       "test": 0,
@@ -218,7 +245,7 @@
     },
     {
       "id": "d99ce09343a4abe99aa4c3b6f18a349adea42196",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-13T10:18:32+01:00",
       "all": 2,
       "test": 0,
@@ -227,7 +254,7 @@
     },
     {
       "id": "87672adee2c282ad9d6a989f4401094fda90ebba",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-13T10:17:34+01:00",
       "all": 27,
       "test": 0,
@@ -236,7 +263,7 @@
     },
     {
       "id": "7be917058560c2281a1ee891cb6ff6a7b8de345b",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-13T09:31:01+01:00",
       "all": 59,
       "test": 0,
@@ -245,7 +272,7 @@
     },
     {
       "id": "3ab0b4d6d045a35a1b587acf6569a8a303fc09a5",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-12T12:59:19+01:00",
       "all": 3,
       "test": 0,
@@ -254,7 +281,7 @@
     },
     {
       "id": "56d9bb8c554b3d8f64d6a5c6c77c9287dabf541b",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-12T11:21:20+01:00",
       "all": 9,
       "test": 0,
@@ -263,7 +290,7 @@
     },
     {
       "id": "e386cd8ccf9698a8218208e75528a460cb4cc277",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-12T08:48:59+01:00",
       "all": 34,
       "test": 0,
@@ -272,7 +299,7 @@
     },
     {
       "id": "7492237c3ce377f7d8983b6a2943808cf05c1bea",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-12T08:33:52+01:00",
       "all": 61,
       "test": 0,
@@ -281,7 +308,7 @@
     },
     {
       "id": "23a4d70e56a9b486cbe9cb11a590f5b6a6267885",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-11T23:29:43+01:00",
       "all": 2,
       "test": 0,
@@ -290,7 +317,7 @@
     },
     {
       "id": "cd112db0ae0e30d2005680b62509a1e517b3612a",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-11T23:07:57+01:00",
       "all": 3,
       "test": 0,
@@ -299,7 +326,7 @@
     },
     {
       "id": "a076e421e9ac3401b35557d259e8e59961ff29a0",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-11T22:56:38+01:00",
       "all": 28,
       "test": 0,
@@ -308,7 +335,7 @@
     },
     {
       "id": "e6eb6eadec7e34df82e2a5bd502fe9c3487d7e61",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-11T22:29:56+01:00",
       "all": 18,
       "test": 0,
@@ -317,7 +344,7 @@
     },
     {
       "id": "1f8fdafe65c8c19a94dc886b2cfc3f5de806c728",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-11T19:46:55+01:00",
       "all": 89,
       "test": 0,
@@ -326,7 +353,7 @@
     },
     {
       "id": "f4805800dcf2c6a8b298edecb97d80d52838e03f",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-11T10:43:00+01:00",
       "all": 13,
       "test": 0,
@@ -335,7 +362,7 @@
     },
     {
       "id": "36392dd86732587ee01516f51de49a3cdc634652",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-11T10:34:05+01:00",
       "all": 4,
       "test": 0,
@@ -344,7 +371,7 @@
     },
     {
       "id": "3a04cb05eea3799a3f10ec97745c172aeebef071",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-11T10:28:35+01:00",
       "all": 30,
       "test": 0,
@@ -353,7 +380,7 @@
     },
     {
       "id": "cf4700bda4929d8d952df16bdd3ca73019d15249",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-11T10:15:26+01:00",
       "all": 242,
       "test": 0,
@@ -362,7 +389,7 @@
     },
     {
       "id": "1f8d6144237e10fe91b71b883578a0083b95920c",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-10T11:45:59+01:00",
       "all": 162,
       "test": 0,
@@ -371,7 +398,7 @@
     },
     {
       "id": "5c4f492844d50c29ebf303bc9bd52c6db07fe377",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-10T09:40:38+01:00",
       "all": 93,
       "test": 0,
@@ -380,7 +407,7 @@
     },
     {
       "id": "5417217c873b5d7a0cf94edabc1e0a5371fa7578",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-09T17:01:41+01:00",
       "all": 91,
       "test": 0,
@@ -389,7 +416,7 @@
     },
     {
       "id": "d3d1fa9437314082b3e18dedd48c768e097a9d61",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-09T11:08:57+01:00",
       "all": 186,
       "test": 0,
@@ -398,7 +425,7 @@
     },
     {
       "id": "c494db89b5c2ef34758f599ee46ac7265782ad77",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-06T16:19:59+01:00",
       "all": 232,
       "test": 0,
@@ -407,7 +434,7 @@
     },
     {
       "id": "7cfdccd94e873c1f350b111332c0cb66b1e65f43",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-17T15:40:47+01:00",
       "all": 3,
       "test": 0,
@@ -416,7 +443,7 @@
     },
     {
       "id": "f3dd472e978d8db7b4ce368bd295fd8fc3af7c0c",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-17T15:38:34+01:00",
       "all": 194,
       "test": 0,
@@ -425,7 +452,7 @@
     },
     {
       "id": "0cb66fa156943dbae32a0ad86241a6e201f80fec",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-17T15:33:09+01:00",
       "all": 3,
       "test": 0,
@@ -434,7 +461,7 @@
     },
     {
       "id": "8a0258aa4374212d8bf7004fa9022f821f6c93ed",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-13T09:32:07+01:00",
       "all": 7,
       "test": 0,
@@ -443,7 +470,7 @@
     },
     {
       "id": "54f5ecfd49a2430046eb85860a73d1b2bfcd64e5",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-10T13:31:25+01:00",
       "all": 41,
       "test": 0,
@@ -452,16 +479,16 @@
     },
     {
       "id": "c950facf43cb6bf6f8696da39927b513e0be5aa1",
-      "who": "antirez@gmail.com",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
       "when": "2015-11-09T18:06:41+01:00",
-      "all": 2,
+      "all": 0,
       "test": 0,
-      "testable": 2,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "87a12a608512603a56851507b75bb43e55abcca2",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-09T17:26:56+01:00",
       "all": 17,
       "test": 0,
@@ -470,7 +497,7 @@
     },
     {
       "id": "b719eedfc6db1aa34cc89e8f771189a344a03e23",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-09T17:07:46+01:00",
       "all": 3,
       "test": 0,
@@ -479,7 +506,7 @@
     },
     {
       "id": "1b5d24eb2b8f5ef26c6067c895fcb5ebb89a991b",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-09T11:43:18+01:00",
       "all": 24,
       "test": 0,
@@ -488,7 +515,7 @@
     },
     {
       "id": "111d24f2465a41ddc100a11549dab3f0cd5ddc1b",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-09T11:10:53+01:00",
       "all": 3,
       "test": 0,
@@ -497,7 +524,7 @@
     },
     {
       "id": "cd8f19e9ca1f1e2e2a1015fa1c87979448685ddd",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-05T11:10:46+01:00",
       "all": 48,
       "test": 0,
@@ -506,7 +533,7 @@
     },
     {
       "id": "9aa1f94449652c4dcad6d8038967a619857f2bf2",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-05T10:36:52+01:00",
       "all": 339,
       "test": 0,
@@ -515,7 +542,7 @@
     },
     {
       "id": "71aa9b75f2c4dd6faa20a4849ff732536bdfceab",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-04T17:16:34+01:00",
       "all": 19,
       "test": 0,
@@ -524,7 +551,7 @@
     },
     {
       "id": "f6255703b0bd4996ab2278e1253796468aed108a",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-04T17:02:34+01:00",
       "all": 8,
       "test": 8,
@@ -532,8 +559,89 @@
       "pct": 100.0
     },
     {
+      "id": "de776a402f96e0ec0f93b886cc6d8e3c0e6f76ea",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
+      "when": "2015-11-04T12:59:11+01:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "dfe90acbd58b5cd62f32a9823c29ac5c53b42b26",
+      "who": "antirez <antirez@gmail.com>",
+      "when": "2015-11-04T12:58:26+01:00",
+      "all": 18,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "8bc8f6f6955a895819ff303fd96a7b2e03856d3f",
+      "who": "Joe Pettersson <joe@8-bit.co.uk>",
+      "when": "2015-11-04T11:54:50+00:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "462026ceb74415752a15e0ce90c05b0331026071",
+      "who": "antirez <antirez@gmail.com>",
+      "when": "2015-11-04T12:52:37+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "73510f4e3802d4ed5a398e606396110c6ae2f2d9",
+      "who": "antirez <antirez@gmail.com>",
+      "when": "2015-11-04T12:51:45+01:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "b9fb24014af9e96d0af43042799947254b55d6a6",
+      "who": "antirez <antirez@gmail.com>",
+      "when": "2015-11-04T12:50:32+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "8badf160b66d84b6eb16dea80ce2b3d1f265091a",
+      "who": "antirez <antirez@gmail.com>",
+      "when": "2015-11-04T12:44:36+01:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d80d051792280bed846b3afa8da35f6fd1251c4f",
+      "who": "antirez <antirez@gmail.com>",
+      "when": "2015-11-04T12:41:54+01:00",
+      "all": 13,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "15d57c35c3122606187be2fb7da22d081e444474",
+      "who": "antirez <antirez@gmail.com>",
+      "when": "2015-11-04T12:29:54+01:00",
+      "all": 260,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "35afefc7cbdb903fad41ce24908dfc849b6c2f5d",
-      "who": "janerik@fnordig.de",
+      "who": "Jan-Erik Rediger <janerik@fnordig.de>",
       "when": "2015-11-04T11:48:14+01:00",
       "all": 2,
       "test": 0,
@@ -542,7 +650,7 @@
     },
     {
       "id": "30b324698f9ff0c3b49357d2e1977c1f4fa83063",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2015-11-03T19:03:09+01:00",
       "all": 20,
       "test": 20,

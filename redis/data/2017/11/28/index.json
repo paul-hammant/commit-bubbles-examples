@@ -1,44 +1,80 @@
 {
   "commits": [
     {
-      "id": "565e139a5631a777254e222d1c50ea6d696e1a8e",
-      "who": "antirez@gmail.com",
-      "when": "2017-11-28T18:44:11+01:00",
-      "all": 3,
+      "id": "51d42c88a66edbb5b923fa68c1e78fa11f8bc3c3",
+      "who": "Itamar Haber <itamar@redislabs.com>",
+      "when": "2017-11-28T21:28:40+02:00",
+      "all": 0,
       "test": 0,
-      "testable": 3,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "565e139a5631a777254e222d1c50ea6d696e1a8e",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
+      "when": "2017-11-28T18:44:11+01:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "b998e2035c1de289779aa4ca875c6bdd4148be09",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
+      "when": "2017-11-28T18:43:45+01:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "923502a70b08a9635e857bd7f09c1601bd59a5c4",
-      "who": "antirez@gmail.com",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
       "when": "2017-11-28T18:41:51+01:00",
-      "all": 3,
+      "all": 0,
       "test": 0,
-      "testable": 3,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "26826329f530d068096796b8b972106f266eb738",
-      "who": "antirez@gmail.com",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
       "when": "2017-11-28T18:41:28+01:00",
-      "all": 3,
+      "all": 0,
       "test": 0,
-      "testable": 3,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "3508b9c44073e9fba47a57573e657471d13bd6dc",
-      "who": "antirez@gmail.com",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
       "when": "2017-11-28T18:40:43+01:00",
-      "all": 3,
+      "all": 0,
       "test": 0,
-      "testable": 3,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "4e55df4b5c1be4ecf30e013692ac327b5f3471e9",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
+      "when": "2017-11-28T18:40:02+01:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "ad171f5ce0762efa0e1de082f8431c892eaab68f",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
+      "when": "2017-11-28T18:39:43+01:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "851e9fc48b5155de9fb47f0185b3523b59373a97",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2017-11-28T18:38:49+01:00",
       "all": 5,
       "test": 0,
@@ -47,16 +83,16 @@
     },
     {
       "id": "aeee039a87e5515e8bb68836451c69b0d7839523",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2017-11-28T18:27:35+01:00",
-      "all": 3,
-      "test": 3,
-      "testable": 3,
-      "pct": 100.0
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "c44732ac58befabf0d6f72f2dae0005ffef7d3c4",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2017-11-28T18:25:14+01:00",
       "all": 3,
       "test": 0,
@@ -65,34 +101,34 @@
     },
     {
       "id": "c3806f5b7238b1e11e4b48b8bfb22a8dd0d36c1f",
-      "who": "antirez@gmail.com",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
       "when": "2017-11-28T18:08:32+01:00",
-      "all": 3,
-      "test": 3,
-      "testable": 3,
-      "pct": 100.0
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "a13106e0014644d71bf3aaa577a4a0cce87bf6ed",
-      "who": "antirez@gmail.com",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
       "when": "2017-11-28T17:33:23+01:00",
-      "all": 10,
+      "all": 0,
       "test": 0,
-      "testable": 10,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "bf71b120f10edbefb91fa1c12c9ab1e264e56289",
-      "who": "antirez@gmail.com",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
       "when": "2017-11-28T17:23:48+01:00",
-      "all": 14,
+      "all": 0,
       "test": 0,
-      "testable": 14,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "8c7f90e91e1e6324db8a1e9ca20e3dc95ce049d0",
-      "who": "itamar@redislabs.com",
+      "who": "Itamar Haber <itamar@redislabs.com>",
       "when": "2017-11-28T18:18:45+02:00",
       "all": 9,
       "test": 0,

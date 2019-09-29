@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "e9974497e7e72d175cd0b3c832ffb6b464a11590",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-02-17T21:42:21+01:00",
       "all": 15,
       "test": 5,
@@ -11,7 +11,7 @@
     },
     {
       "id": "6b13ad61bf30001847abcd3757010e5de0775aec",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-02-17T21:29:32+01:00",
       "all": 138,
       "test": 64,
@@ -20,12 +20,21 @@
     },
     {
       "id": "88d2dd2a6b80fee4593ffae67f0c0cb1dfd43dfd",
-      "who": "smoyer@psu.edu",
+      "who": "Steve Moyer <smoyer@psu.edu>",
       "when": "2017-02-17T17:35:07-05:00",
       "all": 80,
       "test": 55,
       "testable": 80,
       "pct": 68.8
+    },
+    {
+      "id": "c4a87054978eb31abd0268ecf798b5e3186db4f4",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2017-02-17T15:38:47+01:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

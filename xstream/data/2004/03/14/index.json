@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "4bbbe571c08774ff7595519698b7f619e2094700",
-      "who": "joe@truemesh.com",
+      "who": "Joe Walnes <joe@truemesh.com>",
       "when": "2004-03-14T23:02:37+00:00",
       "all": 196,
       "test": 82,
@@ -11,7 +11,7 @@
     },
     {
       "id": "b6c1329285534ee69017c9a5aaea376ceb6cfa56",
-      "who": "joe@truemesh.com",
+      "who": "Joe Walnes <joe@truemesh.com>",
       "when": "2004-03-14T21:41:45+00:00",
       "all": 184,
       "test": 0,
@@ -20,7 +20,7 @@
     },
     {
       "id": "44e4e761a0a99e78be9fa2d1448a0d7a3d231202",
-      "who": "joe@truemesh.com",
+      "who": "Joe Walnes <joe@truemesh.com>",
       "when": "2004-03-14T21:14:51+00:00",
       "all": 56,
       "test": 3,
@@ -29,7 +29,7 @@
     },
     {
       "id": "e2e10757cb0ff639647435e6a51f43712695a99b",
-      "who": "joe@truemesh.com",
+      "who": "Joe Walnes <joe@truemesh.com>",
       "when": "2004-03-14T20:54:26+00:00",
       "all": 62,
       "test": 0,
@@ -38,7 +38,7 @@
     },
     {
       "id": "bd1cc2ef35fb19788651af93b5dd8766bcf6790e",
-      "who": "joe@truemesh.com",
+      "who": "Joe Walnes <joe@truemesh.com>",
       "when": "2004-03-14T17:58:05+00:00",
       "all": 8,
       "test": 0,
@@ -47,7 +47,7 @@
     },
     {
       "id": "967436073b310fcb576244ef7ee1a86e0a7be124",
-      "who": "joe@truemesh.com",
+      "who": "Joe Walnes <joe@truemesh.com>",
       "when": "2004-03-14T17:56:56+00:00",
       "all": 11,
       "test": 0,
@@ -55,8 +55,17 @@
       "pct": 0.0
     },
     {
+      "id": "1183401ba9ffeec3871451eb4957ee1bf174ba4f",
+      "who": "Bob McWhirter <bob@codehaus.org>",
+      "when": "2004-03-14T17:56:53+00:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "f981cca386cf30b28286d383ccfd6ce4aaffc239",
-      "who": "joe@truemesh.com",
+      "who": "Joe Walnes <joe@truemesh.com>",
       "when": "2004-03-14T17:55:47+00:00",
       "all": 16,
       "test": 0,
@@ -65,12 +74,39 @@
     },
     {
       "id": "8ab3a0985e078a8ac7875e5f34fcfd6cd62ba2ca",
-      "who": "joe@truemesh.com",
+      "who": "Joe Walnes <joe@truemesh.com>",
       "when": "2004-03-14T17:53:20+00:00",
       "all": 142,
       "test": 73,
       "testable": 142,
       "pct": 51.4
+    },
+    {
+      "id": "f82ab9a4865781b03c2bbe3e591b7f397a04cdc5",
+      "who": "Bob McWhirter <bob@codehaus.org>",
+      "when": "2004-03-14T17:51:17+00:00",
+      "all": 119,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c1bf9e08e82c5358b51be8bad7b5e9414f47dc34",
+      "who": "Bob McWhirter <bob@codehaus.org>",
+      "when": "2004-03-14T17:51:17+00:00",
+      "all": 58,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "2aae0ecebb4bc8451c3481b42556749a37fc2559",
+      "who": "Joe Walnes <joe@truemesh.com>",
+      "when": "2004-03-14T17:23:48+00:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "XStream (master branch)",

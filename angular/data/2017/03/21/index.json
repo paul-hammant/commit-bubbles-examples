@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "c58499786cba7b7cfb37f43bc20c22342a767b77",
-      "who": "chuckj@google.com",
+      "who": "Chuck Jazdzewski <chuckj@google.com>",
       "when": "2017-03-21T16:52:21-07:00",
       "all": 31,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "1bcbcfd56f74b287de18e3d45e6055894783e52c",
-      "who": "kalpakas.g@gmail.com",
+      "who": "Georgios Kalpakas <kalpakas.g@gmail.com>",
       "when": "2017-03-21T15:46:20+02:00",
       "all": 339,
       "test": 0,
@@ -20,7 +20,7 @@
     },
     {
       "id": "bac265fdc262844b2e9ea2b6240908f13febde0d",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2017-03-21T13:36:42-07:00",
       "all": 100,
       "test": 0,
@@ -28,8 +28,17 @@
       "pct": 0.0
     },
     {
+      "id": "e59e5e24b931bc85fa1fceef0e202cecb924964f",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2017-03-21T08:31:46-07:00",
+      "all": 12,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "9e5d4781cb1712c78899449738eb309b902c6d25",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2017-03-21T08:27:18-07:00",
       "all": 76,
       "test": 2,
@@ -38,7 +47,7 @@
     },
     {
       "id": "fc1f6efe0d8106220d586b447e9cd0c90ebe9e95",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2017-03-21T07:02:58+00:00",
       "all": 56,
       "test": 0,
@@ -47,7 +56,7 @@
     },
     {
       "id": "a9e91115bf6d3523ef8731c90a790b701c98c00b",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2017-03-21T11:27:53+00:00",
       "all": 12,
       "test": 0,
@@ -56,7 +65,7 @@
     },
     {
       "id": "90f699fdcf6e36df64c374d32084a94f35c9946a",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2017-03-21T11:27:39+00:00",
       "all": 3,
       "test": 0,
@@ -65,7 +74,7 @@
     },
     {
       "id": "fd7b855cfc9c6ff8c20298d4e8ff2a11e3053434",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2017-03-21T10:57:58+00:00",
       "all": 23,
       "test": 0,
@@ -74,7 +83,7 @@
     },
     {
       "id": "20aab64c652e5d3d8ba4810f26776f70268a76bb",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2017-03-21T06:33:21+00:00",
       "all": 6,
       "test": 0,
@@ -82,8 +91,26 @@
       "pct": 0.0
     },
     {
+      "id": "45e2126273e7ad4daea41bfbdae7f32d006d40cd",
+      "who": "Stefanie Fluin <sjtrimble@gmail.com>",
+      "when": "2017-03-21T18:58:49+11:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "41497b052d4441caccb8a3dc66601c34c056365f",
+      "who": "Stefanie Fluin <sjtrimble@gmail.com>",
+      "when": "2017-03-21T18:02:11+11:00",
+      "all": 46,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "64beae95275eae62e0e26b1ee834ad32cabf2d0d",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2017-03-21T10:44:11-07:00",
       "all": 19,
       "test": 13,
@@ -92,7 +119,7 @@
     },
     {
       "id": "15a082c74ed152ecac4c0ec989667e710bfcbb4e",
-      "who": "alx+alxhub@alxandria.net",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
       "when": "2017-03-21T10:29:13-07:00",
       "all": 37,
       "test": 27,
@@ -101,7 +128,7 @@
     },
     {
       "id": "1e8b132ade6260e229d0b4031fea8dfcd93cf04a",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2017-03-21T08:41:19-07:00",
       "all": 120,
       "test": 36,
@@ -110,7 +137,7 @@
     },
     {
       "id": "431eb309f3648dbc4e04c465fb619804b391f9e2",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2017-03-21T08:15:10-07:00",
       "all": 181,
       "test": 154,

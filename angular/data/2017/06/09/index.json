@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "3097083277954e5f9917aee69ea05d4d8ffd12d0",
-      "who": "chuckj@google.com",
+      "who": "Chuck Jazdzewski <chuckj@google.com>",
       "when": "2017-06-09T14:50:57-07:00",
       "all": 2136,
       "test": 668,
@@ -10,8 +10,17 @@
       "pct": 31.9
     },
     {
+      "id": "ca970f5ee5ff71f16848703a17006faf542c121f",
+      "who": "Yuan Gao <tinagao@google.com>",
+      "when": "2017-06-09T10:24:11-07:00",
+      "all": 8,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "fd6c4e371bb951e4694dc8e62a4757cf15c995b0",
-      "who": "shefalis@ideablade.com",
+      "who": "Shefali Sinha <shefalis@ideablade.com>",
       "when": "2017-06-09T12:07:08-07:00",
       "all": 819,
       "test": 0,
@@ -20,7 +29,7 @@
     },
     {
       "id": "e096a85874eac57308b3437b676bcddde05c79a3",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2017-06-09T18:25:03-07:00",
       "all": 7,
       "test": 0,
@@ -29,7 +38,7 @@
     },
     {
       "id": "38fc2a0055d1af0a4370ce5f65873c13020e4993",
-      "who": "trotyl@qq.com",
+      "who": "Trotyl Yu <trotyl@qq.com>",
       "when": "2017-06-09T16:05:16+08:00",
       "all": 27,
       "test": 0,
@@ -37,8 +46,17 @@
       "pct": 0.0
     },
     {
+      "id": "98308cd79c677d05ce9ffcfc988033db9a2d26a9",
+      "who": "Frederik Prijck <frederik.prijck@gmail.com>",
+      "when": "2017-06-09T21:17:18+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "185075d87098f08e12edd5401628dafb1ae34e35",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2017-06-09T14:39:36-07:00",
       "all": 138,
       "test": 94,
@@ -47,7 +65,7 @@
     },
     {
       "id": "451257a2fd4a4f2ed1301f66f2865c08a5b90125",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2017-06-09T15:22:43-07:00",
       "all": 42,
       "test": 39,
@@ -55,8 +73,62 @@
       "pct": 92.9
     },
     {
+      "id": "c8c0ceeee9ca039bb44be43a33021801865dba6b",
+      "who": "Igor Minar <iminar@google.com>",
+      "when": "2017-06-09T18:32:36-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "afbc2b00820682f5d33e25e3ee250491214aa7dd",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2017-06-09T18:14:13-07:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "69ec1e2e31304a0601863fc06dd5c9c42ac62c79",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2017-06-09T17:25:33-07:00",
+      "all": 98,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "7e22a2fc0bc10351c286d7dbb85f7454f21c0ea5",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2017-06-09T15:46:43-07:00",
+      "all": 53,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "15090a8ad4a23dbe947ec48b581f1bf6a2da411e",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
+      "when": "2017-06-09T16:11:29-07:00",
+      "all": 13,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "8575e3f71ca9009328f480bcd666b291fb479650",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
+      "when": "2017-06-09T16:04:09-07:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "90b0713e32619dc6be70c9b5c91e3c254af39d4c",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2017-06-09T14:00:03-07:00",
       "all": 102,
       "test": 56,
@@ -64,12 +136,75 @@
       "pct": 57.1
     },
     {
+      "id": "d56b7ed96d80f2d4805c07e284f9732cfd66b09f",
+      "who": "Kapunahele Wong <kapunahelewong@gmail.com>",
+      "when": "2017-06-09T17:48:53-04:00",
+      "all": 1557,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "db5e5067a0466d3fe06e935bc0b82679fb33d01a",
+      "who": "Jes\u00c3\u00bas Rodr\u00c3\u00adguez <Foxandxss@gmail.com>",
+      "when": "2017-06-09T23:36:36+02:00",
+      "all": 14,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "0020dad59536d01c9d88e1e7ced2d53bdbd84da2",
-      "who": "Foxandxss@gmail.com",
+      "who": "Jes\u00c3\u00bas Rodr\u00c3\u00adguez <Foxandxss@gmail.com>",
       "when": "2017-06-09T23:35:35+02:00",
       "all": 1819,
       "test": 0,
       "testable": 9,
+      "pct": 0.0
+    },
+    {
+      "id": "3a99af26967640ad2305aad43ed19a2adf636568",
+      "who": "David Herges <dherges@users.noreply.github.com>",
+      "when": "2017-06-09T22:35:23+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "503fd1fbaffdbbb35c9cc7572e22114265fbcf4f",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2017-06-09T12:11:43-07:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "4c74dba2f3147a3822b188caf8f5d04f5bfa22c1",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2017-06-09T12:11:27-07:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "33df13ad65fe5a31c2f94984daaede1190650fe7",
+      "who": "Jes\u00c3\u00bas Rodr\u00c3\u00adguez <Foxandxss@gmail.com>",
+      "when": "2017-06-09T22:31:12+02:00",
+      "all": 123,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "ce18c68ecae915b8fdb32dfc65fe9234c4b5f547",
+      "who": "Georgios Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2017-06-09T21:48:15+03:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     }
   ],

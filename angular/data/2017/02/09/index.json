@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "e4e9dbe33d6d94e3688e98ad340d6fc0ab5d98c1",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2017-02-09T14:59:57-08:00",
       "all": 1771,
       "test": 461,
@@ -11,7 +11,7 @@
     },
     {
       "id": "e5a144d902a507ded381b5979a53559eefa77ed2",
-      "who": "DmitryShilovich@gmail.com",
+      "who": "Dzmitry Shylovich <DmitryShilovich@gmail.com>",
       "when": "2017-02-09T21:22:44+03:00",
       "all": 18,
       "test": 11,
@@ -20,7 +20,7 @@
     },
     {
       "id": "2c6dab970b14cf6a13371f90d31f4411decde405",
-      "who": "DmitryShilovich@gmail.com",
+      "who": "Dzmitry Shylovich <DmitryShilovich@gmail.com>",
       "when": "2017-02-09T12:29:14+03:00",
       "all": 26,
       "test": 9,
@@ -29,7 +29,7 @@
     },
     {
       "id": "9e28568a8f7936ce165d359c21317fdcc0dd1669",
-      "who": "alx+alxhub@alxandria.net",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
       "when": "2017-02-09T14:10:00-08:00",
       "all": 148,
       "test": 37,
@@ -37,8 +37,26 @@
       "pct": 25.0
     },
     {
+      "id": "294c1cd7a750925c7f481845a8aebdb0de566737",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2017-02-09T18:44:47-08:00",
+      "all": 82,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "fafee5a493c2bf673629e0e683acd54054e91b7b",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2017-02-09T18:38:28-08:00",
+      "all": 472,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "56b3b3cbeda35fce0a307175075fcb660c3cac4f",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2017-02-09T13:24:50-08:00",
       "all": 3,
       "test": 0,
@@ -46,8 +64,17 @@
       "pct": 0.0
     },
     {
+      "id": "0dcac966b4bb8adae8c6cf9439a79eac3a9c5cdb",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2017-02-09T09:52:35-08:00",
+      "all": 24,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "6b9aa2ca3dd6cacb8c010406596f715eec6fddbd",
-      "who": "DmitryShilovich@gmail.com",
+      "who": "Dzmitry Shylovich <DmitryShilovich@gmail.com>",
       "when": "2017-02-09T00:18:01+03:00",
       "all": 10,
       "test": 7,
@@ -56,7 +83,7 @@
     },
     {
       "id": "4676df5833941529c8558f607993c4fee50aa9b3",
-      "who": "misko@hevery.com",
+      "who": "Mi\u00c5\u00a1ko Hevery <misko@hevery.com>",
       "when": "2017-02-09T13:31:30-06:00",
       "all": 17,
       "test": 6,
@@ -65,7 +92,7 @@
     },
     {
       "id": "45cc4441540beba041762c7b0435e839df84e6a4",
-      "who": "jasonjean1993@gmail.com",
+      "who": "FrozenPandaz <jasonjean1993@gmail.com>",
       "when": "2017-02-09T16:33:44-05:00",
       "all": 64,
       "test": 0,
@@ -73,13 +100,49 @@
       "pct": 0.0
     },
     {
+      "id": "56e2f84fe8886971963a454ed8c304860c80b4a6",
+      "who": "Igor Minar <iminar@google.com>",
+      "when": "2017-02-09T13:05:04-08:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "600402d440ddfa5ab94527b434745e1236f8ab56",
-      "who": "pete@bacondarwin.com",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
       "when": "2017-02-09T19:58:36+00:00",
       "all": 1421,
       "test": 8,
       "testable": 275,
       "pct": 2.9
+    },
+    {
+      "id": "c871af7b5ae27eb7e8674ebc42ffac4da751f36f",
+      "who": "Mi\u00c5\u00a1ko Hevery <misko@hevery.com>",
+      "when": "2017-02-09T09:36:10-08:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d1feb478a21768c9237501bc1a483fece9dd75f7",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2017-02-09T19:08:16+02:00",
+      "all": 59,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c211ef9b2de78c2580fe792ad2a5dca6411d59fd",
+      "who": "Alex Eagle <eagle@post.harvard.edu>",
+      "when": "2017-02-09T09:06:19-08:00",
+      "all": 65,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

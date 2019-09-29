@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "c0b04ca0bc762bc925434a8762eee74ce999e57e",
-      "who": "rob@jiff.com",
+      "who": "Rob Wormald <rob@jiff.com>",
       "when": "2015-03-23T13:18:05-07:00",
       "all": 86,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "6c60c3e547a66222c1a569118e294e4df72ac8c5",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2015-03-23T14:10:55-07:00",
       "all": 7313,
       "test": 3020,
@@ -20,7 +20,7 @@
     },
     {
       "id": "e81e5fb2b9127c4b93265806b2f2c462c8403127",
-      "who": "ju.ralph@gmail.com",
+      "who": "Julie Ralph <ju.ralph@gmail.com>",
       "when": "2015-03-23T16:46:18-07:00",
       "all": 388,
       "test": 143,
@@ -29,7 +29,7 @@
     },
     {
       "id": "edc3709451c7e72c4d2714fd1ebbd734a793a7b3",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2015-03-23T20:13:02+01:00",
       "all": 35,
       "test": 23,
@@ -38,7 +38,7 @@
     },
     {
       "id": "e706f3477b3bc364cd06994e0a885c169d7c9143",
-      "who": "robwormald@gmail.com",
+      "who": "Rob Wormald <robwormald@gmail.com>",
       "when": "2015-03-23T23:30:53-07:00",
       "all": 2,
       "test": 0,
@@ -47,7 +47,7 @@
     },
     {
       "id": "58dd75a1c8abfa8396ead9b2b1c95dc6c6558668",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2015-03-23T14:13:32+01:00",
       "all": 377,
       "test": 117,
@@ -56,12 +56,21 @@
     },
     {
       "id": "f8e7a37c0d974002343497e52e4f74fde16fcf6b",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-03-23T17:14:12-07:00",
       "all": 73,
       "test": 70,
       "testable": 73,
       "pct": 95.9
+    },
+    {
+      "id": "1c9938ed9868259955b2d12c8ae541bf6dcbf09a",
+      "who": "Yegor Jbanov <yjbanov@google.com>",
+      "when": "2015-03-23T17:14:55-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

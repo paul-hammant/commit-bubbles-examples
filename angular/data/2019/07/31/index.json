@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "c024d894487f8227f3f5683989329ad8610ae239",
-      "who": "pete@bacondarwin.com",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
       "when": "2019-07-31T10:52:38+01:00",
       "all": 17,
       "test": 3,
@@ -10,8 +10,17 @@
       "pct": 20.0
     },
     {
+      "id": "10ea3a9f4dd77e936cd21d3a82416dccdd5d6b9d",
+      "who": "jenniferfell <jenniferfell.sf@gmail.com>",
+      "when": "2019-07-31T18:24:12-06:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "2e4d17f3a9fe856f28f4c5c31d3f914df77faca5",
-      "who": "misko@hevery.com",
+      "who": "Mi\u00c5\u00a1ko Hevery <misko@hevery.com>",
       "when": "2019-07-31T13:15:50-07:00",
       "all": 514,
       "test": 114,
@@ -20,7 +29,7 @@
     },
     {
       "id": "eb5412d76fb1a836f7b6880214f4f57f84d81974",
-      "who": "pete@bacondarwin.com",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
       "when": "2019-07-31T17:11:33+01:00",
       "all": 228,
       "test": 26,
@@ -29,7 +38,7 @@
     },
     {
       "id": "961d663fbef4d6ea2ebb5a60f38799a273fa71ed",
-      "who": "pete@bacondarwin.com",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
       "when": "2019-07-31T12:54:12+01:00",
       "all": 41,
       "test": 33,
@@ -38,7 +47,7 @@
     },
     {
       "id": "7b9891d7cd1744fb5a1f16a4e4f3e46901db41ef",
-      "who": "kyliau@google.com",
+      "who": "Keen Yee Liau <kyliau@google.com>",
       "when": "2019-07-31T10:55:45-07:00",
       "all": 372,
       "test": 75,
@@ -47,12 +56,39 @@
     },
     {
       "id": "184d2707256a41d6b3618331cbfb453d38b49d11",
-      "who": "crisbeto@abv.bg",
+      "who": "Kristiyan Kostadinov <crisbeto@abv.bg>",
       "when": "2019-07-31T07:23:47+03:00",
       "all": 109,
       "test": 60,
       "testable": 109,
       "pct": 55.0
+    },
+    {
+      "id": "adc39752f3b35c89fc48cacdf4c2243cb635930b",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2019-07-31T10:36:14+00:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "76503e65c86f14ab228a75525cde0c123170b988",
+      "who": "Andrew Kushnir <akushnir@google.com>",
+      "when": "2019-07-31T11:04:40-07:00",
+      "all": 93,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "eac993dfceac0646e5f12918f0f5866c5ea6a662",
+      "who": "Andrew Kushnir <akushnir@google.com>",
+      "when": "2019-07-31T10:46:14-07:00",
+      "all": 11,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

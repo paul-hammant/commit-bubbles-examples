@@ -2,12 +2,21 @@
   "commits": [
     {
       "id": "dff15fb145efd34629582e469f657ad64490e22b",
-      "who": "marc@gradle.com",
+      "who": "Marc Philipp <marc@gradle.com>",
       "when": "2018-10-26T21:24:03+02:00",
       "all": 113,
       "test": 35,
       "testable": 109,
       "pct": 32.1
+    },
+    {
+      "id": "e644eb21ecafe240d7538ce44d0fd3aab22943e3",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2018-10-26T16:24:37+02:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

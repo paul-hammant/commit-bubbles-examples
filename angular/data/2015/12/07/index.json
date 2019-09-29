@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "2a2f9a9a196cf1502c3002f14bd42b13a4dcaa53",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-12-07T10:51:01-08:00",
       "all": 763,
       "test": 417,
@@ -11,7 +11,7 @@
     },
     {
       "id": "61e8b60506d357a48d705f901db8a009dab34944",
-      "who": "middlefloor@gmail.com",
+      "who": "Jeff Cross <middlefloor@gmail.com>",
       "when": "2015-12-07T16:38:12-08:00",
       "all": 96,
       "test": 0,
@@ -20,7 +20,7 @@
     },
     {
       "id": "aa85856e1c7f03181066fbf82c5f3c1b2e2ca6c9",
-      "who": "btford@umich.edu",
+      "who": "Brian Ford <btford@umich.edu>",
       "when": "2015-12-07T16:05:57-08:00",
       "all": 160,
       "test": 39,
@@ -28,8 +28,17 @@
       "pct": 24.4
     },
     {
+      "id": "80b025ae53760310e6776dd7897eff4bda5e4a26",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2015-12-07T10:35:10-08:00",
+      "all": 34,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "3a438615c3ba5d06ea7ec96c118f6beba2e77131",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2015-12-07T09:41:01-08:00",
       "all": 22,
       "test": 9,
@@ -38,12 +47,39 @@
     },
     {
       "id": "50490b55eb41e63d6f192a8794c49d75cea822d9",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2015-12-07T18:06:03+01:00",
       "all": 22,
       "test": 14,
       "testable": 22,
       "pct": 63.6
+    },
+    {
+      "id": "86c74cf3f312a788be211025b07d13f8df1fce91",
+      "who": "Rob Wormald <robwormald@gmail.com>",
+      "when": "2015-12-07T14:45:50-08:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "85d89babce4643a1d1a31849711fce0b62187d81",
+      "who": "Julie Ralph <ju.ralph@gmail.com>",
+      "when": "2015-12-07T17:16:17-08:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "ad481694e1c4d8ac48fe3d11970247ca16088eed",
+      "who": "Rob Wormald <robwormald@gmail.com>",
+      "when": "2015-12-07T14:45:50-08:00",
+      "all": 14,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

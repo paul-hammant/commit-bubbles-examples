@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "55a1054a3310fdbf6e7a0c03f9a6ba9366aa2ece",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2015-12-13T22:24:57+01:00",
       "all": 38,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "d920335e85cfee5444fe3d69d12806d999b9f2ec",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2015-12-13T21:52:21+01:00",
       "all": 47,
       "test": 7,
@@ -20,7 +20,7 @@
     },
     {
       "id": "cfefe1e65034c5e66e0fbcb503fe8ad1a4c086d2",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2015-12-13T21:42:06+01:00",
       "all": 47,
       "test": 7,
@@ -29,7 +29,7 @@
     },
     {
       "id": "e9d19c214a3117efdd9295bdb1b2ddb4f7e67987",
-      "who": "business@johanneslink.net",
+      "who": "Johannes Link <business@johanneslink.net>",
       "when": "2015-12-13T21:40:44+01:00",
       "all": 167,
       "test": 122,
@@ -38,7 +38,7 @@
     },
     {
       "id": "94bd5987b3b75c91a41fd70779bae83bb9b5fb9c",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2015-12-13T21:08:15+01:00",
       "all": 131,
       "test": 81,
@@ -47,7 +47,7 @@
     },
     {
       "id": "7ae7c8eede5dfae9870fa90cbcf4c4978128abf7",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2015-12-13T20:30:13+01:00",
       "all": 13,
       "test": 0,
@@ -56,7 +56,7 @@
     },
     {
       "id": "63e308f163976fa188b6dc2d59036c5ceb7c1033",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2015-12-13T18:19:29+01:00",
       "all": 48,
       "test": 48,
@@ -64,8 +64,17 @@
       "pct": 100.0
     },
     {
+      "id": "adc573dad07f522c8ae968725b8cf9adc7dc6354",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-12-13T18:08:49+01:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "f59b8a1bdbd53ef8fa4396f58a57df0b93c57051",
-      "who": "business@johanneslink.net",
+      "who": "Johannes Link <business@johanneslink.net>",
       "when": "2015-12-13T16:26:05+01:00",
       "all": 122,
       "test": 40,
@@ -74,12 +83,57 @@
     },
     {
       "id": "77644dc71e20caf48aac6b11bdd8d23ed1bc41ba",
-      "who": "business@johanneslink.net",
+      "who": "Johannes Link <business@johanneslink.net>",
       "when": "2015-12-13T15:36:07+01:00",
       "all": 84,
       "test": 2,
       "testable": 84,
       "pct": 2.4
+    },
+    {
+      "id": "c1f3be492c90dfb47d43973d0a625c559f519d1d",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-12-13T15:12:46+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "51ce73b6b9054abd3d4b8a14311defeeeaea5d5e",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-12-13T14:58:32+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "8d32b954858309667ef9c4927c37de14411ec046",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-12-13T14:54:21+01:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "c7a339624c3979b1f1b8a70eefc32139f70b46f8",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-12-13T14:52:15+01:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "8d7e8885fc1753b4ae1c45b8f813299dc169c573",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-12-13T14:22:01+01:00",
+      "all": 34,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

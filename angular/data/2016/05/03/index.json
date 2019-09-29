@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "55921be1af99cce0ff04f1e13b94f28d491f3b9e",
-      "who": "mgechev@gmail.com",
+      "who": "mgechev <mgechev@gmail.com>",
       "when": "2016-05-03T17:38:07-06:00",
       "all": 3,
       "test": 0,
@@ -10,8 +10,17 @@
       "pct": 0.0
     },
     {
+      "id": "f389b5a961278d0586a000d8071d33b65170aa7f",
+      "who": "Mathias Raacke <mathias@raacke.info>",
+      "when": "2016-05-03T23:14:12+02:00",
+      "all": 36,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "7a524e3debf85f3cb773e7d4a8914d625ddb256e",
-      "who": "martin@probst.io",
+      "who": "Martin Probst <martin@probst.io>",
       "when": "2016-05-03T18:41:31-07:00",
       "all": 60,
       "test": 48,
@@ -20,7 +29,7 @@
     },
     {
       "id": "7b6c4d5accd9a6b483edee111826d6324694048d",
-      "who": "martin@probst.io",
+      "who": "Martin Probst <martin@probst.io>",
       "when": "2016-05-03T18:41:07-07:00",
       "all": 22,
       "test": 14,
@@ -29,7 +38,7 @@
     },
     {
       "id": "99c0d503d7b5dc48c69eb62e4bdc63493fc4f97f",
-      "who": "martin@probst.io",
+      "who": "Martin Probst <martin@probst.io>",
       "when": "2016-05-03T18:39:00-07:00",
       "all": 7,
       "test": 0,
@@ -38,7 +47,7 @@
     },
     {
       "id": "0f1465b899e8381c05639c44c8bb10e094270d0c",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-05-03T16:45:30-07:00",
       "all": 72,
       "test": 10,
@@ -47,7 +56,7 @@
     },
     {
       "id": "edec158dd8b29849275eed8ce884fb111fbfc9e5",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2016-05-03T17:31:40-07:00",
       "all": 164,
       "test": 26,
@@ -56,7 +65,7 @@
     },
     {
       "id": "0297398f5e04379823715a033320bd5fb852db02",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2016-05-03T18:49:59-07:00",
       "all": 267,
       "test": 52,
@@ -64,8 +73,26 @@
       "pct": 19.5
     },
     {
+      "id": "9485f5a81363a49ad5f5fc4a0bdd20ed94f6c6d8",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2016-05-03T18:06:04-06:00",
+      "all": 4,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "8f8c017882796e51e69b4f69cb82549beeb47aae",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
+      "when": "2016-05-03T15:33:57-07:00",
+      "all": 12,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "eba6e7946d468e73bb88444e716afe2da516ce5e",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2016-05-03T09:24:09-07:00",
       "all": 691,
       "test": 17,
@@ -74,7 +101,7 @@
     },
     {
       "id": "3cfe2817908be3a55a6e496a34bd0e5b98f8f1d4",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2016-05-03T16:08:35-06:00",
       "all": 20,
       "test": 0,
@@ -82,8 +109,44 @@
       "pct": 0.0
     },
     {
+      "id": "6eac4b68bc445b4bc41e321bc3fd99b9759c341f",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2016-05-03T15:28:45-06:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "fcbfacb6d5ad9b7c9e9505315e36469ddd97a06c",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2016-05-03T14:43:35-06:00",
+      "all": 20,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "b6009159531432804886b027f1e7ae9789e58c76",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2016-05-03T13:59:30-06:00",
+      "all": 13,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "38f4c5f15549cb8b2dba3110ec61fba73833a638",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2016-05-03T13:26:59-06:00",
+      "all": 19,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "509f4ec611bc583f43bfde96055fcb9963c04f3d",
-      "who": "viks@google.com",
+      "who": "Vikram Subramanian <viks@google.com>",
       "when": "2016-05-03T11:26:07-07:00",
       "all": 147,
       "test": 147,
@@ -92,7 +155,7 @@
     },
     {
       "id": "a033f8335b6edaa4098bae94eb903f7858f4f7f3",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2016-05-03T11:50:55-06:00",
       "all": 68,
       "test": 0,
@@ -101,7 +164,7 @@
     },
     {
       "id": "b98c9e74e1ad73dc48eb67471ee91f4a1c01dfb6",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-05-03T11:35:07-07:00",
       "all": 299,
       "test": 0,
@@ -110,7 +173,7 @@
     },
     {
       "id": "9f784dcc5a524000836c5e4cd7b3384e21963637",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-05-03T10:25:14-07:00",
       "all": 29,
       "test": 10,
@@ -119,7 +182,7 @@
     },
     {
       "id": "dd6e0cf1b5b658f54e0b490457b3d2ade5a1cc74",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2016-05-03T08:59:25-07:00",
       "all": 111,
       "test": 46,

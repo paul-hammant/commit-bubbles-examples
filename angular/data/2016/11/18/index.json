@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "1ece7366c8b67f387fbe13f8d128c19f4c50dd19",
-      "who": "Dzmitry_Shylovich@epam.com",
+      "who": "Dzmitry Shylovich <Dzmitry_Shylovich@epam.com>",
       "when": "2016-11-18T14:44:05+03:00",
       "all": 47,
       "test": 38,
@@ -11,7 +11,7 @@
     },
     {
       "id": "f5c8e0989d85bc064f689fc3595207dfb29413f4",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2016-11-18T15:17:44-08:00",
       "all": 1381,
       "test": 912,
@@ -20,7 +20,7 @@
     },
     {
       "id": "491d5a22a9dc1082e80aa5ca481aa02b49b9bfe8",
-      "who": "chuckj@google.com",
+      "who": "Chuck Jazdzewski <chuckj@google.com>",
       "when": "2016-11-18T16:58:14-08:00",
       "all": 36,
       "test": 0,
@@ -29,7 +29,7 @@
     },
     {
       "id": "44572f114fe41d0a287d8db19ba84669fc3f7bf3",
-      "who": "sjelin@gmail.com",
+      "who": "Sammy Jelin <sjelin@gmail.com>",
       "when": "2016-11-18T14:30:47-08:00",
       "all": 17,
       "test": 0,
@@ -38,7 +38,7 @@
     },
     {
       "id": "1ef4696cb7cf7aa2c0fe95e1a3786617c84e40cc",
-      "who": "brady.isom@agilix.com",
+      "who": "Brady Isom <brady.isom@agilix.com>",
       "when": "2016-11-18T14:46:49-07:00",
       "all": 152,
       "test": 122,
@@ -46,8 +46,17 @@
       "pct": 80.3
     },
     {
+      "id": "07a986d33001c6ccc791150652c7bf1c9e86390c",
+      "who": "Philippe MARTIN <contact@elol.fr>",
+      "when": "2016-11-18T21:37:26+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "59d2b4c8312580add5717dd20ea0a6cde79738f7",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2016-11-18T09:07:02-08:00",
       "all": 6,
       "test": 0,
@@ -56,12 +65,21 @@
     },
     {
       "id": "2a5bd2f345c81be6468813fd26186f5f60d99a85",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2016-11-18T08:40:41-08:00",
       "all": 312,
       "test": 17,
       "testable": 312,
       "pct": 5.4
+    },
+    {
+      "id": "aac37bedc0f583fddbb7547f24c95e4f0bbb616b",
+      "who": "Chuck Jazdzewski <chuckj@google.com>",
+      "when": "2016-11-18T09:24:57-08:00",
+      "all": 30,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

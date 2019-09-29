@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "31ef92fc366ada3bf37a5bd727abaf880ab360ee",
-      "who": "pete@bacondarwin.com",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
       "when": "2017-03-17T23:02:03+00:00",
       "all": 25,
       "test": 0,
@@ -10,8 +10,17 @@
       "pct": 0.0
     },
     {
+      "id": "b4081e371345d1742fb89c19e539c9726b0b483f",
+      "who": "Peter Bacon Darwin <pete@bacondarwin.com>",
+      "when": "2017-03-17T16:48:59+00:00",
+      "all": 26,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "a13ddf2e8aa3ea7820d9c2d9cc7458c4ea965ed6",
-      "who": "wardbell@hotmail.com",
+      "who": "Ward Bell <wardbell@hotmail.com>",
       "when": "2017-03-17T21:48:20-07:00",
       "all": 2,
       "test": 0,
@@ -20,7 +29,7 @@
     },
     {
       "id": "a755b715ed5566a6796bc538653362edab8f74d4",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2017-03-17T10:09:42-07:00",
       "all": 227,
       "test": 80,
@@ -29,7 +38,7 @@
     },
     {
       "id": "f8c075ae27cad8191c3571b9d23e0bce3814c93d",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2017-03-17T15:34:37-07:00",
       "all": 63,
       "test": 31,
@@ -38,7 +47,7 @@
     },
     {
       "id": "0d3e314df056ed89c56b39b3d01bd56a25a7db9f",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2017-03-17T11:04:30-07:00",
       "all": 52,
       "test": 0,
@@ -47,7 +56,7 @@
     },
     {
       "id": "28ce68a13d93f06acbcbc127128248b89568dc8d",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2017-03-17T09:23:28-07:00",
       "all": 200,
       "test": 38,
@@ -56,7 +65,7 @@
     },
     {
       "id": "80075afe8add9d61694638171887e70f2a8ba582",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2017-03-17T21:05:42-07:00",
       "all": 46,
       "test": 31,
@@ -64,8 +73,17 @@
       "pct": 67.4
     },
     {
+      "id": "bcc29ffdd1158ed3ef1f7f1b7fc7d89d0f10a21f",
+      "who": "Jason Aden <jasonaden@google.com>",
+      "when": "2017-03-17T14:55:55-07:00",
+      "all": 8211,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "0c43535ccc5ddbd468928476efbda4f17b77a143",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2017-03-17T13:45:37-07:00",
       "all": 159,
       "test": 86,
@@ -73,8 +91,17 @@
       "pct": 54.1
     },
     {
+      "id": "49829b4a4d5ecb52a9b667013fc12523e008360e",
+      "who": "Jason Aden <jasonaden@google.com>",
+      "when": "2017-03-17T12:24:48-07:00",
+      "all": 26,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "a6fb78ee3c2bcb301bad3cf631f44e187b27ce05",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2017-03-17T12:31:51-07:00",
       "all": 57,
       "test": 46,
@@ -83,7 +110,7 @@
     },
     {
       "id": "c66437fc1371fe6fe0f6a01ad8ae08d3a2e2ff61",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2017-03-17T10:24:21-07:00",
       "all": 88,
       "test": 83,
@@ -92,12 +119,39 @@
     },
     {
       "id": "8415910375e6c8bf226dbed94e34719d347d6f90",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2017-03-17T09:44:27-07:00",
       "all": 18,
       "test": 12,
       "testable": 18,
       "pct": 66.7
+    },
+    {
+      "id": "2d78c8cc05514e278a7e8bbda681ba076a1958cb",
+      "who": "Chuck Jazdzewski <chuckj@google.com>",
+      "when": "2017-03-17T10:18:16-07:00",
+      "all": 11,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "52bed7f9b3a42a7c748c4da00e9e1dd1db5f572f",
+      "who": "Chuck Jazdzewski <chuckj@google.com>",
+      "when": "2017-03-17T10:16:53-07:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "7fb45283dfa32922d8c9eb71064b65600c6cedbe",
+      "who": "Chuck Jazdzewski <chuckj@google.com>",
+      "when": "2017-03-17T09:41:28-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

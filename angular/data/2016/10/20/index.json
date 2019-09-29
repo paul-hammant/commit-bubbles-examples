@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "fe1d0e29c552eb5951e5034b31cc6e52817a9ce3",
-      "who": "kalpakas.g@gmail.com",
+      "who": "Georgios Kalpakas <kalpakas.g@gmail.com>",
       "when": "2016-10-20T13:47:56+03:00",
       "all": 1328,
       "test": 1236,
@@ -11,7 +11,7 @@
     },
     {
       "id": "469010ea8e47d428887f6ec3f17752a7796a8dd6",
-      "who": "kalpakas.g@gmail.com",
+      "who": "Georgios Kalpakas <kalpakas.g@gmail.com>",
       "when": "2016-10-20T13:42:57+03:00",
       "all": 841,
       "test": 778,
@@ -20,7 +20,7 @@
     },
     {
       "id": "7b8dae19af54b93e1120b8203a1f4494d2d42294",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2016-10-20T16:05:50-07:00",
       "all": 109,
       "test": 8,
@@ -29,7 +29,7 @@
     },
     {
       "id": "a26dd28bdb6ad3e5ac07080a629cdf9ea7980aee",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2016-10-20T19:35:35-07:00",
       "all": 149,
       "test": 36,
@@ -38,7 +38,7 @@
     },
     {
       "id": "8f2fa0f766d9f850e13db1e62a1c3f93e090a500",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-10-20T15:00:15-07:00",
       "all": 26,
       "test": 12,
@@ -47,7 +47,7 @@
     },
     {
       "id": "fc60fa790cd57f84378e4d13ecd59bba9e5df5d5",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-10-20T14:00:02-07:00",
       "all": 40,
       "test": 40,
@@ -56,7 +56,7 @@
     },
     {
       "id": "b74185369f4c59f1a4a666ae87e0ff5b30dfee6e",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-10-20T13:32:38-07:00",
       "all": 80,
       "test": 48,
@@ -64,8 +64,17 @@
       "pct": 60.0
     },
     {
+      "id": "444014ad9612ef860729161c59dfa2d7c778f3fa",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2016-10-20T15:34:35-07:00",
+      "all": 19,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "867494a060823083e43c0f88978a2023070d25e7",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2016-10-20T15:24:58-07:00",
       "all": 199,
       "test": 90,
@@ -73,8 +82,17 @@
       "pct": 45.2
     },
     {
+      "id": "69ad99dca6bebf6d26a8e9e5dd6772069ecc37f6",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2016-10-20T14:36:46-07:00",
+      "all": 39,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "da5fc696bb9f2875825f5ce10f1fab419340f483",
-      "who": "dl.mucer@gmail.com",
+      "who": "Daniel Leib <dl.mucer@gmail.com>",
       "when": "2016-10-20T19:59:08+02:00",
       "all": 40,
       "test": 22,
@@ -83,7 +101,7 @@
     },
     {
       "id": "b44b6ef8f541210f686be112a0e55d58f32d3aba",
-      "who": "vic.savkin@gmail.com",
+      "who": "Victor Savkin <vic.savkin@gmail.com>",
       "when": "2016-10-20T10:58:53-07:00",
       "all": 72,
       "test": 72,
@@ -92,12 +110,21 @@
     },
     {
       "id": "8b9ab44eee720810311eec60a1c58e1a78c23ab9",
-      "who": "vic.savkin@gmail.com",
+      "who": "Victor Savkin <vic.savkin@gmail.com>",
       "when": "2016-10-20T10:44:44-07:00",
       "all": 384,
       "test": 166,
       "testable": 384,
       "pct": 43.2
+    },
+    {
+      "id": "a8815d6b08335733a199531c474b42bfde2dac20",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
+      "when": "2016-10-20T10:01:51-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

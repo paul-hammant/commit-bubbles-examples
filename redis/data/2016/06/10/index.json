@@ -1,26 +1,44 @@
 {
   "commits": [
     {
-      "id": "688996f415e6c0d4ea4ff9a4af25608cd5599d4a",
-      "who": "antirez@gmail.com",
-      "when": "2016-06-10T10:20:28+02:00",
-      "all": 30,
+      "id": "e71f22f5f2cfa64cd5fceb7b98cc1c2ffa8b28a0",
+      "who": "antirez <antirez@gmail.com>",
+      "when": "2016-06-10T10:39:38+02:00",
+      "all": 3,
       "test": 0,
-      "testable": 30,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "e4567f243bedd41188d8502e80a257f474f479dd",
+      "who": "antirez <antirez@gmail.com>",
+      "when": "2016-06-10T10:36:09+02:00",
+      "all": 53,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "688996f415e6c0d4ea4ff9a4af25608cd5599d4a",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
+      "when": "2016-06-10T10:20:28+02:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "b4327ae5fe3c749d1f2918c18297a91008f0a0ee",
-      "who": "antirez@gmail.com",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
       "when": "2016-06-10T10:18:49+02:00",
-      "all": 22,
+      "all": 0,
       "test": 0,
-      "testable": 22,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "a1684ff1bbd9b6023f16ad697ab12e29a987e6b8",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2016-06-10T10:15:37+02:00",
       "all": 4,
       "test": 0,
@@ -29,16 +47,16 @@
     },
     {
       "id": "5beec9743e5e926375705ebb730500a56510a1e5",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2016-06-10T10:12:11+02:00",
-      "all": 101,
-      "test": 5,
-      "testable": 101,
-      "pct": 5.0
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "90781dec56d01a779f55ad16484e69813c2a4f7c",
-      "who": "de.mey.michiel@gmail.com",
+      "who": "Michiel De Mey <de.mey.michiel@gmail.com>",
       "when": "2016-06-10T10:11:46+02:00",
       "all": 23,
       "test": 0,
@@ -47,16 +65,16 @@
     },
     {
       "id": "ab73544396de1ba9ca7ef6b065517c9411a1a1bf",
-      "who": "antirez@gmail.com",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
       "when": "2016-06-10T10:10:08+02:00",
-      "all": 101,
-      "test": 5,
-      "testable": 101,
-      "pct": 5.0
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "2a57ad5d90e38969e8b821a4d44b75cf8ceb3aca",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2016-06-10T09:15:01+02:00",
       "all": 3,
       "test": 0,
@@ -64,21 +82,57 @@
       "pct": 0.0
     },
     {
-      "id": "54813368729009fb599701565036bf2dd89fcfd4",
-      "who": "antirez@gmail.com",
-      "when": "2016-06-10T09:00:02+02:00",
-      "all": 4,
+      "id": "243c9dc151091b19f6019643e2e46c580cc9eaf9",
+      "who": "antirez <antirez@gmail.com>",
+      "when": "2016-06-10T09:08:11+02:00",
+      "all": 0,
       "test": 0,
-      "testable": 4,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "01a34b191e4be30107bae00ab113a31d32193555",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
+      "when": "2016-06-10T09:07:42+02:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "67fcd26cf361c89a9bfbab88467af6d037f6ef97",
+      "who": "antirez <antirez@gmail.com>",
+      "when": "2016-06-10T09:02:13+02:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "bac4de7d1b7d7b59cc00d10d7ce93cf2816567ad",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
+      "when": "2016-06-10T09:02:06+02:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "54813368729009fb599701565036bf2dd89fcfd4",
+      "who": "antirez <antirez@gmail.com>",
+      "when": "2016-06-10T09:00:02+02:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "53c008a78591fbca6dcac9faf82e61eb784e42f1",
-      "who": "antirez@gmail.com",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
       "when": "2016-06-10T08:59:50+02:00",
-      "all": 2,
+      "all": 0,
       "test": 0,
-      "testable": 2,
+      "testable": 0,
       "pct": 0.0
     }
   ],

@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "d4182a0a0d36c97c42603fdd8ff6db750ec26580",
-      "who": "artix2@gmail.com",
+      "who": "artix <artix2@gmail.com>",
       "when": "2018-06-27T17:29:11+02:00",
       "all": 15,
       "test": 0,
@@ -10,26 +10,44 @@
       "pct": 0.0
     },
     {
+      "id": "d222eda9f089f6605d755777c32132cb8cad76c9",
+      "who": "artix <artix2@gmail.com>",
+      "when": "2018-06-27T16:42:22+02:00",
+      "all": 1908,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "007e3cbd7072ab4a0ae5cc0d3df00c7f9427ba99",
+      "who": "Akshay Nagpal <akshaynagpal@users.noreply.github.com>",
+      "when": "2018-06-27T20:08:39-04:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "f7b21bc71ef1d814932e01a2e03474377f1a27a9",
-      "who": "antirez@gmail.com",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
       "when": "2018-06-27T18:56:49+02:00",
-      "all": 6,
-      "test": 6,
-      "testable": 6,
-      "pct": 100.0
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "730a4cfa00824bee7f39f910059fd9995af17a67",
-      "who": "antirez@gmail.com",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
       "when": "2018-06-27T18:54:27+02:00",
-      "all": 8,
+      "all": 0,
       "test": 0,
-      "testable": 8,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "2214043b5c84c69279077343846657c17c0214ac",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2018-06-27T18:51:06+02:00",
       "all": 26,
       "test": 0,
@@ -38,7 +56,7 @@
     },
     {
       "id": "010dc172d40fe5785b380c4a6ebea9d11fa39532",
-      "who": "mpaltun@gmail.com",
+      "who": "Mustafa Paltun <mpaltun@gmail.com>",
       "when": "2018-06-27T16:35:30+03:00",
       "all": 5,
       "test": 0,
@@ -47,7 +65,7 @@
     },
     {
       "id": "6d0acb330a00a5c373ab17c36c5a20ae3b72e063",
-      "who": "mpaltun@gmail.com",
+      "who": "Mustafa Paltun <mpaltun@gmail.com>",
       "when": "2018-06-27T16:33:31+03:00",
       "all": 3,
       "test": 0,
@@ -56,7 +74,7 @@
     },
     {
       "id": "de495ee7abc2d21b1d55e706c71bbe027408ef61",
-      "who": "oran@redislabs.com",
+      "who": "Oran Agra <oran@redislabs.com>",
       "when": "2018-06-27T15:32:18+03:00",
       "all": 6,
       "test": 6,
@@ -65,7 +83,7 @@
     },
     {
       "id": "71295ee305345fba9a73766b6fc084b2c15bc303",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2018-06-27T13:52:46+02:00",
       "all": 23,
       "test": 0,
@@ -74,7 +92,7 @@
     },
     {
       "id": "fb39bfd7af088a5ec01aec06c9488b5893eb1ceb",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2018-06-27T13:26:01+02:00",
       "all": 9,
       "test": 0,
@@ -83,7 +101,7 @@
     },
     {
       "id": "ed65d734e73ac431686c2b14d58dfc21c0b954d6",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2018-06-27T13:11:50+02:00",
       "all": 5,
       "test": 0,
@@ -92,21 +110,21 @@
     },
     {
       "id": "345b4809f40d50658daea6de49e4494796e0b60c",
-      "who": "antirez@gmail.com",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
       "when": "2018-06-27T14:07:25+02:00",
-      "all": 21,
-      "test": 21,
-      "testable": 21,
-      "pct": 100.0
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "35c5f3fa7d07420867cb1c9295003279b3a2e2f3",
-      "who": "antirez@gmail.com",
+      "who": "Salvatore Sanfilippo <antirez@gmail.com>",
       "when": "2018-06-27T14:05:16+02:00",
-      "all": 307,
-      "test": 25,
-      "testable": 302,
-      "pct": 8.3
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Redis (unstable branch)",

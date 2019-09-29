@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "384f0ae8583ed296aeee3491fa3add5f75ec2a93",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2014-10-31T11:49:55+01:00",
       "all": 133,
       "test": 87,
@@ -11,7 +11,7 @@
     },
     {
       "id": "0a766f4654f8a614851e5703db97060f6508aee0",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2014-10-29T21:56:31+01:00",
       "all": 519,
       "test": 148,
@@ -20,7 +20,7 @@
     },
     {
       "id": "1bd304e7abcb8b94e1ed15aa06018d2c8f1ac096",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2014-10-28T18:56:15+01:00",
       "all": 983,
       "test": 281,
@@ -29,7 +29,7 @@
     },
     {
       "id": "1dc5a22f072c623a36dcb9e5cffd899e4432e23d",
-      "who": "vojta.jina@gmail.com",
+      "who": "Vojta Jina <vojta.jina@gmail.com>",
       "when": "2014-10-30T18:52:32+01:00",
       "all": 68,
       "test": 0,
@@ -38,7 +38,7 @@
     },
     {
       "id": "965fa1a9859a69bcfb7c796e34231348043a3ed7",
-      "who": "radokirov@google.com",
+      "who": "Rado Kirov <radokirov@google.com>",
       "when": "2014-10-30T23:47:22-07:00",
       "all": 422,
       "test": 92,
@@ -47,7 +47,7 @@
     },
     {
       "id": "8c566dcfb5e9bef9637b19ebcff7c2ea8081e4ab",
-      "who": "radokirov@google.com",
+      "who": "Rado Kirov <radokirov@google.com>",
       "when": "2014-10-30T14:41:19-07:00",
       "all": 136,
       "test": 54,
@@ -55,8 +55,17 @@
       "pct": 39.7
     },
     {
+      "id": "ec7e8534c2a3d9b22f912abb4d2bc3573d9b509b",
+      "who": "Victor Berchet <victor@suumit.com>",
+      "when": "2014-10-29T17:52:15+01:00",
+      "all": 19,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "91f50b67b7994ce30ecbc0ba47ec8b273502b543",
-      "who": "radokirov@google.com",
+      "who": "Rado Kirov <radokirov@google.com>",
       "when": "2014-10-29T15:41:50-07:00",
       "all": 156,
       "test": 122,
@@ -65,7 +74,7 @@
     },
     {
       "id": "01e6c7b70c7ce33623a809ab29883a66503730ae",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-28T12:22:38-04:00",
       "all": 392,
       "test": 79,
@@ -74,7 +83,7 @@
     },
     {
       "id": "acd7035347d8e3976262bbef1e41e60e0181fbb4",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-29T14:26:52-04:00",
       "all": 54,
       "test": 23,
@@ -83,7 +92,7 @@
     },
     {
       "id": "9bd65abb32a16c3db0be4c98db1f54c682f835cd",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-27T13:02:46-04:00",
       "all": 106,
       "test": 19,
@@ -92,7 +101,7 @@
     },
     {
       "id": "b0c9d05ea7bf804f59020bcb25e34134a94123b9",
-      "who": "radokirov@google.com",
+      "who": "Rado Kirov <radokirov@google.com>",
       "when": "2014-10-27T23:16:31-07:00",
       "all": 221,
       "test": 122,
@@ -101,7 +110,7 @@
     },
     {
       "id": "e1c84e02f8728f80ad53e9334b6e94bef98dd9a9",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2014-10-27T17:32:55+01:00",
       "all": 11,
       "test": 0,
@@ -109,8 +118,26 @@
       "pct": 0.0
     },
     {
+      "id": "87b0d3fcc589c13c105d16dfb25ec1d691b9bbee",
+      "who": "Blake La Pierre <blakelapierre@gmail.com>",
+      "when": "2014-10-27T04:59:12-07:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "abb3ee450786cb365f0048c894e3f175ab5ec09f",
+      "who": "Harry Wolff <hswolff@gmail.com>",
+      "when": "2014-10-28T09:07:30-04:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "08d4a37c069bf11971666bb2aac874bc573c9154",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2014-10-28T14:46:55-07:00",
       "all": 516,
       "test": 155,
@@ -118,8 +145,44 @@
       "pct": 32.6
     },
     {
+      "id": "d0c870fb32f29cb8ac6f5d99f2509c4fdd4d8140",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
+      "when": "2014-10-28T14:46:38-07:00",
+      "all": 26,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d4c099de8c597255f8c83707625615fd8b8509aa",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
+      "when": "2014-10-28T14:46:09-07:00",
+      "all": 51,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "cc115d58ca20ba9aa85b26931b8cd421b96d65e2",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
+      "when": "2014-10-28T14:45:50-07:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "2ab526e88b46d022f6fcf570fd5f09b547c22ccd",
+      "who": "Victor Berchet <victor@suumit.com>",
+      "when": "2014-10-28T11:51:00+01:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "cc502c81d6214ccd1508c19fa15863bb1630bccd",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2014-10-28T11:45:48+01:00",
       "all": 32,
       "test": 0,
@@ -128,7 +191,7 @@
     },
     {
       "id": "c90a7114d3b41954ba6f1a7e84aff0b5e5eb8d0c",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2014-10-27T17:57:36+01:00",
       "all": 102,
       "test": 46,
@@ -136,8 +199,17 @@
       "pct": 46.0
     },
     {
+      "id": "63494a74bffe9148ac494661b9c7288f41755cce",
+      "who": "Victor Berchet <victor@suumit.com>",
+      "when": "2014-10-28T11:17:00+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "c11ca944d4e2b168bbead1486f73ccf466f594f8",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-27T16:09:10-04:00",
       "all": 69,
       "test": 0,
@@ -146,7 +218,7 @@
     },
     {
       "id": "e3b772425ef9bb29c9645fc366072da4bec33ad5",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-27T16:07:20-04:00",
       "all": 39,
       "test": 6,
@@ -155,7 +227,7 @@
     },
     {
       "id": "94958e084e72e3b4d01652d9ec8dadc31db71c69",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2014-10-17T13:08:57+02:00",
       "all": 9,
       "test": 0,
@@ -164,7 +236,7 @@
     },
     {
       "id": "31831eee5eadf4b5653207bac1d1df981090e403",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-27T11:47:13-04:00",
       "all": 192,
       "test": 85,
@@ -173,7 +245,7 @@
     },
     {
       "id": "79d270c3dd8738a28361271af0ef0a7c3e1cd878",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-16T15:10:17-04:00",
       "all": 157,
       "test": 85,
@@ -182,7 +254,7 @@
     },
     {
       "id": "e3548b497f52d98a66753a2a30f033a714b2942a",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-14T16:00:35-04:00",
       "all": 961,
       "test": 209,
@@ -191,7 +263,7 @@
     },
     {
       "id": "ea0df352beb7c574f90f85adb4585b7db0611d04",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-20T15:17:06-04:00",
       "all": 74,
       "test": 34,
@@ -200,7 +272,7 @@
     },
     {
       "id": "2a4b63b614edc482bee8ade5bfee686a643cb31b",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-18T17:50:55-04:00",
       "all": 27,
       "test": 0,
@@ -209,7 +281,7 @@
     },
     {
       "id": "1f4caa8773bf96de73b0ef7bd6526a93312cdcab",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-08T16:15:38-04:00",
       "all": 337,
       "test": 0,
@@ -218,7 +290,7 @@
     },
     {
       "id": "035dc5ba44f02fe94e189167b427cd33689752eb",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-16T16:10:21-04:00",
       "all": 44,
       "test": 0,
@@ -226,8 +298,17 @@
       "pct": 0.0
     },
     {
+      "id": "2f732c6b841f196563a3f79f54ecd2b503bc8f2b",
+      "who": "vsavkin <vic.savkin@gmail.com>",
+      "when": "2014-10-09T09:44:18-04:00",
+      "all": 384,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "1a7d5160f2e8b1228dc0c8a29e0f417c91adfbc2",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-10T15:44:56-04:00",
       "all": 193,
       "test": 47,
@@ -236,7 +317,7 @@
     },
     {
       "id": "f524a89cb6fb83cd641e3e2d4c34df0cce16a8fe",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-10T11:36:06-04:00",
       "all": 51,
       "test": 31,
@@ -245,7 +326,7 @@
     },
     {
       "id": "ee1e54cf0a37144437413ee482034c1b54a22a56",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-10T11:50:50-04:00",
       "all": 30,
       "test": 0,
@@ -254,7 +335,7 @@
     },
     {
       "id": "b71cd9f3804a3c4fc37dfa5004dbf9497b8a3073",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-10T14:07:59-04:00",
       "all": 39,
       "test": 6,
@@ -263,7 +344,7 @@
     },
     {
       "id": "92b25591090566920fdd07ea361626dcc8c0d3dc",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-12T17:03:22-04:00",
       "all": 12,
       "test": 0,
@@ -272,7 +353,7 @@
     },
     {
       "id": "c3d9b5c91e78b7efe9fcb361af2eb7104c762ad5",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-10T16:31:27-04:00",
       "all": 21,
       "test": 5,
@@ -281,7 +362,7 @@
     },
     {
       "id": "f0870791f60a594202f1c1ec66b635dafd75eb01",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-10T10:00:23-04:00",
       "all": 7,
       "test": 3,
@@ -290,7 +371,7 @@
     },
     {
       "id": "97667e259184cabd8a7cdc42d02b22c1cb6177e9",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-10T09:56:43-04:00",
       "all": 17,
       "test": 3,
@@ -299,7 +380,7 @@
     },
     {
       "id": "3f3fb7017e64aa237edad58447d464adc2cfeab9",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-09T12:18:35-04:00",
       "all": 22,
       "test": 10,
@@ -308,7 +389,7 @@
     },
     {
       "id": "0b60f8494de83e4325be235dd50e8c8a5f077487",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-09T12:09:50-04:00",
       "all": 18,
       "test": 0,
@@ -317,7 +398,7 @@
     },
     {
       "id": "d313cac42f1060fc40e99ca8963eaa57283e0c9f",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-09T11:35:13-04:00",
       "all": 99,
       "test": 37,
@@ -326,7 +407,7 @@
     },
     {
       "id": "06a221671c3b5a1ee4de65051e1373f19c78aaa4",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-09T11:08:00-04:00",
       "all": 38,
       "test": 0,
@@ -335,7 +416,7 @@
     },
     {
       "id": "9b411372df3471e7119738b57ac9c17636fe7990",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-09T11:03:36-04:00",
       "all": 35,
       "test": 16,
@@ -344,7 +425,7 @@
     },
     {
       "id": "b9d03e6635cbc79ef41802d1bc2dd8404c3f9c7b",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-09T10:55:18-04:00",
       "all": 36,
       "test": 0,
@@ -353,7 +434,7 @@
     },
     {
       "id": "a9896ed3918d0a8d08847b8ba401cb757083515b",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2014-10-10T20:44:55-07:00",
       "all": 239,
       "test": 41,
@@ -362,7 +443,7 @@
     },
     {
       "id": "2d19e7122b3361903ca17deebab0f3bbdb50ab91",
-      "who": "vojta.jina@gmail.com",
+      "who": "Vojta Jina <vojta.jina@gmail.com>",
       "when": "2014-10-09T14:04:25-07:00",
       "all": 17,
       "test": 0,
@@ -371,7 +452,7 @@
     },
     {
       "id": "c7e9d10f0b7d1c068612bc8174dd3c5dc02d87d8",
-      "who": "vojta.jina@gmail.com",
+      "who": "Vojta Jina <vojta.jina@gmail.com>",
       "when": "2014-10-09T14:04:13-07:00",
       "all": 12,
       "test": 0,
@@ -380,7 +461,7 @@
     },
     {
       "id": "85ee62cb0d58f88b9c66fcaf40465e6147a39068",
-      "who": "vojta.jina@gmail.com",
+      "who": "Vojta Jina <vojta.jina@gmail.com>",
       "when": "2014-10-09T15:17:53-07:00",
       "all": 3,
       "test": 0,
@@ -389,7 +470,7 @@
     },
     {
       "id": "94e556465b50239bbea08862127f52ed28b05a3a",
-      "who": "vojta.jina@gmail.com",
+      "who": "Vojta Jina <vojta.jina@gmail.com>",
       "when": "2014-10-09T15:08:30-07:00",
       "all": 41,
       "test": 0,
@@ -398,7 +479,7 @@
     },
     {
       "id": "d1b90e125ba5bdf3a533af0460c24146a38c2570",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2014-10-02T11:51:10+02:00",
       "all": 77,
       "test": 0,
@@ -407,7 +488,7 @@
     },
     {
       "id": "1214f423b41e65a4cb5b382eac22d9cd378faa14",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-02T12:04:41-04:00",
       "all": 50,
       "test": 0,
@@ -416,7 +497,7 @@
     },
     {
       "id": "fb01551620752828afd4536af1efe01da9a284a7",
-      "who": "vojta.jina@gmail.com",
+      "who": "Vojta Jina <vojta.jina@gmail.com>",
       "when": "2014-10-09T13:50:25-07:00",
       "all": 31,
       "test": 0,
@@ -425,7 +506,7 @@
     },
     {
       "id": "5818c3bf28d69d98d9eca9e0a8b8f14c0bf811c8",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2014-10-08T12:46:38+02:00",
       "all": 154,
       "test": 0,
@@ -434,7 +515,7 @@
     },
     {
       "id": "5527a1b1a4069c88f6eb62560c5a14ce887d64bb",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2014-10-02T15:14:32+02:00",
       "all": 380,
       "test": 111,
@@ -443,7 +524,7 @@
     },
     {
       "id": "38340ce8d9e12b07113ecf8bde66ad8b28b374c1",
-      "who": "vojta.jina@gmail.com",
+      "who": "Vojta Jina <vojta.jina@gmail.com>",
       "when": "2014-10-06T17:52:23-07:00",
       "all": 20,
       "test": 0,
@@ -452,7 +533,7 @@
     },
     {
       "id": "6efb7f90172f63d8d05a8e6d4866d4986916d59a",
-      "who": "vojta.jina@gmail.com",
+      "who": "Vojta Jina <vojta.jina@gmail.com>",
       "when": "2014-10-06T17:44:25-07:00",
       "all": 7,
       "test": 0,
@@ -461,7 +542,7 @@
     },
     {
       "id": "cfc5fdc60dd4a9a13b0633ddd7e59ee823ae9fb7",
-      "who": "vojta.jina@gmail.com",
+      "who": "Vojta Jina <vojta.jina@gmail.com>",
       "when": "2014-10-06T17:35:00-07:00",
       "all": 104,
       "test": 0,
@@ -470,7 +551,7 @@
     },
     {
       "id": "774901c2255499fff979f4428384d2cf868ca352",
-      "who": "chirayu@chirayuk.com",
+      "who": "Chirayu Krishnappa <chirayu@chirayuk.com>",
       "when": "2014-10-02T13:38:12-07:00",
       "all": 3,
       "test": 0,
@@ -479,7 +560,7 @@
     },
     {
       "id": "e4ce69dcc7275c1df43d604d6c7d255fdf2fcd20",
-      "who": "chirayu@chirayuk.com",
+      "who": "Chirayu Krishnappa <chirayu@chirayuk.com>",
       "when": "2014-10-06T12:44:38-07:00",
       "all": 425,
       "test": 359,
@@ -488,7 +569,7 @@
     },
     {
       "id": "5162b3c0ca3319fafde92fe8a71304faa00568d9",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-07T10:42:27-04:00",
       "all": 35,
       "test": 19,
@@ -497,7 +578,7 @@
     },
     {
       "id": "7d566adea034fbc1dfa815497452d82241551dbb",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-07T10:34:07-04:00",
       "all": 149,
       "test": 90,
@@ -506,7 +587,7 @@
     },
     {
       "id": "187c4aa33ce95098fe0fbda362976cbdf503c6a8",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-07T10:17:51-04:00",
       "all": 31,
       "test": 0,
@@ -515,7 +596,7 @@
     },
     {
       "id": "ab4f86a0cb86b274f094e6bd0743251acd31c144",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-07T10:03:06-04:00",
       "all": 22,
       "test": 10,
@@ -524,7 +605,7 @@
     },
     {
       "id": "ea22cc4c7ab33d008fbb649aa3a568ccb5900fa2",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-07T09:39:52-04:00",
       "all": 8,
       "test": 0,
@@ -533,7 +614,7 @@
     },
     {
       "id": "df09a7c817143901e05c4bdd09bda30ff8f9cef3",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-07T09:37:45-04:00",
       "all": 23,
       "test": 0,
@@ -541,8 +622,17 @@
       "pct": 0.0
     },
     {
+      "id": "971e31fcd3ad3b28a9942775da91f386e44e7da6",
+      "who": "vsavkin <vic.savkin@gmail.com>",
+      "when": "2014-10-07T09:37:23-04:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "4e0c368c0390fb7d5d1d010f52be47cac4afd4e1",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-07T09:21:00-04:00",
       "all": 25,
       "test": 0,
@@ -551,7 +641,7 @@
     },
     {
       "id": "62004e22e023669952762cc6776d7a3b81a5fea4",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-07T09:04:11-04:00",
       "all": 52,
       "test": 14,
@@ -560,7 +650,7 @@
     },
     {
       "id": "e7666d06120d7afb0322e6f762d41cd17c609c1d",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-06T16:24:12-04:00",
       "all": 44,
       "test": 4,
@@ -569,7 +659,7 @@
     },
     {
       "id": "a0176273c580c93260e4cf0e96bfb28d1df2f5ee",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-06T13:45:24-04:00",
       "all": 153,
       "test": 87,
@@ -578,7 +668,7 @@
     },
     {
       "id": "e02cdfe733a46432b30582ddaaa8ce9a84909555",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-06T11:36:22-04:00",
       "all": 229,
       "test": 48,
@@ -587,7 +677,7 @@
     },
     {
       "id": "4d6c7481ad86e9bb8de774b039bfb7cd19faf0ec",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-06T10:13:33-04:00",
       "all": 83,
       "test": 36,
@@ -596,7 +686,7 @@
     },
     {
       "id": "14af5a0a425fc3e790e9f6dd8cddf1a58083294c",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-05T16:25:42-04:00",
       "all": 312,
       "test": 140,
@@ -605,7 +695,7 @@
     },
     {
       "id": "a814d48bbc413c4c0d1cf0aca8dad946c421e04c",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-03T20:34:37-04:00",
       "all": 38,
       "test": 0,
@@ -614,7 +704,7 @@
     },
     {
       "id": "f63a5dd1583a28ce0b728478f05107f6194f41ef",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-03T17:26:49-04:00",
       "all": 127,
       "test": 14,
@@ -622,8 +712,17 @@
       "pct": 12.8
     },
     {
+      "id": "15305b6cd7d228621a5a923be90ee524966d0b0e",
+      "who": "vsavkin <vic.savkin@gmail.com>",
+      "when": "2014-10-03T16:31:12-04:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "a85812f688b1a9b70be597bb715490c3290f29aa",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2014-10-03T16:29:59-04:00",
       "all": 15,
       "test": 0,
@@ -632,7 +731,7 @@
     },
     {
       "id": "6c8da62c1bb41ab0e26ba6ff6f2e3879852e8e1f",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2014-10-02T21:48:46-07:00",
       "all": 49,
       "test": 0,
@@ -641,7 +740,7 @@
     },
     {
       "id": "cbd429640f13084f1e4772404d299b3c93eeabf7",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2014-10-02T20:55:35-07:00",
       "all": 4,
       "test": 4,
@@ -650,7 +749,7 @@
     },
     {
       "id": "089a2f1b622c98f5f57f8177d35604e3fc8d791a",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2014-10-01T16:29:45+02:00",
       "all": 463,
       "test": 0,
@@ -659,7 +758,7 @@
     },
     {
       "id": "fd0c2d8063fcb7bc6cd89b1823a02d6710e2ac31",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2014-10-02T20:39:27-07:00",
       "all": 54,
       "test": 0,
@@ -668,7 +767,7 @@
     },
     {
       "id": "33af1d0b394293d4765b62285b77864b2a945294",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2014-10-02T12:27:01-07:00",
       "all": 296,
       "test": 27,
@@ -677,7 +776,7 @@
     },
     {
       "id": "f9923ea7db1b42d9eac7ab0dc40c24d2b4c7dc6d",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2014-10-01T22:05:46-07:00",
       "all": 21,
       "test": 5,
@@ -686,7 +785,7 @@
     },
     {
       "id": "78d758b4bba0722b476aba8fad3db466e0bb6e79",
-      "who": "chirayu@chirayuk.com",
+      "who": "Chirayu Krishnappa <chirayu@chirayuk.com>",
       "when": "2014-10-01T19:58:22-07:00",
       "all": 127,
       "test": 5,
@@ -695,7 +794,7 @@
     },
     {
       "id": "d7d52aaef2b034f5507209640f073fd575ae073a",
-      "who": "chirayu@chirayuk.com",
+      "who": "Chirayu Krishnappa <chirayu@chirayuk.com>",
       "when": "2014-10-01T16:58:52-07:00",
       "all": 119,
       "test": 32,
@@ -703,12 +802,30 @@
       "pct": 26.9
     },
     {
+      "id": "3482fb1291207b23f23e5de600c8eeaa611205da",
+      "who": "Chirayu Krishnappa <chirayu@chirayuk.com>",
+      "when": "2014-10-01T16:57:38-07:00",
+      "all": 23,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "c7feaba1cb095b2f13339f372a64f00c13947957",
-      "who": "chirayu@chirayuk.com",
+      "who": "Chirayu Krishnappa <chirayu@chirayuk.com>",
       "when": "2014-10-01T16:56:44-07:00",
       "all": 25,
       "test": 0,
       "testable": 25,
+      "pct": 0.0
+    },
+    {
+      "id": "99bad64c3f40590f6bf504b4c4bf4740e8cadd80",
+      "who": "Victor Berchet <victor@suumit.com>",
+      "when": "2014-10-01T17:32:59+02:00",
+      "all": 24,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     }
   ],

@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "77942cc690a4721c73cde3f6a16e6fb0caa1be2b",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2018-04-02T22:12:02+03:00",
       "all": 68,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "7aed64d3a11e8277032c62282751f4513ed1c7eb",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2018-04-02T14:51:06+03:00",
       "all": 51,
       "test": 0,
@@ -19,8 +19,17 @@
       "pct": 0.0
     },
     {
+      "id": "a663565403559731344e8a55fa06f4633465942b",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2018-04-02T10:57:38+03:00",
+      "all": 8,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "ae8a0092bd6070a3bb8f13f4919bffe221ac084f",
-      "who": "jelbourn@google.com",
+      "who": "Jeremy Elbourn <jelbourn@google.com>",
       "when": "2018-04-02T16:52:13-07:00",
       "all": 1231,
       "test": 156,
@@ -28,13 +37,40 @@
       "pct": 100.0
     },
     {
+      "id": "ce43e96d4973a6bc7730bfc3314fa74486918ddb",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2018-04-02T11:27:22+03:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "f99cb5c995884fc0e6783172380c292ffbf0b510",
-      "who": "alx+alxhub@alxandria.net",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
       "when": "2018-04-02T13:05:08-07:00",
       "all": 89,
       "test": 21,
       "testable": 89,
       "pct": 23.6
+    },
+    {
+      "id": "580f05bd9c07066948a46cc28b701d65c652b54f",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2018-04-02T16:34:48-07:00",
+      "all": 794,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d284404060db331dd12ce80b70062b23146d1c4e",
+      "who": "Alex Eagle <alexeagle@google.com>",
+      "when": "2018-04-02T09:46:13-07:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

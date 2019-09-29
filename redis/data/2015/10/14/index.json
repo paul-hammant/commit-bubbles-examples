@@ -1,24 +1,24 @@
 {
   "commits": [
     {
-      "all": 0, 
-      "who": "david@ludometrics.com", 
-      "when": "2015-10-14T06:58:36+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "8a85ad2d1cc93dab909fbdff82ff54fa063759bf"
-    }, 
+      "id": "8a85ad2d1cc93dab909fbdff82ff54fa063759bf",
+      "who": "David Thomson <david@ludometrics.com>",
+      "when": "2015-10-14T06:58:36+01:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
     {
-      "all": 0, 
-      "who": "david@ludometrics.com", 
-      "when": "2015-10-14T06:56:14+01:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "03d0de7cdffb12edf1dae9c46d8c49d4fd06c755"
+      "id": "03d0de7cdffb12edf1dae9c46d8c49d4fd06c755",
+      "who": "David Thomson <david@ludometrics.com>",
+      "when": "2015-10-14T06:56:14+01:00",
+      "all": 11,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

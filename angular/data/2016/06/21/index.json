@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "e0b0a594bba4a5ca9346bbed07546ffe823b6559",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2016-06-21T13:56:25-07:00",
       "all": 51,
       "test": 44,
@@ -11,7 +11,7 @@
     },
     {
       "id": "9decc3d823d2142b3355658af8dfd8bf8abf4957",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2016-06-21T00:25:55+02:00",
       "all": 60,
       "test": 0,
@@ -20,7 +20,7 @@
     },
     {
       "id": "ef37d2ae0bf60befbe7a0369c26eadf479847428",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-06-21T23:06:35-07:00",
       "all": 2716,
       "test": 162,
@@ -28,8 +28,26 @@
       "pct": 6.3
     },
     {
+      "id": "2eb234bc636be08d88048f9fa99299e502f9e566",
+      "who": "vsavkin <avix1000@gmail.com>",
+      "when": "2016-06-21T14:44:36-07:00",
+      "all": 43,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "758ee958802be45e04c6889ce0fcf391433d7882",
+      "who": "vsavkin <avix1000@gmail.com>",
+      "when": "2016-06-21T14:43:14-07:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "40e1112a8e172ee447d230d6f663183910f99dee",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-06-21T14:07:36-07:00",
       "all": 5,
       "test": 0,
@@ -38,7 +56,7 @@
     },
     {
       "id": "397f5e23901038cba937d72125cc00911ae12422",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2016-06-21T16:55:17-07:00",
       "all": 88,
       "test": 13,
@@ -47,7 +65,7 @@
     },
     {
       "id": "1a212259af070832dd6dd5b80af966a9b00bd9b6",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2016-06-21T11:10:25-07:00",
       "all": 603,
       "test": 0,
@@ -55,8 +73,26 @@
       "pct": 0.0
     },
     {
+      "id": "5954a26bce633a506a66912b3b7944b4700cb256",
+      "who": "Stephen Fluin <stephen.fluin@gmail.com>",
+      "when": "2016-06-21T17:16:22-07:00",
+      "all": 50,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "bdbbe5aa20b76509f4e6739f06ff775ecb9679b7",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2016-06-21T16:34:48-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "15911367a2573b46a54dffd12b2aa841f01c08bd",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-06-21T11:56:40-07:00",
       "all": 591,
       "test": 28,
@@ -65,7 +101,7 @@
     },
     {
       "id": "8dd3f59c811a76352313b50f2e05075e6e4f6133",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-06-21T10:35:42-07:00",
       "all": 410,
       "test": 3,
@@ -74,7 +110,7 @@
     },
     {
       "id": "d1f93072a8914f6b7f02f6ce4d97f47b154b242d",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-06-21T11:49:42-07:00",
       "all": 3175,
       "test": 3175,
@@ -83,12 +119,21 @@
     },
     {
       "id": "262650ab39d23a4e764992925beaf3722e0086b0",
-      "who": "accounts@edd.fm",
+      "who": "Edd Hannay <accounts@edd.fm>",
       "when": "2016-06-21T19:19:08+01:00",
       "all": 3,
       "test": 3,
       "testable": 3,
       "pct": 100.0
+    },
+    {
+      "id": "86405345b781a9dc2438c0fbe3e9409245647019",
+      "who": "Uli K\u00c3\u00b6hler <uli@techoverflow.net>",
+      "when": "2016-06-21T01:45:35+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

@@ -2,16 +2,16 @@
   "commits": [
     {
       "id": "c4cd5f393ced23cb298c52eaa5ed67569d3f8d0d",
-      "who": "antirez@gmail.com",
+      "who": "antirez <antirez@gmail.com>",
       "when": "2009-06-06T23:40:48+02:00",
-      "all": 273,
+      "all": 0,
       "test": 0,
-      "testable": 268,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "433cc893c0ad72b060761b867bc91f270e4338e3",
-      "who": "hrothgar@localhost.(none)",
+      "who": "hrothgar <hrothgar@localhost.(none)>",
       "when": "2009-06-06T09:49:10+00:00",
       "all": 39,
       "test": 0,
@@ -20,11 +20,29 @@
     },
     {
       "id": "de96dbfedfb130ecf6f03f573515f5ceac87bd94",
-      "who": "hrothgar@localhost.(none)",
+      "who": "hrothgar <hrothgar@localhost.(none)>",
       "when": "2009-06-06T08:50:43+00:00",
       "all": 127,
       "test": 0,
       "testable": 127,
+      "pct": 0.0
+    },
+    {
+      "id": "a3cc9e36aa9fe82bdd62cfb4916e3c1e4cb29583",
+      "who": "antirez <antirez@gmail.com>",
+      "when": "2009-06-06T10:00:12+02:00",
+      "all": 12,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "9e9c0ce1702db12a71bef5ef877b5bf97c3c935e",
+      "who": "antirez <antirez@gmail.com>",
+      "when": "2009-06-06T08:24:23+02:00",
+      "all": 23,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     }
   ],

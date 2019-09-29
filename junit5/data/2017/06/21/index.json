@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "2b9a51b83953b3551f1f85e7b10186d6febb26aa",
-      "who": "sormuras@gmail.com",
+      "who": "Christian Stein <sormuras@gmail.com>",
       "when": "2017-06-21T10:40:19+02:00",
       "all": 105,
       "test": 105,
@@ -11,7 +11,7 @@
     },
     {
       "id": "d68618b633afdf8d22339592ffeabd03cffdf2d1",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-06-21T22:17:38+02:00",
       "all": 7,
       "test": 7,
@@ -20,7 +20,7 @@
     },
     {
       "id": "ad6d6e15de8fc1c44efae5607c60e2645c42382a",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-06-21T22:17:22+02:00",
       "all": 116,
       "test": 78,
@@ -29,7 +29,7 @@
     },
     {
       "id": "acb725a55c8d7a18632c1a37c761635aa69ea543",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-06-21T21:26:46+02:00",
       "all": 55,
       "test": 55,
@@ -38,7 +38,7 @@
     },
     {
       "id": "de150913cf2a7df3299a23bdc06636e1475400a1",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2017-06-21T21:03:43+02:00",
       "all": 6,
       "test": 3,
@@ -46,13 +46,31 @@
       "pct": 50.0
     },
     {
+      "id": "6d021b004e360666397111e4d24551e9b126a021",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2017-06-21T21:03:01+02:00",
+      "all": 61,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "f49b6e80f003dafaf89191f7b594cefcda16e079",
-      "who": "sormuras@gmail.com",
+      "who": "Christian Stein <sormuras@gmail.com>",
       "when": "2017-06-21T09:59:12+02:00",
       "all": 22,
       "test": 3,
       "testable": 18,
       "pct": 16.7
+    },
+    {
+      "id": "58d5c34876992c3833016b82f0b5dbdd4cf3ff05",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2017-06-21T01:29:35+02:00",
+      "all": 8,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

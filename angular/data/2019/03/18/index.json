@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "ef853367194c77f505a0705e45f5670725873da1",
-      "who": "filipematossilva@gmail.com",
+      "who": "Filipe Silva <filipematossilva@gmail.com>",
       "when": "2019-03-18T14:44:56+00:00",
       "all": 78,
       "test": 5,
@@ -11,7 +11,7 @@
     },
     {
       "id": "f8cdda63d438ea52fbba33753cd0bfa726dd30fe",
-      "who": "rkirov@gmail.com",
+      "who": "Rado Kirov <rkirov@gmail.com>",
       "when": "2019-03-18T17:51:41-07:00",
       "all": 54,
       "test": 0,
@@ -20,7 +20,7 @@
     },
     {
       "id": "7041e61562f27038414320240a90c00c6cf469c3",
-      "who": "alx+alxhub@alxandria.net",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
       "when": "2019-03-18T12:25:26-07:00",
       "all": 256,
       "test": 48,
@@ -29,7 +29,7 @@
     },
     {
       "id": "7316212c1e923f0617f4ebf3d1b3e18414c92716",
-      "who": "alx+alxhub@alxandria.net",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
       "when": "2019-03-18T11:21:29-07:00",
       "all": 169,
       "test": 138,
@@ -38,7 +38,7 @@
     },
     {
       "id": "aaa16f286dfda41c21adb849b22ccdc2147ed4bf",
-      "who": "alx+alxhub@alxandria.net",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
       "when": "2019-03-18T11:16:38-07:00",
       "all": 308,
       "test": 0,
@@ -47,7 +47,7 @@
     },
     {
       "id": "10734ac6073f89bec5bf7f89c52cc3ba1d2d7bed",
-      "who": "ben@benlesh.com",
+      "who": "Ben Lesh <ben@benlesh.com>",
       "when": "2019-03-18T14:52:30-07:00",
       "all": 103,
       "test": 61,
@@ -55,8 +55,26 @@
       "pct": 64.2
     },
     {
+      "id": "d6d081e1201d98cd3be5b6bb902ab289d603ae6e",
+      "who": "Keen Yee Liau <kyliau@google.com>",
+      "when": "2019-03-18T16:44:03-07:00",
+      "all": 36,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "ea90435a6baabe25db87cc056e75ef46969750fc",
+      "who": "Greg Magolan <gmagolan@gmail.com>",
+      "when": "2019-03-18T15:51:47-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "ea0e832e5f82c07ab468bd27f404c8ea4d1b72d9",
-      "who": "gmagolan@gmail.com",
+      "who": "Greg Magolan <gmagolan@gmail.com>",
       "when": "2019-03-18T14:50:52-07:00",
       "all": 80,
       "test": 20,
@@ -64,8 +82,17 @@
       "pct": 87.0
     },
     {
+      "id": "7c4afb0da72acbd8312195d19c65b6cf2862f4aa",
+      "who": "Greg Magolan <gmagolan@gmail.com>",
+      "when": "2019-03-18T09:31:08-07:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "603df13b14893df1c8e817f94d2f739efe12646c",
-      "who": "gmagolan@gmail.com",
+      "who": "Greg Magolan <gmagolan@gmail.com>",
       "when": "2019-03-18T09:26:00-07:00",
       "all": 23,
       "test": 11,
@@ -73,8 +100,44 @@
       "pct": 100.0
     },
     {
+      "id": "aae6f7b40b2f76a0f149909b11b52b07adf9f0ed",
+      "who": "Hans Larsen <hans@hansl.ca>",
+      "when": "2019-03-18T14:31:43-07:00",
+      "all": 45,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "5f50562be5af74a3d4059d8ceb43a47aa410c068",
+      "who": "Hans Larsen <hans@hansl.ca>",
+      "when": "2019-03-18T14:19:54-07:00",
+      "all": 73,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "19ff32036e2adcf1e955ce17057ed04fadc706ae",
+      "who": "Paul Gschwendtner <paulgschwendtner@gmail.com>",
+      "when": "2019-03-18T23:00:47+01:00",
+      "all": 11,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "37cc514f0fe19f293496d2235f42af7f613e9720",
+      "who": "Paul Gschwendtner <paulgschwendtner@gmail.com>",
+      "when": "2019-03-18T19:25:19+01:00",
+      "all": 66,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "e769f9cfe4e6ff1837c01166fa4659ccf5d7598e",
-      "who": "john@reese.dev",
+      "who": "John Reese <john@reese.dev>",
       "when": "2019-03-18T10:43:13-04:00",
       "all": 3,
       "test": 0,
@@ -83,7 +146,7 @@
     },
     {
       "id": "86aba1e8f3eb5e35ec3b95f885e325a9dc085af6",
-      "who": "alexeagle@angular.io",
+      "who": "Alex Eagle <alexeagle@angular.io>",
       "when": "2019-03-18T09:52:50-07:00",
       "all": 49,
       "test": 35,
@@ -92,7 +155,7 @@
     },
     {
       "id": "ae4a86e3b57c0f84378ece2e8e991e7e92387b51",
-      "who": "alx+alxhub@alxandria.net",
+      "who": "Alex Rickabaugh <alx+alxhub@alxandria.net>",
       "when": "2019-03-18T16:07:36-07:00",
       "all": 91,
       "test": 65,
@@ -101,7 +164,7 @@
     },
     {
       "id": "ce4da3f8e54251fe68fd6efc444e7132891c595b",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2019-03-18T16:24:57+02:00",
       "all": 141,
       "test": 129,
@@ -110,7 +173,7 @@
     },
     {
       "id": "e79f57a6b837c2434c001ee36ec4501390d081a3",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2019-03-18T16:24:56+02:00",
       "all": 101,
       "test": 101,
@@ -119,7 +182,7 @@
     },
     {
       "id": "c439e14d392305821d8678f3404792c7edaea529",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2019-03-18T16:24:56+02:00",
       "all": 77,
       "test": 77,
@@ -128,7 +191,7 @@
     },
     {
       "id": "a8d84660e5088f0dca1845e24a0422fed080aa81",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2019-03-18T16:24:55+02:00",
       "all": 11,
       "test": 0,
@@ -137,7 +200,7 @@
     },
     {
       "id": "4525619a739406c78437a9c497d9d8bb1bdd04ed",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2019-03-18T16:24:54+02:00",
       "all": 3,
       "test": 0,
@@ -146,7 +209,7 @@
     },
     {
       "id": "b759d63389de570a2cc8aebf4df4663d2ae2190f",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2019-03-18T13:39:10-07:00",
       "all": 32,
       "test": 2,
@@ -155,7 +218,7 @@
     },
     {
       "id": "2ab194c9999fc22eaa53c67f4c3b000339246ebe",
-      "who": "crisbeto@abv.bg",
+      "who": "Kristiyan Kostadinov <crisbeto@abv.bg>",
       "when": "2019-03-18T18:35:40+01:00",
       "all": 43,
       "test": 0,

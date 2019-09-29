@@ -2,12 +2,21 @@
   "commits": [
     {
       "id": "40fd27aadec4d1f60bf3c48bf35cd20084fcfe06",
-      "who": "narendra.pathai@gmail.com",
+      "who": "Narendra Pathai <narendra.pathai@gmail.com>",
       "when": "2016-09-25T17:17:49+05:30",
       "all": 3,
       "test": 3,
       "testable": 3,
       "pct": 100.0
+    },
+    {
+      "id": "fe37532fb3d5fb650e92ea5b6d1663bfc65988b4",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-09-25T08:55:01+02:00",
+      "all": 83,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

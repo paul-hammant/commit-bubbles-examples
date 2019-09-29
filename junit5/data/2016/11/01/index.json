@@ -1,8 +1,17 @@
 {
   "commits": [
     {
+      "id": "8252e7467aa31fa9a9a670197fb5d67c211242fe",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-11-01T19:39:42+01:00",
+      "all": 97,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "884fee9f0e5c4dbfb5038f476fa43a05e59507c0",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-11-01T18:36:54+01:00",
       "all": 41,
       "test": 12,
@@ -11,7 +20,7 @@
     },
     {
       "id": "14dc25aaf77f1694aef55e1f593c6584b997769a",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-11-01T18:21:21+01:00",
       "all": 93,
       "test": 23,
@@ -20,12 +29,30 @@
     },
     {
       "id": "56bed13c12ed9a549a3cb904c94cbb29f292c6b3",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-11-01T10:37:42+01:00",
       "all": 134,
       "test": 60,
       "testable": 121,
       "pct": 49.6
+    },
+    {
+      "id": "a7a1d37bb07b9edb1f0e879b77e95b982f1d560a",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-11-01T10:18:20+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "0027f5c2afbe059e7259af08fc25bec7d4578089",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-11-01T10:11:56+01:00",
+      "all": 1042,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

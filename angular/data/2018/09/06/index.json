@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "ac1988d8e6869df6b6870363f0607f56e4403577",
-      "who": "Frederik.Schlemmer@adesso.de",
+      "who": "Frederik Schlemmer <Frederik.Schlemmer@adesso.de>",
       "when": "2018-09-06T07:53:08+02:00",
       "all": 15,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "f113b4990935156bbeb8fe44f6d7f261fc6efd8a",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2018-09-06T15:48:00+03:00",
       "all": 48,
       "test": 48,
@@ -19,8 +19,17 @@
       "pct": 100.0
     },
     {
+      "id": "d8d276c245380f603fc96004bc2f41885a75a7a4",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2018-09-06T18:28:20+03:00",
+      "all": 126,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "96ee898cee043d20d66b36905c8992f9276a3b20",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2018-09-06T14:13:42+03:00",
       "all": 13,
       "test": 0,
@@ -29,7 +38,7 @@
     },
     {
       "id": "2c40a86b61296f6e1ee04bd2a16d631beab94636",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2018-09-06T11:36:27+03:00",
       "all": 254,
       "test": 0,
@@ -38,12 +47,39 @@
     },
     {
       "id": "e3633888edabedc1303f96effeb92efb3e6f5129",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2018-09-06T18:50:57-07:00",
       "all": 238,
       "test": 179,
       "testable": 238,
       "pct": 75.2
+    },
+    {
+      "id": "d6cd041cbd1a401554f14eed58a8a80e65c46570",
+      "who": "Liad Idan <liad.idan@gmail.com>",
+      "when": "2018-09-06T20:37:45+03:00",
+      "all": 11,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "694b8ae7793d7c1e89b8b8fb7d13d2c5381a8cf6",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2018-09-06T12:54:53+03:00",
+      "all": 4,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "152de207747ecc82d96bc677825f4a1d8de3e7f3",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2018-09-06T00:28:37+03:00",
+      "all": 4,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

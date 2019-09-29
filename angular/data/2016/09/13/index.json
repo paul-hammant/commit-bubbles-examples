@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "b847257b16c2ed5957b9726bc63464daaa7b2310",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2016-09-13T21:59:11-07:00",
       "all": 3,
       "test": 0,
@@ -10,8 +10,17 @@
       "pct": 0.0
     },
     {
+      "id": "c65d139081235d58d4e00be56d4db6ce607ed27c",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2016-09-13T21:48:41-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "4e6c41b3a1498d6db717c779bcdea72830ada1cf",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2016-09-13T15:58:45-07:00",
       "all": 91,
       "test": 70,
@@ -20,7 +29,7 @@
     },
     {
       "id": "7105021c41dee7846cdf794b0eaabe8b809316c5",
-      "who": "karakara@google.com",
+      "who": "Kara Erickson <karakara@google.com>",
       "when": "2016-09-13T13:07:40-07:00",
       "all": 122,
       "test": 0,
@@ -29,7 +38,7 @@
     },
     {
       "id": "f7313db0bec61e05eac127d681a24824c2beeeca",
-      "who": "karakara@google.com",
+      "who": "Kara Erickson <karakara@google.com>",
       "when": "2016-09-13T11:43:08-07:00",
       "all": 151,
       "test": 0,
@@ -38,7 +47,7 @@
     },
     {
       "id": "1d2e70e3a418d643ae1c88cdc91d9798fa4a99a2",
-      "who": "karakara@google.com",
+      "who": "Kara Erickson <karakara@google.com>",
       "when": "2016-09-13T00:14:07-07:00",
       "all": 87,
       "test": 0,
@@ -46,8 +55,17 @@
       "pct": 0.0
     },
     {
+      "id": "00a24b63dacad92c364da497ffc97fc62d1abdae",
+      "who": "Igor Minar <iminar@google.com>",
+      "when": "2016-09-13T13:32:58-07:00",
+      "all": 41,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "e71558ba896e3eba18c093cce49ab6819ae46410",
-      "who": "kara@users.noreply.github.com",
+      "who": "Kara <kara@users.noreply.github.com>",
       "when": "2016-09-13T13:23:31-07:00",
       "all": 158,
       "test": 37,
@@ -56,7 +74,7 @@
     },
     {
       "id": "7ac47acc1c4b735f1237fa747db969f86833be3d",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-09-13T10:47:01-07:00",
       "all": 340,
       "test": 0,
@@ -65,7 +83,7 @@
     },
     {
       "id": "60e49a7e4b1bf4407aaef2aae95fbd5795952f25",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-09-13T10:32:53-07:00",
       "all": 98,
       "test": 30,
@@ -74,7 +92,7 @@
     },
     {
       "id": "c71e35cbf5f7cdeebdb74c3103a404b11bdf192a",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-09-13T10:32:48-07:00",
       "all": 86,
       "test": 30,
@@ -83,7 +101,7 @@
     },
     {
       "id": "1348c65b0c70aa24ed55f71ae1fcc0e37af98b61",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-09-13T10:32:44-07:00",
       "all": 97,
       "test": 30,
@@ -92,12 +110,48 @@
     },
     {
       "id": "ff03d87cdd477803b864525140b1ec6bb72f823b",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2016-09-13T10:32:37-07:00",
       "all": 94,
       "test": 30,
       "testable": 94,
       "pct": 31.9
+    },
+    {
+      "id": "a2bf334e6ee9f6a8ee6982d091bcb4e40a9b8418",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
+      "when": "2016-09-13T09:49:48-07:00",
+      "all": 26,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "f8690caa988bf3f764b4d582e6f3ffe3f4ed83ef",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
+      "when": "2016-09-13T09:49:23-07:00",
+      "all": 159,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "aa713d1dd917781d8cecd0704842bdc1d83b2d7e",
+      "who": "Pouja <poujanik@gmail.com>",
+      "when": "2016-09-13T19:06:02+02:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "a2519c6164fe66653f585bcca7a6dc9fb790a884",
+      "who": "Polvista <sokol789@yandex.ru>",
+      "when": "2016-09-13T20:03:45+03:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

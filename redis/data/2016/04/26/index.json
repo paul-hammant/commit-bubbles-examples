@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "676a6a4d194eb1397b4880603bce210e3676a65c",
-      "who": "r@mon.co.il",
+      "who": "Ramon Snir <r@mon.co.il>",
       "when": "2016-04-26T22:34:41+03:00",
       "all": 3,
       "test": 0,
@@ -11,11 +11,20 @@
     },
     {
       "id": "a1f8e22b790c8a392b8f6550b61226fa237f3314",
-      "who": "dvirsky@gmail.com",
+      "who": "Dvir Volk <dvirsky@gmail.com>",
       "when": "2016-04-26T18:06:20+03:00",
       "all": 5,
       "test": 0,
       "testable": 5,
+      "pct": 0.0
+    },
+    {
+      "id": "02c4a6c7f9b86cac0a79aeb5cda2b7e63f048636",
+      "who": "antirez <antirez@gmail.com>",
+      "when": "2016-04-26T11:29:34+02:00",
+      "all": 46,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     }
   ],

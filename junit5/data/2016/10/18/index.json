@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "5278245e1688d3b6f002312f642c47a7a67b56a4",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-10-18T20:38:21+02:00",
       "all": 28,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "8f15311e13212e317fe6665e0db3a1e1b6164d15",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-10-18T20:10:36+02:00",
       "all": 11,
       "test": 11,
@@ -20,12 +20,21 @@
     },
     {
       "id": "eb2be7a5933499a6fae911829e7eabdb4c14dd9f",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2016-10-18T19:50:36+02:00",
       "all": 209,
       "test": 101,
       "testable": 205,
       "pct": 49.3
+    },
+    {
+      "id": "71e32ac3fb3e51b6114422554621f68030311a56",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2016-10-18T12:08:23+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

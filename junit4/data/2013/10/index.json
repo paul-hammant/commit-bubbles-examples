@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "41092ce4e01cc57d8aa1911e2f1169e0f355b1ae",
-      "who": "mail@stefan-birkner.de",
+      "who": "Stefan Birkner <mail@stefan-birkner.de>",
       "when": "2013-10-31T23:54:25+01:00",
       "all": 9,
       "test": 9,
@@ -11,7 +11,7 @@
     },
     {
       "id": "13ff0f993803b7df6d155e95495410e7290da732",
-      "who": "adambeneschan@aol.com",
+      "who": "Adam Beneschan <adambeneschan@aol.com>",
       "when": "2013-10-31T13:24:26-07:00",
       "all": 18,
       "test": 0,
@@ -20,34 +20,88 @@
     },
     {
       "id": "1bb6d041ca237475ca600248b60654a74e437968",
-      "who": "saff+aa@google.com",
+      "who": "David Saff <saff+aa@google.com>",
       "when": "2013-10-31T12:11:28-07:00",
-      "all": 259,
-      "test": 109,
-      "testable": 259,
-      "pct": 42.1
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "6a756d53f90fe0765ce1adbf1203cc0acbc618b9",
+      "who": "Adam Beneschan <adambeneschan@aol.com>",
+      "when": "2013-10-31T11:45:56-07:00",
+      "all": 14,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d317f01b947cbef518aeae1bbb92c95aec918253",
+      "who": "Adam Beneschan <adambeneschan@aol.com>",
+      "when": "2013-10-31T09:24:49-07:00",
+      "all": 372,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "a8767914d0ff31415f7b2740c8c5fbc3f1fabd08",
+      "who": "David Saff <saff+aa@google.com>",
+      "when": "2013-10-30T18:19:11-07:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d8cd6390a328c801cd5259125c5d5ee48e8cb6d3",
+      "who": "Stefan Birkner <mail@stefan-birkner.de>",
+      "when": "2013-10-29T21:16:55+01:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "eaa2799d6c25950b38f76efe05a17eed077e6776",
-      "who": "saff+aa@google.com",
+      "who": "David Saff <saff+aa@google.com>",
       "when": "2013-10-28T10:36:01-07:00",
-      "all": 28,
-      "test": 24,
-      "testable": 28,
-      "pct": 85.7
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "192920c16666f2ef9ec3955b513ce7e2a7001d40",
+      "who": "David Saff <saff+aa@google.com>",
+      "when": "2013-10-25T17:39:38-07:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "b560fce6b4323e1fd4d37c703d7123f1508643cb",
+      "who": "Ricky <ricky@dius.com.au>",
+      "when": "2013-10-25T15:59:44+11:00",
+      "all": 321,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "da0a727ebfcfee036d760d52f574f7b07aba7df2",
-      "who": "saff+aa@google.com",
+      "who": "David Saff <saff+aa@google.com>",
       "when": "2013-10-23T17:38:22-07:00",
-      "all": 672,
-      "test": 352,
-      "testable": 672,
-      "pct": 52.4
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "0956a4e6a236e9414c0d19a349206f3350501c60",
-      "who": "flpa.dev@zoho.com",
+      "who": "flpa <flpa.dev@zoho.com>",
       "when": "2013-10-24T00:12:42+02:00",
       "all": 71,
       "test": 0,
@@ -56,7 +110,7 @@
     },
     {
       "id": "5cdd702717c5ca7dd3002e95847232681c445127",
-      "who": "flpa.dev@zoho.com",
+      "who": "flpa <flpa.dev@zoho.com>",
       "when": "2013-10-23T23:16:10+02:00",
       "all": 36,
       "test": 0,
@@ -65,7 +119,7 @@
     },
     {
       "id": "f521f9003ac3629373e3dee5112b50e098db4a36",
-      "who": "florian-p@gmx.net",
+      "who": "flpa <florian-p@gmx.net>",
       "when": "2013-10-22T01:16:10+02:00",
       "all": 124,
       "test": 0,
@@ -74,7 +128,7 @@
     },
     {
       "id": "445ea85dd748e4e83cf7be5940b41df95b3ffa8d",
-      "who": "florian-p@gmx.net",
+      "who": "flpa <florian-p@gmx.net>",
       "when": "2013-10-22T01:03:06+02:00",
       "all": 10,
       "test": 10,
@@ -83,7 +137,7 @@
     },
     {
       "id": "706c38a81f4ebb142855ee3be27e88fa8eca18e9",
-      "who": "florian-p@gmx.net",
+      "who": "flpa <florian-p@gmx.net>",
       "when": "2013-10-22T01:01:28+02:00",
       "all": 43,
       "test": 0,
@@ -92,7 +146,7 @@
     },
     {
       "id": "e9b0dda59f37f491052e3c6f71c7f1c281492a9f",
-      "who": "florian-p@gmx.net",
+      "who": "flpa <florian-p@gmx.net>",
       "when": "2013-10-22T00:20:58+02:00",
       "all": 2,
       "test": 0,
@@ -101,7 +155,7 @@
     },
     {
       "id": "d0642128fec2d0abad53131f32b0d8e86035ef50",
-      "who": "florian-p@gmx.net",
+      "who": "flpa <florian-p@gmx.net>",
       "when": "2013-10-22T00:19:53+02:00",
       "all": 33,
       "test": 33,
@@ -110,7 +164,7 @@
     },
     {
       "id": "17b56df85a6c055bb937e16fe1f2ad9d3e49f18c",
-      "who": "florian-p@gmx.net",
+      "who": "flpa <florian-p@gmx.net>",
       "when": "2013-10-22T00:07:50+02:00",
       "all": 6,
       "test": 6,
@@ -119,7 +173,7 @@
     },
     {
       "id": "4df71abb70690c98d42787bfe9f098f9fff01946",
-      "who": "florian-p@gmx.net",
+      "who": "flpa <florian-p@gmx.net>",
       "when": "2013-10-22T00:06:36+02:00",
       "all": 395,
       "test": 395,
@@ -128,7 +182,7 @@
     },
     {
       "id": "ce9bc582a64e3ec1364621b4971e22d584c8d992",
-      "who": "florian-p@gmx.net",
+      "who": "flpa <florian-p@gmx.net>",
       "when": "2013-10-20T23:09:51+02:00",
       "all": 14,
       "test": 14,
@@ -137,7 +191,7 @@
     },
     {
       "id": "e70ed85b5732a42791fd5f8df0acd411f223abab",
-      "who": "florian-p@gmx.net",
+      "who": "flpa <florian-p@gmx.net>",
       "when": "2013-10-20T22:40:57+02:00",
       "all": 29,
       "test": 0,
@@ -146,7 +200,7 @@
     },
     {
       "id": "7566c1da93069c00c961e37979db44ce6aa00830",
-      "who": "florian-p@gmx.net",
+      "who": "flpa <florian-p@gmx.net>",
       "when": "2013-10-20T22:04:47+02:00",
       "all": 92,
       "test": 92,
@@ -155,7 +209,7 @@
     },
     {
       "id": "fd1ef3ca8069bd149ca63c9660587918aa28c7cd",
-      "who": "florian-p@gmx.net",
+      "who": "flpa <florian-p@gmx.net>",
       "when": "2013-10-20T19:03:33+02:00",
       "all": 7,
       "test": 0,
@@ -164,7 +218,7 @@
     },
     {
       "id": "224098471a55701c40ab5a49888d93d8ff304164",
-      "who": "\u201cflorian-p@gmx.net\u201d",
+      "who": "\u00e2\u0080\u009cflpa\u00e2\u0080\u009d <\u00e2\u0080\u009cflorian-p@gmx.net\u00e2\u0080\u009d>",
       "when": "2013-10-20T18:58:12+02:00",
       "all": 31,
       "test": 0,
@@ -173,7 +227,7 @@
     },
     {
       "id": "734b6ba797026c223aa686496581f7124249be9a",
-      "who": "florian-p@gmx.net",
+      "who": "flpa <florian-p@gmx.net>",
       "when": "2013-10-20T16:47:46+02:00",
       "all": 3,
       "test": 0,
@@ -182,7 +236,7 @@
     },
     {
       "id": "4f7ed2bdf1856b0582e9b982aa0ba594498c6b45",
-      "who": "florian-p@gmx.net",
+      "who": "flpa <florian-p@gmx.net>",
       "when": "2013-10-20T16:47:02+02:00",
       "all": 12,
       "test": 0,
@@ -191,7 +245,7 @@
     },
     {
       "id": "d517352c4b06fee4d5dfddfc69c86514d09eddc3",
-      "who": "florian-p@gmx.net",
+      "who": "flpa <florian-p@gmx.net>",
       "when": "2013-10-20T16:26:10+02:00",
       "all": 194,
       "test": 0,
@@ -200,7 +254,7 @@
     },
     {
       "id": "81bb4fe24756a6a21b57975cac9eda4ce2304308",
-      "who": "florian-p@gmx.net",
+      "who": "flpa <florian-p@gmx.net>",
       "when": "2013-10-20T16:24:40+02:00",
       "all": 3,
       "test": 3,
@@ -209,7 +263,7 @@
     },
     {
       "id": "91b2d357c370519e052fdb386b664f0ac1d52628",
-      "who": "florian-p@gmx.net",
+      "who": "flpa <florian-p@gmx.net>",
       "when": "2013-10-20T16:14:18+02:00",
       "all": 15,
       "test": 0,
@@ -218,7 +272,7 @@
     },
     {
       "id": "bfa4cea92005b0272e44cd245308dc4f4abaa4cf",
-      "who": "florian-p@gmx.net",
+      "who": "flpa <florian-p@gmx.net>",
       "when": "2013-10-20T16:00:15+02:00",
       "all": 251,
       "test": 251,
@@ -227,7 +281,7 @@
     },
     {
       "id": "dd395b49be740e7c57ffe06fc6db07625c1e1d26",
-      "who": "adambeneschan@aol.com",
+      "who": "Adam Beneschan <adambeneschan@aol.com>",
       "when": "2013-10-18T19:02:19-07:00",
       "all": 400,
       "test": 0,
@@ -236,16 +290,16 @@
     },
     {
       "id": "a71f8c16ea97fceb1aaa84bcf7a99435a0c2d426",
-      "who": "saff+aa@google.com",
+      "who": "David Saff <saff+aa@google.com>",
       "when": "2013-10-18T15:32:01-07:00",
-      "all": 95,
-      "test": 66,
-      "testable": 95,
-      "pct": 69.5
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "f40f106b3721c9b3f9a7d535df1027588d64dcaf",
-      "who": "mail@stefan-birkner.de",
+      "who": "Stefan Birkner <mail@stefan-birkner.de>",
       "when": "2013-10-18T01:13:22+02:00",
       "all": 95,
       "test": 66,
@@ -254,16 +308,16 @@
     },
     {
       "id": "0f623cd1b1309e8b687aa5055d2b5c672be2a0d5",
-      "who": "saff+aa@google.com",
+      "who": "David Saff <saff+aa@google.com>",
       "when": "2013-10-16T15:32:17-07:00",
-      "all": 313,
-      "test": 88,
-      "testable": 313,
-      "pct": 28.1
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     },
     {
       "id": "3e8e865039fe6531666afb860961d787065b589e",
-      "who": "adambeneschan@aol.com",
+      "who": "Adam Beneschan <adambeneschan@aol.com>",
       "when": "2013-10-11T16:58:18-07:00",
       "all": 74,
       "test": 15,
@@ -272,16 +326,16 @@
     },
     {
       "id": "5e6cb8dd0fc0f52f801445290a5d94d7c15cbd5c",
-      "who": "saff+aa@google.com",
+      "who": "David Saff <saff+aa@google.com>",
       "when": "2013-10-11T12:18:12-07:00",
-      "all": 17,
+      "all": 0,
       "test": 0,
-      "testable": 17,
+      "testable": 0,
       "pct": 0.0
     },
     {
       "id": "9ac4cc842d70dc7ef266f4d677d90d9b177e4be6",
-      "who": "peter.lawrey@gmail.com",
+      "who": "Peter Lawrey <peter.lawrey@gmail.com>",
       "when": "2013-10-11T10:18:58+01:00",
       "all": 13,
       "test": 0,
@@ -290,7 +344,7 @@
     },
     {
       "id": "51f22b5c68e8da3f5b46a4c48a1d4a0451ad6fe3",
-      "who": "brettchabot@google.com",
+      "who": "Brett Chabot <brettchabot@google.com>",
       "when": "2013-10-08T17:18:05-07:00",
       "all": 10,
       "test": 10,
@@ -299,7 +353,7 @@
     },
     {
       "id": "063004dca462777a969ab1e0002dd3053014381c",
-      "who": "peter.lawrey@gmail.com",
+      "who": "Peter Lawrey <peter.lawrey@gmail.com>",
       "when": "2013-10-08T17:40:46+01:00",
       "all": 17,
       "test": 0,
@@ -308,7 +362,7 @@
     },
     {
       "id": "f5e7e1ff180bb17e4f9df702a038e06a974f78f6",
-      "who": "ricky@dius.com.au",
+      "who": "Ricky <ricky@dius.com.au>",
       "when": "2013-10-06T14:39:02+11:00",
       "all": 25,
       "test": 0,
@@ -317,7 +371,7 @@
     },
     {
       "id": "35b428a24bdd2eddd9653189632896d4f5b1ce42",
-      "who": "adambeneschan@aol.com",
+      "who": "Adam Beneschan <adambeneschan@aol.com>",
       "when": "2013-10-03T18:11:14-07:00",
       "all": 104,
       "test": 33,
@@ -326,7 +380,7 @@
     },
     {
       "id": "7eef2314cb78d41def996cdd80c5a56c94a993f3",
-      "who": "adambeneschan@aol.com",
+      "who": "Adam Beneschan <adambeneschan@aol.com>",
       "when": "2013-10-02T10:40:24-07:00",
       "all": 3,
       "test": 3,
@@ -335,7 +389,7 @@
     },
     {
       "id": "fba19ba73a93dcc2d18942b3cf4992ce010afdb2",
-      "who": "adambeneschan@aol.com",
+      "who": "Adam Beneschan <adambeneschan@aol.com>",
       "when": "2013-10-02T10:32:27-07:00",
       "all": 215,
       "test": 87,

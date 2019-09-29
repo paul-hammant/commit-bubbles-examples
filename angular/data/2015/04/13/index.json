@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "725f909ff82cbb30754603c0ee9e489fa8c4a336",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-04-13T23:56:07-07:00",
       "all": 79,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "5408abca68dcadd68a2f195abdd13ea8b51afc30",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-04-13T09:50:02-07:00",
       "all": 73,
       "test": 12,
@@ -20,7 +20,7 @@
     },
     {
       "id": "97fc248e008034a119ea5b330faec26d9d43434a",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-04-13T10:05:11-07:00",
       "all": 8,
       "test": 4,
@@ -28,8 +28,26 @@
       "pct": 50.0
     },
     {
+      "id": "0d0b3a35dafcd46e5b57976253afddfdf5233c00",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2015-04-13T11:04:28-07:00",
+      "all": 146,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "7cac7c5157e17d0b5c92c0e38497290266c9ffe5",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2015-04-13T16:54:09-07:00",
+      "all": 1405,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "8475c63a6acd6cd68e46388cc3c8265a7e1b2777",
-      "who": "naomitraveller@gmail.com",
+      "who": "Naomi Black <naomitraveller@gmail.com>",
       "when": "2015-04-13T21:00:52-07:00",
       "all": 73,
       "test": 0,
@@ -38,7 +56,7 @@
     },
     {
       "id": "ef6e0d8eb8f6c3caedf145777ec64a680210abd6",
-      "who": "martin@probst.io",
+      "who": "Martin Probst <martin@probst.io>",
       "when": "2015-04-13T22:22:35-07:00",
       "all": 175,
       "test": 0,
@@ -47,7 +65,7 @@
     },
     {
       "id": "db97d73c3bbb7cb05f7cf039761efecd4592c90a",
-      "who": "martin@probst.io",
+      "who": "Martin Probst <martin@probst.io>",
       "when": "2015-04-13T16:22:23-07:00",
       "all": 192,
       "test": 0,
@@ -56,7 +74,7 @@
     },
     {
       "id": "8b97cf14797a8f01707be316d9996bd0bdae8998",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-04-13T09:35:56-07:00",
       "all": 84,
       "test": 10,
@@ -65,7 +83,7 @@
     },
     {
       "id": "b5c9f9ed9bc9c3f10668afee3bffe7c5188c4457",
-      "who": "vic.savkin@gmail.com",
+      "who": "vsavkin <vic.savkin@gmail.com>",
       "when": "2015-04-13T09:35:24-07:00",
       "all": 18,
       "test": 18,
@@ -73,8 +91,17 @@
       "pct": 100.0
     },
     {
+      "id": "bda120d86291eccbfbfa5582f46a784ae9613eca",
+      "who": "Yegor Jbanov <yjbanov@google.com>",
+      "when": "2015-04-13T18:34:34-07:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "3177576ad6889fd7cb592d27ff0cd5c0d85bd9d6",
-      "who": "radokirov@google.com",
+      "who": "Rado Kirov <radokirov@google.com>",
       "when": "2015-04-13T16:48:04-07:00",
       "all": 65,
       "test": 0,
@@ -83,7 +110,7 @@
     },
     {
       "id": "896a0457f804fff71412191f86371fe9005e53b0",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2015-04-13T16:39:47-07:00",
       "all": 732,
       "test": 0,
@@ -92,7 +119,7 @@
     },
     {
       "id": "caf8e2723d2a8b9f3cc4a3c34036c7c67593250f",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-04-13T15:37:51-07:00",
       "all": 131,
       "test": 0,
@@ -101,7 +128,7 @@
     },
     {
       "id": "0107543a334a5075b9610d2988a8c77f7ab4bf7e",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-04-13T14:52:47-07:00",
       "all": 27,
       "test": 0,
@@ -109,8 +136,17 @@
       "pct": 0.0
     },
     {
+      "id": "7d29636087dbb9964f6c5a2bfe61032bed73db39",
+      "who": "Yegor Jbanov <yjbanov@google.com>",
+      "when": "2015-04-13T16:15:12-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "70433e6b73150d29d20af04e0e8c9188459836f6",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2015-04-13T09:52:02-07:00",
       "all": 93,
       "test": 0,
@@ -119,7 +155,7 @@
     },
     {
       "id": "3667854a8f7a9f84c56c2e69aad0a804a0b52739",
-      "who": "yjbanov@google.com",
+      "who": "Yegor Jbanov <yjbanov@google.com>",
       "when": "2015-04-13T14:29:32-07:00",
       "all": 57,
       "test": 0,
@@ -128,7 +164,7 @@
     },
     {
       "id": "c5c1c9e38e79f7955d0406ccc1e681152d4fa75f",
-      "who": "yjbanov@google.com",
+      "who": "Yegor Jbanov <yjbanov@google.com>",
       "when": "2015-04-13T09:43:39-07:00",
       "all": 6,
       "test": 0,
@@ -137,7 +173,7 @@
     },
     {
       "id": "ff6e7754aeebad475514c5af890a86ed2514a645",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2015-04-13T18:59:37+02:00",
       "all": 3,
       "test": 0,
@@ -146,7 +182,7 @@
     },
     {
       "id": "7c95cea3a89506b6ca0d91503d08f56f19661092",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2015-04-13T21:16:21+02:00",
       "all": 2,
       "test": 0,
@@ -155,7 +191,7 @@
     },
     {
       "id": "34501aaae63b959c684e50d14cb5e20627e88584",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2015-04-13T09:52:02-07:00",
       "all": 165,
       "test": 0,
@@ -164,7 +200,7 @@
     },
     {
       "id": "dbfc4c1c1662ce204f44d13df11baa3614bee46f",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-04-13T11:37:18-07:00",
       "all": 8,
       "test": 0,
@@ -173,7 +209,7 @@
     },
     {
       "id": "301863b1052dd53635db2fcad45b99550e4895c4",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-04-13T11:16:21-07:00",
       "all": 5,
       "test": 0,
@@ -182,7 +218,7 @@
     },
     {
       "id": "ef8dc4049260abf0f23afb9c50a0c46876d5f0e9",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-04-13T10:52:55-07:00",
       "all": 3,
       "test": 0,
@@ -191,7 +227,7 @@
     },
     {
       "id": "6dbd4d969b00f32034a50bc3239471dd01461b9c",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-04-13T10:49:51-07:00",
       "all": 4,
       "test": 0,
@@ -200,7 +236,7 @@
     },
     {
       "id": "3dd0ac1f0a5ddc0904e42478ff07fde027e46bf4",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2015-04-13T10:17:51-07:00",
       "all": 92,
       "test": 0,

@@ -1,13 +1,31 @@
 {
   "commits": [
     {
+      "id": "d840c22f2db421fa64429d853b7548f4e339e47b",
+      "who": "Marc Philipp <marc@gradle.com>",
+      "when": "2019-02-27T09:46:58+01:00",
+      "all": 24,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "5e41ebe612fd67e905f96f1dd3184a071b65be17",
-      "who": "team@junit.org",
+      "who": "JUnit Team <team@junit.org>",
       "when": "2019-02-27T13:55:17+01:00",
       "all": 2835,
       "test": 1416,
       "testable": 2805,
       "pct": 50.5
+    },
+    {
+      "id": "10b8e85e4765d88a356ede12f5740f105306a43d",
+      "who": "Marc Philipp <marc@gradle.com>",
+      "when": "2019-02-27T09:46:58+01:00",
+      "all": 24,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

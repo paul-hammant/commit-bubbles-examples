@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "cbf97077bae0db71dc3a7cade28c3b00587a8699",
-      "who": "stefan.bechtold@namics.com",
+      "who": "Stefan Bechtold <stefan.bechtold@namics.com>",
       "when": "2015-10-27T23:46:24+01:00",
       "all": 1464,
       "test": 92,
@@ -11,7 +11,7 @@
     },
     {
       "id": "4ed7da080632a120397988eb5adf898c2b7508bd",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2015-10-27T18:35:27+01:00",
       "all": 15,
       "test": 0,
@@ -20,7 +20,7 @@
     },
     {
       "id": "f6372b05546e29c74e6809f4e54a096f537bcd5d",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2015-10-27T18:00:04+01:00",
       "all": 521,
       "test": 68,
@@ -29,7 +29,7 @@
     },
     {
       "id": "226ecd8efc45e4540bba43f6c604e891b5a94689",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2015-10-27T17:09:55+01:00",
       "all": 642,
       "test": 140,
@@ -38,7 +38,7 @@
     },
     {
       "id": "75a91267a92e9fd4d171a3f18f2135e675687961",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2015-10-27T15:37:21+01:00",
       "all": 263,
       "test": 19,
@@ -47,12 +47,21 @@
     },
     {
       "id": "b7629e60839b9de823d24ab9631e196b9e2625bd",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2015-10-27T12:14:19+01:00",
       "all": 538,
       "test": 124,
       "testable": 455,
       "pct": 27.3
+    },
+    {
+      "id": "80526571434bb9bb27099ee68c4761b357e9e2c6",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2015-10-27T10:33:36+01:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

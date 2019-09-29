@@ -1,8 +1,17 @@
 {
   "commits": [
     {
+      "id": "46dd5fcbb0f1d53d728ffab26e916e01f7299730",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2015-08-26T12:42:04-07:00",
+      "all": 126,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "ac3f5106e45d655e3f5207a01ab31d565b4c9a95",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2015-08-26T13:55:53-07:00",
       "all": 212,
       "test": 96,
@@ -11,7 +20,7 @@
     },
     {
       "id": "37b042b3618e6fbe3f93442310981f105374c10b",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2015-08-26T13:40:12-07:00",
       "all": 438,
       "test": 52,
@@ -20,7 +29,7 @@
     },
     {
       "id": "69926dd00217918e0b94f5a2fe49d45da36c3552",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2015-08-26T11:44:59-07:00",
       "all": 800,
       "test": 262,
@@ -28,8 +37,26 @@
       "pct": 46.7
     },
     {
+      "id": "e41d7451bfefe484caf13875a2c2dc0759407fe1",
+      "who": "Misko Hevery <misko@hevery.com>",
+      "when": "2015-08-26T11:48:09-07:00",
+      "all": 8,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "02d9e18279d1c0994026bb61bc0bcbf72ac59bbd",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2015-08-26T09:35:05-07:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "78200868f41042a00a184e1506faaa19475877ae",
-      "who": "philip@mailharrison.com",
+      "who": "Philip Harrison <philip@mailharrison.com>",
       "when": "2015-08-26T11:45:30+01:00",
       "all": 4,
       "test": 0,
@@ -38,7 +65,7 @@
     },
     {
       "id": "51285666d851e229d2f33ddac3494884b8a58f87",
-      "who": "richard@mindginative.com",
+      "who": "Richard Sentino <richard@mindginative.com>",
       "when": "2015-08-26T14:26:13+12:00",
       "all": 19,
       "test": 0,
@@ -47,7 +74,7 @@
     },
     {
       "id": "557d309377683fd5c37f05178054bb08e8ac1e97",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2015-08-26T16:45:03+02:00",
       "all": 109,
       "test": 109,
@@ -56,7 +83,7 @@
     },
     {
       "id": "4ba4427510973728e1fcb4ba6f3c18592e59d0d9",
-      "who": "jteplitz602@gmail.com",
+      "who": "Jason Teplitz <jteplitz602@gmail.com>",
       "when": "2015-08-26T10:41:41-07:00",
       "all": 1029,
       "test": 3,
@@ -65,7 +92,7 @@
     },
     {
       "id": "343dcfa0c08771b6cc8cf589124b161236e95aa2",
-      "who": "avix1000@gmail.com",
+      "who": "vsavkin <avix1000@gmail.com>",
       "when": "2015-08-26T11:41:41-07:00",
       "all": 869,
       "test": 554,
@@ -74,12 +101,21 @@
     },
     {
       "id": "457eb5d69cdc0c0b317bf64df00911674121c7a6",
-      "who": "tjblasi@google.com",
+      "who": "Tim Blasi <tjblasi@google.com>",
       "when": "2015-08-26T13:25:00-07:00",
       "all": 18,
       "test": 7,
       "testable": 18,
       "pct": 38.9
+    },
+    {
+      "id": "5863f5031669187966b3d1f1e7b4c915552951a1",
+      "who": "Tim Blasi <tjblasi@google.com>",
+      "when": "2015-08-26T10:17:29-07:00",
+      "all": 25,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

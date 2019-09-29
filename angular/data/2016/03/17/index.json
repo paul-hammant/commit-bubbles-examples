@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "b6507e37efdacd27938b24d07597c457203a9cf2",
-      "who": "tjblasi@google.com",
+      "who": "Tim Blasi <tjblasi@google.com>",
       "when": "2016-03-17T12:49:46-07:00",
       "all": 295,
       "test": 3,
@@ -11,7 +11,7 @@
     },
     {
       "id": "967ae3e1b8d6300d37d2726546c069caa4c40770",
-      "who": "robwormald@gmail.com",
+      "who": "Rob Wormald <robwormald@gmail.com>",
       "when": "2016-03-17T21:30:53-07:00",
       "all": 2,
       "test": 0,
@@ -19,8 +19,17 @@
       "pct": 0.0
     },
     {
+      "id": "a5e6eaaebccbc70f3cbe2aa54ef4e4a9badaa122",
+      "who": "Misko Hevery <misko@hevery.com>",
+      "when": "2016-03-17T16:51:33-07:00",
+      "all": 15,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "d4e9b55fb69d87f948d02905d34fc78221adb11a",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2016-03-17T20:58:25-07:00",
       "all": 99,
       "test": 0,
@@ -29,12 +38,30 @@
     },
     {
       "id": "048bd280ddebbcf8e805a7c48eaf5396d22df04c",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2016-03-17T20:57:57-07:00",
       "all": 3,
       "test": 3,
       "testable": 3,
       "pct": 100.0
+    },
+    {
+      "id": "ea11b3f1f87afbf27d7cd9de87384d4963cd1965",
+      "who": "Evan Martin <martine@danga.com>",
+      "when": "2016-03-17T15:01:44-07:00",
+      "all": 37,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "3bd87147ab2c9aeb6683e506895fd0c8b931fb9d",
+      "who": "Evan Martin <martine@danga.com>",
+      "when": "2016-03-17T14:53:47-07:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "Angular (master branch)",

@@ -1,15 +1,15 @@
 {
   "commits": [
     {
-      "all": 0, 
-      "who": "zhukovaa90@gmail.com", 
-      "when": "2016-09-12T13:53:47+03:00", 
-      "pct": 0.0, 
-      "test": 0, 
-      "testable": 0, 
-      "id": "27d08fb8f0c5cbb2258dd6df6722228693d218c4"
+      "id": "27d08fb8f0c5cbb2258dd6df6722228693d218c4",
+      "who": "Alexander Zhukov <zhukovaa90@gmail.com>",
+      "when": "2016-09-12T13:53:47+03:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
-  ], 
-  "description": "Redis (unstable branch)", 
+  ],
+  "description": "Redis (unstable branch)",
   "baseURL": "https://github.com/antirez/redis/commit/"
 }

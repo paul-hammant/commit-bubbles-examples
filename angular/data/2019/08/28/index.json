@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "9166baf7090ae3172a9c5c3b233a6d191f0c4d5b",
-      "who": "goodwine@google.com",
+      "who": "Carlos Ortiz Garc\u00c3\u00ada <goodwine@google.com>",
       "when": "2019-08-28T16:22:36-07:00",
       "all": 1061,
       "test": 806,
@@ -11,7 +11,7 @@
     },
     {
       "id": "f4e4bb20852ae1650afed25d04bbb42025a3fa86",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2019-08-28T15:01:39+03:00",
       "all": 736,
       "test": 557,
@@ -20,7 +20,7 @@
     },
     {
       "id": "f6e88cd65945d8abead74d322caf0d93b9743062",
-      "who": "kyliau@google.com",
+      "who": "Keen Yee Liau <kyliau@google.com>",
       "when": "2019-08-28T10:18:18-07:00",
       "all": 278,
       "test": 6,
@@ -28,8 +28,26 @@
       "pct": 2.6
     },
     {
+      "id": "9a55eaf10db3cae519ed87e16972ae5939c6669b",
+      "who": "Pete Bacon Darwin <pete@bacondarwin.com>",
+      "when": "2019-08-28T11:01:33+01:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "60f963986fbb41c1eb20cf022d61dfbfcd54b837",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2019-08-28T00:44:41+03:00",
+      "all": 26,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "c507e4907d0c90a6f0d7fa64588eda340d0ac8db",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2019-08-28T10:13:57+03:00",
       "all": 14,
       "test": 0,
@@ -38,7 +56,7 @@
     },
     {
       "id": "afc6ab5442b9b0a51c4dac8a280f3eefca479616",
-      "who": "kalpakas.g@gmail.com",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
       "when": "2019-08-28T00:39:13+03:00",
       "all": 215,
       "test": 0,
@@ -46,8 +64,26 @@
       "pct": 0.0
     },
     {
+      "id": "03cbce8c6621f2346ae866904b836c3bfe6064eb",
+      "who": "Issei Horie <is2ei.horie@gmail.com>",
+      "when": "2019-08-28T00:50:14+09:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "7742a99cee5f9e8c33611820ce8d29e9687761d6",
+      "who": "Kara Erickson <karakara@google.com>",
+      "when": "2019-08-28T14:27:08-07:00",
+      "all": 401,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "18ce58c2bc3551781addaa0b32a607d5269a4e44",
-      "who": "kyliau@google.com",
+      "who": "Keen Yee Liau <kyliau@google.com>",
       "when": "2019-08-28T12:55:12-07:00",
       "all": 415,
       "test": 415,
@@ -56,7 +92,7 @@
     },
     {
       "id": "852afb312aeb1c453177204288d296085a8aae68",
-      "who": "kyliau@google.com",
+      "who": "Keen Yee Liau <kyliau@google.com>",
       "when": "2019-08-28T10:59:37-07:00",
       "all": 23,
       "test": 0,
@@ -65,7 +101,7 @@
     },
     {
       "id": "d4703d931633b605bc0700a6c42e56eb5e4f492b",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2019-08-28T16:12:26+02:00",
       "all": 18,
       "test": 0,
@@ -74,11 +110,38 @@
     },
     {
       "id": "1bb9ce5d8c857183139b6345ffae4988f2434d73",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2019-08-28T15:17:26+02:00",
       "all": 12,
       "test": 0,
       "testable": 12,
+      "pct": 0.0
+    },
+    {
+      "id": "98420c27de149c94af0b69335876b1ea8e7b295e",
+      "who": "atscott <atscott@google.com>",
+      "when": "2019-08-28T12:06:45-07:00",
+      "all": 31,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "a8131365c51246581787cdc717f65540e94aa729",
+      "who": "Andrew Scott <atscott01@gmail.com>",
+      "when": "2019-08-28T12:00:17-07:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "125ef0a0ec9353a597be048b38714eb43cd45cbf",
+      "who": "George Kalpakas <kalpakas.g@gmail.com>",
+      "when": "2019-08-28T10:52:24+00:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     }
   ],

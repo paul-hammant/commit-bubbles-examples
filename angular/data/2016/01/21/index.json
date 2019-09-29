@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "c2ceb7fba4c6bca0dd1490b8402f4f7dd1ad4c2d",
-      "who": "eric.martinez@live.cl",
+      "who": "ericmartinezr <eric.martinez@live.cl>",
       "when": "2016-01-21T10:25:31-03:00",
       "all": 11,
       "test": 4,
@@ -11,7 +11,7 @@
     },
     {
       "id": "8bea667a0bf287a4302c90fe0179c69c9470eeaa",
-      "who": "jteplitz602@gmail.com",
+      "who": "Jason Teplitz <jteplitz602@gmail.com>",
       "when": "2016-01-21T09:58:28-08:00",
       "all": 1033,
       "test": 245,
@@ -19,8 +19,17 @@
       "pct": 26.0
     },
     {
+      "id": "b5b6ece65a96f5b8f134ad4899b56bf84afe3ba0",
+      "who": "Yegor Jbanov <yjbanov@google.com>",
+      "when": "2016-01-21T18:21:48-08:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "4282297c2449b1e3f5f652a853b6ab2581e1675d",
-      "who": "yjbanov@google.com",
+      "who": "Yegor Jbanov <yjbanov@google.com>",
       "when": "2016-01-21T18:13:58-08:00",
       "all": 154,
       "test": 0,
@@ -29,7 +38,7 @@
     },
     {
       "id": "4a414420e940bf4a5eea2c870ddff6e33f0343b9",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2016-01-21T19:36:44-08:00",
       "all": 13,
       "test": 0,
@@ -38,11 +47,20 @@
     },
     {
       "id": "fb6335ab60265e2341f4e28c98de0910d24e82fc",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2016-01-21T14:15:32-08:00",
       "all": 13,
       "test": 0,
       "testable": 13,
+      "pct": 0.0
+    },
+    {
+      "id": "89bd00844592fac29667f830cea16943d4f0892b",
+      "who": "Igor Minar <igor@angularjs.org>",
+      "when": "2016-01-21T13:30:03-08:00",
+      "all": 25,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     }
   ],

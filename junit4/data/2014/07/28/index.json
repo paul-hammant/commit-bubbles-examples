@@ -2,21 +2,75 @@
   "commits": [
     {
       "id": "e8b655828694b2b3bf8b35e82e94be937607c898",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2014-07-28T23:07:57+02:00",
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "1ef449139923a22333f262dc8c75fa057903040c",
+      "who": "Stefan Birkner <mail@stefan-birkner.de>",
+      "when": "2014-07-28T22:33:48+02:00",
       "all": 14,
       "test": 14,
       "testable": 14,
       "pct": 100.0
     },
     {
-      "id": "1ef449139923a22333f262dc8c75fa057903040c",
-      "who": "mail@stefan-birkner.de",
-      "when": "2014-07-28T22:33:48+02:00",
-      "all": 14,
-      "test": 14,
-      "testable": 14,
-      "pct": 100.0
+      "id": "ab5d85e79260ef10d09328c8af68080ff84dc53c",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2014-07-28T21:43:35+02:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "bc235a478eafb3136942f1e70c23b82e9194f12c",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2014-07-28T21:42:04+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "8aea9bc66441e5dd727b7d0a6478b4adb93b63f9",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2014-07-28T21:41:40+02:00",
+      "all": 581,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "d621a8387a7ce820821c9a378013f4ea187ff166",
+      "who": "Stefan Birkner <mail@stefan-birkner.de>",
+      "when": "2014-07-28T21:16:10+02:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "87f64ab3d8aeabda7800dc12dfcf4f55b636392c",
+      "who": "CloudBees DEV@Cloud <nobody@cloudbees.com>",
+      "when": "2014-07-28T13:38:58-04:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "9b864b9c8f74cb03211b300987cd045f016e7a75",
+      "who": "CloudBees DEV@Cloud <nobody@cloudbees.com>",
+      "when": "2014-07-28T13:38:57-04:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 4 (master branch)",

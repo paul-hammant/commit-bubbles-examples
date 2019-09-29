@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "9237d8c9b3558b2adcb90ddc991c6bcb44c59dc0",
-      "who": "a@a.(none)",
+      "who": "a <a@a.(none)>",
       "when": "2012-05-09T14:47:22-05:00",
       "all": 3,
       "test": 0,
@@ -11,12 +11,12 @@
     },
     {
       "id": "811b0efc7f90a75b2913f8ecea0011b2434cd4ff",
-      "who": "saff@google.com",
+      "who": "David Saff <saff@google.com>",
       "when": "2012-05-09T11:54:11-07:00",
-      "all": 202,
-      "test": 63,
-      "testable": 202,
-      "pct": 31.2
+      "all": 0,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 4 (master branch)",

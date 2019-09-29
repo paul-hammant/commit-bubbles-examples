@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "5c4d8c62e341acb7d46eff730a19b2ce041c2dfe",
-      "who": "daniel.rothmaler@nubix.biz",
+      "who": "Daniel Rothmaler <daniel.rothmaler@nubix.biz>",
       "when": "2011-05-23T18:35:16+02:00",
       "all": 16,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "da545cc5f425dd1392ffaa7d2cb8be3b2ef8a179",
-      "who": "daniel.rothmaler@nubix.biz",
+      "who": "Daniel Rothmaler <daniel.rothmaler@nubix.biz>",
       "when": "2011-05-20T10:40:09+02:00",
       "all": 22,
       "test": 7,
@@ -20,7 +20,7 @@
     },
     {
       "id": "ce867738993339a28fd7b3a25ff1e74dbc0013aa",
-      "who": "daniel.rothmaler@nubix.biz",
+      "who": "Daniel Rothmaler <daniel.rothmaler@nubix.biz>",
       "when": "2011-05-24T08:27:19+02:00",
       "all": 102,
       "test": 79,
@@ -28,8 +28,17 @@
       "pct": 77.5
     },
     {
+      "id": "de8dfa6dcaf4353c5e399ff976db6803db73f9bd",
+      "who": "Kevin Cooney <kcooney@google.com>",
+      "when": "2011-05-31T21:31:53-07:00",
+      "all": 12,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "a4c5380ffe636edc0acbab144080adbc709d668c",
-      "who": "kcooney@google.com",
+      "who": "Kevin Cooney <kcooney@google.com>",
       "when": "2011-05-30T20:28:12-07:00",
       "all": 27,
       "test": 16,
@@ -38,7 +47,7 @@
     },
     {
       "id": "5eee07b3e21f196b8cb937fb88eb8cf4be694f76",
-      "who": "kcooney@google.com",
+      "who": "Kevin Cooney <kcooney@google.com>",
       "when": "2011-05-30T20:08:41-07:00",
       "all": 17,
       "test": 0,
@@ -47,12 +56,21 @@
     },
     {
       "id": "dfd0bba58bfdacfd8802ee07c8f83ee794a51aba",
-      "who": "kcooney@google.com",
+      "who": "Kevin Cooney <kcooney@google.com>",
       "when": "2011-05-30T11:58:46-07:00",
       "all": 40,
       "test": 37,
       "testable": 40,
       "pct": 92.5
+    },
+    {
+      "id": "30b0c3000e75657cbd95a09110cec40d1695160c",
+      "who": "David Saff <david@saff.net>",
+      "when": "2011-05-19T11:49:09-04:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 4 (master branch)",

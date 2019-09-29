@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "9a67f3872862713dcc36799429167c89a18b7f98",
-      "who": "dimitris.loukadakis@gmail.com",
+      "who": "Dimitrios Loukadakis <dimitris.loukadakis@gmail.com>",
       "when": "2016-06-10T18:57:03+03:00",
       "all": 83,
       "test": 31,
@@ -11,7 +11,7 @@
     },
     {
       "id": "5c8d3154d755f879d328739b78952fc88d38681f",
-      "who": "andrei_tserakhau@epam.com",
+      "who": "Andrei Tserakhau <andrei_tserakhau@epam.com>",
       "when": "2016-06-10T00:32:36+03:00",
       "all": 52,
       "test": 30,
@@ -20,7 +20,7 @@
     },
     {
       "id": "6fc267f22ccb392f2df9808d0415bc690b77a82f",
-      "who": "igor@angularjs.org",
+      "who": "Igor Minar <igor@angularjs.org>",
       "when": "2016-06-10T10:21:53-07:00",
       "all": 839,
       "test": 170,
@@ -28,8 +28,17 @@
       "pct": 21.6
     },
     {
+      "id": "a0251305ead688203047a2908287b6b67483139a",
+      "who": "Victor Berchet <victor@suumit.com>",
+      "when": "2016-06-10T17:35:06-07:00",
+      "all": 13,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "7d9c1e122534ff49b2ce6611876fa4578a69fe1d",
-      "who": "karakara@google.com",
+      "who": "Kara Erickson <karakara@google.com>",
       "when": "2016-06-10T19:10:17-07:00",
       "all": 293,
       "test": 175,
@@ -38,7 +47,7 @@
     },
     {
       "id": "d53edfec475279bf1866095a728093dd1b0b3bed",
-      "who": "karakara@google.com",
+      "who": "Kara Erickson <karakara@google.com>",
       "when": "2016-06-10T17:28:19-07:00",
       "all": 129,
       "test": 25,
@@ -47,7 +56,7 @@
     },
     {
       "id": "a6e5ddc5af4ec4a4a6f69de8f8db0255033a55ad",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2016-06-10T16:31:34-07:00",
       "all": 64,
       "test": 0,
@@ -56,7 +65,7 @@
     },
     {
       "id": "b866f32832886f06187a436b37a187bbda61db72",
-      "who": "karakara@google.com",
+      "who": "Kara Erickson <karakara@google.com>",
       "when": "2016-06-10T11:15:59-07:00",
       "all": 663,
       "test": 409,
@@ -65,7 +74,7 @@
     },
     {
       "id": "97833d48c11ef1764b16b760f72c16e44747597c",
-      "who": "karakara@google.com",
+      "who": "Kara Erickson <karakara@google.com>",
       "when": "2016-06-10T11:32:09-07:00",
       "all": 8,
       "test": 0,
@@ -74,7 +83,7 @@
     },
     {
       "id": "9c0031f7a5877d1f140889d98bf0706887cefc9c",
-      "who": "misko@hevery.com",
+      "who": "Misko Hevery <misko@hevery.com>",
       "when": "2016-06-10T10:35:36-07:00",
       "all": 139,
       "test": 139,
@@ -83,7 +92,7 @@
     },
     {
       "id": "4ed6cf75192fbae80aca411603e9cca7a4f9087f",
-      "who": "karakara@google.com",
+      "who": "Kara Erickson <karakara@google.com>",
       "when": "2016-06-10T10:09:50-07:00",
       "all": 173,
       "test": 96,
@@ -92,7 +101,7 @@
     },
     {
       "id": "537e99b4eac36e06bed2e908fa31858fa78267a0",
-      "who": "polybuildr@users.noreply.github.com",
+      "who": "Vivek Ghaisas <polybuildr@users.noreply.github.com>",
       "when": "2016-06-10T17:18:49+02:00",
       "all": 16,
       "test": 13,
@@ -101,7 +110,7 @@
     },
     {
       "id": "3aca5ff9e20d79e6f84cabeb1335c2e9ebbf142b",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2016-06-10T01:07:06+02:00",
       "all": 28,
       "test": 14,
@@ -110,7 +119,7 @@
     },
     {
       "id": "9146bb08169bc7e6dddf1db62fdc19c771370f2e",
-      "who": "idirouhab@users.noreply.github.com",
+      "who": "Idir Ouhab Meskine <idirouhab@users.noreply.github.com>",
       "when": "2016-06-10T01:05:13+02:00",
       "all": 3,
       "test": 0,
@@ -119,11 +128,20 @@
     },
     {
       "id": "0c9e8dbf60a0d1593db05b828b71b9f8d385ebbf",
-      "who": "pkozlowski.opensource@gmail.com",
+      "who": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>",
       "when": "2016-06-10T01:03:42+02:00",
       "all": 4,
       "test": 0,
       "testable": 4,
+      "pct": 0.0
+    },
+    {
+      "id": "b34a04d53a01c94d78be0df235046e0b67012292",
+      "who": "Marc Laval <mlaval@amadeus.com>",
+      "when": "2016-06-10T00:21:17+02:00",
+      "all": 6,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     }
   ],

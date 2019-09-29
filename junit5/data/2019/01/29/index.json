@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "90f031f9b7d8c04fcdb963b89851eec0248522e8",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2019-01-29T17:05:13+01:00",
       "all": 7,
       "test": 0,
@@ -11,7 +11,7 @@
     },
     {
       "id": "3ab9ca91fafcee57970ee3d5870c0644636911ff",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2019-01-29T17:01:13+01:00",
       "all": 16,
       "test": 0,
@@ -19,13 +19,31 @@
       "pct": 0.0
     },
     {
+      "id": "d096c0f1e24f4cf07539aee688584365737b51c9",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2019-01-29T16:58:53+01:00",
+      "all": 31,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "b1aec2ec4c1495b93912db25afdfbb2be8e33598",
-      "who": "team@junit.org",
+      "who": "JUnit Team <team@junit.org>",
       "when": "2019-01-29T16:54:22+01:00",
       "all": 2856,
       "test": 1431,
       "testable": 2823,
       "pct": 50.7
+    },
+    {
+      "id": "f6cc7d7bbb4a344c6ab07b9ebbb2e60eb244b41b",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2019-01-29T11:02:02+01:00",
+      "all": 31,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

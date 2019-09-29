@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "add13d3d4c57615922cf4c1eb8332937f206fc3a",
-      "who": "sormuras@gmail.com",
+      "who": "Christian Stein <sormuras@gmail.com>",
       "when": "2017-10-01T17:06:59+03:00",
       "all": 41,
       "test": 9,
@@ -11,7 +11,7 @@
     },
     {
       "id": "e909f6f1acae468907e09fa23edb90c1143e7fb9",
-      "who": "sormuras@gmail.com",
+      "who": "Christian Stein <sormuras@gmail.com>",
       "when": "2017-10-01T17:06:06+03:00",
       "all": 118,
       "test": 32,
@@ -20,12 +20,39 @@
     },
     {
       "id": "9db92cfb3afa7de4d79c8c0e901327dd4e52e5c0",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-10-01T22:44:26+02:00",
       "all": 17,
       "test": 17,
       "testable": 17,
       "pct": 100.0
+    },
+    {
+      "id": "f39eb6e252526093167fb7de2226c66ec47f70e9",
+      "who": "Sam Brannen <sam@sambrannen.com>",
+      "when": "2017-10-01T17:21:54+02:00",
+      "all": 5,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "28a99b08c97c757869b3d28e05aed3880e0b71f3",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2017-10-01T13:58:54+03:00",
+      "all": 22,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "acdbb6d98f6d071ed839e4b2aa8f264a4b2d6aaf",
+      "who": "Christian Stein <sormuras@gmail.com>",
+      "when": "2017-10-01T08:26:06+03:00",
+      "all": 21,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

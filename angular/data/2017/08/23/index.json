@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "516759b1ff97c55dbf73cf50ee06a359b403aa67",
-      "who": "mlaval@amadeus.com",
+      "who": "Marc Laval <mlaval@amadeus.com>",
       "when": "2017-08-23T12:48:21+02:00",
       "all": 4,
       "test": 4,
@@ -10,8 +10,17 @@
       "pct": 100.0
     },
     {
+      "id": "11b5d1b286270bc6b0b08817b935af0072b1baec",
+      "who": "Marc Laval <mlaval@amadeus.com>",
+      "when": "2017-08-23T11:00:51+02:00",
+      "all": 4,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "fcadeb207918bd042c7d769042ee26b5ce63e2e9",
-      "who": "matias@yearofmoo.com",
+      "who": "Matias Niemel\u00c3\u00a4 <matias@yearofmoo.com>",
       "when": "2017-08-23T15:32:26-07:00",
       "all": 65,
       "test": 41,
@@ -20,7 +29,7 @@
     },
     {
       "id": "0e64261f26f2f8a96e4418ec2fe13b25e012fcbd",
-      "who": "chuckj@google.com",
+      "who": "Chuck Jazdzewski <chuckj@google.com>",
       "when": "2017-08-23T10:22:17-07:00",
       "all": 360,
       "test": 231,
@@ -29,7 +38,7 @@
     },
     {
       "id": "c685cc2f0a1e9a382051eceb4632504972dc95ab",
-      "who": "chuckj@google.com",
+      "who": "Chuck Jazdzewski <chuckj@google.com>",
       "when": "2017-08-23T10:22:17-07:00",
       "all": 360,
       "test": 231,
@@ -38,7 +47,7 @@
     },
     {
       "id": "6970396c01d5f68d8c2b96c753e614a8e2ef5ad4",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2017-08-23T17:10:48-07:00",
       "all": 4946,
       "test": 0,
@@ -47,7 +56,7 @@
     },
     {
       "id": "832876d0a1a339550b6238c769e8f0020ba684c0",
-      "who": "victor@suumit.com",
+      "who": "Victor Berchet <victor@suumit.com>",
       "when": "2017-08-23T17:10:27-07:00",
       "all": 192,
       "test": 10,
@@ -56,7 +65,7 @@
     },
     {
       "id": "506d2e98a475305a89cb8a4ab11d376582d64e60",
-      "who": "tbosch1009@gmail.com",
+      "who": "Tobias Bosch <tbosch1009@gmail.com>",
       "when": "2017-08-23T13:57:37-07:00",
       "all": 728,
       "test": 635,
@@ -64,12 +73,39 @@
       "pct": 87.2
     },
     {
+      "id": "c1a4621c8f0f347eabef1b9ac6709d3208fed522",
+      "who": "Austin McDaniel <amcdaniel2@gmail.com>",
+      "when": "2017-08-23T15:11:17-05:00",
+      "all": 12,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "6815e4fcebc8598107d951ff06f151a5044c4d35",
+      "who": "Mi\u00c5\u00a1ko Hevery <misko@hevery.com>",
+      "when": "2017-08-23T15:01:42-05:00",
+      "all": 23,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "f0c681a6de28ea06addfc26e0018d9d96111872b",
-      "who": "alexeagle@google.com",
+      "who": "Alex Eagle <alexeagle@google.com>",
       "when": "2017-08-23T11:42:35-07:00",
       "all": 66,
       "test": 0,
       "testable": 4,
+      "pct": 0.0
+    },
+    {
+      "id": "3db84c822059e7546a28d74e876253188f4ee1f2",
+      "who": "Mi\u00c5\u00a1ko Hevery <misko@hevery.com>",
+      "when": "2017-08-23T13:04:19-07:00",
+      "all": 7,
+      "test": 0,
+      "testable": 0,
       "pct": 0.0
     }
   ],

@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "7c5659f4cdeedae3fda81b0b213ad763ace92c06",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2019-07-10T21:13:55+02:00",
       "all": 427,
       "test": 125,
@@ -11,12 +11,21 @@
     },
     {
       "id": "157d3fbe91cc9db1f2210cc132c8f32731a57e6c",
-      "who": "mail@marcphilipp.de",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
       "when": "2019-07-10T21:13:55+02:00",
       "all": 427,
       "test": 125,
       "testable": 365,
       "pct": 34.2
+    },
+    {
+      "id": "0ebb3bb1ccf94fc070287cfeebb36883d515ba4b",
+      "who": "Chris Povirk <beigetangerine@gmail.com>",
+      "when": "2019-07-10T02:11:51-04:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

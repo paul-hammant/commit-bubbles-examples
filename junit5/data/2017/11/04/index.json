@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "f1ac69ad2b271df246b98b7cc4b7386c951c0afd",
-      "who": "sam@sambrannen.com",
+      "who": "Sam Brannen <sam@sambrannen.com>",
       "when": "2017-11-04T15:43:36+01:00",
       "all": 7,
       "test": 0,
@@ -10,13 +10,40 @@
       "pct": 0.0
     },
     {
+      "id": "c48490fbd13bd052838a2b8fffcfb68e5510215f",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2017-11-04T11:57:25+03:00",
+      "all": 4,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
+      "id": "00b05021dbed4418e4ec229b972a1dd3d814ff03",
+      "who": "Vikas Kumar <sakiv.sherawat@gmail.com>",
+      "when": "2017-11-04T16:44:06+08:00",
+      "all": 2,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "6955d5a0c9065296e839c7a1d63b81fb35054bcb",
-      "who": "sakiv.sherawat@gmail.com",
+      "who": "Vikas Kumar <sakiv.sherawat@gmail.com>",
       "when": "2017-11-04T15:53:26+08:00",
       "all": 37,
       "test": 29,
       "testable": 37,
       "pct": 78.4
+    },
+    {
+      "id": "bf9838a20973f8fee4d038cf5533605b1722ef8e",
+      "who": "Marc Philipp <mail@marcphilipp.de>",
+      "when": "2017-11-04T00:02:45+03:00",
+      "all": 3,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "JUnit 5 (master branch)",

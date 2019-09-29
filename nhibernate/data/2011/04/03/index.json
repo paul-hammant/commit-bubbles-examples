@@ -2,7 +2,7 @@
   "commits": [
     {
       "id": "5522e39dff713fac84c97e60c8bd29924ebf1455",
-      "who": "fabiomaulo@gmail.com",
+      "who": "Fabio Maulo <fabiomaulo@gmail.com>",
       "when": "2011-04-03T19:15:17+00:00",
       "all": 267,
       "test": 209,
@@ -11,7 +11,7 @@
     },
     {
       "id": "15e2174a9a763027032f5db295ef3ba6bb1d7615",
-      "who": "fabiomaulo@gmail.com",
+      "who": "Fabio Maulo <fabiomaulo@gmail.com>",
       "when": "2011-04-03T17:53:11+00:00",
       "all": 11,
       "test": 0,
@@ -19,8 +19,17 @@
       "pct": 0.0
     },
     {
+      "id": "26dc1ac90fd9e06429f8fe93a683517c6e72a7e5",
+      "who": "Fabio Maulo <fabiomaulo@gmail.com>",
+      "when": "2011-04-03T17:03:44+00:00",
+      "all": 9,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
+    },
+    {
       "id": "8916b262aae4444826bf7d6e67160b292bcbb193",
-      "who": "fabiomaulo@gmail.com",
+      "who": "Fabio Maulo <fabiomaulo@gmail.com>",
       "when": "2011-04-03T17:00:28+00:00",
       "all": 35,
       "test": 31,
@@ -29,7 +38,7 @@
     },
     {
       "id": "4d45fd826014f53c7fe0e7ff1bb42cf3669016f9",
-      "who": "fabiomaulo@gmail.com",
+      "who": "Fabio Maulo <fabiomaulo@gmail.com>",
       "when": "2011-04-03T16:35:43+00:00",
       "all": 30,
       "test": 25,
@@ -38,7 +47,7 @@
     },
     {
       "id": "4105f20e8aca5c5bca18d11351e4319681478f04",
-      "who": "fabiomaulo@gmail.com",
+      "who": "Fabio Maulo <fabiomaulo@gmail.com>",
       "when": "2011-04-03T16:25:16+00:00",
       "all": 186,
       "test": 76,
@@ -47,7 +56,7 @@
     },
     {
       "id": "2522aeda8874a847edbec85b19ada06f305a4d2d",
-      "who": "fabiomaulo@gmail.com",
+      "who": "Fabio Maulo <fabiomaulo@gmail.com>",
       "when": "2011-04-03T14:46:14+00:00",
       "all": 18,
       "test": 11,
@@ -56,7 +65,7 @@
     },
     {
       "id": "78a93cce031061e3717665bb2afb8947e561adec",
-      "who": "fabiomaulo@gmail.com",
+      "who": "Fabio Maulo <fabiomaulo@gmail.com>",
       "when": "2011-04-03T14:03:09+00:00",
       "all": 31,
       "test": 31,
@@ -65,7 +74,7 @@
     },
     {
       "id": "bc5015f944fbc9734c8543a1c3e7bd2310c0a45f",
-      "who": "fabiomaulo@gmail.com",
+      "who": "Fabio Maulo <fabiomaulo@gmail.com>",
       "when": "2011-04-03T13:52:47+00:00",
       "all": 3,
       "test": 3,
@@ -74,7 +83,7 @@
     },
     {
       "id": "d237843f45fe856222fa8a83a22aba3ca7533826",
-      "who": "fabiomaulo@gmail.com",
+      "who": "Fabio Maulo <fabiomaulo@gmail.com>",
       "when": "2011-04-03T13:52:07+00:00",
       "all": 19,
       "test": 7,
@@ -83,7 +92,7 @@
     },
     {
       "id": "45af6fe576ab70d8485c6d42ded382fba0a6786b",
-      "who": "fabiomaulo@gmail.com",
+      "who": "Fabio Maulo <fabiomaulo@gmail.com>",
       "when": "2011-04-03T13:43:54+00:00",
       "all": 6,
       "test": 0,
@@ -92,12 +101,21 @@
     },
     {
       "id": "07e8b3d1d747f215f59695f47b96a6c857d19f58",
-      "who": "fabiomaulo@gmail.com",
+      "who": "Fabio Maulo <fabiomaulo@gmail.com>",
       "when": "2011-04-03T13:29:00+00:00",
       "all": 62,
       "test": 53,
       "testable": 62,
       "pct": 85.5
+    },
+    {
+      "id": "baf3d3a2f36ea377ef27f435d9c91409bc4fa1b4",
+      "who": "Richard Brown <flukefan@googlemail.com>",
+      "when": "2011-04-03T11:20:11+00:00",
+      "all": 14719,
+      "test": 0,
+      "testable": 0,
+      "pct": 0.0
     }
   ],
   "description": "NHibernate (master branch)",
